@@ -64,7 +64,7 @@
       <unit id="tip_pilotProvingGround">
       <segment state="translated">
         <source>The &lt;b&gt;Pilot Proving Ground&lt;/b&gt; provides an opportunity to hone flying skills for new and experienced pilots alike.</source>
-        <target><b>飛行員試煉場</b>為新進與資深飛行員提供了磨練飛行技術的絕佳場所。</target>
+        <target><b>飛行員試驗場</b>為新進與資深飛行員提供磨練飛行技巧的絕佳機會。</target>
       </segment>
     </unit>
       <unit id="tip_repairPriority">
@@ -94,7 +94,7 @@
       <unit id="tip_wotanWeave">
       <segment state="translated">
         <source>The &lt;b&gt;Wotan Weave&lt;/b&gt; is favoured by many pilots to escape from a tricky situation.</source>
-        <target><b>沃坦編織機動</b>（Wotan Weave）是許多飛行員擺脫險境時偏好的飛行戰術。</target>
+        <target><b>沃坦編織機動</b>深受許多飛行員青睞，能助你在陷入困境時成功脫困。</target>
       </segment>
     </unit>
       <unit id="tip_ejection">
