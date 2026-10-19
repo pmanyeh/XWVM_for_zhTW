@@ -4,79 +4,79 @@
       <unit id="Orders.Label">
         <segment state="translated">
           <source>ORDERS</source>
-          <target>ÓRDENES</target>
+          <target>指令</target>
         </segment>
       </unit>
       <unit id="TimeLeft.Label">
         <segment state="translated">
           <source>TIME LEFT</source>
-          <target>TIEMPO RESTANTE</target>
+          <target>剩餘時間</target>
         </segment>
       </unit>
       <unit id="CurrentTarget.Label">
         <segment state="translated">
           <source>CURRENT TARGET</source>
-          <target>OBJETIVO ACTUAL</target>
+          <target>目前目標</target>
         </segment>
       </unit>
       <unit id="DistanceFromTarget.Label">
         <segment state="translated">
           <source>DISTANCE FROM TARGET</source>
-          <target>DISTANCIA AL OBJETIVO</target>
+          <target>目標距離</target>
         </segment>
       </unit>
       <unit id="NoInformationAvailable">
         <segment state="translated">
           <source>No information available.</source>
-          <target>No hay información disponible.</target>
+          <target>無可用資訊。</target>
         </segment>
       </unit>
       <unit id="TacticalDisplayTitle">
         <segment state="translated">
           <source>Tactical Information</source>
-          <target>Información Táctica</target>
+          <target>戰術資訊</target>
         </segment>
       </unit>
       <unit id="System.Laser.Label">
         <segment state="translated">
           <source>LASER</source>
-          <target>LÁSER</target>
+          <target>雷射</target>
         </segment>
       </unit>
       <unit id="System.Ion.Label">
         <segment>
           <source>ION</source>
-          <target>ION</target>
+          <target>離子</target>
         </segment>
       </unit>
       <unit id="System.Warhead.Label">
         <segment state="translated">
           <source>WARHEAD</source>
-          <target>OJIVA</target>
+          <target>彈頭</target>
         </segment>
       </unit>
       <unit id="System.Beam.Label">
         <segment state="translated">
           <source>BEAM</source>
-          <target>HAZ</target>
+          <target>牽引光束</target>
         </segment>
       </unit>    
       <unit id="System.Shield.Label">
         <segment state="translated">
           <source>SHIELD</source>
-          <target>ESCUDO</target>
+          <target>護盾</target>
         </segment>
       </unit>    
       <unit id="System.Hull.Label">
         <segment state="translated">
           <source>HULL</source>
-          <target>CASCO</target>
+          <target>艦體</target>
         </segment>
       </unit>    
       <unit id="System.Offline.Label">
         <segment state="translated">
           <source>OFFLINE ({0}s)</source>
-          <target>INACTIVO ({0}s)</target>
+          <target>離線 ({0}秒)</target>
         </segment>
       </unit>    
   </file>

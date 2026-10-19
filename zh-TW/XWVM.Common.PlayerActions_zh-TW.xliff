@@ -4,25 +4,25 @@
     <unit id="QuitMissionConfirm">
       <segment state="translated">
         <source>Press [[{keyName}]] to [[confirm quitting]] the mission...</source>
-        <target>Pulsa [[{keyName}]] para [[confirmar salir]] de la misión...</target>
+        <target>按下 [[{keyName}]] 以[[確認退出]]任務...</target>
       </segment>
     </unit>
     <unit id="ChangedWeaponFireMode">
       <segment state="translated">
         <source>Fire mode changed to {fireMode:choose(SingleFire|DualFire|FireLinked|Crosslinked):[[Single]] fire|[[Dual]] fire|[[Linked]] fire|[[Cross-linked]] weapons}.</source>
-        <target>Modo de disparo cambiado a {fireMode:choose(SingleFire|DualFire|FireLinked|Crosslinked):disparo [[Individual]]|disparo [[Doble]]|disparo [[Vinculado]]|armas [[Entrelazadas]]}.</target>
+        <target>開火模式切換為 {fireMode:choose(SingleFire|DualFire|FireLinked|Crosslinked):[[單發]]開火|[[雙發]]開火|[[聯動]]開火|武器[[交叉聯動]]}。</target>
       </segment>
     </unit>
     <unit id="LaserCannonsArmed">
       <segment state="translated">
         <source>Laser cannons armed.</source>
-        <target>Cañones láser armados.</target>
+        <target>雷射砲已就緒。</target>
       </segment>
     </unit>
     <unit id="IonCannonsArmed">
       <segment state="translated">
         <source>Ion cannons armed.</source>
-        <target>Cañones de iones armados.</target>
+        <target>離子砲已就緒。</target>
       </segment>
     </unit>
     <unit id="WarheadLaunchersArmed">
@@ -33,205 +33,205 @@
 	  </notes>
       <segment state="translated">
         <source>[[{type:choose(Missile|Torpedo|AdvancedMissile|AdvancedTorpedo|Bomb|HeavyRocket|MagPulse):Missile|Torpedo|Advanced missile|Advanced torpedo|Space bomb|Heavy rocket|Mag pulse}]] launchers armed.</source>
-        <target>Lanzadores de [[{type:choose(Missile|Torpedo|AdvancedMissile|AdvancedTorpedo|Bomb|HeavyRocket|MagPulse):misiles|torpedos|misiles avanzados|torpedos avanzados|bombas espaciales|cohetes pesados|pulso magnético}]] armados.</target>
+        <target>[[{type:choose(Missile|Torpedo|AdvancedMissile|AdvancedTorpedo|Bomb|HeavyRocket|MagPulse):飛彈|魚雷|先進飛彈|先進魚雷|太空炸彈|重型火箭|磁脈衝}]]發射管已就緒。</target>
       </segment>
     </unit>
 	<unit id="CraftNotEquippedWith">
 		<segment state="translated">
 			<source>This craft is not equipped with {system:choose(cannon|shield|beam|hyperdrive|slam|warhead|autoturret):[[Cannons]]|a [[Shield]]|a [[Beam Weapon]] system|a [[Hyperdrive]]|a [[SLAM]] system|a [[Warhead Launcher]]|any [[Autoturret]]}.</source>
-			<target>Esta nave no está equipada con {system:choose(cannon|shield|beam|hyperdrive|slam|warhead|autoturret):[[Cañones]]|[[Escudos]]|un [[Arma de Haz]]|un [[Hipermotor]]|un sistema [[MASA]]|un [[Lanzador de Ojivas]]|ninguna [[Torreta Automática]]}.</target>
+			<target>本機未配備 {system:choose(cannon|shield|beam|hyperdrive|slam|warhead|autoturret):[[艦砲/雷射砲]]|[[護盾]]|[[光束武器]]系統|[[超光速引擎]]|[[超推進器(SLAM)]]系統|[[彈頭發射管]]|任何[[自動砲塔]]}。</target>
 		</segment>
 	</unit>
     <unit id="CannonSystemDamaged">
       <segment state="translated">
         <source>[[Cannons]] system is damaged and inoperative.</source>
-        <target>El sistema de [[Cañones]] está dañado e inoperativo.</target>
+        <target>[[艦砲/雷射砲]]系統受損失效。</target>
       </segment>
     </unit>
     <unit id="ShieldSystemDamaged">
       <segment state="translated">
         <source>[[Deflector shield]] system is damaged and inoperative.</source>
-        <target>El sistema de [[Escudo deflector]] está dañado e inoperativo.</target>
+        <target>[[偏轉護盾]]系統受損失效。</target>
       </segment>
     </unit>
     <unit id="WarheadLauncherSystemDamaged">
       <segment state="translated">
         <source>[[Warhead launcher]] system is damaged and inoperative.</source>
-        <target>El sistema de los [[Lanzadores de ojivas]] está dañado e inoperativo.</target>
+        <target>[[彈頭發射管]]系統受損失效。</target>
       </segment>
     </unit>
     <unit id="HyperdriveDamaged">
       <segment state="translated">
         <source>[[Hyperdrive]] system is damaged and inoperative.</source>
-        <target>El sistema del [[Hipermotor]] está dañado e inoperativo.</target>
+        <target>[[超光速引擎]]系統受損失效。</target>
       </segment>
     </unit>
     <unit id="HyperspaceSequenceAborted">
       <segment state="translated">
         <source>[[Hyperspace]] sequence [[aborted]].</source>
-        <target>La secuencia de entrada al [[Hiperespacio]] ha sido [[abortada]].</target>
+        <target>[[超空間]]跳躍程序[[已中止]]。</target>
       </segment>
     </unit>
     <unit id="AbortProvingGroundsRun">
       <segment state="translated">
         <source>[[Press again]] to [[confirm]] abort of proving grounds run.</source>
-        <target>[[Pulsa otra vez]] para [[confirmar]] salir del recorrido del campo de pruebas.</target>
+        <target>[[再按一次]]以[[確認]]中止試飛場測驗。</target>
       </segment>
     </unit>
     <unit id="ConfirmHyperspaceSequence">
       <segment state="translated">
         <source>[[Press again]] to [[confirm]] hyperspace sequence.</source>
-        <target>[[Pulsa otra vez]] para [[confirmar]] la secuencia de hiperespacio.</target>
+        <target>[[再按一次]]以[[確認]]超空間跳躍程序。</target>
       </segment>
     </unit>
     <unit id="HyperspaceSequenceInitiated">
       <segment state="translated">
         <source>[[Hyperspace]] sequence [[initiated]]. Press again to abort.</source>
-        <target>La secuencia de entrada al [[hiperespacio]] ha [[comenzado]]. Pulsa otra vez para cancelar.</target>
+        <target>[[超空間]]跳躍程序[[已啟動]]。再按一次可中止。</target>
       </segment>
     </unit>
     <unit id="MaintainHyperspaceThrottle">
       <segment state="translated">
         <source>Maintain hyperspace throttle at [[20%]] or less while the jump is calculated.</source>
-        <target>Mantén el acelerador de hiperespacio al [[20%]] o menos mientras se calcula el salto.</target>
+        <target>計算跳躍座標期間，請保持節流閥在 [[20%]] 以下。</target>
       </segment>
     </unit>
     <unit id="WeaponConvergenceModeSetTo">
       <segment state="translated">
         <source>Weapon convergence mode set to {convergenceMode}.</source>
-        <target>Modo de convergencia de armas en {convergenceMode}.</target>
+        <target>武器交會聚焦模式設為 {convergenceMode}。</target>
       </segment>
     </unit>
     <unit id="CannonFirerateSetTo">
       <segment state="translated">
         <source>Cannon firerate set to ×{firerate}.</source>
-        <target>Tasa de disparo de los cañones a ×{firerate}.</target>
+        <target>砲火射速設為 ×{firerate}。</target>
       </segment>
     </unit>
     <unit id="AutoturretsActivation">
       <segment state="translated">
         <source>Autoturrets [[{active:choose(on|off):activated|deactivated}]].</source>
-        <target>Torretas automáticas [[{active:choose(on|off):activadas|desactivadas}]].</target>
+        <target>自動砲塔[[{active:choose(on|off):已啟動|已關閉}]]。</target>
       </segment>
     </unit>    
     <unit id="AutoturretsTargetSetTo">
       <segment state="translated">
         <source>[[Autoturrets]] {target:choose(null):target cleared|set to target [[{}]]}.</source>
-        <target>[[Torretas automáticas]] {target:choose(null):sin objetivo|adquiriendo [[{}]] como objetivo}.</target>
+        <target>[[自動砲塔]] {target:choose(null):已清除目標|鎖定目標為 [[{}]]}。</target>
       </segment>
     </unit>
     <unit id="BeamWeaponActivation">
       <segment state="translated">
         <source>Beam weapon [[{active:choose(on|off):activated|deactivated}]].</source>
-        <target>Arma de haz [[{active:choose(on|off):activa|inactiva}]].</target>
+        <target>光束武器[[{active:choose(on|off):已啟動|已關閉}]]。</target>
       </segment>
     </unit>
 	<unit id="SlamActivation">
 		<segment state="translated">
 			<source>Engine overdrive boosters [[{active:choose(on|off|nopower):engaged|disengaged|cannot be engaged)}]].</source>
-			<target>Impulsores de sobrecarga de motores [[{active:choose(on|off|nopower):activos|inactivos|no pueden activarse)}]].</target>
+			<target>引擎超推進增壓器[[{active:choose(on|off|nopower):已啟動|已關閉|無法啟動)}]]。</target>
 		</segment>
 	</unit>
     <unit id="ElsRechargeModeSetTo">
       <segment state="translated">
         <source>{system:choose(cannon|shield|beam):[[Cannon]] system|[[Shields]]|[[Beam]] weapon} recharge {rechargeMode:choose(0|1|2|3|4):[[fully]] redirected to engines|[[partially]] redirected to engines|at [[maintenance]] level|at [[increased]] rate|at [[maximum]] rate}.</source>
-        <target>Recarga {system:choose(cannon|shield|beam):de los [[Cañones]]|de los [[Escudos]]|del arma de [[Haz]]} {rechargeMode:choose(0|1|2|3|4):[[completamente]] redirigida a los motores|[[parcialmente]] redirigida a los motores|a nivel de [[mantenimiento]]|a velocidad [[incrementada]]|a [[máxima]] velocidad}.</target>
+        <target>{system:choose(cannon|shield|beam):[[艦砲]]系統|[[護盾]]|[[光束]]武器}充能{rechargeMode:choose(0|1|2|3|4):[[完全]]轉移至引擎|[[部分]]轉移至引擎|處於[[維持]]水平|以[[提高]]速率充能|以[[最大]]速率充能}。</target>
       </segment>
     </unit>
     <unit id="ToggledShieldsTo">
       <segment state="translated">
         <source>Shields orientation set to [[{dir:choose(front|rear|balanced):front|rear|balanced}]].</source>
-        <target>Escudos [[{dir:choose(front|rear|balanced):orientados al frente|orientados hacia atrás|equilibrados}]].</target>
+        <target>護盾方向偏轉至[[{dir:choose(front|rear|balanced):前方|後方|前後平衡}]]。</target>
       </segment>
     </unit>
     <unit id="TransferredLaserToShields">
       <segment state="translated">
         <source>Energy transferred to shields.</source>
-        <target>Energía transferida a los escudos.</target>
+        <target>能量已轉移至護盾。</target>
       </segment>
     </unit>
     <unit id="TransferredShieldsToLaser">
       <segment state="translated">
         <source>Energy transferred to lasers.</source>
-        <target>Energía transferida a los láseres.</target>
+        <target>能量已轉移至雷射。</target>
       </segment>
     </unit>
     <unit id="MatchedTargetSpeed">
       <segment state="translated">
         <source>Speed matched to target.</source>
-        <target>Velocidad igualada al blanco.</target>
+        <target>航速已與目標同步。</target>
       </segment>
     </unit>
     <unit id="MatchedTargetSpeedTooFast">
       <segment state="translated">
         <source>Target is too fast to match speed. Setting throttle to maximum.</source>
-        <target>El blanco es demasiado rápido para igualar velocidad. Acelerador al máximo.</target>
+        <target>目標航速過快無法同步。節流閥已推至最大。</target>
       </segment>
     </unit>
     <unit id="ToggledSFoils">
       <segment state="translated">
         <source>S-foils toggled.</source>
-        <target>Posición de alas de ataque cambiada.</target>
+        <target>S翼（機翼）已切換。</target>
       </segment>
     </unit>
 	<unit id="SFoilsStateChanged">
       <segment>
         <source>S-foils {state:choose(Opening|Opened|Closing|Closed):opening|have reached open position|closing|have reached closed position}.</source>
-        <target>Alas de ataque {state:choose(Opening|Opened|Closing|Closed):abriéndose|están ahora completamente abiertas|cerrándose|están ahora completamente cerradas}.</target>
+        <target>S翼{state:choose(Opening|Opened|Closing|Closed):展開中|已完全展開|閉合中|已完全閉合}。</target>
       </segment>
     </unit>
     <unit id="EjectedFromCraft">
       <segment state="translated">
         <source>Ejecting!</source>
-        <target>¡Eyección iniciada!</target>
+        <target>緊急彈射！</target>
       </segment>
     </unit>
     <unit id="SetThrottle">
       <segment state="translated">
         <source>Throttle set to [[{percent}%]].</source>
-        <target>Acelerador al [[{percent}%]].</target>
+        <target>節流閥設為 [[{percent}%]]。</target>
       </segment>
     </unit>
     <unit id="ReinforcementsNotAvailable">
       <segment state="translated">
         <source>[[No reinforcements available]].</source>
-        <target>[[No hay refuerzos disponibles]].</target>
+        <target>[[無可用增援]]。</target>
       </segment>
     </unit>
     <unit id="ReinforcementsAlreadySent">
       <segment state="translated">
         <source>[[Reinforcements already sent, no more available]].</source>
-        <target>Los [[refuerzos ya han sido enviados. No hay más disponibles]].</target>
+        <target>[[增援已派出，無更多可用增援]]。</target>
       </segment>
     </unit>
     <unit id="ConfirmReinforcementRequest">
       <segment state="translated">
         <source>[[Press again]] to [[confirm reinforcement request]].</source>
-        <target>[[Pulsa otra vez]] para [[confirmar petición de refuerzos]].</target>
+        <target>[[再按一次]]以[[確認請求增援]]。</target>
       </segment>
     </unit>
     <unit id="ReinforcementRequestAcknowledged">
       <segment state="translated">
         <source>Request for [[reinforcements]] [[acknowledged]].</source>
-        <target>Petición de [[refuerzos ]] [[recibida]].</target>
+        <target>[[增援]]請求[[已收到]]。</target>
       </segment>
     </unit>
     <unit id="CannotFireWithSFoilsClosed">
       <segment>
         <source>Cannot fire with S-foils closed.</source>
-        <target>No se puede disparar con las alas de ataque cerradas.</target>
+        <target>S翼閉合時無法開火。</target>
       </segment>
     </unit>
     <unit id="EnterHangarRequest">
       <segment>
         <source>Press [[{keyName}]] to request entering the [[hangar]].</source>
-        <target>Pulsa [[{keyName}]] para solicitar entrar al [[hangar]].</target>
+        <target>按下 [[{keyName}]] 以請求進入[[機庫]]。</target>
       </segment>
     </unit>
     <unit id="EnterHangarGranted">
       <segment>
         <source>[[Permission]] to enter hangar [[granted]]. Press [[{keyName}]] to enter hangar.</source>
-        <target>[[Permiso]] para acceder al hangar [[concedido]]. Pulsa [[{keyName}]] para entrar al hangar.</target>
+        <target>[[已獲准]]進入機庫。請按 [[{keyName}]] 進入機庫。</target>
       </segment>
     </unit>
   </file>
