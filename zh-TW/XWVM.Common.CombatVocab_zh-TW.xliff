@@ -5,9 +5,9 @@
 			<notes>
 				<note>As in Unknown Flight group</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>Unknown</source>
-				<target>Desconocid{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>未知</target>
 			</segment>
 		</unit>
 		<!-- This one gets species metadata in case it needs gender or definite article variations -->
@@ -15,15 +15,15 @@
 			<notes>
 				<note>The columns in species metadata are available here as selectors (no need of writing species.ABBR, just ABBR)</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>Unknown</source>
-				<target>Desconocid{GENDER:choose(M|F):o|a}</target>
+				<target>未知</target>
 			</segment>
 		</unit>
 		<unit id="UnknownCargo">
-			<segment>
+			<segment state="translated">
 				<source>Unknown</source>
-				<target>Desconocido</target>
+				<target>未知</target>
 			</segment>
 		</unit>
 		<unit id="CMD_SPD">
@@ -32,16 +32,16 @@
 			</notes>
 			<segment state="translated">
 				<source>SPD</source>
-				<target>VEL</target>
+				<target>速度</target>
 			</segment>
 		</unit>
 		<unit id="CMD_DIS">
 			<notes>
 				<note>As in Distance</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>DIS</source>
-				<target>DIS</target>
+				<target>距離</target>
 			</segment>
 		</unit>
 		<unit id="CMD_SYS">
@@ -50,7 +50,7 @@
 			</notes>
 			<segment state="translated">
 				<source>SYS</source>
-				<target>SIS</target>
+				<target>系統</target>
 			</segment>
 		</unit>
 		<unit id="CMD_HUL">
@@ -59,7 +59,7 @@
 			</notes>
 			<segment state="translated">
 				<source>HUL</source>
-				<target>CAS</target>
+				<target>艦體</target>
 			</segment>
 		</unit>
 		<unit id="CMD_SHD">
@@ -68,16 +68,16 @@
 			</notes>
 			<segment state="translated">
 				<source>SHD</source>
-				<target>ESC</target>
+				<target>護盾</target>
 			</segment>
 		</unit>
 		<unit id="CMD_C_P">
 			<notes>
 				<note>As in Cargo-Passengers</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>C-P:</source>
-				<target>C-P:</target>
+				<target>貨客：</target>
 			</segment>
 		</unit>
 		<unit id="CMD_WAITING">
@@ -86,7 +86,7 @@
 			</notes>
 			<segment state="translated">
 				<source>WAITING</source>
-				<target>ESPERANDO</target>
+				<target>待命中</target>
 			</segment>
 		</unit>
 		<unit id="CMD_CAPTURED">
@@ -95,7 +95,7 @@
 			</notes>
 			<segment state="translated">
 				<source>CAPTURED</source>
-				<target>{GENDER:choose(M|F):CAPTURADO|CAPTURADA}</target>
+				<target>已捕獲</target>
 			</segment>
 		</unit>
 		<unit id="CMD_DISABLED">
@@ -104,7 +104,7 @@
 			</notes>
 			<segment state="translated">
 				<source>DISABLED</source>
-				<target>{GENDER:choose(M|F):INCAPACITADO|INCAPACITADA}</target>
+				<target>已癱瘓</target>
 			</segment>
 		</unit>
 		<unit id="CMD_HULL_DMG">
@@ -114,7 +114,7 @@
 			</notes>
 			<segment state="translated">
 				<source>HULL DMG</source>
-				<target>CASCO DAÑ</target>
+				<target>艦體受損</target>
 			</segment>
 		</unit>
 		<unit id="CMD_SHLDS_DN">
@@ -124,7 +124,7 @@
 			</notes>
 			<segment state="translated">
 				<source>SHLDS DN</source>
-				<target>SIN ESCUDOS</target>
+				<target>護盾失效</target>
 			</segment>
 		</unit>
 		<unit id="CMD_OK">
@@ -133,34 +133,34 @@
 			</notes>
 			<segment state="translated">
 				<source>OK</source>
-				<target>NORMAL</target>
+				<target>正常</target>
 			</segment>
 		</unit>
 		<unit id="CMD_NO_CARGO">
 			<notes>
 				<note>The columns in species metadata are available here as selectors (no need of writing species.ABBR, just ABBR)</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>NO CARGO</source>
-				<target>SIN CARGA</target>
+				<target>無貨物</target>
 			</segment>
 		</unit>
 		<unit id="INST_EJECT">			
 			<notes>
 				<note>First 5 latin characters will be shown in physical cockpits. The entire text will be visible in virtual cockpits.</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>EJECT</source>
-				<target>EYECTAR</target>
+				<target>彈射</target>
 			</segment>
 		</unit>
 		<unit id="INST_SCORE">			
 			<notes>
 				<note>It will be followed like "Score: 12345", as in showing the amounts of points obtained during the mission.</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>Score:</source>
-				<target>Puntuación:</target>
+				<target>得分：</target>
 			</segment>
 		</unit>
 		<unit id="CMD_YOU">			
@@ -170,438 +170,438 @@
 					The word will appear alone in a label, not as part of a sentence.
 				</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>YOU</source>
-				<target>TU NAVE</target>
+				<target>自身</target>
 			</segment>
 		</unit>
 		<unit id="TASK_Attacking">
-			<segment>
+			<segment state="translated">
 				<source>Attacking</source>
-				<target>Atacando</target>
+				<target>攻擊中</target>
 			</segment>
 		</unit>
 		<unit id="TASK_PreparingToAttack">
-			<segment>
+			<segment state="translated">
 				<source>Preparing to attack</source>
-				<target>Preparándose para atacar</target>
+				<target>準備攻擊</target>
 			</segment>
 		</unit>
 		<unit id="TASK_AvoidingCollision">
-			<segment>
+			<segment state="translated">
 				<source>Avoiding Collision</source>
-				<target>Evitando colisión</target>
+				<target>規避碰撞</target>
 			</segment>
 		</unit>
 		<unit id="TASK_AwaitingBoarding">
-			<segment>
+			<segment state="translated">
 				<source>Awaiting Boarding</source>
-				<target>Esperando abordaje</target>
+				<target>等待登艦</target>
 			</segment>
 		</unit>
 		<unit id="TASK_AwaitingOrders">
-			<segment>
+			<segment state="translated">
 				<source>Awaiting Orders</source>
-				<target>Esperando órdenes</target>
+				<target>等候指示</target>
 			</segment>
 		</unit>
 		<unit id="TASK_EvadingTarget">
-			<segment>
+			<segment state="translated">
 				<source>Evading Target</source>
-				<target>Esquivando objetivo</target>
+				<target>迴避目標</target>
 			</segment>
 		</unit>
 		<unit id="TASK_Disabled">
-			<segment>
+			<segment state="translated">
 				<source>Disabled</source>
-				<target>Incapacitado</target>
+				<target>已癱瘓</target>
 			</segment>
 		</unit>
 		<unit id="TASK_Capturing">
-			<segment>
+			<segment state="translated">
 				<source>Capturing</source>
-				<target>Capturando</target>
+				<target>捕獲中</target>
 			</segment>
 		</unit>
 		<unit id="TASK_DeliveringCargo">
-			<segment>
+			<segment state="translated">
 				<source>Delivering Cargo</source>
-				<target>Entregando carga</target>
+				<target>運送貨物</target>
 			</segment>
 		</unit>
 		<unit id="TASK_ExchangingCargo">
-			<segment>
+			<segment state="translated">
 				<source>Exchanging Cargo</source>
-				<target>Intercambiando carga</target>
+				<target>交換貨物</target>
 			</segment>
 		</unit>
 		<unit id="TASK_TakingCargo">
-			<segment>
+			<segment state="translated">
 				<source>Taking Cargo</source>
-				<target>Tomando carga</target>
+				<target>收取貨物</target>
 			</segment>
 		</unit>
 		<unit id="TASK_DestroyingCargo">
-			<segment>
+			<segment state="translated">
 				<source>Destroying Cargo</source>
-				<target>Destruyendo carga</target>
+				<target>摧毀貨物</target>
 			</segment>
 		</unit>
 		<unit id="TASK_Repairing">
-			<segment>
+			<segment state="translated">
 				<source>Repairing</source>
-				<target>Reparando</target>
+				<target>維修中</target>
 			</segment>
 		</unit>
 		<unit id="TASK_PerformingBoardingOperation">
-			<segment>
+			<segment state="translated">
 				<source>Performing Boarding Operation</source>
-				<target>Realizando abordaje</target>
+				<target>執行登艦作業</target>
 			</segment>
 		</unit>
 		<unit id="TASK_ApproachingToBoard">
-			<segment>
+			<segment state="translated">
 				<source>Approaching to Board</source>
-				<target>Aproximándose para abordar</target>
+				<target>接近以登艦</target>
 			</segment>
 		</unit>
 		<unit id="TASK_Docking">
-			<segment>
+			<segment state="translated">
 				<source>Docking</source>
-				<target>Acoplándose</target>
+				<target>對接中</target>
 			</segment>
 		</unit>
 		<unit id="TASK_Undocking">
-			<segment>
+			<segment state="translated">
 				<source>Undocking</source>
-				<target>Desacoplándose</target>
+				<target>脫離對接</target>
 			</segment>
 		</unit>
 		<unit id="TASK_DroppingOff">
-			<segment>
+			<segment state="translated">
 				<source>Dropping Off</source>
-				<target>Soltando</target>
+				<target>投放中</target>
 			</segment>
 		</unit>
 		<unit id="TASK_EnteringHangar">
-			<segment>
+			<segment state="translated">
 				<source>Entering Hangar</source>
-				<target>Entrando al hangar</target>
+				<target>進入機庫</target>
 			</segment>
 		</unit>
 		<unit id="TASK_Escorting">
-			<segment>
+			<segment state="translated">
 				<source>Escorting</source>
-				<target>Escoltando</target>
+				<target>護航中</target>
 			</segment>
 		</unit>
 		<unit id="TASK_FlyingToWaypoint">
-			<segment>
+			<segment state="translated">
 				<source>Flying</source>
-				<target>Volando</target>
+				<target>飛行中</target>
 			</segment>
 		</unit>
 		<unit id="WP_StartPoint">
-			<segment>
+			<segment state="translated">
 				<source>start point</source>
-				<target>punto inicial</target>
+				<target>起始點</target>
 			</segment>
 		</unit>
 		<unit id="WP_Waypoint1">
-			<segment>
+			<segment state="translated">
 				<source>waypoint 1</source>
-				<target>vector 1</target>
+				<target>導航點 1</target>
 			</segment>
 		</unit>
 		<unit id="WP_Waypoint2">
-			<segment>
+			<segment state="translated">
 				<source>waypoint 2</source>
-				<target>vector 2</target>
+				<target>導航點 2</target>
 			</segment>
 		</unit>
 		<unit id="WP_Waypoint3">
-			<segment>
+			<segment state="translated">
 				<source>waypoint 3</source>
-				<target>vector 3</target>
+				<target>導航點 3</target>
 			</segment>
 		</unit>
 		<unit id="WP_Waypoint4">
-			<segment>
+			<segment state="translated">
 				<source>waypoint 4</source>
-				<target>vector 4</target>
+				<target>導航點 4</target>
 			</segment>
 		</unit>
 		<unit id="WP_Waypoint5">
-			<segment>
+			<segment state="translated">
 				<source>waypoint 5</source>
-				<target>vector 5</target>
+				<target>導航點 5</target>
 			</segment>
 		</unit>
 		<unit id="WP_Waypoint6">
-			<segment>
+			<segment state="translated">
 				<source>waypoint 6</source>
-				<target>vector 6</target>
+				<target>導航點 6</target>
 			</segment>
 		</unit>
 		<unit id="WP_Waypoint7">
-			<segment>
+			<segment state="translated">
 				<source>waypoint 7</source>
-				<target>vector 7</target>
+				<target>導航點 7</target>
 			</segment>
 		</unit>
 		<unit id="WP_Waypoint8">
-			<segment>
+			<segment state="translated">
 				<source>waypoint 8</source>
-				<target>vector 8</target>
+				<target>導航點 8</target>
 			</segment>
 		</unit>
 		<unit id="WP_Rendezvous">
-			<segment>
+			<segment state="translated">
 				<source>rendezvous point</source>
-				<target>punto de encuentro</target>
+				<target>會合點</target>
 			</segment>
 		</unit>
 		<unit id="WP_Hyperspace">
-			<segment>
+			<segment state="translated">
 				<source>hyperspace point</source>
-				<target>punto de salto</target>
+				<target>超空間跳躍點</target>
 			</segment>
 		</unit>
 		<unit id="WP_Unknown">
-			<segment>
+			<segment state="translated">
 				<source>unknown waypoint</source>
-				<target>punto desconocido</target>
+				<target>未知導航點</target>
 			</segment>
 		</unit>
 		<unit id="TASK_Following">
-			<segment>
+			<segment state="translated">
 				<source>Following</source>
-				<target>Siguiendo</target>
+				<target>跟隨中</target>
 			</segment>
 		</unit>
 		<unit id="TASK_HoldSteady">
-			<segment>
+			<segment state="translated">
 				<source>Holding Steady</source>
-				<target>Permaneciendo inmóvil</target>
+				<target>保持穩定</target>
 			</segment>
 		</unit>
 		<unit id="TASK_HyperIn">
-			<segment>
+			<segment state="translated">
 				<source>Coming Out of Hyperspace</source>
-				<target>Saliendo del hiperespacio</target>
+				<target>自超空間跳入</target>
 			</segment>
 		</unit>
 		<unit id="TASK_HyperOut">
-			<segment>
+			<segment state="translated">
 				<source>Entering Hyperspace</source>
-				<target>Entrando al hiperespacio</target>
+				<target>進入超空間</target>
 			</segment>
 		</unit>
 		<unit id="TASK_FlyingToHyperspacePoint">
-			<segment>
+			<segment state="translated">
 				<source>Flying to Hyperspace Point</source>
-				<target>Volando al punto de salto</target>
+				<target>飛往超空間跳躍點</target>
 			</segment>
 		</unit>
 		<unit id="TASK_LaunchingFromHangar">
-			<segment>
+			<segment state="translated">
 				<source>Launching from hangar</source>
-				<target>Despegando del hangar</target>
+				<target>自機庫出擊</target>
 			</segment>
 		</unit>
 		<unit id="TASK_DefendingPosition">
-			<segment>
+			<segment state="translated">
 				<source>Defending position</source>
-				<target>Defendiendo posición</target>
+				<target>防守陣位</target>
 			</segment>
 		</unit>
 		<unit id="TASK_PatrolWaypoints">
-			<segment>
+			<segment state="translated">
 				<source>Patrolling for Enemies</source>
-				<target>En busca de enemgios</target>
+				<target>巡邏搜尋敵機</target>
 			</segment>
 		</unit>
 		<unit id="TASK_ClosingIn">
-			<segment>
+			<segment state="translated">
 				<source>Closing In</source>
-				<target>Aproximándose</target>
+				<target>逼近中</target>
 			</segment>
 		</unit>
 		<unit id="TASK_Waiting">
-			<segment>
+			<segment state="translated">
 				<source>Waiting</source>
-				<target>Esperando</target>
+				<target>等候中</target>
 			</segment>
 		</unit>
 		<unit id="TASK_Unknown">
-			<segment>
+			<segment state="translated">
 				<source>???</source>
 				<target>???</target>
 			</segment>
 		</unit>
 		<unit id="TASK_HomingIn">
-			<segment>
+			<segment state="translated">
 				<source>Homing In</source>
-				<target>Rastreando</target>
+				<target>追蹤鎖定中</target>
 			</segment>
 		</unit>
 		<unit id="GOALS_MissionStatus">
 			<notes>
 				status = Unresolved, Complete, Failed
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>Mission {status}</source>
-				<target>Misión {status:choose(Unresolved|Complete|Failed):En Progreso|Completada|Fracasada}</target>
+				<target>任務{status:choose(Unresolved|Complete|Failed):進行中|已完成|已失敗}</target>
 			</segment>
 		</unit>
 		<unit id="GOALS_PrimaryIncompleteHeader">
-			<segment>
+			<segment state="translated">
 				<source>Primary Goals Incomplete</source>
-				<target>Objetivos Primarios Sin Completar</target>
+				<target>主要目標未完成</target>
 			</segment>
 		</unit>
 		<unit id="GOALS_SecondaryIncompleteHeader">
-			<segment>
+			<segment state="translated">
 				<source>Secondary Goals Incomplete</source>
-				<target>Objetivos Secundarios Sin Completar</target>
+				<target>次要目標未完成</target>
 			</segment>
 		</unit>
 		<unit id="GOALS_BonusIncompleteHeader">
-			<segment>
+			<segment state="translated">
 				<source>Bonus Goals Incomplete</source>
-				<target>Objetivos Extra Sin Completar</target>
+				<target>獎勵目標未完成</target>
 			</segment>
 		</unit>
 		<unit id="GOALS_PrimaryFailedHeader">
-			<segment>
+			<segment state="translated">
 				<source>Primary Goals Failed</source>
-				<target>Objetivos Primarios Fallados</target>
+				<target>主要目標失敗</target>
 			</segment>
 		</unit>
 		<unit id="GOALS_SecondaryFailedHeader">
-			<segment>
+			<segment state="translated">
 				<source>Secondary Goals Failed</source>
-				<target>Objetivos Secundarios Fallados</target>
+				<target>次要目標失敗</target>
 			</segment>
 		</unit>
 		<unit id="GOALS_BonusFailedHeader">
-			<segment>
+			<segment state="translated">
 				<source>Bonus Goals Failed</source>
-				<target>Objetivos Extra Fallados</target>
+				<target>獎勵目標失敗</target>
 			</segment>
 		</unit>
 		<unit id="GOALS_PrimaryCompletedHeader">
-			<segment>
+			<segment state="translated">
 				<source>Primary Goals Completed</source>
-				<target>Objetivos Primarios Completados</target>
+				<target>主要目標已完成</target>
 			</segment>
 		</unit>
 		<unit id="GOALS_SecondaryCompletedHeader">
-			<segment>
+			<segment state="translated">
 				<source>Secondary Goals Completed</source>
-				<target>Objetivos Secundarios Completados</target>
+				<target>次要目標已完成</target>
 			</segment>
 		</unit>
 		<unit id="GOALS_BonusCompletedHeader">
-			<segment>
+			<segment state="translated">
 				<source>Bonus Goals Completed</source>
-				<target>Objetivos Extra Completados</target>
+				<target>獎勵目標已完成</target>
 			</segment>
 		</unit>
 		<unit id="MFD_PageOfPages">
-			<segment>
+			<segment state="translated">
 				<source>Page {pIndex} / {pCount}</source>
-				<target>Página {pIndex} / {pCount}</target>
+				<target>第 {pIndex} / {pCount} 頁</target>
 			</segment>
 		</unit>
 		<unit id="MESSAGELOG_Header">
-			<segment>
+			<segment state="translated">
 				<source>Message Log</source>
-				<target>Historial de Mensajes</target>
+				<target>通訊記錄</target>
 			</segment>
 		</unit>
 		<unit id="MESSAGELOG_DisplayingMessages">
-			<segment>
+			<segment state="translated">
 				<source>Displaying messages {from} - {to} of {total}</source>
-				<target>Mostrando mensajes {from} - {to} de {total}</target>
+				<target>顯示訊息 {from} - {to} / 共 {total} 則</target>
 			</segment>
 		</unit>
 		<unit id="MESSAGELOG_NoMessages">
-			<segment>
+			<segment state="translated">
 				<source>No messages received.</source>
-				<target>No se han recibido mensajes.</target>
+				<target>未收到任何訊息。</target>
 			</segment>
 		</unit>		
 		<unit id="DAMAGEASSESSMENT_Header">
-			<segment>
+			<segment state="translated">
 				<source>Damage Assessment</source>
-				<target>Evaluación de Daños</target>
+				<target>受損評估</target>
 			</segment>
 		</unit>
 		<unit id="SYSTEM_AutoEjectionSystem">
-			<segment>
+			<segment state="translated">
 				<source>Auto-Ejection system</source>
-				<target>Sistema de Eyección Automática</target>
+				<target>自動彈射系統</target>
 			</segment>
 		</unit>		
 		<unit id="SYSTEM_Cannons">
-			<segment>
+			<segment state="translated">
 				<source>Cannons</source>
-				<target>Cañones</target>
+				<target>艦砲/雷射砲</target>
 			</segment>
 		</unit>		
 		<unit id="SYSTEM_EnginePower">
-			<segment>
+			<segment state="translated">
 				<source>Engine power</source>
-				<target>Energía de motores</target>
+				<target>引擎動力</target>
 			</segment>
 		</unit>		
 		<unit id="SYSTEM_FlightControlSystem">
-			<segment>
+			<segment state="translated">
 				<source>Flight control system</source>
-				<target>Sistema de control de vuelo</target>
+				<target>飛行控制系統</target>
 			</segment>
 		</unit>		
 		<unit id="SYSTEM_Hyperdrive">
-			<segment>
+			<segment state="translated">
 				<source>Hyperdrive</source>
-				<target>Hipermotor</target>
+				<target>超光速引擎</target>
 			</segment>
 		</unit>		
 		<unit id="SYSTEM_MissileLaunchers">
-			<segment>
+			<segment state="translated">
 				<source>Warhead launchers</source>
-				<target>Lanzadores de ojivas</target>
+				<target>彈頭發射管</target>
 			</segment>
 		</unit>		
 		<unit id="SYSTEM_Shields">
-			<segment>
+			<segment state="translated">
 				<source>Shields</source>
-				<target>Escudos</target>
+				<target>護盾</target>
 			</segment>
 		</unit>		
 		<unit id="SYSTEM_TargetingSystem">
-			<segment>
+			<segment state="translated">
 				<source>Targeting system</source>
-				<target>Sistema de adquisición de blancos</target>
+				<target>瞄準系統</target>
 			</segment>
 		</unit>		
 		<unit id="SYSTEM_Beam">
-			<segment>
+			<segment state="translated">
 				<source>Beam weapon</source>
-				<target>Arma de haz</target>
+				<target>光束武器</target>
 			</segment>
 		</unit>		
 		<unit id="SYSTEM_Communications">
-			<segment>
+			<segment state="translated">
 				<source>Comms system</source>
-				<target>Sistema de comunicaciones</target>
+				<target>通訊系統</target>
 			</segment>
 		</unit>				
 		<unit id="SYSTEM_Misc">
-			<segment>
+			<segment state="translated">
 				<source>Miscellaneous system</source>
-				<target>Sistema misceláneo</target>
+				<target>其他輔助系統</target>
 			</segment>
 		</unit>		
 		<unit id="SCOPE_F">
@@ -610,9 +610,9 @@
 				F as in Fore. One letter that will appear on the virtual cockpits on the Fore Radar Scope.
 				</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>F</source>
-				<target>F</target>
+				<target>前</target>
 			</segment>
 		</unit>		
 		<unit id="SCOPE_R">
@@ -621,9 +621,9 @@
 				R as in Rear. One letter that will appear on the virtual cockpits on the Rear Radar Scope.
 				</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>R</source>
-				<target>T</target>
+				<target>後</target>
 			</segment>
 		</unit>		
 		<unit id="MAP_You">
@@ -632,15 +632,15 @@
 				YOU as in the player ship in the map. Nominative form, an not part of a sentence. It should be a single short expression.
 				</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>YOU</source>
-				<target>TÚ</target>
+				<target>自身</target>
 			</segment>
 		</unit>		
 		<unit id="BRIEFING_NoneAvailable">			
-			<segment>
+			<segment state="translated">
 				<source>No briefing available.</source>
-				<target>No hay información táctica de la misión disponible.</target>
+				<target>無可用任務簡報。</target>
 			</segment>
 		</unit>		
 		<unit id="PPG_LEVEL">
@@ -649,9 +649,9 @@
 				The level of the Pilot Proving Grounds at which the player is currently flying.
 				</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>LEVEL {level}</source>
-				<target>NIVEL {level}</target>
+				<target>關卡 {level}</target>
 			</segment>
 		</unit>		
 		<unit id="PPG_REMAINING">
@@ -660,9 +660,9 @@
 				As in remaining number of PPG gates yet to be crossed by the player. The number will appear to the right of this label.
 				</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>REMAINING:</source>
-				<target>RESTANTES:</target>
+				<target>剩餘：</target>
 			</segment>
 		</unit>		
 		<unit id="PPG_MISSED">
@@ -671,9 +671,9 @@
 				As in number of PPG gates wrongfully skipped by the player. The number will appear to the right of this label.
 				</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>MISSED:</source>
-				<target>OMITIDAS:</target>
+				<target>失誤：</target>
 			</segment>
 		</unit>		
 		<unit id="PPG_PASSED">
@@ -682,9 +682,9 @@
 				As in number of PPG gates successfully crossed by the player. The number will appear to the right of this label.
 				</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>PASSED:</source>
-				<target>CRUZADAS:</target>
+				<target>通過：</target>
 			</segment>
 		</unit>		
 		<unit id="PPG_TARGETS">
@@ -693,9 +693,9 @@
 				As in number of PPG shooting targets that the player has succesfully shot down. The number will appear to the right of this label.
 				</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>TARGETS:</source>
-				<target>OBJETIVOS:</target>
+				<target>目標：</target>
 			</segment>
 		</unit>		
 		<unit id="PPG_SCORE">
@@ -704,9 +704,9 @@
 				As in number of points scored during this PPG run. The number will appear to the right of this label.
 				</note>
 			</notes>
-			<segment>
+			<segment state="translated">
 				<source>SCORE:</source>
-				<target>PUNTOS:</target>
+				<target>得分：</target>
 			</segment>
 		</unit>		
 	</file>
