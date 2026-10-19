@@ -4,7 +4,7 @@
     <unit id="Credits.Block.0.Line.0">
       <segment>
         <source>Design and Project Management</source>
-        <target>Diseño y Gestión de Proyecto</target>
+        <target>設計與專案管理</target>
       </segment>
     </unit>
     <unit id="Credits.Block.0.Line.1">
@@ -16,7 +16,7 @@
     <unit id="Credits.Block.1.Line.0">
       <segment>
         <source>3D Engine Programming</source>
-        <target>Programación del Motor 3D</target>
+        <target>3D 引擎程式設計</target>
       </segment>
     </unit>
     <unit id="Credits.Block.1.Line.1">
@@ -28,7 +28,7 @@
     <unit id="Credits.Block.2.Line.0">
       <segment>
         <source>Cinematic Engine Programming</source>
-        <target>Programación del Motor Cinematográfico</target>
+        <target>過場動畫引擎程式設計</target>
       </segment>
     </unit>
     <unit id="Credits.Block.2.Line.1">
@@ -40,7 +40,7 @@
     <unit id="Credits.Block.3.Line.0">
       <segment>
         <source>Mission AI Programming</source>
-        <target>Programación del Motor de Misiones/Inteligencia Artificial</target>
+        <target>任務與人工智慧程式設計</target>
       </segment>
     </unit>
     <unit id="Credits.Block.3.Line.1">
@@ -52,7 +52,7 @@
     <unit id="Credits.Block.4.Line.0">
       <segment>
         <source>Background Artwork</source>
-        <target>Ilustraciones de Fondos</target>
+        <target>背景美術設計</target>
       </segment>
     </unit>
     <unit id="Credits.Block.4.Line.1">
@@ -64,7 +64,7 @@
     <unit id="Credits.Block.5.Line.0">
       <segment>
         <source>3D Animation and Rendering</source>
-        <target>Animación y Renderizado en 3D</target>
+        <target>3D 動畫與彩現</target>
       </segment>
     </unit>
     <unit id="Credits.Block.5.Line.1">
@@ -76,7 +76,7 @@
     <unit id="Credits.Block.6.Line.0">
       <segment>
         <source>3D Flight Engine Models</source>
-        <target>Modelos del Motor de Vuelo en 3D</target>
+        <target>3D 飛行引擎模型</target>
       </segment>
     </unit>
     <unit id="Credits.Block.6.Line.1">
@@ -88,7 +88,7 @@
     <unit id="Credits.Block.7.Line.0">
       <segment>
         <source>Additional 3D Models</source>
-        <target>Modelos 3D Adicionales</target>
+        <target>附加 3D 模型</target>
       </segment>
     </unit>
     <unit id="Credits.Block.7.Line.1">
@@ -100,7 +100,7 @@
     <unit id="Credits.Block.8.Line.0">
       <segment>
         <source>Mission and Story Design</source>
-        <target>Diseño de Misiones e Historia</target>
+        <target>任務與故事設計</target>
       </segment>
     </unit>
     <unit id="Credits.Block.8.Line.1">
@@ -130,7 +130,7 @@
     <unit id="Credits.Block.9.Line.0">
       <segment>
         <source>Theme Music</source>
-        <target>Música de Tema Principal</target>
+        <target>主題音樂</target>
       </segment>
     </unit>
     <unit id="Credits.Block.9.Line.1">
@@ -142,7 +142,7 @@
     <unit id="Credits.Block.10.Line.0">
       <segment>
         <source>Additional Music and Orchestration</source>
-        <target>Música Adicional y Arreglos Orquestales</target>
+        <target>附加音樂與管弦樂編曲</target>
       </segment>
     </unit>
     <unit id="Credits.Block.10.Line.1">
@@ -160,7 +160,7 @@
     <unit id="Credits.Block.11.Line.0">
       <segment>
         <source>Sound Effects</source>
-        <target>Efectos de Sonido</target>
+        <target>音效設計</target>
       </segment>
     </unit>
     <unit id="Credits.Block.11.Line.1">
@@ -178,7 +178,7 @@
     <unit id="Credits.Block.12.Line.0">
       <segment>
         <source>Dialog Editing</source>
-        <target>Edición de Diálogo</target>
+        <target>對話剪輯</target>
       </segment>
     </unit>
     <unit id="Credits.Block.12.Line.1">
@@ -190,7 +190,7 @@
     <unit id="Credits.Block.13.Line.0">
       <segment>
         <source>CD Voice Production</source>
-        <target>Producción de Voz CD</target>
+        <target>光碟版語音製作</target>
       </segment>
     </unit>
     <unit id="Credits.Block.13.Line.1">
@@ -202,31 +202,31 @@
     <unit id="Credits.Block.14.Line.0">
       <segment>
         <source>CD Voice Actors</source>
-        <target>Actores de Voz del CD</target>
+        <target>光碟版配音演員</target>
       </segment>
     </unit>
     <unit id="Credits.Block.14.Line.1">
       <segment>
         <source>Clive Revill as Dodonna</source>
-        <target>Clive Revill como Dodonna</target>
+        <target>Clive Revill 飾演 達東納將軍 (Dodonna)</target>
       </segment>
     </unit>
     <unit id="Credits.Block.14.Line.2">
       <segment>
         <source>Erik Bauersfeld as Ackbar</source>
-        <target>Erik Bauersfeld como Ackbar</target>
+        <target>Erik Bauersfeld 飾演 亞克巴上將 (Ackbar)</target>
       </segment>
     </unit>
     <unit id="Credits.Block.14.Line.3">
       <segment>
         <source>Nick Jamison as Moff Tarkin</source>
-        <target>Nick Jamison como Moff Tarkin</target>
+        <target>Nick Jamison 飾演 塔金總督 (Moff Tarkin)</target>
       </segment>
     </unit>
     <unit id="Credits.Block.15.Line.0">
       <segment>
         <source>iMUSE(tm) Electronic Music System</source>
-        <target>Sistema de Música Electrónica iMUSE(tm)</target>
+        <target>iMUSE™ 電子音樂系統</target>
       </segment>
     </unit>
     <unit id="Credits.Block.15.Line.1">
@@ -238,7 +238,7 @@
     <unit id="Credits.Block.16.Line.0">
       <segment>
         <source>Producers</source>
-        <target>Productores</target>
+        <target>製作人</target>
       </segment>
     </unit>
     <unit id="Credits.Block.16.Line.1">
@@ -250,7 +250,7 @@
     <unit id="Credits.Block.17.Line.0">
       <segment>
         <source>CD Producer</source>
-        <target>Productor del CD</target>
+        <target>光碟版製作人</target>
       </segment>
     </unit>
     <unit id="Credits.Block.17.Line.1">
@@ -262,7 +262,7 @@
     <unit id="Credits.Block.18.Line.0">
       <segment>
         <source>Lead Testers</source>
-        <target>Directores de Pruebas</target>
+        <target>首席測試員</target>
       </segment>
     </unit>
     <unit id="Credits.Block.18.Line.1">
@@ -274,7 +274,7 @@
     <unit id="Credits.Block.19.Line.0">
       <segment>
         <source>LucasArts QA Supervisor</source>
-        <target>Supervisor de Calidad de LucasArts</target>
+        <target>LucasArts 品管主管</target>
       </segment>
     </unit>
     <unit id="Credits.Block.19.Line.1">
@@ -286,7 +286,7 @@
     <unit id="Credits.Block.20.Line.0">
       <segment>
         <source>Compatibility Testing</source>
-        <target>Pruebas de Compatibilidad</target>
+        <target>相容性測試</target>
       </segment>
     </unit>
     <unit id="Credits.Block.20.Line.1">
@@ -298,7 +298,7 @@
     <unit id="Credits.Block.21.Line.0">
       <segment>
         <source>Testers</source>
-        <target>Pruebas</target>
+        <target>測試員</target>
       </segment>
     </unit>
     <unit id="Credits.Block.21.Line.1">
@@ -322,7 +322,7 @@
     <unit id="Credits.Block.22.Line.0">
       <segment>
         <source>Invaluable Support</source>
-        <target>Apoyo Inestimable</target>
+        <target>特別協助</target>
       </segment>
     </unit>
     <unit id="Credits.Block.22.Line.1">
@@ -346,13 +346,13 @@
     <unit id="Credits.Block.23.Line.0">
       <segment>
         <source>Special Thanks to George Lucas</source>
-        <target>Agradecimientos Especiales a George Lucas</target>
+        <target>特別鳴謝 喬治·盧卡斯 (George Lucas)</target>
       </segment>
     </unit>
     <unit id="Credits.XWVM.0.Line.0">
       <segment>
         <source>XWVM Programming</source>
-        <target>XWVM - Programación</target>
+        <target>XWVM 程式設計</target>
       </segment>
     </unit>
     <unit id="Credits.XWVM.0.Line.1">
@@ -376,7 +376,7 @@
     <unit id="Credits.XWVM.1.Line.0">
       <segment>
         <source>XWVM Art and Music</source>
-        <target>XWVM - Arte y Música</target>
+        <target>XWVM 美術與音樂</target>
       </segment>
     </unit>
     <unit id="Credits.XWVM.1.Line.1">
@@ -400,7 +400,7 @@
     <unit id="Credits.XWVM.2.Line.0">
       <segment>
         <source>XWVM Researchers and Testers</source>
-        <target>XWVM - Investigadores y Pruebas</target>
+        <target>XWVM 研究與測試人員</target>
       </segment>
     </unit>
     <unit id="Credits.XWVM.2.Line.1">
@@ -424,25 +424,25 @@
 	<unit id="Credits.XWVM.3.Line.0">
       <segment>
         <source>XWVM Italian Translation</source>
-        <target>XWVM - Traducción al Italiano</target>
+        <target>XWVM 義大利語翻譯</target>
       </segment>
     </unit>
     <unit id="Credits.XWVM.3.Line.1">
       <segment>
         <source>Translation: Emanuele Granatello</source>
-        <target>Traducción: Emanuele Granatello</target>
+        <target>翻譯：Emanuele Granatello</target>
       </segment>
     </unit>
     <unit id="Credits.XWVM.3.Line.2">
       <segment>
         <source>Proofreading: Fiorenzo Delle Rupi</source>
-        <target>Revisión: Fiorenzo Delle Rupi</target>
+        <target>校對：Fiorenzo Delle Rupi</target>
       </segment>
     </unit>
 	<unit id="Credits.XWVM.4.Line.0">
       <segment>
         <source>XWVM German Additional Translation</source>
-        <target>XWVM - Traducción Adicional al Alemán</target>
+        <target>XWVM 德語追加翻譯</target>
       </segment>
     </unit>
     <unit id="Credits.XWVM.4.Line.1">
@@ -454,19 +454,19 @@
 	<unit id="Credits.XWVM.5.Line.0">
       <segment>
         <source>XWVM Spanish Translation</source>
-        <target>XWVM - Traducción al Castellano</target>
+        <target>XWVM 西班牙語翻譯</target>
       </segment>
     </unit>
     <unit id="Credits.XWVM.5.Line.1">
       <segment>
         <source>Translation: Azrapse</source>
-        <target>Traducción: Azrapse</target>
+        <target>翻譯：Azrapse</target>
       </segment>
     </unit>
     <unit id="Credits.XWVM.5.Line.2">
       <segment>
         <source>Proofreading: Alkaryn Varyatar</source>
-        <target>Revisión: Alkaryn Varyatar</target>
+        <target>校對：Alkaryn Varyatar</target>
       </segment>
     </unit>
   </file>

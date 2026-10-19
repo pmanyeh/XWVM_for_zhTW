@@ -6,15 +6,15 @@
         <source>It is a time of Civil War. Using fear and intimidation, the Empire seeks to impose a New Order on the galaxy.  Only the Rebel Alliance stands in the way of their evil plans. 
  Not yet willing to confront the Empire directly, the Rebels are marshalling their forces in secrecy.  Even now a group of their prized Calamari Cruisers is being intercepted by a squadron of Imperial Star Destroyers. 
  The Rebel Fleet is outnumbered but, they have a surprise... the X-Wing Starfighter! </source>
-        <target>Es una época de Guerra Civil. Mediante el miedo y la intimidación, el Imperio pretende imponer un Nuevo Orden en la galaxia.  Sólo la Alianza Rebelde se interpone en el camino de sus malvados planes. 
- Aún sin estar dispuestos a enfrentarse directamente al Imperio, los rebeldes están reuniendo sus fuerzas en secreto.  En estos mismos momentos, un grupo de sus preciados Cruceros Calamari está siendo interceptado por una escuadrilla de Destructores Estelares Imperiales. 
- La flota rebelde está en inferioridad numérica, pero tiene una sorpresa... ¡el caza estelar Ala-X! </target>
+        <target>這是一個內戰紛起的時代。帝國企圖藉由恐懼與威嚇，將「新秩序」強加於整個銀河系。唯有反抗軍同盟挺身而出，阻擋其邪惡野心。
+反抗軍尚未準備好與帝國正面交鋒，正於暗中悄然集結力量。此時此刻，一批極其珍貴的蒙卡拉馬里巡洋艦正遭到一支帝國滅星艦中隊的攔截。
+反抗軍艦隊在數量上處於絕對劣勢，但他們擁有一張王牌……那就是 X翼星際戰機！</target>
       </segment>
     </unit>
 	<unit id="Intro.ALongTimeAgoLine">
 		<segment>
 			<source>A long time ago\nin a galaxy far, far away....</source>
-			<target>Hace mucho tiempo\nen una galaxia muy, muy lejana...</target>
+			<target>很久以前，\n在一個遙遠的銀河系……</target>
 		</segment>
 	</unit>
   </file>
