@@ -4,67 +4,67 @@
       <unit id="MainMenu.Label.StartGame">
         <segment >
           <source>Start Game</source>
-          <target>Iniciar Juego</target>
+          <target>開始遊戲</target>
         </segment>
       </unit>
       <unit id="MainMenu.Label.AddGame">
         <segment >
           <source>Add Game</source>
-          <target>Añadir Juego</target>
+          <target>新增遊戲</target>
         </segment>
       </unit>
       <unit id="MainMenu.Label.RemoveGame">
         <segment >
           <source>Remove Game</source>
-          <target>Eliminar Juego</target>
+          <target>移除遊戲</target>
         </segment>
       </unit>
       <unit id="MainMenu.Label.GetXwing">
         <segment >
           <source>Game Content</source>
-          <target>Contenido del Juego</target>
+          <target>遊戲內容</target>
         </segment>
       </unit>
       <unit id="MainMenu.Label.Settings">
         <segment >
           <source>Settings</source>
-          <target>Ajustes</target>
+          <target>設定</target>
         </segment>
       </unit>
       <unit id="MainMenu.Label.Exit">
         <segment >
           <source>Exit</source>
-          <target>Salir</target>
+          <target>離開</target>
         </segment>
       </unit>
       <unit id="Library.Label.SelectedGame">
         <segment >
           <source>Selected Game:</source>
-          <target>Juego Elegido:</target>
+          <target>已選遊戲：</target>
         </segment>
       </unit>
       <unit id="Library.Label.Library">
         <segment >
           <source>Library:</source>
-          <target>Biblioteca:</target>
+          <target>遊戲庫：</target>
         </segment>
       </unit>
       <unit id="Library.Value.LibraryCount">
         <segment >
           <source>{gameCount:plural:1 game|{} games} installed</source>
-          <target>{gameCount:plural:1 juego|{} juegos} instalados</target>
+          <target>{gameCount:plural:1 款遊戲|{} 款遊戲}已安裝</target>
         </segment>
       </unit>
       <unit id="Library.Value.NoGameSelected">
         <segment >
           <source>None</source>
-          <target>Ninguno</target>
+          <target>無</target>
         </segment>
       </unit>
       <unit id="Library.Value.SelectedGame">
         <segment >
           <source>{selectedGame:{selectedGame}|None}</source>
-          <target>{selectedGame:{selectedGame}|Ninguno}</target>
+          <target>{selectedGame:{selectedGame}|無}</target>
         </segment>
       </unit>
       <unit id="Library.Empty">
@@ -76,25 +76,25 @@ To get started, use &lt;b&gt;Add Game&lt;/b&gt; to locate games to play in XWVM.
 Once added, your games will appear in the Game Library here.
 
 Multiple variants of the same game can be added (e.g. X-Wing 1993 and X-Wing 1994 GoG edition can both be present in the library).</source>
-          <target>&lt;b&gt;¡Te damos la bienvenida a XWVM!&lt;/b&gt;
+          <target>&lt;b&gt;歡迎使用 XWVM！&lt;/b&gt;
 
-Para comenzar, utiliza &lt;b&gt;Añadir Juego&lt;/b&gt; para localizar juegos a los que jugar en XWVM.
+請點擊&lt;b&gt;新增遊戲&lt;/b&gt;來搜尋並新增欲在 XWVM 中遊玩的遊戲。
 
-Una vez añadidos, tus juegos aparecerán aquí en la Biblioteca de Juegos.
+新增完成後，遊戲將會顯示於此處的遊戲庫中。
 
-Se pueden añadir múltiples variantes del mismo juego (por ejemplo, se puede añadir tanto X-Wing 1993 como X-Wing 1994 edición GoG a la biblioteca y ambos estarán presentes).</target>
+同一款遊戲可新增多種版本（例如：遊戲庫中可同時保留 X-Wing 1993 與 X-Wing 1994 GOG 版）。</target>
         </segment>
       </unit>
       <unit id="GameContent.Title.Label">
         <segment >
           <source>Manage Game Content</source>
-          <target>Gestionar Contenido del Juego</target>
+          <target>管理遊戲內容</target>
         </segment>
       </unit>
       <unit id="GameContent.OriginalGame.Header">
         <segment >
           <source>Base Game Content</source>
-          <target>Contenido del Juego Base</target>
+          <target>基礎遊戲內容</target>
         </segment>
       </unit>
       <unit id="GameContent.OriginalGame.Label">
@@ -102,45 +102,45 @@ Se pueden añadir múltiples variantes del mismo juego (por ejemplo, se puede a�
           <source>XWVM requires a legal copy of a compatible game to play.
 
 Don't have the games? You can purchase a copy at one of these stores:</source>
-          <target>Para jugar, XWVM requiere una copia legal de un juego compatible.
+          <target>XWVM 需配合已合法擁有的相容遊戲本體方可遊玩。
 
-¿No tienes los juegos? Puedes adquirirlos en una de estas tiendas:</target>
+尚未擁有遊戲？您可在下列商店購買：</target>
         </segment>
       </unit>
       <unit id="GameContent.CustomContent.Header">
         <segment >
           <source>Custom Content</source>
-          <target>Contenido Personalizado</target>
+          <target>自訂內容</target>
         </segment>
       </unit>
       <unit id="GameContent.CustomContent.Table.Header.Name">
         <segment >
           <source>Name</source>
-          <target>Nombre</target>
+          <target>名稱</target>
         </segment>
       </unit>
       <unit id="GameContent.CustomContent.Table.Header.Description">
         <segment >
           <source>Description</source>
-          <target>Descripción</target>
+          <target>說明</target>
         </segment>
       </unit>
       <unit id="GameContent.CustomContent.Table.Header.Version">
         <segment >
           <source>Version</source>
-          <target>Versión</target>
+          <target>版本</target>
         </segment>
       </unit>
       <unit id="GameContent.CustomContent.Table.Header.Status">
         <segment >
           <source>Status</source>
-          <target>Estado</target>
+          <target>狀態</target>
         </segment>
       </unit>
       <unit id="GameInformation.Button.BackToLibrary">
         <segment >
           <source>Library</source>
-          <target>Biblioteca</target>
+          <target>遊戲庫</target>
         </segment>
       </unit>
       <unit id="Dialog.ControlsInvalidNotification.Text">
@@ -150,55 +150,55 @@ Don't have the games? You can purchase a copy at one of these stores:</source>
 The default keyboard and mouse bindings will now be applied and saved unless you cancel. Controller bindings will not be affected.
 
 &lt;b&gt;Continuing without applying default binding settings may affect critical game interactivity, and is not recommended.&lt;/b&gt;</source>
-          <target>XWVM ha detectado asignaciones de controles no válidas para:
+          <target>XWVM 偵測到下列無效的控制鍵綁定：
 &lt;b&gt;{controls}&lt;/b&gt;
-Se van a aplicar las asignaciones por defecto para ratón y teclado y se guardarán a menos que canceles. Las asignaciones para dispositivos de control no serán afectadas.
+除非您取消，否則將套用並儲存預設鍵盤與滑鼠配置。控制器（搖桿）綁定不受影響。
 
-&lt;b&gt;Continuar sin aplicar ajustes de asignaciones por defecto puede afectar de forma severa la interactividad del juego, y no lo recomendamos.&lt;/b&gt;</target>
+&lt;b&gt;若不套用預設綁定設定直接繼續，可能會嚴重影響遊戲操作，不建議這麼做。&lt;/b&gt;</target>
         </segment>
       </unit>
       <unit id="Dialog.ControlsInvalidNotification.Button.Cancel">
         <segment >
           <source>Cancel</source>
-          <target>Cancelar</target>
+          <target>取消</target>
         </segment>
       </unit>
       <unit id="Dialog.ControlsInvalidNotification.Button.ApplyDefaults">
         <segment >
           <source>Apply Defaults &lt;b&gt;({time})&lt;/b&gt;</source>
-          <target>Aplicar Valores por Defecto &lt;b&gt;({time})&lt;/b&gt;</target>
+          <target>套用預設值 &lt;b&gt;({time})&lt;/b&gt;</target>
         </segment>
       </unit>
       <unit id="Library.Button.Label.GameInformation">
         <segment >
           <source>Game Information</source>
-          <target>Información del Juego</target>
+          <target>遊戲資訊</target>
         </segment>
       </unit>
       <unit id="Library.Button.Label.GameSettings">
         <segment >
           <source>Game Settings</source>
-          <target>Ajustes del Juego</target>
+          <target>遊戲設定</target>
         </segment>
       </unit>
       <unit id="Library.GameInformation.Button.Label.Library">
         <segment >
           <source>Library</source>
-          <target>Biblioteca</target>
+          <target>遊戲庫</target>
         </segment>
       </unit>
       <unit id="FolderSetup.HeaderText">
         <segment >
           <source>XWVM requires that you have a compatible game installed on your computer, and that you select the folder where it is installed.
 When you select a folder with a valid installation of compatible game, it will be indicated at the right hand list.</source>
-          <target>XWVM requiere que tengas un juego compatible instalado en tu equipo, y que selecciones la carpeta en la que está instalado.
-Cuando selecciones una carpeta que contenga una instalación válida de un juego compatible, se te indicará a la derecha.</target>
+          <target>XWVM 需要您的電腦上已安裝相容的遊戲，並請選取其安裝資料夾。
+當您選取包含相容遊戲有效安裝的資料夾時，右側清單將會予以標示。</target>
         </segment>
       </unit>
       <unit id="FolderSetup.CDROMText">
         <segment >
           <source>If you have a retail version of a compatible game on CD-ROM, either insert the disk, or copy its content to a folder on your PC.</source>
-          <target>Si tienes una versión física de un juego compatible en CD-ROM, o bien inserta el disco, o copia su contenido a una carpeta en tu equipo.</target>
+          <target>若您持有 CD-ROM 光碟實體零售版的相容遊戲，請放入光碟，或將其內容複製到電腦中的資料夾。</target>
         </segment>
       </unit>
       <unit id="Dialog.ControlsUnusableNotification.Text">
@@ -208,35 +208,35 @@ Cuando selecciones una carpeta que contenga una instalación válida de un juego
 The bindings will now be cleared and saved unless you cancel.
 
 &lt;b&gt;Continuing without clearing these binding settings may affect critical game interactivity, and is not recommended.&lt;/b&gt;</source>
-          <target>XWVM ha detectado asignaciones de controles no válidas para:
+          <target>XWVM 偵測到下列無效的控制鍵綁定：
 &lt;b&gt;{controls}&lt;/b&gt;
-Las asignaciones van a ser borradas y guardadas a menos que canceles.
+除非您取消，否則這些綁定將被清除並儲存。
 
-&lt;b&gt;Continuar sin aplicar ajustes de asignaciones por defecto puede afectar de forma severa la interactividad del juego, y no lo recomendamos.&lt;/b&gt;</target>
+&lt;b&gt;若不清除這些綁定設定直接繼續，可能會嚴重影響遊戲操作，不建議這麼做。&lt;/b&gt;</target>
         </segment>
       </unit>
       <unit id="Dialog.ControlsInvalidNotification.Button.ClearBindings">
         <segment >
           <source>Clear Bindings &lt;b&gt;({time})&lt;/b&gt;</source>
-          <target>Borrar Asignaciones &lt;b&gt;({time})&lt;/b&gt;</target>
+          <target>清除綁定 &lt;b&gt;({time})&lt;/b&gt;</target>
         </segment>
       </unit>
 	 <unit id="BootstrapScene.InitMessage">
       <segment>
         <source>Loading...</source>
-        <target>Cargando...</target>
+        <target>載入中...</target>
       </segment>
     </unit>
     <unit id="MainMenu.Label.UpdateGame.CheckingUpdates">
       <segment>
         <source>Checking for Updates...</source>
-        <target>Comprobando Actualizaciones...</target>
+        <target>檢查更新中...</target>
       </segment>
     </unit>
     <unit id="MainMenu.Label.UpdateGame.DownloadUpdate">
       <segment>
         <source>Download Update</source>
-        <target>Descargar Actualización</target>
+        <target>下載更新</target>
       </segment>
     </unit>
   </file>
