@@ -5,49 +5,49 @@
       <unit id="ship1">
         <segment state="translated">
           <source>TIE Fighter (T/F)</source>
-          <target>Caza TIE (T/C)</target>
+          <target>鈦戰機 (T/F)</target>
         </segment>
       </unit>
       <unit id="ship2">
         <segment state="translated">
           <source>TIE Interceptor (T/I)</source>
-          <target>Interceptor TIE (T/I)</target>
+          <target>鈦截擊機 (T/I)</target>
         </segment>
       </unit>
       <unit id="ship3">
         <segment state="translated">
           <source>TIE Bomber (T/B)</source>
-          <target>Bombardero TIE (T/B)</target>
+          <target>鈦轟炸機 (T/B)</target>
         </segment>
       </unit>
       <unit id="ship4">
         <segment state="translated">
           <source>TIE Advanced (T/A)</source>
-          <target>TIE Avanzado (T/A)</target>
+          <target>鈦先進型戰機 (T/A)</target>
         </segment>
       </unit>
       <unit id="ship5">
         <segment state="translated">
           <source>Assault Gunboat (GUN)</source>
-          <target>Cañonera de Asalto (CAÑ)</target>
+          <target>突擊砲艇 (GUN)</target>
         </segment>
       </unit>
       <unit id="ship6">
         <segment state="translated">
           <source>TIE Defender (T/D)</source>
-          <target>Defensor TIE (T/D)</target>
+          <target>鈦防衛者戰機 (T/D)</target>
         </segment>
       </unit>
       <unit id="ship7">
         <segment state="translated">
           <source>Missile Boat (MIS)</source>
-          <target>Misilera (MIS)</target>
+          <target>飛彈艇 (MIS)</target>
         </segment>
       </unit>
       <unit id="custom">
         <segment state="translated">
           <source>Custom Missions</source>
-          <target>Misiones Personalizadas</target>
+          <target>自訂任務</target>
         </segment>
       </unit>
       <unit id="battle1">

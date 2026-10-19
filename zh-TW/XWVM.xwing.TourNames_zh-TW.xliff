@@ -5,31 +5,31 @@
       <unit id="xcombat">
         <segment state="translated">
           <source>X-Wing Historic Combat Missions</source>
-          <target>Misiones de Combate Históricas de Ala-X</target>
+          <target>X戰機歷史作戰任務</target>
         </segment>
       </unit>
       <unit id="ycombat">
         <segment state="translated">
           <source>Y-Wing Historic Combat Missions</source>
-          <target>Misiones de Combate Históricas de Ala-Y</target>
+          <target>Y戰機歷史作戰任務</target>
         </segment>
       </unit>
       <unit id="acombat">
         <segment state="translated">
           <source>A-Wing Historic Combat Missions</source>
-          <target>Misiones de Combate Históricas de Ala-A</target>
+          <target>A戰機歷史作戰任務</target>
         </segment>
       </unit>
       <unit id="bcombat">
         <segment state="translated">
           <source>B-Wing Historic Combat Missions</source>
-          <target>Misiones de Combate Históricas de Ala-B</target>
+          <target>B戰機歷史作戰任務</target>
         </segment>
       </unit>
       <unit id="bonus">
         <segment state="translated">
           <source>Bonus Combat Missions</source>
-          <target>Misiones de Combate Adicionales</target>
+          <target>獎勵作戰任務</target>
         </segment>
       </unit>
       <unit id="tour1">
@@ -77,7 +77,7 @@
       <unit id="custom">
         <segment state="translated">
           <source>Custom</source>
-          <target>Misiones Personalizadas</target>
+          <target>自訂任務</target>
         </segment>
       </unit>
     
