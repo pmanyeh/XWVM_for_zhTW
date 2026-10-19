@@ -4,85 +4,85 @@
       <unit id="MainOptions.CurrentGame">
         <segment state="translated">
           <source>Current Game</source>
-          <target>Juego Actual</target>
+          <target>目前遊戲</target>
         </segment>
       </unit>
       <unit id="MainOptions.AudioAndLanguage">
         <segment state="translated">
           <source>Audio and Language</source>
-          <target>Audio e Idioma</target>
+          <target>音訊與語言</target>
         </segment>
       </unit>
       <unit id="MainOptions.Display">
         <segment state="translated">
           <source>Display and Video</source>
-          <target>Presentación y Gráficos</target>
+          <target>顯示與視訊</target>
         </segment>
       </unit>
       <unit id="MainOptions.Camera">
         <segment state="translated">
           <source>Camera</source>
-          <target>Cámara</target>
+          <target>鏡頭視角</target>
         </segment>
       </unit>
       <unit id="MainOptions.Controls">
         <segment state="translated">
           <source>Controls and Input</source>
-          <target>Controles y Entrada</target>
+          <target>控制與輸入</target>
         </segment>
       </unit>
       <unit id="MainOptions.Achievements">
         <segment state="translated">
           <source>Achievements</source>
-          <target>Logros</target>
+          <target>成就</target>
         </segment>
       </unit>
       <unit id="MainOptions.Defaults">
         <segment state="translated">
           <source>Defaults</source>
-          <target>Valores por Defecto</target>
+          <target>預設值</target>
         </segment>
       </unit>
       <unit id="MainOptions.About">
         <segment state="translated">
           <source>About XWVM</source>
-          <target>Acerca de XWVM</target>
+          <target>關於 XWVM</target>
         </segment>
       </unit>
       <unit id="MainOptions.Buttons.Quit">
         <segment state="translated">
           <source>Quit to Desktop</source>
-          <target>Salir al Escritorio</target>
+          <target>退出至桌面</target>
         </segment>
       </unit>
       <unit id="MainOptions.Buttons.Cancel">
         <segment state="translated">
           <source>Cancel Changes</source>
-          <target>Cancelar Cambios</target>
+          <target>取消變更</target>
         </segment>
       </unit>
       <unit id="MainOptions.Buttons.Save">
         <segment state="translated">
           <source>Save and Close</source>
-          <target>Guardar y Salir</target>
+          <target>儲存並關閉</target>
         </segment>
       </unit>
       <unit id="MainOptions.Buttons.Concourse">
         <segment state="translated">
           <source>Return to Debriefing</source>
-          <target>Volver al Informe de Misión</target>
+          <target>返回任務簡報室</target>
         </segment>
       </unit>
       <unit id="About.AlphaNotice">
         <segment state="translated">
           <source>You can discuss your experiences, thoughts and any bugs you find in the &lt;b&gt;#bug-report-forum&lt;/b&gt; channel on our discord server, located here: &lt;link="https://discord.gg/nfQN9ht"&gt;&lt;color=blue&gt;https://discord.gg/nfQN9ht&lt;/color&gt;&lt;/link&gt;</source>
-          <target>Puedes comentar tu experiencia, ideas y errores que encuentres en el canal &lt;b&gt;#bug-report-forum&lt;/b&gt; de nuestro servidor de Discord, aquí: &lt;link="https://discord.gg/nfQN9ht"&gt;&lt;color=blue&gt;https://discord.gg/nfQN9ht&lt;/color&gt;&lt;/link&gt;</target>
+          <target>你可以在我們 Discord 伺服器的 &lt;b&gt;#bug-report-forum&lt;/b&gt; 頻道中討論你的體驗、想法以及發現的任何問題，位置如下：&lt;link="https://discord.gg/nfQN9ht"&gt;&lt;color=blue&gt;https://discord.gg/nfQN9ht&lt;/color&gt;&lt;/link&gt;</target>
         </segment>
       </unit>
       <unit id="About.ThirdPartyLabel">
         <segment state="translated">
           <source>Third party licence information:</source>
-          <target>Información de licencias de terceros:</target>
+          <target>第三方授權資訊：</target>
         </segment>
       </unit>
       <unit id="About.ThirdPartyText">
@@ -177,8 +177,8 @@ Link: https://github.com/Habrador/Computational-geometry
 gzdoom.sf2
 Copyright (c) 1998-2023 ZDoom + GZDoom teams, and contributors
 Link: https://github.com/ZDoom/gzdoom</source>
-          <target>XWVM es posible gracias a los componentes, extensiones y productos abajo listados. 
-Para información completa de licencia, el fichero LICENSE.TXT está disponible en el directorio de instalación de XWVM.
+          <target>XWVM 仰賴以下組件、擴充套件與產品得以實現。
+完整的授權資訊請參閱 XWVM 安裝目錄中的 LICENSE.TXT 檔案。
 
 -----
 Unity UI Extensions
@@ -264,12 +264,6 @@ Habrador Computational Geometry
 Erik Nordeus
 Link: https://github.com/Habrador/Computational-geometry
 
-Nuked-OPL3
-Copyright (c) nukeykt, and contributors
-Link: https://github.com/nukeykt/Nuked-OPL3
-C# Port by Guy Newman
-Fork: https://github.com/guy-newman/Nuked-OPL3-Port
-
 gzdoom.sf2
 Copyright (c) 1998-2023 ZDoom + GZDoom teams, and contributors
 Link: https://github.com/ZDoom/gzdoom</target>
@@ -278,37 +272,37 @@ Link: https://github.com/ZDoom/gzdoom</target>
       <unit id="GameSettings.Header">
         <segment state="translated">
           <source>Game</source>
-          <target>Juego</target>
+          <target>遊戲</target>
         </segment>
       </unit>
       <unit id="RestartNotification.Label">
         <segment state="translated">
           <source>Please note that you will need to restart the game for this change to take effect.</source>
-          <target>Ten en cuenta que el juego deberá reiniciarse para que este cambio surta efecto.</target>
+          <target>請注意：你必須重新啟動遊戲，此項變更才會生效。</target>
         </segment>
       </unit>
       <unit id="RestartNotification.Button.Text">
         <segment state="translated">
           <source>OK</source>
-          <target>Aceptar</target>
+          <target>確定</target>
         </segment>
       </unit>
       <unit id="DefaultSettings.Header">
         <segment state="translated">
           <source>Restore Default Settings</source>
-          <target>Restaurar Ajustes por Defecto</target>
+          <target>恢復預設設定</target>
         </segment>
       </unit>
       <unit id="DefaultSettings.Description">
         <segment state="translated">
           <source>You can reset &lt;b&gt;all&lt;/b&gt; settings to their defaults by selecting the button below.</source>
-          <target>Puedes restaurar &lt;b&gt;todos&lt;/b&gt; los ajustes a sus valores por defecto pulsando el botón de abajo.</target>
+          <target>點擊下方按鈕可將&lt;b&gt;所有&lt;/b&gt;設定重設為預設值。</target>
         </segment>
       </unit>
       <unit id="DefaultSettings.Button.Text">
         <segment state="translated">
           <source>Restore Default Settings</source>
-          <target>Restaurar Ajustes por Defecto</target>
+          <target>恢復預設設定</target>
         </segment>
       </unit>
       <unit id="GameSettings.NoGameSelected.Text">
@@ -316,369 +310,369 @@ Link: https://github.com/ZDoom/gzdoom</target>
           <source>No game is currently active. 
 
 Start a game from the Game Library to customise its settings.</source>
-          <target>Ningún juego está activo actualmente. 
+          <target>目前沒有作用中的遊戲。
 
-Inicia un juego desde la Biblioteca de Juegos para personalizar sus ajustes.</target>
+請從遊戲庫啟動一款遊戲以自訂其設定。</target>
         </segment>
       </unit>
       <unit id="AudioSettings.Header">
         <segment>
           <source>Audio</source>
-          <target>Audio</target>
+          <target>音訊</target>
         </segment>
       </unit>
       <unit id="AudioSettings.VolumeAndSpeakers.Label">
         <segment state="translated">
           <source>Volume and Speakers</source>
-          <target>Volumen y Altavoces</target>
+          <target>音量與揚聲器</target>
         </segment>
       </unit>
       <unit id="AudioSettings.VolumeAndSpeakers.MusicVolume.Label">
         <segment state="translated">
           <source>Music Volume</source>
-          <target>Volumen de la Música</target>
+          <target>音樂音量</target>
         </segment>
       </unit>
       <unit id="AudioSettings.VolumeAndSpeakers.SfxVolume.Label">
         <segment state="translated">
           <source>SFX Volume</source>
-          <target>Volumen de los Efectos</target>
+          <target>音效音量</target>
         </segment>
       </unit>
       <unit id="AudioSettings.VolumeAndSpeakers.EngineVolume.Label">
         <segment state="translated">
           <source>Engine Volume</source>
-          <target>Volumen de los Motores</target>
+          <target>引擎音量</target>
         </segment>
       </unit>
       <unit id="AudioSettings.VolumeAndSpeakers.VoiceVolume.Label">
         <segment state="translated">
           <source>Voice Volume</source>
-          <target>Volumen de las Voces</target>
+          <target>語音音量</target>
         </segment>
       </unit>
       <unit id="AudioSettings.VolumeAndSpeakers.Speakers.Label">
         <segment state="translated">
           <source>Speakers</source>
-          <target>Altavoces</target>
+          <target>揚聲器</target>
         </segment>
       </unit>
       <unit id="AudioSettings.SubtitlesAndLanguage.Label">
         <segment state="translated">
           <source>Subtitles and Language</source>
-          <target>Subtítulos e Idioma</target>
+          <target>字幕與語言</target>
         </segment>
       </unit>
       <unit id="AudioSettings.SubtitlesAndLanguage.Subtitles.Label">
         <segment state="translated">
           <source>Subtitles</source>
-          <target>Subtítulos</target>
+          <target>字幕</target>
         </segment>
       </unit>
       <unit id="AudioSettings.SubtitlesAndLanguage.Language.Label">
         <segment state="translated">
           <source>Language</source>
-          <target>Idioma</target>
+          <target>語言</target>
         </segment>
       </unit>
       <unit id="AudioSettings.MusicSource.Label">
         <segment state="translated">
           <source>Music Source</source>
-          <target>Origen de la Música</target>
+          <target>音樂來源</target>
         </segment>
       </unit>
       <unit id="AudioSettings.MusicSource.MusicSource.Label">
         <segment state="translated">
           <source>Music Source</source>
-          <target>Origen de la Música</target>
+          <target>音樂來源</target>
         </segment>
       </unit>
       <unit id="AudioSettings.MusicSource.MIDIFormat.Label">
         <segment state="translated">
           <source>MIDI Synth Format</source>
-          <target>Formato de Sintetizado MIDI</target>
+          <target>MIDI 合成格式</target>
         </segment>
       </unit>
       <unit id="AudioSettings.MusicSource.UseSoundfont.Label">
         <segment state="translated">
           <source>Use External SoundFont (sf2 or sfz)</source>
-          <target>Utilizar SoundFont Externa (sf2 o sfz)</target>
+          <target>使用外部 SoundFont（sf2 或 sfz）</target>
         </segment>
       </unit>
       <unit id="AudioSettings.MusicSource.SoundfontTest.Button.Text">
         <segment state="translated">
           <source>Test</source>
-          <target>Probar</target>
+          <target>測試</target>
         </segment>
       </unit>
       <unit id="WindowTitle">
         <segment state="translated">
           <source>Settings	</source>
-          <target>Ajustes	</target>
+          <target>設定</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.Header">
         <segment state="translated">
           <source>Display and Video</source>
-          <target>Presentación y Gráficos</target>
+          <target>顯示與視訊</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.Memory.VideoMemory.Label">
         <segment state="translated">
           <source>Video Memory: &lt;b&gt;({used}/{available} GB)&lt;/b&gt;</source>
-          <target>Memoria de Vídeo: &lt;b&gt;({used}/{available} GB)&lt;/b&gt;</target>
+          <target>視訊記憶體：&lt;b&gt;({used}/{available} GB)&lt;/b&gt;</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.Memory.SystemMemory.Label">
         <segment state="translated">
           <source>System Memory: &lt;b&gt;({used}/{available} GB)&lt;/b&gt;</source>
-          <target>Memoria del Sistema: &lt;b&gt;({used}/{available} GB)&lt;/b&gt;</target>
+          <target>系統記憶體：&lt;b&gt;({used}/{available} GB)&lt;/b&gt;</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettingsType.2D">
         <segment state="translated">
           <source>2D Visual Settings (Normal, TrackIR modes)</source>
-          <target>Ajustes Visuales en 2D (modos Normal o TrackIR)</target>
+          <target>2D 視覺設定（標準、TrackIR 模式）</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettingsType.VR">
         <segment state="translated">
           <source>VR Visual Settings</source>
-          <target>Ajustes Visuales en RV</target>
+          <target>VR 視覺設定</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Label">
         <segment state="translated">
           <source>Resolution and Rendering</source>
-          <target>Resolución y Renderizado</target>
+          <target>解析度與彩現</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Resolution.Label">
         <segment state="translated">
           <source>Resolution</source>
-          <target>Resolución</target>
+          <target>解析度</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Fullscreen.Label">
         <segment state="translated">
           <source>Full screen</source>
-          <target>Pantalla completa</target>
+          <target>全螢幕</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.VSync.Label">
         <segment>
           <source>VSync</source>
-          <target>VSync</target>
+          <target>垂直同步</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.Label">
         <segment state="translated">
           <source>Dynamic Resolution</source>
-          <target>Resolución Dinámica</target>
+          <target>動態解析度</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.STPQuality.Label">
         <segment state="translated">
           <source>STP Quality</source>
-          <target>Calidad STP</target>
+          <target>STP 品質</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.DLSSQuality.Label">
         <segment state="translated">
           <source>DLSS Quality</source>
-          <target>Calidad DLSS</target>
+          <target>DLSS 品質</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.LimitFrames.Label">
         <segment state="translated">
           <source>Limit Frame Rate</source>
-          <target>Limitar Tasa de Refresco</target>
+          <target>限制影格率</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualQuality.Label">
         <segment state="translated">
           <source>Visual Quality</source>
-          <target>Calidad Gráfica</target>
+          <target>畫面品質</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualQuality.QualityMode.Label">
         <segment state="translated">
           <source>Quality</source>
-          <target>Calidad</target>
+          <target>品質</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualQuality.MSAA.Label">
         <segment state="translated">
           <source>Multi-Sample Anti-Aliasing</source>
-          <target>Suavizado Multi-Muestra (MSAA)</target>
+          <target>多重取樣反鋸齒（MSAA）</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualQuality.PostProcessingAA.Label">
         <segment state="translated">
           <source>Post Process Anti-Aliasing</source>
-          <target>Suavizado por Postprocesado</target>
+          <target>後製處理反鋸齒</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualQuality.TextureLimit.Label">
         <segment state="translated">
           <source>Texture Limit</source>
-          <target>Límite de Textura</target>
+          <target>貼圖上限</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowCascades.Label">
         <segment state="translated">
           <source>Sun Shadow Cascades</source>
-          <target>Cascadas de Sombras de Soles</target>
+          <target>恆星陰影級聯</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowQuality.Label">
         <segment state="translated">
           <source>Sun Shadow Quality</source>
-          <target>Calidad de Sombras de Soles</target>
+          <target>恆星陰影品質</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualQuality.CockpitReflections.Label">
         <segment state="translated">
           <source>Cockpit Reflections</source>
-          <target>Reflejos en la Cabina</target>
+          <target>座艙反射</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualPreferences.Label">
         <segment state="translated">
           <source>Visual Preferences</source>
-          <target>Preferencias Visuales</target>
+          <target>視覺偏好</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualPreferences.Grain.Label">
         <segment state="translated">
           <source>Grain</source>
-          <target>Grano tipo Celuloide</target>
+          <target>膠卷顆粒</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualPreferences.Vignette.Label">
         <segment state="translated">
           <source>Vignette</source>
-          <target>Oscurecer Esquinas</target>
+          <target>暈影（暗角）</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualPreferences.SpaceDebris.Label">
         <segment state="translated">
           <source>Space Debris</source>
-          <target>Partículas Espaciales</target>
+          <target>太空微塵</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualPreferences.Bloom.Label">
         <segment state="translated">
           <source>Bloom</source>
-          <target>Resplandor (Bloom)</target>
+          <target>泛光（Bloom）</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualPreferences.HUDOpacity.Label">
         <segment state="translated">
           <source>HUD Opacity</source>
-          <target>Opacidad del Punto de Mira</target>
+          <target>抬頭顯示器不透明度</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.Brightness.Label">
         <segment state="translated">
           <source>Brightness</source>
-          <target>Brillo</target>
+          <target>亮度</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessCalibration.Label">
         <segment state="translated">
           <source>Brightness Calibration</source>
-          <target>Calibrado de Brillo</target>
+          <target>亮度校準</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessLiftAdjust.Label">
         <segment state="translated">
           <source>Brightness Lift Adjustment</source>
-          <target>Compensación de Negros</target>
+          <target>暗部偏移調整</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGammaAdjust.Label">
         <segment state="translated">
           <source>Brightness Gamma Adjustment</source>
-          <target>Ajuste Gamma</target>
+          <target>伽瑪調整</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGainAdjust.Label">
         <segment state="translated">
           <source>Brightness Gain Adjustment</source>
-          <target>Ajuste de Brillo Máximo</target>
+          <target>亮部增益調整</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Camera.Label">
         <segment state="translated">
           <source>Camera and FOV</source>
-          <target>Cámara y Campo de Visión</target>
+          <target>鏡頭與視野</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Camera.CameraMode.Label">
         <segment state="translated">
           <source>Camera Mode</source>
-          <target>Modo de Cámara</target>
+          <target>鏡頭模式</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Camera.CustomFOV.Label">
         <segment state="translated">
           <source>Custom FOV</source>
-          <target>Campo de Visión Personalizado</target>
+          <target>自訂視野</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Camera.FOVSlider.Label">
         <segment state="translated">
           <source>Field of view</source>
-          <target>Campo de Visión</target>
+          <target>視野（FOV）</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Camera.FOVModifierStep.Label">
         <segment state="translated">
           <source>FOV Modifier Step</source>
-          <target>Incremento Modificador CdV</target>
+          <target>視野調整步進值</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Camera.FOVModifierMax.Label">
         <segment state="translated">
           <source>FOV Modifier Max</source>
-          <target>Máximo Modificador CdV</target>
+          <target>視野調整最大值</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Astronomical.Label">
         <segment state="translated">
           <source>Astronomical objects</source>
-          <target>Objetos Astronómicos</target>
+          <target>天體天象</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Astronomical.StarSizeMultiplier.Label">
         <segment state="translated">
           <source>Star Size Multiplier</source>
-          <target>Multiplicador del Tamaño de Estrellas</target>
+          <target>恆星尺寸倍率</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Astronomical.PlanetSizeMultiplier.Label">
         <segment state="translated">
           <source>Planet Size Multiplier</source>
-          <target>Multiplicador del Tamaño de Planetas</target>
+          <target>行星尺寸倍率</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Headbobbing.Label">
         <segment state="translated">
           <source>Headbobbing</source>
-          <target>Balanceo Inercial de Cabeza</target>
+          <target>頭部晃動</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Headbobbing.HeadbobbingOffset.Label">
         <segment state="translated">
           <source>Inertial headbobbing - Panning</source>
-          <target>Balanceo Inercia de Cabeza - Desplazamiento</target>
+          <target>慣性頭部晃動 - 平移</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Headbobbing.HeadbobbingCompensation.Label">
         <segment state="translated">
           <source>Inertial headbobbing - Eye Compensation</source>
-          <target>Balanceo Inercial de Cabeza - Compensación Ocular</target>
+          <target>慣性頭部晃動 - 視線補償</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.Label">
@@ -690,724 +684,724 @@ Inicia un juego desde la Biblioteca de Juegos para personalizar sus ajustes.</ta
       <unit id="CameraSettings.TrackIR.SampleFiltering.Label">
         <segment state="translated">
           <source>Sample filtering count</source>
-          <target>Cantidad de muestras filtradas</target>
+          <target>取樣過濾次數</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.LeftRightLimit.Label">
         <segment state="translated">
           <source>Left/Right movement limit (meters)</source>
-          <target>Límite al Movimiento Izquierda/Derecha (metros)</target>
+          <target>左右移動限制（公尺）</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.InvertX.Label">
         <segment state="translated">
           <source>Invert Left/Right axis</source>
-          <target>Invertir Eje Izquierda/Derecha</target>
+          <target>反轉左右軸</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.UpDownLimit.Label">
         <segment state="translated">
           <source>Up/Down movement limit (meters)</source>
-          <target>Límite al Movimiento Arriba/Abajo (metros)</target>
+          <target>上下移動限制（公尺）</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.InvertY.Label">
         <segment state="translated">
           <source>Invert Up/Down axis</source>
-          <target>Invertir Eje Arriba/Abajo</target>
+          <target>反轉上下軸</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.ForwardBackward.Label">
         <segment state="translated">
           <source>Foward/Backward movement limit (meters)</source>
-          <target>Límite al Movimiento Adelante/Atrás (metros)</target>
+          <target>前後移動限制（公尺）</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.InvertZ.Label">
         <segment state="translated">
           <source>Invert Forward/Backward axis</source>
-          <target>Invertir Eje Adelante/Atrás</target>
+          <target>反轉前後軸</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.PitchLimit.Label">
         <segment state="translated">
           <source>Pitch limit (degrees)</source>
-          <target>Límite al Cabeceo (grados)</target>
+          <target>俯仰限制（度）</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.InvertPitch.Label">
         <segment state="translated">
           <source>Invert Pitch axis</source>
-          <target>Invertir Eje de Cabeceo</target>
+          <target>反轉俯仰軸</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.YawLimit.Label">
         <segment state="translated">
           <source>Yaw limit (degrees)</source>
-          <target>Límite al Guiñada (grados)</target>
+          <target>偏航限制（度）</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.InvertYaw.Label">
         <segment state="translated">
           <source>Invert Yaw axis</source>
-          <target>Invertir Eje de Guiñada</target>
+          <target>反轉偏航軸</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.RollLimit.Label">
         <segment state="translated">
           <source>Roll limit (degrees)</source>
-          <target>Límite de Alabeo (grados)</target>
+          <target>滾轉限制（度）</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.InvertRoll.Label">
         <segment state="translated">
           <source>Invert Roll axis</source>
-          <target>Invertir Eje de Alabeo</target>
+          <target>反轉滾轉軸</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.PositionMultiplier.Label">
         <segment state="translated">
           <source>Position Multiplier</source>
-          <target>Multiplicador de Posición</target>
+          <target>位置倍率</target>
         </segment>
       </unit>
       <unit id="CameraSettings.TrackIR.RotationMultiplier.Label">
         <segment state="translated">
           <source>Rotation Multiplier</source>
-          <target>Multiplicador de Rotación</target>
+          <target>旋轉倍率</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControlsSection.Label">
         <segment state="translated">
           <source>Controls</source>
-          <target>Controles</target>
+          <target>控制</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControlsSection.GameControls.Label">
         <segment state="translated">
           <source>Game Controls</source>
-          <target>Controles del Juego</target>
+          <target>遊戲控制</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControlsSection.GameControls.Button.Label">
         <segment state="translated">
           <source>Remap Game Controls</source>
-          <target>Re-asignar Controles del Juego</target>
+          <target>重新指派遊戲按鍵</target>
         </segment>
       </unit>
       <unit id="ControlSettings.MouseSection.Label">
         <segment state="translated">
           <source>Mouse</source>
-          <target>Ratón</target>
+          <target>滑鼠</target>
         </segment>
       </unit>
       <unit id="ControlSettings.MouseSection.MouseSensitivity.Label">
         <segment state="translated">
           <source>Mouse Sensitivity</source>
-          <target>Sensibilidad del Ratón</target>
+          <target>滑鼠靈敏度</target>
         </segment>
       </unit>
       <unit id="ControlSettings.MouseSection.MouseControl.Label">
         <segment state="translated">
           <source>Mouse Control</source>
-          <target>Control del Ratón</target>
+          <target>滑鼠操控</target>
         </segment>
       </unit>
       <unit id="ControlSettings.MouseSection.SoftwareCursor.Label">
         <segment state="translated">
           <source>Software Cursor</source>
-          <target>Cursor Software</target>
+          <target>軟體游標</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControllerSection.Label">
         <segment state="translated">
           <source>Controllers</source>
-          <target>Dispositivos de Control</target>
+          <target>控制器</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControllerSection.HyperspaceThrottle.Label">
         <segment state="translated">
           <source>Hyperspace Throttle Mode</source>
-          <target>Modo de Acelerador para Hiperespacio</target>
+          <target>超空間節流閥模式</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControllerSection.HyperspaceThrottleThreshold.Label">
         <segment state="translated">
           <source>Hyperspace Throttle Engage Threshold</source>
-          <target>Umbral de Activación de Acelerador para Hiperespacio</target>
+          <target>超空間節流閥觸發閾值</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControllerSection.Vibration.Label">
         <segment state="translated">
           <source>Vibration</source>
-          <target>Vibración</target>
+          <target>震動</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControllerSection.VibrationStrength.Label">
         <segment state="translated">
           <source>Vibration Strength</source>
-          <target>Fuerza de la Vibración</target>
+          <target>震動強度</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameLibrary.Button.Label">
         <segment state="translated">
           <source>Game Library</source>
-          <target>Biblioteca de Juegos</target>
+          <target>遊戲庫</target>
         </segment>
       </unit>
       <unit id="GameSettings.CheatsBar.Text">
         <segment state="translated">
           <source>Cheat settings enabled. Progression will be affected.</source>
-          <target>Trampas activadas. El progreso se verá afectado.</target>
+          <target>作弊設定已啟用。進度紀錄將受到影響。</target>
         </segment>
       </unit>
       <unit id="GameSettings.CheatsSection.Label">
         <segment state="translated">
           <source>Cheats</source>
-          <target>Trampas</target>
+          <target>作弊</target>
         </segment>
       </unit>
       <unit id="GameSettings.CheatsSection.Collisions.Label">
         <segment state="translated">
           <source>Disable Collisions &lt;color=red&gt;*&lt;/color&gt;</source>
-          <target>Desactivar colisiones &lt;color=red&gt;*&lt;/color&gt;</target>
+          <target>停用碰撞 &lt;color=red&gt;*&lt;/color&gt;</target>
         </segment>
       </unit>
       <unit id="GameSettings.CheatsSection.UnlimitedWeapons.Label">
         <segment state="translated">
           <source>Unlimited Weapons &lt;color=red&gt;*&lt;/color&gt;</source>
-          <target>Armas Ilimitadas &lt;color=red&gt;*&lt;/color&gt;</target>
+          <target>無限彈藥武器 &lt;color=red&gt;*&lt;/color&gt;</target>
         </segment>
       </unit>
       <unit id="GameSettings.CheatsSection.Invulnerability.Label">
         <segment state="translated">
           <source>Invulnerability &lt;color=red&gt;*&lt;/color&gt;</source>
-          <target>Invulnerabilidad &lt;color=red&gt;*&lt;/color&gt;</target>
+          <target>無敵狀態 &lt;color=red&gt;*&lt;/color&gt;</target>
         </segment>
       </unit>
       <unit id="GameSettings.ModelsAndDetailSection.Label">
         <segment state="translated">
           <source>Models and Detail</source>
-          <target>Modelos y Detalle</target>
+          <target>模型與細節</target>
         </segment>
       </unit>
       <unit id="GameSettings.ModelsAndDetailSection.Models.Label">
         <segment state="translated">
           <source>Ship Models
 (requires restart)</source>
-          <target>Modelos de las Naves
-(requiere reinicio)</target>
+          <target>船艦模型
+（需要重新啟動）</target>
         </segment>
       </unit>
       <unit id="GameSettings.ModelsAndDetailSection.DeathStarSurfaceDetail.Label">
         <segment state="translated">
           <source>Death Star Surface Detail</source>
-          <target>Detalle de la Superficie de la Estrella de la Muerte</target>
+          <target>死星表面細節</target>
         </segment>
       </unit>
       <unit id="GameSettings.ModelsAndDetailSection.DeathStarTrenchDetail.Label">
         <segment state="translated">
           <source>Death Star Trench Detail</source>
-          <target>Detalle de la Trinchera de la Estrella de la Muerte</target>
+          <target>死星戰壕細節</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.Label">
         <segment state="translated">
           <source>Gameplay Preferences</source>
-          <target>Preferencias de Jugabilidad</target>
+          <target>遊戲體驗偏好</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.ContentType.Label">
         <segment state="translated">
           <source>Preferred Content</source>
-          <target>Contenido Preferido</target>
+          <target>偏好內容</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.CMDType.Label">
         <segment state="translated">
           <source>CMD Type</source>
-          <target>Tipo de Computador de Objetivos</target>
+          <target>CMD 類型</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.LockWarning.Label">
         <segment state="translated">
           <source>Warhead Lock Warning Sound</source>
-          <target>Advertencia Sonora de Ojiva Fijada</target>
+          <target>彈頭鎖定警示音</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.ScopeIcons.Label">
         <segment state="translated">
           <source>Icons on Scopes</source>
-          <target>Iconos en los Radares</target>
+          <target>雷達螢幕圖示</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.Outline.Label">
         <segment state="translated">
           <source>Selection Outline</source>
-          <target>Contorno de Selección</target>
+          <target>選取輪廓標示</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.Cutscenes.Label">
         <segment state="translated">
           <source>Play Transitions</source>
-          <target>Reproducir Transiciones</target>
+          <target>播放過場轉場動畫</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.BlinkThreat.Label">
         <segment state="translated">
           <source>Blinking Threat Indicators</source>
-          <target>Indicadores de Amenaza Parpadeantes</target>
+          <target>閃爍威脅指示器</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.ExteriorHUD.Label">
         <segment state="translated">
           <source>Show Exterior HUD</source>
-          <target>Mostrar Punto de Mira en Vista Exterior</target>
+          <target>顯示機外抬頭顯示器</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.ProjectileLimit.Label">
         <segment state="translated">
           <source>AI Projectile Limit</source>
-          <target>Límite a los Proyectiles de la IA</target>
+          <target>AI 彈藥投射物上限</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.RandomSpecial.Label">
         <segment state="translated">
           <source>Randomize Special Craft</source>
-          <target>Aleatorizar Nave Especial</target>
+          <target>隨機特殊機艦</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.LaserMultiplier.Label">
         <segment state="translated">
           <source>Player Laser Cinematic Multiplier</source>
-          <target>Multiplicador para Láseres Peliculeros del Jugador</target>
+          <target>玩家雷射電影效果倍率</target>
         </segment>
       </unit>
       <unit id="Achievements.Progress.ProgressHeader">
         <segment state="translated">
           <source>{game:Achievement Progress: {game}|Achievement Progress}</source>
-          <target>{game:Achievement Progress: {game}|Progreso de Logros}</target>
+          <target>{game:成就進度：{game}|成就進度}</target>
         </segment>
       </unit>
       <unit id="Achievements.Progress.ProgressText">
         <segment state="translated">
           <source>{unlocked}/{total} Achievements Unlocked</source>
-          <target>{unlocked}/{total} Logros Desbloqueados</target>
+          <target>已解鎖 {unlocked}/{total} 項成就</target>
         </segment>
       </unit>
       <unit id="Achievements.Progress.UnlockedAchievementsHeader.Text">
         <segment state="translated">
           <source>Unlocked Achievements</source>
-          <target>Logros Desbloqueados</target>
+          <target>已解鎖成就</target>
         </segment>
       </unit>
       <unit id="Achievements.Progress.UnlockedAchievements.NoUnlockedAchievements.Text">
         <segment state="translated">
           <source>No unlocked achievements available.</source>
-          <target>No hay logros desbloqueados disponibles.</target>
+          <target>尚無已解鎖的成就。</target>
         </segment>
       </unit>
       <unit id="Achievements.Progress.LockedAchievementsHeader.Text">
         <segment state="translated">
           <source>Locked Achievements</source>
-          <target>Logros Bloqueados</target>
+          <target>未解鎖成就</target>
         </segment>
       </unit>
       <unit id="Achievements.Progress.LockedAchievements.NoLockedAchievements.Text">
         <segment state="translated">
           <source>No locked achievements available.</source>
-          <target>No hay logros bloqueados disponibles.</target>
+          <target>尚無未解鎖的成就。</target>
         </segment>
       </unit>
       <unit id="GameSettings.CheatsSection.Collisions.Tooltip.Title">
         <segment state="translated">
           <source>Disable Collisions</source>
-          <target>Desactivar Colisiones</target>
+          <target>停用碰撞</target>
         </segment>
       </unit>
       <unit id="GameSettings.CheatsSection.Collisions.Tooltip.Content">
         <segment state="translated">
           <source>Toggle player collisions with other craft.
 &lt;b&gt;Counts as cheating.&lt;/b&gt;</source>
-          <target>Activa/desactiva las colisiones del jugador con otras naves.
-&lt;b&gt;Cuenta como hacer trampas.&lt;/b&gt;</target>
+          <target>切換玩家座機與其他機艦之間的碰撞判定。
+&lt;b&gt;視同作弊。&lt;/b&gt;</target>
         </segment>
       </unit>
       <unit id="GameSettings.CheatsSection.UnlimitedWeapons.Tooltip.Content">
         <segment state="translated">
           <source>Toggle unlimited player weapons.
 &lt;b&gt;Counts as cheating.&lt;/b&gt;</source>
-          <target>Activa/desactiva armamento infinito para el jugador.
-&lt;b&gt;Cuenta como hacer trampas.&lt;/b&gt;</target>
+          <target>切換玩家無限彈藥武器。
+&lt;b&gt;視同作弊。&lt;/b&gt;</target>
         </segment>
       </unit>
       <unit id="GameSettings.CheatsSection.UnlimitedWeapons.Tooltip.Title">
         <segment state="translated">
           <source>Unlimited Weapons</source>
-          <target>Armamento Ilimitado</target>
+          <target>無限彈藥武器</target>
         </segment>
       </unit>
       <unit id="GameSettings.CheatsSection.UnlockedArmoury.Label">
         <segment state="translated">
           <source>Unlocked Armoury &lt;color=red&gt;*&lt;/color&gt;</source>
-          <target>Arsenal Desbloqueado &lt;color=red&gt;*&lt;/color&gt;</target>
+          <target>解除軍械庫鎖定 &lt;color=red&gt;*&lt;/color&gt;</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualQuality.EnableVolumetrics.Label">
         <segment state="translated">
           <source>Volumetric Lighting</source>
-          <target>Iluminación Volumétrica</target>
+          <target>體積光照明</target>
         </segment>
       </unit>
       <unit id="GameSettings.DifficultySection.BalancedEnergyTransfer.Label">
         <segment state="translated">
           <source>Balanced Laser/Shield Energy Transfer Rate</source>
-          <target>Equilibrado de la Transferencia de Energía entre Láseres y Escudos</target>
+          <target>平衡雷射／護盾能量轉移速率</target>
         </segment>
       </unit>
       <unit id="GameSettings.DifficultySection.RemoveEnemyFirepowerDebuff.Label">
         <segment state="translated">
           <source>Remove Enemy Firepower Debuff</source>
-          <target>Eliminar Reducción de Potencia de Fuego Enemiga</target>
+          <target>移除敵軍火力減弱懲罰</target>
         </segment>
       </unit>
       <unit id="GameSettings.DifficultySection.PromoteEnemyAiRank.Label">
         <segment state="translated">
           <source>Promote Enemy AI Rank</source>
-          <target>Aumentar Veteranía de la IA Enemiga</target>
+          <target>提升敵軍 AI 軍階等級</target>
         </segment>
       </unit>
       <unit id="GameSettings.DifficultySection.PromoteEnemyShipTypes.Label">
         <segment state="translated">
           <source>Promote Enemy Ship Types</source>
-          <target>Mejorar los Tipos de Nave del Enemigo</target>
+          <target>升級敵軍艦船型號</target>
         </segment>
       </unit>
       <unit id="GameSettings.Difficulty.Label">
         <segment state="translated">
           <source>Extra Difficulty</source>
-          <target>Dificultad Adicional</target>
+          <target>額外難度</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Camera.UsePaniniProjection.Label">
         <segment state="translated">
           <source>Use Panini Projection</source>
-          <target>Utilizar Proyección Panini</target>
+          <target>使用帕尼尼投影</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Camera.PaniniDistance.Label">
         <segment state="translated">
           <source>Panini Distance</source>
-          <target>Distancia Panini</target>
+          <target>帕尼尼距離</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.FullscreenMode.Label">
         <segment state="translated">
           <source>Use Exclusive Fullscreen Mode</source>
-          <target>Modo Pantalla Completa Exclusivo</target>
+          <target>使用獨佔全螢幕模式</target>
         </segment>
       </unit>
       <unit id="Achievements.Progress.GameSummary.ProgressText">
         <segment state="translated">
           <source>{unlocked} of {total} achievements unlocked</source>
-          <target>{unlocked} de {total} logros desbloqueados</target>
+          <target>已解鎖 {total} 項成就中的 {unlocked} 項</target>
         </segment>
       </unit>
       <unit id="Achievements.Progress.GameListButton">
         <segment state="translated">
           <source>Game List</source>
-          <target>Lista de Juegos</target>
+          <target>遊戲清單</target>
         </segment>
       </unit>
       <unit id="Achievements.Progress.GameListHeading">
         <segment state="translated">
           <source>Games with Unlocked Achievements</source>
-          <target>Juegos con Logros Desbloqueados</target>
+          <target>擁有已解鎖成就的遊戲</target>
         </segment>
       </unit>
       <unit id="Achievements.Progress.GameList.NoGameAchievementsAvailable">
         <segment state="translated">
           <source>No games with current achievements are available.
 You may need to install games via the Game Library, or achievements may not be supported for the current game(s).</source>
-          <target>No hay juegos disponibles con logros en marcha.
-Tal vez debas instalar juegos a través de la Biblioteca de Juegos, o es posible que no haya logros soportados para los juegos actuales.</target>
+          <target>目前沒有具備成就的遊戲。
+你可能需要透過「遊戲庫」安裝遊戲，或是目前遊戲不支援成就系統。</target>
         </segment>
       </unit>
       <unit id="Achievements.Settings.ShowAchievementNotificationsLabel">
         <segment state="translated">
           <source>Show Achievement Notifications</source>
-          <target>Mostrar Notificaciones de Logros</target>
+          <target>顯示成就通知</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.FacingAssistPrecision.Label">
         <segment state="translated">
           <source>Facing Assist Precision</source>
-          <target>Precisión de la Asistencia de Dirección</target>
+          <target>朝向輔助轉向精準度</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControllerSection.VRGazeCursor.Label">
         <segment state="translated">
           <source>VR Gaze Cursor</source>
-          <target>Cursor de Mirada RV</target>
+          <target>VR 視線游標</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.Models.HighDef">
         <segment state="translated">
           <source>High Definition</source>
-          <target>Alta Definición</target>
+          <target>高解析度</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.Models.ClassicUntextured">
         <segment state="translated">
           <source>Classic Untextured (DOS)</source>
-          <target>Clásicos Sin Texturas (DOS)</target>
+          <target>經典無貼圖（DOS）</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.Models.ClassicTextured">
         <segment state="translated">
           <source>Classic Textured (Windows)</source>
-          <target>Clásicos Con Texturas (Windows)</target>
+          <target>經典貼圖（Windows）</target>
         </segment>
       </unit>
       <unit id="AudioSettings.AudioDucking.Label">
         <segment state="translated">
           <source>Auto Ducking</source>
-          <target>Atenuación automática</target>
+          <target>自動避讓（Ducking）</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.CraftLimit.Label">
         <segment state="translated">
           <source>Craft Limit</source>
-          <target>Límite al Número de Naves</target>
+          <target>機艦上限</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.SeasonalContent.Label">
         <segment state="translated">
           <source>Use Seasonal Content</source>
-          <target>Utilizar Contenido de Temporada</target>
+          <target>使用季節性內容</target>
         </segment>
       </unit>
       <unit id="EnableDithering">
         <segment state="translated">
           <source>Enable Dithering</source>
-          <target>Activar Tramado (Dithering)</target>
+          <target>啟用抖動處理</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.WeaponConvergence.Label">
         <segment state="translated">
           <source>Weapon Convergence</source>
-          <target>Convergencia de Armamento</target>
+          <target>武器交點會聚</target>
         </segment>
       </unit>
       <unit id="AudioSettings.MusicSource.MIDIDriver.Label">
         <segment state="translated">
           <source>MIDI Driver</source>
-          <target>Controlador MIDI</target>
+          <target>MIDI 驅動程式</target>
         </segment>
       </unit>
       <unit id="AudioSettings.MusicSource.MIDIDevice.Label">
         <segment state="translated">
           <source>MIDI Device</source>
-          <target>Dispositivo MIDI</target>
+          <target>MIDI 裝置</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.HideTargetSelectionBrackets.Label">
         <segment state="translated">
           <source>Hide Target Selection Brackets</source>
-          <target>Ocultar los Corchetes de Selección de Blanco</target>
+          <target>隱藏目標選取框括弧</target>
         </segment>
       </unit>
       <unit id="AudioSettings.MusicThemeTweaks.Label">
         <segment state="translated">
           <source>Musical Theme Tweaks</source>
-          <target>Reajustes a los Temas Musicales</target>
+          <target>音樂主題微調</target>
         </segment>
       </unit>
       <unit id="New Entry">
         <segment state="translated">
           <source>VR Controls</source>
-          <target>Controles de RV</target>
+          <target>VR 控制</target>
         </segment>
       </unit>
       <unit id="AudioSettings.VolumeAndSpeakers.MasterVolume.Label">
         <segment state="translated">
           <source>Master Volume</source>
-          <target>Volumen Maestro</target>
+          <target>主音量</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.ThrottleIncreaseStep.Label">
         <segment state="translated">
           <source>Throttle Increase/Decrease Step</source>
-          <target>Incremento/Decremento del Acelerador</target>
+          <target>節流閥增減步進值</target>
         </segment>
       </unit>
       <unit id="ControlSettings.NewInputSystemBinding.Binding.GazeCursorSelect.Label">
         <segment state="translated">
           <source>Gaze Cursor Select</source>
-          <target>Selección Cursor de Mirada</target>
+          <target>視線游標選取</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControlsSection.VRControls.Button.Label">
         <segment state="translated">
           <source>Remap VR Controls</source>
-          <target>Reasignar Controles RV</target>
+          <target>重新指派 VR 控制鍵</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControlsSection.VRControls.ResetButton.Label">
         <segment state="translated">
           <source>Reset</source>
-          <target>Restablecer</target>
+          <target>重設</target>
         </segment>
       </unit>
       <unit id="ControlSettings.ControlsSection.VRHandControls.Button.Label">
         <segment state="translated">
           <source>Allow VR Hand Controls when Gaze Cursor in use</source>
-          <target>Permitir Controles de Mano en RV cuando el Cursor de Mirada está en uso</target>
+          <target>使用視線游標時允許 VR 手部控制</target>
         </segment>
       </unit>
       <unit id="TelemetrySettings.EnableTelemetryToggle.Label">
         <segment state="translated">
           <source>Enable Telemetry Broadcasting</source>
-          <target>Activar la Emisión de Telemetría</target>
+          <target>啟用遙測資料廣播</target>
         </segment>
       </unit>
       <unit id="MainOptions.Telemetry">
         <segment state="translated">
           <source>Telemetry</source>
-          <target>Telemetría</target>
+          <target>遙測資料</target>
         </segment>
       </unit>
       <unit id="TelemetrySettings.BroadcastAddress">
         <segment state="translated">
           <source>Broadcast Address</source>
-          <target>Dirección de Emisión</target>
+          <target>廣播位址</target>
         </segment>
       </unit>
       <unit id="TelemetrySettings.BroadcastPort">
         <segment state="translated">
           <source>Broadcast Port</source>
-          <target>Puerto de Emisión</target>
+          <target>廣播連接埠</target>
         </segment>
       </unit>
       <unit id="TelemetrySettings.BroadcastInterval">
         <segment state="translated">
           <source>Broadcast Interval</source>
-          <target>Intervalo de Emisión</target>
+          <target>廣播間隔</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.DropWhenNoSelectionAhead.Label">
         <segment state="translated">
           <source>Drop Target When Nothing in Front to Be Targeted</source>
-          <target>Deseleccionar Blanco Cuando No Hay Nada Delante a Seleccionar</target>
+          <target>正前方無可鎖定目標時取消選取</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.IonDamageMitigation.Label">
         <segment state="translated">
           <source>Ion Damage Mitigation by Ship's Armor</source>
-          <target>Reducción de Daño por Iones por el Blindaje de la Nave</target>
+          <target>船艦裝甲減免離子傷害</target>
         </segment>
       </unit>
       <unit id="CameraSettings.Targeting.Label">
         <segment state="translated">
           <source>Targeting</source>
-          <target>Selección de Blancos</target>
+          <target>目標鎖定</target>
         </segment>
       </unit>
       <unit id="CameraSettings.SelectTargetAheadConeWidth.Label">
         <segment state="translated">
           <source>Select Target Ahead Cone Width</source>
-          <target>Seleccionar el Blanco Enfrente - Ancho del Cono</target>
+          <target>選取前方目標圓錐角寬度</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.CrossLinkedWeapons.Label">
         <segment state="translated">
           <source>Allow Cross-Linked Weapons</source>
-          <target>Permitir Vinculación Cruzada de Armas</target>
+          <target>允許跨類型武器聯動</target>
         </segment>
       </unit>
       <unit id="TelemetrySettings.TelemetryFormat.Label">
         <segment state="translated">
           <source>Format</source>
-          <target>Formato</target>
+          <target>格式</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.VirtualMFDScaling.Label">
         <segment state="translated">
           <source>Virtual MFDs scaling factor</source>
-          <target>Factor de Escalado de Pantallas Multifunción</target>
+          <target>虛擬多功能顯示幕縮放比例</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.VirtualCMDScaling.Label">
         <segment state="translated">
           <source>Virtual CMD scaling factor</source>
-          <target>Factor de Escalado de Pantalla Central</target>
+          <target>虛擬戰鬥多功能顯示器縮放比例</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.HomingWarning.Label">
         <segment state="translated">
           <source>Warhead Homing Warning Sound</source>
-          <target>Aviso Acústico de Rastreo de Ojivas</target>
+          <target>彈頭追蹤警示音</target>
         </segment>
       </unit>
       <unit id="GameSettings.CriticalAnnouncements.Label">
         <segment state="translated">
           <source>Mission Critical Craft Announcements</source>
-          <target>Anuncios de Nave Crítica de Misión</target>
+          <target>任務關鍵機艦語音通告</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.AnnounceFriendlies.Label">
         <segment state="translated">
           <source>Announce friendlies</source>
-          <target>Anunciar los Amistosos</target>
+          <target>通告友軍機艦</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.AnnounceNeutrals.Label">
         <segment state="translated">
           <source>Announce neutrals</source>
-          <target>Anunciar los Neutrales</target>
+          <target>通告中立機艦</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.AnnounceHostiles.Label">
         <segment state="translated">
           <source>Announce hostiles</source>
-          <target>Anunciar los Hostiles</target>
+          <target>通告敵方機艦</target>
         </segment>
       </unit>
       <unit id="GameSettings.GameplayPrefs.AnnouncementInterval.Label">
         <segment state="translated">
           <source>Minimum interval between status announcements</source>
-          <target>Intervalo Mínimo entre Anuncios de Estado</target>
+          <target>狀態通告最小間隔時間</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitles.Label">
         <segment state="translated">
           <source>Display cockpit interaction subtitles</source>
-          <target>Mostrar Subtítulos para Interacciones de Cabina</target>
+          <target>顯示座艙互動字幕</target>
         </segment>
       </unit>
       <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitlesAltFont.Label">
         <segment state="translated">
           <source>Use a different typography for interaction subtitles</source>
-          <target>Utilizar Tipografía Distinta para Subtítulos de Interacción</target>
+          <target>座艙互動字幕使用不同字型</target>
         </segment>
       </unit>    
       <unit id="DisplaySettings.VisualSettings.FramerateWarning.Label">
         <segment state="translated">
           <source>WARNING: Disabling both VSync and Limit Frame Rate at the same time might cause instability and crashes.</source>
-          <target>ATENCIÓN: Desactivar tanto VSync como Limitar Tasa de Refresco a la misma vez puede causar inestabilidad y cierres inesperados.</target>
+          <target>警告：同時關閉垂直同步與限制影格率可能會導致系統不穩定或遊戲當機。</target>
         </segment>
       </unit>    
 	  <unit id="AudioSettings.SubtitlesAndLanguage.Export.Label">
         <segment state="translated">
           <source>Export Original Game Strings</source>
-          <target>Exportar Cadenas de Texto Originales del Juego</target>
+          <target>匯出原版遊戲字串</target>
         </segment>
       </unit>
 
     <unit id="GameSettings.Header.TooltipTitle">
       <segment>
         <source>Game Library</source>
-        <target>Biblioteca de Juegos</target>
+        <target>遊戲庫</target>
       </segment>
     </unit>
     <unit id="GameSettings.Header.TooltipContent">
@@ -1415,15 +1409,15 @@ Tal vez debas instalar juegos a través de la Biblioteca de Juegos, o es posible
         <source>To make any changes or change the current game, select the Game Library button to leave the game and go to the Game Library.
 
 [[This will end the current game session. Unsaved progress will be lost.]]</source>
-        <target>Para realizar cambios o cambiar de juego activo, pulsa el botón de la Biblioteca de Juegos para abandonar el juego e ir a la Biblioteca de Juegos.
+        <target>若要進行任何變更或切換目前遊戲，請點選「遊戲庫」按鈕離開遊戲並前往遊戲庫。
 
-[[Esto finalizará la sesión en progreso. Los cambios no guardados se perderán.]]</target>
+[[這將會結束目前的遊戲進程。未儲存的進度將會遺失。]]</target>
       </segment>
     </unit>
     <unit id="GameSettings.ModelsAndDetailSection.Models.TooltipTitle">
       <segment>
         <source>Ship Models</source>
-        <target>Modelos de Naves</target>
+        <target>船艦模型</target>
       </segment>
     </unit>
     <unit id="GameSettings.ModelsAndDetailSection.Models.TooltipContent">
@@ -1431,39 +1425,39 @@ Tal vez debas instalar juegos a través de la Biblioteca de Juegos, o es posible
         <source>Select the type of ship models used in-game (where available).
 [[This setting is not available while in flight.]]
 [[Some model types may affect performance.]]</source>
-        <target>Escoge el tipo de modelos de naves a ser utilizados por el juego (si están disponibles).
-[[Este ajuste no está disponible durante el vuelo.]]
-[[Algunos tipos de modelos pueden afectar al rendimiento.]]</target>
+        <target>選擇遊戲中使用的艦船模型類型（若可用）。
+[[此設定在飛行中無法更改。]]
+[[部分模型類型可能會影響效能。]]</target>
       </segment>
     </unit>
     <unit id="GameSettings.ModelsAndDetailSection.DeathStarSurfaceDetail.TooltipTitle">
       <segment>
         <source>Death Star Surface Detail</source>
-        <target>Detalles de Superficie de la Estrella de la Muerte</target>
+        <target>死星表面細節</target>
       </segment>
     </unit>
     <unit id="GameSettings.ModelsAndDetailSection.DeathStarSurfaceDetail.TooltipContent">
       <segment>
         <source>Object clutter amount in Death Star surface.</source>
-        <target>Cantidad de objetos desperdigados sobre la superficie de la Estrella de la Muerte.</target>
+        <target>死星表面的物件散落豐富度。</target>
       </segment>
     </unit>
     <unit id="GameSettings.ModelsAndDetailSection.DeathStarTrenchDetail.TooltipTitle">
       <segment>
         <source>Death Star Trench Detail</source>
-        <target>Detalles de Trinchera de la Estrella de la Muerte</target>
+        <target>死星戰壕細節</target>
       </segment>
     </unit>
     <unit id="GameSettings.ModelsAndDetailSection.DeathStarTrenchDetail.TooltipContent">
       <segment>
         <source>Object clutter amount in Death Star trench.</source>
-        <target>Cantidad de objetos desperdigados en la trinchera de la Estrella de la Muerte.</target>
+        <target>死星戰壕內的物件散落豐富度。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.ContentType.TooltipTitle">
       <segment state="translated">
         <source>Preferred Content</source>
-        <target>Contenido Preferido</target>
+        <target>偏好內容</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.ContentType.TooltipContent">
@@ -1471,15 +1465,15 @@ Tal vez debas instalar juegos a través de la Biblioteca de Juegos, o es posible
         <source>Select the type of content to favour in-game.
 [[Classic]] will favour the original game content for characters and dialogue.
 [[XWVM Remastered]] will favour new characters and dialogue, such as the registration droid.</source>
-        <target>Escoge el tipo de contenido que se prefiere durante el juego.
-[[Clásico]] favorece el contenido original del juego para personajes y diálogo.
-[[Remasterizado por XWVM]] favorecerá nuevos personajes y diálogos, tales como el droide de registro.</target>
+        <target>選擇遊戲中偏好的內容風格。
+[[經典]] 將偏向原版遊戲的人物與對話內容。
+[[XWVM 復刻版]] 將偏向新的人物與對話，例如註冊機器人。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.CMDType.TooltipTitle">
       <segment state="translated">
         <source>CMD Type</source>
-        <target>Tipo de Computador de Objetivos</target>
+        <target>CMD 類型</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.CMDType.TooltipContent">
@@ -1488,16 +1482,16 @@ Tal vez debas instalar juegos a través de la Biblioteca de Juegos, o es posible
 [[Classic Graph]] is similar to the original X-Wing display, and does not display absolute values or order information. 
 [[TIE Fighter]] uses a display similar to TIE Fighter and later games.
 [[Classic Hybrid]] combines both styles.</source>
-        <target>Escoge el tipo de Computador de Objetivos que se mostrará.
-[[Barras Clásicas]] es similar a la pantalla original de X-wing, y no muestra valores absolutos o información de órdenes.
-[[TIE Fighter]] utiliza una pantalla similar a la de TIE Fighter y juegos posteriores.
-[[Híbrido Clásico]] combina ambos estilos.</target>
+        <target>選擇顯示的戰鬥多功能顯示器（CMD）樣式。
+[[經典長條圖]] 類似原版《X-Wing》顯示方式，不顯示絕對數值或指令資訊。
+[[TIE Fighter]] 採用類似《TIE Fighter》及後續遊戲的顯示方式。
+[[經典混合]] 結合兩種樣式。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.WeaponConvergence.TooltipTitle">
       <segment state="translated">
         <source>Weapon Convergence</source>
-        <target>Convergencia de Armamento</target>
+        <target>武器交點會聚</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.WeaponConvergence.TooltipContent">
@@ -1505,480 +1499,477 @@ Tal vez debas instalar juegos a través de la Biblioteca de Juegos, o es posible
         <source>Select the type of weapon convergence. 
 [[None]]: No weapon convergence. 
 [[Bullseye]]: Energy weapons converge on the target when the center of the HUD is aiming at the target lead.</source>
-        <target>Escoge el tipo de convergencia de armas.
-[[Ninguna]]: Sin convergencia de armas.
-[[Diana]]: Las armas de energía convergen sobre el objetivo cuando el centro de la mira apunta a donde el objetivo va a estar.</target>
+        <target>選擇武器交點會聚類型。
+[[無]]：無武器交點會聚。
+[[靶心]]：當抬頭顯示器正中心對準前置瞄準點時，能量武器將會聚於目標之上。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.CrossLinkedWeapons.TooltipTitle">
       <segment state="translated">
         <source>Allow Cross-linked Weapons</source>
-        <target>Permitir Entrelazado Cruzado de Armas</target>
+        <target>允許跨類型武器聯動</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.CrossLinkedWeapons.TooltipContent">
       <segment state="translated">
         <source>Ships with multiple energy cannon types can fire all of them at the same time as an additional linked-fire mode.</source>
-        <target>Naves con múltiples tipos de cañones de energía pueden disparar todos ellos a la vez como un modo adicional de fuego entrelazado.</target>
+        <target>配備多種能量砲類型的船艦可以同時發射所有能量砲，作為額外的聯動射擊模式。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.LockWarning.TooltipTitle">
       <segment state="translated">
         <source>Warhead Lock Warning Sound</source>
-        <target>Advertencia Sonora de Ojiva Fijada</target>
+        <target>彈頭鎖定警示音</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.LockWarning.TooltipContent">
       <segment state="translated">
         <source>Play a beeping sound when enemies are locking your ship.</source>
-        <target>Reproduce un bip intermitente cuando los enemigos están fijando tu nave.</target>
+        <target>當敵軍正在鎖定你的座機時發出蜂鳴嗶嗶聲。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.HomingWarning.TooltipTitle">
       <segment state="translated">
         <source>Warhead Homing Warning Sound</source>
-        <target>Aviso Acústico de Rastreo de Ojivas</target>
+        <target>彈頭追蹤警示音</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.HomingWarning.TooltipContent">
       <segment state="translated">
         <source>Play a warning sound while a warhead is homing onto your ship.</source>
-        <target>Reproduce un bip intermitente cuando una ojiva está rastreando tu nave.</target>
+        <target>當有導引彈頭正在飛向並追蹤你的座機時發出警示音。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.ScopeIcons.TooltipTitle">
       <segment state="translated">
         <source>Icons on Scopes</source>
-        <target>Iconos en los Radares</target>
+        <target>雷達螢幕圖示</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.ScopeIcons.TooltipContent">
       <segment state="translated">
         <source>When enabled, contacts on the radar scopes are represented by ship icons, rather than dots.</source>
-        <target>Al activarlo, los contactos en los radares son representados por iconos en lugar de puntos.</target>
+        <target>啟用時，雷達螢幕上的接觸目標將以艦船圖示表示，而非單純的圓點。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.Outline.TooltipTitle">
       <segment state="translated">
         <source>Selection Outline</source>
-        <target>Contorno de Selección</target>
+        <target>選取輪廓標示</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.Outline.TooltipContent">
       <segment state="translated">
         <source>When enabled, the targeted ship is shown with a highlighted outline.</source>
-        <target>Al activarlo, la nave seleccionada se muestra con un contorno resaltado.</target>
+        <target>啟用時，已鎖定的目標艦船將顯示醒目的高亮輪廓線。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.Cutscenes.TooltipTitle">
       <segment state="translated">
         <source>Play Transitions</source>
-        <target>Reproducir Transiciones</target>
+        <target>播放過場轉場動畫</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.Cutscenes.TooltipContent">
       <segment state="translated">
         <source>Play the transition cutscenes.
 Other cutscenes (campaign events, medals, etc.) will still play.</source>
-        <target>Reproduce las escenas de transición.
-Otras escenas (eventos de campaña, medallas, etc.) siempre se reproducen.</target>
+        <target>播放場景轉換時的過場動畫。
+其他過場動畫（戰役事件、授勳等）仍會正常播放。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.BlinkThreat.TooltipTitle">
       <segment state="translated">
         <source>Blinking Theat Indicators</source>
-        <target>Indicadores de Amenaza Parpadeantes</target>
+        <target>閃爍威脅指示器</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.BlinkThreat.TooltipContent">
       <segment state="translated">
         <source>Laser and turret threat indicators will blink.</source>
-        <target>Los indicadores de amenaza de láseres y torretas parpadearán.</target>
+        <target>雷射與砲塔威脅指示燈將會閃爍顯示。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.ExteriorHUD.TooltipTitle">
       <segment state="translated">
         <source>Show Exterior HUD</source>
-        <target>Mostrar Punto de Mira en Vista Exterior</target>
+        <target>顯示機外抬頭顯示器</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.ExteriorHUD.TooltipContent">
       <segment state="translated">
         <source>Display the targeting reticle while the exterior camera is on.</source>
-        <target>Muestra la mirilla de apuntado mientras la cámara exterior está activa.</target>
+        <target>在機外第三人稱視角時依然顯示瞄準準星。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.HideTargetSelectionBrackets.TooltipTitle">
       <segment state="translated">
         <source>Hide Target Selection Brackets</source>
-        <target>Ocultar los Corchetes de Selección de Blanco</target>
+        <target>隱藏目標選取框括弧</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.HideTargetSelectionBrackets.TooltipContent">
       <segment state="translated">
         <source>Hides the selections brackets UI indicator that appear around a target when it is selected.
 Some players prefer hiding this UI indicator for extra immersion.</source>
-        <target>Oculta el recuadro indicador de la interfaz que aparece alrededor de un objetivo cuando está seleccionado.
-Algunos jugadores prefieren ocultar este indicador de la interfaz para mayor inmersión.</target>
+        <target>隱藏選取目標時環繞在目標周圍的方框 UI 指示器。
+部分玩家偏好隱藏此 UI 指示器以獲得更高的沉浸感。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.DropWhenNoSelectionAhead.TooltipTitle">
       <segment state="translated">
         <source>Drop Target When Nothing in Front to Be Targeted</source>
-        <target>Deseleccionar Objetivo Cuando No Hay Nada Enfrente a Seleccionar</target>
+        <target>正前方無可鎖定目標時取消選取</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.DropWhenNoSelectionAhead.TooltipContent">
       <segment state="translated">
         <source>If this setting is active, when using the "Select Target In Front" action, if there is nothing to target, the targeting computer will remove its current target.</source>
-        <target>Si este ajuste está activo, al utilizar la acción de "Seleccionar Objetivo Enfrente", si no hay nada que seleccionar, el computador de objetivos deseleccionará el objetivo actual.</target>
+        <target>若啟用此設定，當使用「選取正前方目標」動作且前方無任何目標時，目標電腦將取消當前的鎖定目標。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.SeasonalContent.TooltipTitle">
       <segment state="translated">
         <source>Set Seasonal Content</source>
-        <target>Utilizar Contenido de Temporada</target>
+        <target>設定季節性內容</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.SeasonalContent.TooltipContent">
       <segment state="translated">
         <source>Display some additional effects depending on the date.</source>
-        <target>Muestra ciertos efectos adicionales dependiendo de la fecha.</target>
+        <target>根據現實日期顯示特定的節慶額外效果。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.ProjectileLimit.TooltipTitle">
       <segment state="translated">
         <source>AI Projectile Limit</source>
-        <target>Límite a los Proyectiles de la IA</target>
+        <target>AI 彈藥投射物上限</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.ProjectileLimit.TooltipContent">
       <segment state="translated">
         <source>Optionally increase the limit of total AI projectiles that can be active at any one time. [[Affects game balance.]]</source>
-        <target>Opcionalmente aumenta el límite total de proyectiles de la IA que pueden existir a la vez.
-[[Afecta al equilibrio del juego.]]</target>
+        <target>可自選提高戰場上同時存在的 AI 彈藥投射物總數上限。[[影響遊戲平衡。]]</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.CraftLimit.TooltipTitle">
       <segment state="translated">
         <source>Craft Limit</source>
-        <target>Límite al Número de Naves</target>
+        <target>機艦上限</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.CraftLimit.TooltipContent">
       <segment state="translated">
         <source>Optionally increase the limit of total craft that can be active at any one time. [[Affects game balance.]]</source>
-        <target>Opcionalmente aumenta el límite total de naves que pueden estar activas a la vez. [[Afecta al balance del juego.]]</target>
+        <target>可自選提高戰場上同時存在的機艦總數上限。[[影響遊戲平衡。]]</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.LaserMultiplier.TooltipTitle">
       <segment state="translated">
         <source>Cinematic Laser Multiplier</source>
-        <target>Multiplicador para Láseres Peliculeros del Jugador</target>
+        <target>電影效果雷射倍率</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.LaserMultiplier.TooltipContent">
       <segment state="translated">
         <source>Optionally increase the fire rate of the player's lasers to make them feel more like in other media. It accordingly reduces damage by the same amount, to maintain the game balance. [[Might affect mission balance]]</source>
-        <target>Opcionalmente aumenta la tasa de disparo de los láseres del jugador para hacer que se parezcan más a los de series y películas. Al mismo tiempo, reduce el daño proporcionalmente para mantener el equilibrio del juego. [[Puede afectar al equilibrio del juego.]]</target>
+        <target>可自選提高玩家雷射的射速，使其更貼近電影與影集中的感覺。同時會等比例降低單發傷害以維持遊戲平衡。[[可能影響任務平衡]]</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.FacingAssistAngle.TooltipTitle">
       <segment state="translated">
         <source>Facing Assist Precision</source>
-        <target>Precisión de la Asistencia de Dirección</target>
+        <target>朝向輔助轉向精準度</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.FacingAssistAngle.TooltipContent">
       <segment state="translated">
         <source>Determines how precisely the ship turns when the Face Target binding is held. [[This setting is provided for accessibility reasons. Might affect mission balance]]</source>
-        <target>Determina con cuánta precisión la nave gira cuando se pulsa la acción de Enfrentarse al Objetivo. [[Este ajuste se ofrece por motivos de accesibilidad. Puede afectar al equilibrio del juego.]]</target>
+        <target>決定按住「面向目標」按鍵時戰機轉向的精準程度。[[此設定係基於無障礙輔助考量而提供。可能影響任務平衡]]</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.ThrottleIncreaseStep.TooltipTitle">
       <segment state="translated">
         <source>Throttle Increase/Decrease Step</source>
-        <target>Incremento/Decremento del Acelerador</target>
+        <target>節流閥增減步進值</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.ThrottleIncreaseStep.TooltipContent">
       <segment state="translated">
         <source>Determines how much (in percentage) does the throttle go up or down when the control for increasing or decreasing Throttle is held or pressed.
 For low values, the throttle will increase or decrease for as long as the control is held down. For larger values, the control will only increase one step per keystroke.</source>
-        <target>Determina cuando aumenta o se reduce el nivel del acelerador (en porcentaje) cuando se pulsa o se mantiene pulsado el control del acelerador. 
-Para valores pequeños, el acelerador se incrementará o reducirá continuamente mientras el control se mantenga pulsado. Para valores mayores, el control sólo responderá a pulsaciones individuales.</target>
+        <target>決定按住或按下節流閥增加／減少鍵時，節流閥上升或下降的百分比幅度。
+數值較小時，只要按住按鍵節流閥就會持續增減；數值較大時，每按一次按鍵僅會調整一個固定步進幅度。</target>
       </segment>
     </unit>
     <unit id="GameSettings.CheatsSection.Collisions.Tooltip.Content.TooltipTitle">
       <segment state="translated">
         <source>Disable Collisions</source>
-        <target>Desactivar Colisiones</target>
+        <target>停用碰撞</target>
       </segment>
     </unit>
     <unit id="GameSettings.CheatsSection.Collisions.Tooltip.Content.TooltipContent">
       <segment state="translated">
         <source>Toggle player collisions with other craft.
 [[Counts as cheating.]]</source>
-        <target>Activa o desactiva las colisiones entre el jugador y otras naves.
-[[Cuenta como usar trucos.]]</target>
+        <target>切換玩家座機與其他機艦之間的碰撞判定。
+[[視同作弊。]]</target>
       </segment>
     </unit>
     <unit id="GameSettings.CheatsSection.UnlimitedWeapons.Tooltip.Title.TooltipTitle">
       <segment state="translated">
         <source>Unlimited Weapons</source>
-        <target>Armamento Ilimitado</target>
+        <target>無限彈藥武器</target>
       </segment>
     </unit>
     <unit id="GameSettings.CheatsSection.UnlimitedWeapons.Tooltip.Title.TooltipContent">
       <segment state="translated">
         <source>Toggle unlimited player weapons.
 [[Counts as cheating.]]</source>
-        <target>Activa o desactiva armamento ilimitado para el jugador.
-[[Cuenta como usar trucos.]]</target>
+        <target>切換玩家無限彈藥武器。
+[[視同作弊。]]</target>
       </segment>
     </unit>
     <unit id="GameSettings.CheatsSection.Invulnerability.TooltipTitle">
       <segment state="translated">
         <source>Invulnerability</source>
-        <target>Invulnerabilidad.</target>
+        <target>無敵狀態</target>
       </segment>
     </unit>
     <unit id="GameSettings.CheatsSection.Invulnerability.TooltipContent">
       <segment state="translated">
         <source>Toggle player invulnerability.
 [[Counts as cheating.]]</source>
-        <target>Activa o desactiva la invulnerabilidad del jugador.
-[[Cuenta como usar trucos.]]</target>
+        <target>切換玩家無敵狀態。
+[[視同作弊。]]</target>
       </segment>
     </unit>
     <unit id="GameSettings.CheatsSection.UnlockedArmoury.TooltipTitle">
       <segment state="translated">
         <source>Unlocked Armoury</source>
-        <target>Arsenal Desbloqueado</target>
+        <target>解除軍械庫鎖定</target>
       </segment>
     </unit>
     <unit id="GameSettings.CheatsSection.UnlockedArmoury.TooltipContent">
       <segment state="translated">
         <source>Craft selection and weapon configuration can be changed.
 [[Counts as cheating.]]</source>
-        <target>Se puede cambiar de nave o la configuración de armamento.
-[[Cuenta como usar trucos.]]</target>
+        <target>可自由更換座機選擇與武器配置。
+[[視同作弊。]]</target>
       </segment>
     </unit>
     <unit id="GameSettings.DifficultySection.BalancedEnergyTransfer.TooltipTitle">
       <segment state="translated">
         <source>Balanced Laser/Shield Energy Transfer</source>
-        <target>Equilibrado de la Transferencia de Energía entre Láseres y Escudos</target>
+        <target>平衡雷射／護盾能量轉移</target>
       </segment>
     </unit>
     <unit id="GameSettings.DifficultySection.BalancedEnergyTransfer.TooltipContent">
       <segment state="translated">
         <source>Lasers usually recharge much faster than shields, but you can transfer energy from lasers to shields to recharge shields as fast as lasers. Enabling this setting removes that advantage of lasers over shields, and transferring energy between laser and shields will be balanced.</source>
-        <target>Los láseres normalmente se recargan mucho más rápido que los escudos, pero puedes transferir energía de los láseres a los escudos para recargar los escudos tan rápido como los láseres.
-Activar este ajuste elimina esta ventaja que tienen los láseres sobre los escudos, y transferir energía entre láseres y escudos se equilibra.</target>
+        <target>雷射的充能速度通常遠快於護盾，但玩家可將能量從雷射轉移至護盾以達到快速充能。啟用此設定將移除雷射相對於護盾的這項優勢，使兩者之間的能量轉移更為平衡。</target>
       </segment>
     </unit>
     <unit id="GameSettings.DifficultySection.RemoveEnemyFirepowerDebuff.TooltipTitle">
       <segment state="translated">
         <source>Remove Enemy Firepower Debuff</source>
-        <target>Eliminar Reducción de Potencia de Fuego Enemiga</target>
+        <target>移除敵軍火力減弱懲罰</target>
       </segment>
     </unit>
     <unit id="GameSettings.DifficultySection.RemoveEnemyFirepowerDebuff.TooltipContent">
       <segment state="translated">
         <source>Enemy firepower is usually debuffed to always shoot underpowered lasers, regardless of their actual charge level. This setting removes that debuff.</source>
-        <target>La potencia de fuego del enemigo está normalmente reducida para que siempre disparen láseres débiles, sin importar el nivel de carga de sus naves.
-Este ajuste elimina esa reducción.</target>
+        <target>原版中敵軍火力通常受到減弱，無論其武器實際充能等級為何，發射的雷射威力皆偏低。此設定將移除該減弱懲罰。</target>
       </segment>
     </unit>
     <unit id="GameSettings.DifficultySection.PromoteEnemyAiRank.TooltipTitle">
       <segment state="translated">
         <source>Promote Enemy AI Rank</source>
-        <target>Aumentar Veteranía de la IA Enemiga</target>
+        <target>提升敵軍 AI 軍階等級</target>
       </segment>
     </unit>
     <unit id="GameSettings.DifficultySection.PromoteEnemyAiRank.TooltipContent">
       <segment state="translated">
         <source>All enemy AI is promoted to Top Ace.</source>
-        <target>Toda la IA enemiga asciende a As de Ases.</target>
+        <target>所有敵軍 AI 皆提升至「頂尖王牌」（Top Ace）水準。</target>
       </segment>
     </unit>
     <unit id="GameSettings.DifficultySection.PromoteEnemyShipTypes.TooltipTitle">
       <segment state="translated">
         <source>Promote Enemy Ship Types</source>
-        <target>Mejorar los Tipos de Nave del Enemigo</target>
+        <target>升級敵軍艦船型號</target>
       </segment>
     </unit>
     <unit id="GameSettings.DifficultySection.PromoteEnemyShipTypes.TooltipContent">
       <segment state="translated">
         <source>Some enemy ships are upgraded to different, more challenging models.</source>
-        <target>Algunas naves enemigas son ascendidas a otros modelos distintos, más difíciles.</target>
+        <target>部分敵方艦船將升級為不同且更具挑戰性的先進型號。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.RandomSpecial.TooltipTitle">
       <segment state="translated">
         <source>Randomize Special Craft</source>
-        <target>Aleatorizar Nave Especial</target>
+        <target>隨機特殊機艦</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.RandomSpecial.TooltipContent">
       <segment state="translated">
         <source>When enabled, the special craft in flight groups will be random, instead of the same every time. This may affect mission compatibility in some circumstances.</source>
-        <target>Al activar esto, la nave especial de los grupos de vuelo es aleatoria en lugar de la misma en cada intento. Esto puede afectar a la compatibilidad de las misiones bajo ciertas circunstancias.</target>
+        <target>啟用時，編隊中的特殊艦船將會隨機指派，而非每次都完全相同。在某些情況下可能會影響任務相容性。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.IonDamageMitigation.TooltipTitle">
       <segment state="translated">
         <source>Ion Damage Mitigation by Ship's Armor</source>
-        <target>Reducción de Daño por Iones por el Blindaje de la Nave</target>
+        <target>船艦裝甲減免離子傷害</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.IonDamageMitigation.TooltipContent">
       <segment state="translated">
         <source>When enabled, the armor of the craft will mitigate incoming ion damage applied on the craft's systems (when the shields are already down).\nFreighter-class craft will reduce ion damage to 1/4th.\nFrigate-class craft will reduce it to 1/16th.</source>
-        <target>Al activar esto, el blindaje de la nave mitigará el daño entrante de iones que se aplica a los sistemas de la nave (cuando los escudos ya estén caídos).
-Naves de clase carguero reducen el daño a 1/4.
-Naves de clase fragata reducen el daño a 1/16.</target>
+        <target>啟用時，當護盾耗盡後，船艦的機體裝甲將減免施加於船艦系統上的離子傷害。
+貨船級機艦將把離子傷害降至 1/4。
+巡防艦級機艦將把離子傷害降至 1/16。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.AnnounceFriendlies.TooltipTitle">
       <segment state="translated">
         <source>Announce Friendly Mission Critical Craft Status</source>
-        <target>Anuncios de Nave Aliada Crítica de Misión</target>
+        <target>通告友軍關鍵機艦狀態</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.AnnounceFriendlies.TooltipContent">
       <segment state="translated">
         <source>When enabled, while playing with XWVM custom content, you will hear announcements about the status changes of friendly craft that are mission objectives.</source>
-        <target>Al activarse, mientras se juega con contenido de XWVM, se escucharán anuncios sobre el cambio de estado de naves amistosas que son objetivos de misión.</target>
+        <target>啟用後，在遊玩 XWVM 自訂內容時，若屬於任務目標的友軍機艦狀態發生變化，你將會聽到語音廣播通告。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.AnnounceNeutrals.TooltipTitle">
       <segment state="translated">
         <source>Announce Neutral Mission Critical Craft Status</source>
-        <target>Anuncios de Nave Neutral Crítica de Misión</target>
+        <target>通告中立關鍵機艦狀態</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.AnnounceNeutrals.TooltipContent">
       <segment state="translated">
         <source>When enabled, while playing with XWVM custom content, you will hear announcements about the status changes of neutral craft that are mission objectives.</source>
-        <target>Al activarse, mientras se juega con contenido de XWVM, se escucharán anuncios sobre el cambio de estado de naves neutrales que son objetivos de misión.</target>
+        <target>啟用後，在遊玩 XWVM 自訂內容時，若屬於任務目標的中立機艦狀態發生變化，你將會聽到語音廣播通告。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.AnnounceHostiles.TooltipTitle">
       <segment state="translated">
         <source>Announce Hostile Mission Critical Craft Status</source>
-        <target>Anuncios de Nave Hostil Crítica de Misión</target>
+        <target>通告敵方關鍵機艦狀態</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.AnnounceHostiles.TooltipContent">
       <segment state="translated">
         <source>When enabled, while playing with XWVM custom content, you will hear announcements about the status changes of hostile craft that are mission objectives.</source>
-        <target>Al activarse, mientras se juega con contenido de XWVM, se escucharán anuncios sobre el cambio de estado de naves hostiles que son objetivos de misión.</target>
+        <target>啟用後，在遊玩 XWVM 自訂內容時，若屬於任務目標的敵方機艦狀態發生變化，你將會聽到語音廣播通告。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.AnnouncementInterval.TooltipTitle">
       <segment state="translated">
         <source>Minimum Interval between Status Announcements</source>
-        <target>Intervalo Mínimo entre Anuncios de Estado</target>
+        <target>狀態通告最小間隔時間</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.AnnouncementInterval.TooltipContent">
       <segment state="translated">
         <source>When using custom XWVM content, the game will wait at least this amount of time between status announcements for the same ship.
 The game will always announce the destruction of a ship, however.</source>
-        <target>Al usar contenido de XWVM, el juego esperará al menos esta cantidad de tiempo entre anuncios de estado para la misma nave.
-El juego siempre anunciará la destrucción de una nave, en cualquier caso.</target>
+        <target>使用自訂 XWVM 內容時，同一艘船艦的兩次狀態通告之間至少需間隔此設定的時間。
+不過，船艦遭到摧毀時必定會立即通告。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.MasterVolume.TooltipTitle">
       <segment state="translated">
         <source>Master Volume</source>
-        <target>Volumen Maestro</target>
+        <target>主音量</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.MasterVolume.TooltipContent">
       <segment state="translated">
         <source>Adjusts the volume of the game in general.</source>
-        <target>Ajusta el volumen del juego en general.</target>
+        <target>調整遊戲的整體音量。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.MusicVolume.TooltipTitle">
       <segment state="translated">
         <source>Music Volume</source>
-        <target>Volumen de la Música</target>
+        <target>音樂音量</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.MusicVolume.TooltipContent">
       <segment state="translated">
         <source>Adjust the volume of music throughout the concourse and in flight.</source>
-        <target>Ajusta el volumen de la música en la cubierta central y durante el vuelo.</target>
+        <target>調整簡報大廳與飛行過程中的音樂音量。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.SfxVolume.TooltipTitle">
       <segment state="translated">
         <source>SFX Volume</source>
-        <target>Volumen de los Efectos</target>
+        <target>音效音量</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.SfxVolume.TooltipContent">
       <segment state="translated">
         <source>Adjust the volume of sound effects throughout the concourse and in flight.</source>
-        <target>Ajusta el volumen de los efectos de sonido en la cubierta central y durante el vuelo.</target>
+        <target>調整簡報大廳與飛行過程中的音效音量。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.EngineVolume.TooltipTitle">
       <segment state="translated">
         <source>Engine Volume</source>
-        <target>Volumen de los Motores</target>
+        <target>引擎音量</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.EngineVolume.TooltipContent">
       <segment state="translated">
         <source>Adjust the volume of engine noise in flight.</source>
-        <target>Ajusta el volumen del ruido de motores durante el vuelo.</target>
+        <target>調整飛行過程中的引擎噪音音量。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.VoiceVolume.TooltipTitle">
       <segment state="translated">
         <source>Voice Volume</source>
-        <target>Volumen de las Voces</target>
+        <target>語音音量</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.VoiceVolume.TooltipContent">
       <segment state="translated">
         <source>Adjust the volume of voices throughout the concourse and in flight.</source>
-        <target>Ajusta el volumen de las voces en la cubierta central y durante el vuelo.</target>
+        <target>調整簡報大廳與飛行過程中的語音音量。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.AudioDucking.TooltipTitle">
       <segment state="translated">
         <source>Auto Ducking</source>
-        <target>Atenuación automática</target>
+        <target>自動避讓</target>
       </segment>
     </unit>
     <unit id="AudioSettings.AudioDucking.TooltipContent">
       <segment state="translated">
         <source>Prioritise voice by automatically lowering the volume of music and engines during speech.</source>
-        <target>Prioriza las voces reduciendo el volumen de la música y los motores mientras alguien habla.</target>
+        <target>優先保留語音清晰度，在對話播放時自動降低音樂與引擎的音量。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.Speakers.TooltipTitle">
       <segment state="translated">
         <source>Speakers</source>
-        <target>Altavoces</target>
+        <target>揚聲器</target>
       </segment>
     </unit>
     <unit id="AudioSettings.VolumeAndSpeakers.Speakers.TooltipContent">
       <segment state="translated">
         <source>Select the number / configuration of speakers for XWVM to use.</source>
-        <target>Escoge la cantidad y configuración de los altavoces para el uso de XWVM.</target>
+        <target>選擇供 XWVM 使用的揚聲器聲道數量與配置。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.SubtitlesAndLanguage.Subtitles.TooltipTitle">
       <segment state="translated">
         <source>Subtitle Mode</source>
-        <target>Modo de Subtítulos</target>
+        <target>字幕模式</target>
       </segment>
     </unit>
     <unit id="AudioSettings.SubtitlesAndLanguage.Subtitles.TooltipContent">
@@ -1988,482 +1979,475 @@ El juego siempre anunciará la destrucción de una nave, en cualquier caso.</tar
 [[Off]] - No subtitles are shown.
 [[Dialogue only]] - Only subtitles for spoken dialogue are shown.
 [[All]] - Show all subtitles, including non-speech events like R2 messages.</source>
-        <target>Escoge el modo actual de subtítulos mostrados durante el vuelo.
+        <target>選擇飛行過程中顯示的字幕模式。
 
-[[Desactivados]] - No se muestran subtítulos.
-[[Sólo Diálogos]] - Sólo mostrar subtítulos para diálogos hablados.
-[[Todos]] - Mostrar todos los subtítulos, incluyendo eventos no hablados, como los mensajes del astromecánico.</target>
+[[關閉]] - 不顯示任何字幕。
+[[僅對話]] - 僅顯示語音對話的字幕。
+[[全部]] - 顯示所有字幕，包含如 R2 機器人通訊等非語音事件。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.SubtitlesAndLanguage.Language.TooltipTitle">
       <segment state="translated">
         <source>Language</source>
-        <target>Idioma</target>
+        <target>語言</target>
       </segment>
     </unit>
     <unit id="AudioSettings.SubtitlesAndLanguage.Language.TooltipContent">
       <segment state="translated">
         <source>Select the language to be used by XWVM.</source>
-        <target>Escoge el idioma que se usará para XWVM.</target>
+        <target>選擇 XWVM 所使用的語言。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.SubtitlesAndLanguage.Export.TooltipTitle">
       <segment state="translated">
         <source>Export Original String Data</source>
-        <target>Exportar Datos de Textos Originales</target>
+        <target>匯出原始字串資料</target>
       </segment>
     </unit>
     <unit id="AudioSettings.SubtitlesAndLanguage.Export.TooltipContent">
       <segment state="translated">
         <source>Exports the original string data from your installation of the registered game into XLIFF files at (your user data folder)/XWVM/Localization.</source>
-        <target>Exporta los datos de texto originales desde tu instalación del juego registrado a ficheros en formato XLIFF en (carpeta de datos de tu usuario)/XWVM/Localization.</target>
+        <target>將已註冊遊戲安裝目錄中的原始字串資料匯出為 XLIFF 檔案，儲存於（你的使用者資料夾）/XWVM/Localization。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicThemeTweaks.TooltipTitle">
       <segment state="translated">
         <source>Musical Theme Tweaks</source>
-        <target>Reajustes a los Temas Musicales</target>
+        <target>音樂主題微調</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicThemeTweaks.TooltipContent">
       <segment state="translated">
         <source>Reuses some themes for different situations. For example, in X-Wing, the Death Star theme will play when close to an enemy capital ship.</source>
-        <target>Reutiliza algunos temas musicales en situaciones diferentes. Por ejemplo, en X-wing se empleará el tema de la Estrella de la Muerte cuando se esté volando cerca de una nave capital enemiga.</target>
+        <target>針對不同情境重複調用特定音樂主題。例如在《X-Wing》中，當接近敵方主力艦時將播放死星主題曲。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicSource.MusicSource.TooltipTitle">
       <segment state="translated">
         <source>Music Source</source>
-        <target>Origen de la Música</target>
+        <target>音樂來源</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicSource.MusicSource.TooltipContent">
       <segment state="translated">
         <source>Choose the source of music used by XWVM, where available.</source>
-        <target>Escoge el origen de la música utilizada por XWVM, si está disponible.</target>
+        <target>選擇 XWVM 所使用的音樂來源（若可用）。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicSource.MIDIDriver.TooltipTitle">
       <segment state="translated">
         <source>MIDI Driver</source>
-        <target>Controlador MIDI</target>
+        <target>MIDI 驅動程式</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicSource.MIDIDriver.TooltipContent">
       <segment state="translated">
         <source>Choose the output driver used with realtime MIDI music</source>
-        <target>Escoge el controlador de salida empleado para la reproducción de música MIDI en tiempo real.</target>
+        <target>選擇搭配即時 MIDI 音樂所使用的輸出驅動程式。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicSource.MIDIFormat.TooltipTitle">
       <segment state="translated">
         <source>MIDI Synth Format</source>
-        <target>Formato de Sintetización MIDI</target>
+        <target>MIDI 合成格式</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicSource.MIDIFormat.TooltipContent">
       <segment state="translated">
         <source>Choose the format of the MIDI synthesised soundtrack, if available.</source>
-        <target>Escoge el formato de la banda sonora sintetizada MIDI, si está disponible.</target>
+        <target>選擇 MIDI 合成原聲帶的格式（若可用）。</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicSource.MIDIDevice.TooltipTitle">
       <segment state="translated">
         <source>MIDI Output Device</source>
-        <target>Dispositivo de Salida MIDI</target>
+        <target>MIDI 輸出裝置</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicSource.MIDIDevice.TooltipContent">
       <segment state="translated">
         <source>Choose the MIDI port external MIDI commands are sent to. [[(Windows only)]]</source>
-        <target>Escoge el puerto MIDI al que se envían los comandos MIDI externos. [[(Sólo en Windows)]]</target>
+        <target>選擇外部 MIDI 指令所發送的 MIDI 連接埠。[[（僅限 Windows）]]</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicSource.UseSoundfont.TooltipTitle">
       <segment state="translated">
         <source>Use external soundfont</source>
-        <target>Utilizar SoundFont Externa</target>
+        <target>使用外部 SoundFont</target>
       </segment>
     </unit>
     <unit id="AudioSettings.MusicSource.UseSoundfont.TooltipContent">
       <segment state="translated">
         <source>Enable to allow use of an external soundfont.</source>
-        <target>Permite el uso de una soundfont externa.</target>
+        <target>啟用以允許使用外部 SoundFont 聲音音色庫。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.Memory.VideoMemory.TooltipTitle">
       <segment state="translated">
         <source>Video Memory Usage</source>
-        <target>Uso de Memoria de Vídeo</target>
+        <target>視訊記憶體用量</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.Memory.VideoMemory.TooltipContent">
       <segment state="translated">
         <source>The estimated amount of video memory used by XWVM.
 [[Please note that this value may not always be accurate.]]</source>
-        <target>La cantidad estimada de memoria de vídeo empleada por XWVM.
-[[Por favor, ten presente que este valor no siempre es preciso.]]</target>
+        <target>XWVM 預估使用的視訊記憶體量。
+[[請注意，此數值可能不完全精確。]]</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.Memory.SystemMemory.TooltipTitle">
       <segment state="translated">
         <source>System Memory Usage</source>
-        <target>Uso de Memoria del Sistema</target>
+        <target>系統記憶體用量</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.Memory.SystemMemory.TooltipContent">
       <segment state="translated">
         <source>The estimated amount of system memory used by XWVM.
 This does not include memory used by other applications.</source>
-        <target>La cantidad estimada de memoria del sistema usada por XWVM.
-Esto no incluye memoria empleada por otras aplicaciones.</target>
+        <target>XWVM 預估使用的系統記憶體量。
+此數值不包含其他應用程式所使用的記憶體。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Resolution.TooltipTitle">
       <segment state="translated">
         <source>Rendering Resolution</source>
-        <target>Resolución de Renderizado</target>
+        <target>彩現解析度</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Resolution.TooltipContent">
       <segment state="translated">
         <source>Choose the resolution to be used for rendering the game. 
 [[Higher values may affect performance.]]</source>
-        <target>Escoge la resolución a usar para renderizar el juego.
-[[Valores mayores pueden afectar al rendimiento.]]</target>
+        <target>選擇用於彩現遊戲的解析度。
+[[較高的數值可能會影響效能。]]</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Fullscreen.TooltipTitle">
       <segment state="translated">
         <source>Full screen</source>
-        <target>Pantalla completa</target>
+        <target>全螢幕</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Fullscreen.TooltipContent">
       <segment state="translated">
         <source>Display mode (Full screen vs Windowed)</source>
-        <target>Modo de presentación (Pantalla Completa o En Ventana)</target>
+        <target>顯示模式（全螢幕或視窗化）</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.FullscreenMode.TooltipTitle">
       <segment state="translated">
         <source>Full screen Mode (Windows only)</source>
-        <target>Modo Pantalla Completa (sólo Windows)</target>
+        <target>全螢幕模式（僅限 Windows）</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.FullscreenMode.TooltipContent">
       <segment state="translated">
         <source>Enable to use Exclusive Fullscreen Mode, otherwise Fullscreen Window mode will be used (borderless). Enable this option if using adaptive refresh rates.</source>
-        <target>Activa el modo Pantalla Completa Exclusiva. De lo contrario se empleará el modo Ventana Sin Bordes a Pantalla Completa. 
-Activa esta opción si se usan tasas de refresco adaptativas.</target>
+        <target>啟用以使用獨佔全螢幕模式，否則將使用無邊框視窗全螢幕模式。若使用可變更新率螢幕，建議啟用此選項。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.VSync.TooltipTitle">
       <segment state="translated">
         <source>VSync</source>
-        <target>Sincronización de Refresco (VSync)</target>
+        <target>垂直同步</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.VSync.TooltipContent">
       <segment state="translated">
         <source>Adjust VSync settings. If using adaptive refresh rates, set this to off.</source>
-        <target>Ajusta la configuración del VSync.
-Si se usa tasas de refresco adaptativas, desactiva esta opción.</target>
+        <target>調整垂直同步設定。若使用可變更新率螢幕，請將此項關閉。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.TooltipTitle">
       <segment state="translated">
         <source>Dynamic Resolution</source>
-        <target>Resolución Dinámica</target>
+        <target>動態解析度</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.TooltipContent">
       <segment state="translated">
         <source>Manage the screen rendering resolution to use scaling and/or AI techniques for greater visual quality and performance.
 DLSS is available on nVidia RTX and Windows only, other cards will use an alternative upscaling mechanism. Note: DLSS support is experimental.</source>
-        <target>Selecciona que la resolución de renderizado use escalado y/o técnicas IA para mayor calidad gráfica y rendimiento.
-DLSS está disponible sólo para nVidia RTX y Windows. Otro hardware usarán mecanismos de reescalado alternativos.
-Ten presente que el soporte de DLSS es experimental.</target>
+        <target>管理畫面彩現解析度，利用縮放及／或人工智慧技術以獲得更佳的視覺品質與效能。
+DLSS 僅支援 Windows 與 nVidia RTX 顯示卡，其他顯示卡將採用替代的升頻機制。注意：DLSS 支援目前仍為實驗性質。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.STPQuality.TooltipTitle">
       <segment state="translated">
         <source>STP Quality</source>
-        <target>Calidad STP</target>
+        <target>STP 品質</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.STPQuality.TooltipContent">
       <segment state="translated">
         <source>If STP is enabled, select the image quality used. Higher values may affect performance.</source>
-        <target>Si STP está activo, selecciona la calidad de imagen empleada. Valores mayores pueden afectar al rendimiento.</target>
+        <target>若啟用 STP，請選擇所使用的影像品質。較高的數值可能會影響效能。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.DLSSQuality.TooltipTitle">
       <segment state="translated">
         <source>DLSS Quality</source>
-        <target>Calidad DLSS</target>
+        <target>DLSS 品質</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.DLSSQuality.TooltipContent">
       <segment state="translated">
         <source>If DLSS is enabled, select the desired image quality setting. Higher settings may affect performance.
 (nVidia RTX only)</source>
-        <target>Si DLSS está activo, selecciona la calidad de imagen deseada. Valores mayores pueden afectar al rendimiento.
-(Sólo nVidia RTX)</target>
+        <target>若啟用 DLSS，請選擇所需的影像品質設定。較高的設定可能會影響效能。
+（僅限 nVidia RTX）</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.LimitFrames.TooltipTitle">
       <segment state="translated">
         <source>Limit Frame Rate</source>
-        <target>Limitar Tasa de Refresco</target>
+        <target>限制影格率</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.LimitFrames.TooltipContent">
       <segment state="translated">
         <source>Choose whether to enable frame rate limiting and the target FPS. Please note that the achieved FPS may vary.
 Only available when VSync is off.</source>
-        <target>Escoge si activar la limitación de la tasa de refresco y los FPS objetivo.
-Ten presente que los FPS alcanzados pueden variar.
-Sólo disponible cuando VSync está desactivado.</target>
+        <target>選擇是否啟用影格率限制以及目標 FPS。請注意實際達到的 FPS 可能會有所浮動。
+僅在關閉垂直同步時可用。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.QualityMode.TooltipTitle">
       <segment state="translated">
         <source>Quality Settings</source>
-        <target>Ajustes de Calidad</target>
+        <target>品質設定</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.QualityMode.TooltipContent">
       <segment state="translated">
         <source>Set the baseline graphics quality appropriate for your system.
 [[Higher values may affect performance.]]</source>
-        <target>Establece la calidad base apropiada para tu sistema.
-[[Valores mayores pueden afectar al rendimiento.]]</target>
+        <target>設定適合你系統硬體的基礎畫面品質。
+[[較高的數值可能會影響效能。]]</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.MSAA.TooltipTitle">
       <segment state="translated">
         <source>Multi-Sample Anti-Aliasing</source>
-        <target>Suavizado Multi-Muestra (MSAA)</target>
+        <target>多重取樣反鋸齒（MSAA）</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.MSAA.TooltipContent">
       <segment state="translated">
         <source>Select the level of MSAA applied to the image.
 [[Available for High and Ludicrous quality only.]]</source>
-        <target>Escoge el nivel de MSAA aplicado a la imagen.
-[[Sólo disponible en calidades Alta y Absurda.]]</target>
+        <target>選擇套用至畫面的 MSAA 等級。
+[[僅在高（High）與極致（Ludicrous）品質下可用。]]</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.PostProcessingAA.TooltipTitle">
       <segment state="translated">
         <source>Post-Process Antialiasing</source>
-        <target>Suavizado por Postprocesado</target>
+        <target>後製處理反鋸齒</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.PostProcessingAA.TooltipContent">
       <segment state="translated">
         <source>Choose whether to use post-processing anti-aliasing to improve image quality, at the expense of performance. Note that the effects are applied to the entire display, including text and icons.</source>
-        <target>Escoge si usar suavizado por post-procesado para mejorar la calidad de imagen a cambio de una pérdida de rendimiento.
-Ten presente que los efectos se aplican a toda la pantalla, incluyendo textos e iconos.</target>
+        <target>選擇是否使用後製處理反鋸齒以改善影像品質，但會消耗部分效能。請注意此效果會套用至整個畫面，包含文字與圖示。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.TextureLimit.TooltipTitle">
       <segment state="translated">
         <source>Texture Limit</source>
-        <target>Límite de Textura</target>
+        <target>貼圖上限</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.TextureLimit.TooltipContent">
       <segment state="translated">
         <source>Choose the size limit for textures.
 Lower values may increase performance and reduce memory consumption, at the cost of lower visual quality.</source>
-        <target>Escoge el tamaño máximo de las texturas.
-Niveles más bajos incrementarán el rendimiento al reducir el consumo de memoria, a costa de una calidad visual menor.</target>
+        <target>選擇貼圖紋理的尺寸上限。
+較低的數值可提升效能並減少記憶體消耗，但會降低畫面品質。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowCascades.TooltipTitle">
       <segment state="translated">
         <source>Sun Shadow Cascades</source>
-        <target>Cascadas de Sombras de Soles</target>
+        <target>恆星陰影級聯</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowCascades.TooltipContent">
       <segment state="translated">
         <source>Select the number of cascades used in shadows cast by sunlight.
 [[Higher values will affect performance.]]</source>
-        <target>Selecciona cuántas cascadas se emplean en las sombras proyectadas por la luz del sol.
-[[Niveles mayores pueden afectar al rendimiento.]]</target>
+        <target>選擇恆星光線所產生陰影的級聯分割層數。
+[[較高的數值將會影響效能。]]</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowQuality.TooltipTitle">
       <segment state="translated">
         <source>Sun Shadow Quality</source>
-        <target>Calidad de Sombras de Soles</target>
+        <target>恆星陰影品質</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowQuality.TooltipContent">
       <segment state="translated">
         <source>Select the quality of shadows cast by sunlight. The available values will depend on the Quality setting chosen.
 [[Higher values may affect performance.]]</source>
-        <target>Selecciona la calidad de las sombras proyectadas por la luz del sol.
-Los valores disponibles dependerán del ajuste de Calidad escogido.
-[[Niveles mayores pueden afectar al rendimiento.]]</target>
+        <target>選擇恆星光線所產生陰影的品質。可選數值取決於所選的畫面品質設定。
+[[較高的數值可能會影響效能。]]</target>
       </segment>
     </unit>
     <unit id="EnableDithering.TooltipTitle">
       <segment state="translated">
         <source>Enable Dithering</source>
-        <target>Activar Tramado (Dithering)</target>
+        <target>啟用抖動處理</target>
       </segment>
     </unit>
     <unit id="EnableDithering.TooltipContent">
       <segment state="translated">
         <source>If enabled, use dithering to reduce visual colour banding.</source>
-        <target>Si se activa, se empleará tramado para reducir las franjas de color visuales.</target>
+        <target>啟用後，將使用抖動處理（Dithering）來減少畫面的色彩斷層現象。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.CockpitReflections.TooltipTitle">
       <segment state="translated">
         <source>Cockpit Reflections</source>
-        <target>Reflejos en la Cabina</target>
+        <target>座艙反射</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.CockpitReflections.TooltipContent">
       <segment state="translated">
         <source>Reflect cockpit light back onto itself (slower)</source>
-        <target>Refleja las luces de la cabina sobre sí misma.
-[[Gran impacto al rendimiento.]]</target>
+        <target>將座艙燈光反射回座艙本身（較耗資源）</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.EnableVolumetrics.TooltipTitle">
       <segment state="translated">
         <source>Volumetric Lighting</source>
-        <target>Iluminación Volumétrica</target>
+        <target>體積光照明</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualQuality.EnableVolumetrics.TooltipContent">
       <segment state="translated">
         <source>Enable volumetric lighting effects.
 [[Note that this can be very performance intensive.]]</source>
-        <target>Activa efectos de iluminación volumétrica.
-[[Puede significar un gran impacto al rendimiento]]</target>
+        <target>啟用體積光照明效果。
+[[請注意這可能非常消耗效能。]]</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.Grain.TooltipTitle">
       <segment state="translated">
         <source>Grain</source>
-        <target>Grano tipo Celuloide</target>
+        <target>膠卷顆粒</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.Grain.TooltipContent">
       <segment state="translated">
         <source>The diet of every Rebel. Just grain.</source>
-        <target>La dieta de todo rebelde. Simplemente grano.</target>
+        <target>反抗軍必備良伴——滿滿的復古膠卷顆粒感。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.Vignette.TooltipTitle">
       <segment state="translated">
         <source>Vignette</source>
-        <target>Oscurecer Esquinas</target>
+        <target>暈影（暗角）</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.Vignette.TooltipContent">
       <segment state="translated">
         <source>Screen's corners are darkened for mood.</source>
-        <target>Las esquinas de la pantalla se oscurecen para establecer el tono.</target>
+        <target>將螢幕四周角落稍微調暗以烘托氛圍。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.SpaceDebris.TooltipTitle">
       <segment state="translated">
         <source>Space Debris</source>
-        <target>Partículas Espaciales</target>
+        <target>太空微塵</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.SpaceDebris.TooltipContent">
       <segment state="translated">
         <source>Space dust particles fly past your ship.</source>
-        <target>Motas de polvo espacial flotan junto a tu nave.</target>
+        <target>太空中掠過座艙窗外的微塵粒子。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.Bloom.TooltipTitle">
       <segment state="translated">
         <source>Bloom</source>
-        <target>Resplandor (Bloom)</target>
+        <target>泛光（Bloom）</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.Bloom.TooltipContent">
       <segment state="translated">
         <source>Glow effect cast by bright light sources.</source>
-        <target>Efecto de brillo proyectado por fuentes de luz intensas.</target>
+        <target>高亮度光源所產生的光暈擴散效果。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.HUDOpacity.TooltipTitle">
       <segment state="translated">
         <source>HUD Opacity Level</source>
-        <target>Opacidad del Punto de Mira</target>
+        <target>抬頭顯示器不透明度等級</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.HUDOpacity.TooltipContent">
       <segment state="translated">
         <source>Chooses the opacity level of the in-flight heads up display.
 0% for fully invisible. 100% for fully opaque.</source>
-        <target>Escoge la opacidad del punto de mira durante el vuelo.
-0% para totalmente invisible. 100% para totalmente opaco.</target>
+        <target>選擇飛行時抬頭顯示器（HUD）的不透明度。
+0% 為完全隱形，100% 為完全不透明。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.VirtualMFDScaling.TooltipTitle">
       <segment state="translated">
         <source>Virtual Multi-function Displays Scaling Factor</source>
-        <target>Factor de Escalado de Pantallas Multifunción</target>
+        <target>虛擬多功能顯示幕縮放比例</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.VirtualMFDScaling.TooltipContent">
       <segment state="translated">
         <source>When using virtual cockpits (which appears when hiding the real cockpit geometry during flight, or when there is no physical model available for a ship's cockpit), this factor determines how big or small the lateral screens look.</source>
-        <target>Al utilizar cabinas virtuales (que aparecen al ocultar la cabina real durante el vuelo, o cuando no hay un modelo físico disponible para la cabina de una nave), este factor determina cómo de grandes o pequeñas se muestran las pantallas laterales.</target>
+        <target>使用虛擬座艙時（飛行中隱藏實體座艙結構，或該船艦沒有實體座艙模型時），此數值決定兩側多功能顯示螢幕的顯示尺寸大小。</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.VirtualCMDScaling.TooltipTitle">
       <segment state="translated">
         <source>Virtual Combat Multi-view Display Scaling Factor</source>
-        <target>Factor de Escalado de Computador de Objetivos</target>
+        <target>虛擬戰鬥多功能顯示器縮放比例</target>
       </segment>
     </unit>
     <unit id="GameSettings.GameplayPrefs.VirtualCMDScaling.TooltipContent">
       <segment state="translated">
         <source>When using virtual cockpits (which appears when hiding the real cockpit geometry during flight, or when there is no physical model available for a ship's cockpit), this factor determines how big or small the the CMD (or targeting computer) looks.</source>
-        <target>Al utilizar cabinas virtuales (que aparecen al ocultar la cabina real durante el vuelo, o cuando no hay un modelo físico disponible para la cabina de una nave), este factor determina cómo de grande o pequeño se muestra la pantalla central (el computador de objetivos).</target>
+        <target>使用虛擬座艙時（飛行中隱藏實體座艙結構，或該船艦沒有實體座艙模型時），此數值決定中央 CMD（目標電腦）顯示螢幕的顯示尺寸大小。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitles.TooltipTitle">
       <segment state="translated">
         <source>Display cockpit interaction subtitles</source>
-        <target>Mostrar Subtítulos para Interacciones de Cabina</target>
+        <target>顯示座艙互動字幕</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitles.TooltipContent">
       <segment state="translated">
         <source>When interacting with the instruments and controls in a ship, display a special subtitle that provides immediate feedback of what the player has just interacted with.</source>
-        <target>Al interactuar con instrumentos y controles de una nave, mostrar un subtítulo especial que proporciona respuesta inmediata a la interacción del jugador.</target>
+        <target>在座艙內與儀表及控制裝置互動時，顯示即時反饋該操作項目的專屬字幕。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitlesAltFont.TooltipTitle">
       <segment state="translated">
         <source>Use a different typography for interaction subtitles</source>
-        <target>Utilizar tipografía diferente para los subtítulos de interacción</target>
+        <target>座艙互動字幕使用不同字型</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitlesAltFont.TooltipContent">
       <segment state="translated">
         <source>The subtitles shown as response of interacting with the instruments and controls will be displayed using a different font to make them more distinguishable from other subtitles.</source>
-        <target>Los subtítulos mostrados como respuesta a las interacciones con instrumentos y controles serán mostrados usando una fuente distinta para hacerlos más distinguibles de los otros subtítulos.</target>
+        <target>與儀表及控制裝置互動所產生的字幕將以不同的字型顯示，使其與一般對話字幕更容易區分。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessLiftAdjust.TooltipTitle">
       <segment state="translated">
         <source>Brightness Lift Adjustment</source>
-        <target>Compensación de Negros</target>
+        <target>暗部偏移調整</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessLiftAdjust.TooltipContent">
@@ -2475,7 +2459,7 @@ Los valores disponibles dependerán del ajuste de Calidad escogido.
     <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGammaAdjust.TooltipTitle">
       <segment state="translated">
         <source>Brightness Gamma Adjustment</source>
-        <target>Ajuste Gamma</target>
+        <target>伽瑪調整</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGammaAdjust.TooltipContent">
@@ -2487,7 +2471,7 @@ Los valores disponibles dependerán del ajuste de Calidad escogido.
     <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGainAdjust.TooltipTitle">
       <segment state="translated">
         <source>Brightness Gain Adjustment</source>
-        <target>Ajuste de Brillo Máximo</target>
+        <target>亮部增益調整</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGainAdjust.TooltipContent">
@@ -2499,7 +2483,7 @@ Los valores disponibles dependerán del ajuste de Calidad escogido.
     <unit id="CameraSettings.Camera.CameraMode.TooltipTitle">
       <segment state="translated">
         <source>Camera Mode</source>
-        <target>Modo de Cámara</target>
+        <target>鏡頭模式</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.CameraMode.TooltipContent">
@@ -2508,43 +2492,42 @@ Los valores disponibles dependerán del ajuste de Calidad escogido.
 [[TrackIR]] - For use with TrackIR or OpenTrack view devices for look around support.
 [[Virtual Reality]] - For use with VR headsets. (Windows only)
 [[OpenTrack UDP]] - For use with VR headsets. (Multi-platform)</source>
-        <target>[[Normal]] - Pantalla normal 2D.
-[[TrackIR]] - Para uso con dispositivos TrackIR u OpenTrack que permiten mirar alrededor.
-[[Realidad Virtual]] - Para uso con visores de RV (Sólo Windows)
-[[OpenTrack UDP]] - Para uso con visores de RV (Multiplataforma)</target>
+        <target>[[標準]] - 一般 2D 視口。
+[[TrackIR]] - 搭配 TrackIR 或 OpenTrack 視角追蹤裝置使用，支援自由環視。
+[[虛擬實境]] - 搭配 VR 頭戴式裝置使用。（僅限 Windows）
+[[OpenTrack UDP]] - 搭配 VR 頭戴式裝置使用。（跨平台）</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.CustomFOV.TooltipTitle">
       <segment state="translated">
         <source>Custom FOV</source>
-        <target>Campo de Visión Personalizado</target>
+        <target>自訂視野</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.CustomFOV.TooltipContent">
       <segment state="translated">
         <source>If selected, allows further options for customising the FOV value. This will affect the concourse and flight views. 
 Default value is off, as XWVM will intelligently adjust the FOV based on the current screen resolution.</source>
-        <target>Al activarlo, muestra más opciones para personalizar el CdV. 
-Esto afectará a la cubierta central y el vuelo.
-El valor por defecto es desactivado, en el que XWVM intentará ajustar el CdV de forma inteligente en base a la resolución actual de la pantalla.</target>
+        <target>若選取，將顯示更多自訂視野（FOV）數值的進階選項。這會影響簡報大廳與飛行視角。
+預設值為關閉，XWVM 將根據當前螢幕解析度智慧調整最佳視野。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.FOVSlider.TooltipTitle">
       <segment state="translated">
         <source>FOV</source>
-        <target>Campo de Visión</target>
+        <target>視野</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.FOVSlider.TooltipContent">
       <segment state="translated">
         <source>Adjust the vertical FOV.</source>
-        <target>Ajusta el CdV vertical.</target>
+        <target>調整垂直視野（Vertical FOV）。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.FOVModifierStep.TooltipTitle">
       <segment state="translated">
         <source>FOV Modifier Step</source>
-        <target>Incremento Modificador CdV</target>
+        <target>視野調整步進值</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.FOVModifierStep.TooltipContent">
@@ -2556,7 +2539,7 @@ El valor por defecto es desactivado, en el que XWVM intentará ajustar el CdV de
     <unit id="CameraSettings.Camera.FOVModifierMax.TooltipTitle">
       <segment state="translated">
         <source>FOV Modifier Max</source>
-        <target>Máximo Modificador CdV</target>
+        <target>視野調整最大值</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.FOVModifierMax.TooltipContent">
@@ -2568,93 +2551,91 @@ El valor por defecto es desactivado, en el que XWVM intentará ajustar el CdV de
     <unit id="CameraSettings.Camera.UsePaniniProjection.TooltipTitle">
       <segment state="translated">
         <source>Use Panini Projection</source>
-        <target>Utilizar Proyección Panini</target>
+        <target>使用帕尼尼投影</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.UsePaniniProjection.TooltipContent">
       <segment state="translated">
         <source>If selected, panini projection can be used to alter the geometric properties of the image. Useful for some curved display arrangements.</source>
-        <target>Al seleccionarlo, se puede usar proyección Panini para alterar las propiedades geométricas de la imagen.
-Útil con ciertas disposiciones de pantallas curvadas.</target>
+        <target>若選取，可使用帕尼尼投影改變影像的幾何特性。在某些曲面螢幕配置下非常實用。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.PaniniDistance.TooltipTitle">
       <segment state="translated">
         <source>Panini Distance</source>
-        <target>Distancia Panini</target>
+        <target>帕尼尼距離</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Camera.PaniniDistance.TooltipContent">
       <segment state="translated">
         <source>Increase panini distance to distort image curvature.</source>
-        <target>Incrementa la distancia Panini para distorsionar la curvatura de la imagen.</target>
+        <target>增加帕尼尼距離以調整畫面曲率失真程度。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.SelectTargetAheadConeWidth.TooltipTitle">
       <segment state="translated">
         <source>Select Target Ahead Cone Width</source>
-        <target>Seleccionar el Blanco Enfrente - Ancho del Cono</target>
+        <target>選取前方目標圓錐角寬度</target>
       </segment>
     </unit>
     <unit id="CameraSettings.SelectTargetAheadConeWidth.TooltipContent">
       <segment state="translated">
         <source>When using the "Select Target Ahead" action, the game will try to find a target in front of the camera within a cone of this many degrees. Higher values make the game able to select targets further away from the center of the screen, while lower values are for players that prefer having to be more precise.</source>
-        <target>Al usar la acción de "Seleccionar Blanco Enfrente", el juego intentará encontrar un blanco en frente de la cámara dentro de un cono con estos grados de ángulo.
-Valores mayores permiten al juego escoger blancos más alejados del centro de la pantalla, mientras que valores menores son para jugadores que prefieren tener que ser más precisos.</target>
+        <target>使用「選取正前方目標」動作時，遊戲會在相機正前方此角度錐形範圍內搜尋目標。較大的數值可讓遊戲選取距離螢幕中心較遠的目標，較小的數值適合偏好更精準瞄準的玩家。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Astronomical.StarSizeMultiplier.TooltipTitle">
       <segment state="translated">
         <source>Star Size Multiplier</source>
-        <target>Multiplicador del Tamaño de Estrellas</target>
+        <target>恆星尺寸倍率</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Astronomical.StarSizeMultiplier.TooltipContent">
       <segment state="translated">
         <source>Control the scale of stars in the starfield.</source>
-        <target>Controla el tamaño de las estrellas en el espacio.</target>
+        <target>控制星空中背景恆星的大小比例。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Astronomical.PlanetSizeMultiplier.TooltipTitle">
       <segment state="translated">
         <source>Planet Size Multiplier</source>
-        <target>Multiplicador del Tamaño de Planetas</target>
+        <target>行星尺寸倍率</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Astronomical.PlanetSizeMultiplier.TooltipContent">
       <segment state="translated">
         <source>Set the scale of planets.</source>
-        <target>Ajusta el tamaño de los planetas.</target>
+        <target>設定行星的大小比例。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Headbobbing.HeadbobbingOffset.TooltipTitle">
       <segment state="translated">
         <source>Inertial Headbobbing - Panning</source>
-        <target>Balanceo Inercia de Cabeza - Desplazamiento</target>
+        <target>慣性頭部晃動 - 平移</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Headbobbing.HeadbobbingOffset.TooltipContent">
       <segment state="translated">
         <source>Adjust the panning when the pilot's head moves with inertia.</source>
-        <target>Ajusta el desplazamiento cuando la cabeza del piloto se mueve debido a la inercia.</target>
+        <target>調整飛行員頭部隨慣性移動時的平移幅度。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Headbobbing.HeadbobbingCompensation.TooltipTitle">
       <segment state="translated">
         <source>Inertial headbobbing - Eye Compensation</source>
-        <target>Balanceo Inercial de Cabeza - Compensación Ocular</target>
+        <target>慣性頭部晃動 - 視線補償</target>
       </segment>
     </unit>
     <unit id="CameraSettings.Headbobbing.HeadbobbingCompensation.TooltipContent">
       <segment state="translated">
         <source>Adjust the eye compensation for intertial headbobbing.</source>
-        <target>Ajusta la compensación ocular para el balanceo inercial de cabeza.</target>
+        <target>調整慣性頭部晃動時的眼球視線自動補償幅度。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.SampleFiltering.TooltipTitle">
       <segment state="translated">
         <source>Sample filtering count</source>
-        <target>Cantidad de muestras filtradas</target>
+        <target>取樣過濾次數</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.SampleFiltering.TooltipContent">
@@ -2666,7 +2647,7 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.LeftRightLimit.TooltipTitle">
       <segment state="translated">
         <source>Left/Right movement limit (meters)</source>
-        <target>Límite al Movimiento Izquierda/Derecha (metros)</target>
+        <target>左右移動限制（公尺）</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.LeftRightLimit.TooltipContent">
@@ -2678,19 +2659,19 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.InvertX.TooltipTitle">
       <segment state="translated">
         <source>Invert Left/Right axis</source>
-        <target>Invertir Eje Izquierda/Derecha</target>
+        <target>反轉左右軸</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.InvertX.TooltipContent">
       <segment state="translated">
         <source>Invert X axis</source>
-        <target>Invertir Eje X</target>
+        <target>反轉 X 軸</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.UpDownLimit.TooltipTitle">
       <segment state="translated">
         <source>Up/Down movement limit (meters)</source>
-        <target>Límite al Movimiento Arriba/Abajo (metros)</target>
+        <target>上下移動限制（公尺）</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.UpDownLimit.TooltipContent">
@@ -2702,19 +2683,19 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.InvertY.TooltipTitle">
       <segment state="translated">
         <source>Invert Up/Down axis</source>
-        <target>Invertir Eje Arriba/Abajo</target>
+        <target>反轉上下軸</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.InvertY.TooltipContent">
       <segment state="translated">
         <source>Invert Y axis</source>
-        <target>Invertir Eje Y</target>
+        <target>反轉 Y 軸</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.ForwardBackward.TooltipTitle">
       <segment state="translated">
         <source>Foward/Background movement limit (meters)</source>
-        <target>Límite al Movimiento Adelante/Atrás (metros)</target>
+        <target>前後移動限制（公尺）</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.ForwardBackward.TooltipContent">
@@ -2726,19 +2707,19 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.InvertZ.TooltipTitle">
       <segment state="translated">
         <source>Invert Forward/Backward axis</source>
-        <target>Invertir Eje Adelante/Atrás</target>
+        <target>反轉前後軸</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.InvertZ.TooltipContent">
       <segment state="translated">
         <source>Invert Z axis</source>
-        <target>Invertir Eje Z</target>
+        <target>反轉 Z 軸</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.PitchLimit.TooltipTitle">
       <segment state="translated">
         <source>Pitch limit (degrees)</source>
-        <target>Límite al Cabeceo (grados)</target>
+        <target>俯仰限制（度）</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.PitchLimit.TooltipContent">
@@ -2750,7 +2731,7 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.InvertPitch.TooltipTitle">
       <segment state="translated">
         <source>Invert Pitch axis</source>
-        <target>Invertir Eje de Cabeceo</target>
+        <target>反轉俯仰軸</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.InvertPitch.TooltipContent">
@@ -2762,7 +2743,7 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.YawLimit.TooltipTitle">
       <segment state="translated">
         <source>Yaw limit (degrees)</source>
-        <target>Límite al Guiñada (grados)</target>
+        <target>偏航限制（度）</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.YawLimit.TooltipContent">
@@ -2774,7 +2755,7 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.InvertYaw.TooltipTitle">
       <segment state="translated">
         <source>Invert Yaw axis</source>
-        <target>Invertir Eje de Guiñada</target>
+        <target>反轉偏航軸</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.InvertYaw.TooltipContent">
@@ -2786,7 +2767,7 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.RollLimit.TooltipTitle">
       <segment state="translated">
         <source>Roll limit (degrees)</source>
-        <target>Límite de Alabeo (grados)</target>
+        <target>滾轉限制（度）</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.RollLimit.TooltipContent">
@@ -2798,7 +2779,7 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.InvertRoll.TooltipTitle">
       <segment state="translated">
         <source>Invert Roll axis</source>
-        <target>Invertir Eje de Alabeo</target>
+        <target>反轉滾轉軸</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.InvertRoll.TooltipContent">
@@ -2810,7 +2791,7 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.PositionMultiplier.TooltipTitle">
       <segment state="translated">
         <source>Position Multiplier</source>
-        <target>Multiplicador de Posición</target>
+        <target>位置倍率</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.PositionMultiplier.TooltipContent">
@@ -2822,7 +2803,7 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="CameraSettings.TrackIR.RotationMultiplier.TooltipTitle">
       <segment state="translated">
         <source>Rotation Multiplier</source>
-        <target>Multiplicador de Rotación</target>
+        <target>旋轉倍率</target>
       </segment>
     </unit>
     <unit id="CameraSettings.TrackIR.RotationMultiplier.TooltipContent">
@@ -2834,43 +2815,43 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
     <unit id="ControlSettings.ControlsSection.GameControls.TooltipTitle">
       <segment state="translated">
         <source>Remap Game Controls</source>
-        <target>Re-asignar Controles del Juego</target>
+        <target>無</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControlsSection.GameControls.TooltipContent">
       <segment state="translated">
         <source>Access the control mapper to add, change or remove key, button and controller assignments.</source>
-        <target>Accede al configurador de controles para añadir, cambiar, o eliminar asignaciones de teclas, botones y controles.</target>
+        <target>進入控制對應設定畫面，以新增、變更或移除按鍵、按鈕與控制器配置。</target>
       </segment>
     </unit>
     <unit id="ControlSettings.NewInputSystemBinding.TooltipTitle">
       <segment state="translated">
         <source>Remap VR Controls</source>
-        <target>Reasignar Controles RV</target>
+        <target>重新指派 VR 控制鍵</target>
       </segment>
     </unit>
     <unit id="ControlSettings.NewInputSystemBinding.TooltipContent">
       <segment state="translated">
         <source>Access the VR control mapper to add, change or remove key, button and controller assignments.</source>
-        <target>Accede al configurador de controles de RV para añadir, cambiar, o eliminar asignaciones de teclas, botones y controles.</target>
+        <target>進入 VR 控制對應設定畫面，以新增、變更或移除按鍵、按鈕與控制器配置。</target>
       </segment>
     </unit>
     <unit id="ControlSettings.MouseSection.MouseSensitivity.TooltipTitle">
       <segment state="translated">
         <source>Mouse Sensitivity</source>
-        <target>Sensibilidad del Ratón</target>
+        <target>滑鼠靈敏度</target>
       </segment>
     </unit>
     <unit id="ControlSettings.MouseSection.MouseSensitivity.TooltipContent">
       <segment state="translated">
         <source>Adjust the sensitivity of the mouse pointer.</source>
-        <target>Ajusta la sensibilidad del puntero del ratón.</target>
+        <target>調整滑鼠游標的靈敏度。</target>
       </segment>
     </unit>
     <unit id="ControlSettings.MouseSection.MouseControl.TooltipTitle">
       <segment state="translated">
         <source>Mouse Control</source>
-        <target>Control del Ratón</target>
+        <target>滑鼠操控</target>
       </segment>
     </unit>
     <unit id="ControlSettings.MouseSection.MouseControl.TooltipContent">
@@ -2879,76 +2860,76 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
 
 [[Disabled]] (default) - No mouse control used. To fly the craft, use a controller or the keyboard.
 [[X-Wing style]] - Move the mouse to steer the craft, similar to the behaviour in the DOS games.</source>
-        <target>Activa o desactiva el control con ratón durante el vuelo.
+        <target>啟用／停用飛行時的滑鼠操控。
 
-[[Inactivo]] (por defecto) - No se usa control con ratón. Para controlar la nave, usa un controlador o el teclado.
-[[Estilo X-Wing]] - Mueve el ratón para controlar la nave, similar al comportamiento en las versiones de MS-DOS.</target>
+[[停用]]（預設）- 不使用滑鼠控制。請使用控制器或鍵盤駕駛戰機。
+[[X-Wing 風格]] - 移動滑鼠以操控戰機轉向，類似 DOS 原版遊戲的行為模式。</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.MouseCursorScale.Label">
       <segment state="translated">
         <source>Mouse Cursor Scale</source>
-        <target>Escala del Cursor</target>
+        <target>滑鼠游標縮放</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.MouseCursorScale.TooltipTitle">
       <segment state="translated">
         <source>Mouse Cursor Scale</source>
-        <target>Escala del Cursor</target>
+        <target>滑鼠游標縮放</target>
       </segment>
     </unit>
 	<unit id="DisplaySettings.VisualSettings.VisualPreferences.LensFlares.Label">
       <segment state="translated">
         <source>Lens Flares</source>
-        <target>Destellos de lente</target>
+        <target>鏡頭眩光</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.MouseCursorScale.TooltipContent">
       <segment state="translated">
         <source>Select the size of the mouse cursor.</source>
-        <target>Selecciona el tamaño del cursor del ratón.</target>
+        <target>選擇滑鼠游標的大小尺寸。</target>
       </segment>
     </unit>
 	<unit id="DisplaySettings.VisualSettings.VisualPreferences.LensFlares.TooltipTitle">
       <segment state="translated">
         <source>Lens Flares</source>
-        <target>Destellos de lente</target>
+        <target>鏡頭眩光</target>
       </segment>
     </unit>
     <unit id="DisplaySettings.VisualSettings.VisualPreferences.LensFlares.TooltipContent">
       <segment state="translated">
         <source>Enable lens flares and chromatic abberation.</source>
-        <target>Activa los destellos de lente y aberración cromática.</target>
+        <target>啟用鏡頭眩光與色差效果。</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControllerSection.VRGazeCursor.TooltipTitle">
       <segment state="translated">
         <source>VR Gaze Cursor</source>
-        <target>Cursor de Mirada RV</target>
+        <target>VR 視線游標</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControllerSection.VRGazeCursor.TooltipContent">
       <segment state="translated">
         <source>If enabled, a dot in the cente of the player's view can be used to interact with the world.</source>
-        <target>Si está activa, aparece un punto en el centro de la vista del jugador para interactuar con el entorno.</target>
+        <target>若啟用，玩家視線正中央將會顯示一個圓點，可用於與周遭世界進行互動。</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControlsSection.VRHandControls.Button.TooltipTitle">
       <segment state="translated">
         <source>VR Hand Controls Used When Gaze Cursor Enabled</source>
-        <target>Permitir Controles de Mano en RV cuando el Cursor de Mirada está en uso</target>
+        <target>啟用視線游標時使用 VR 手部控制</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControlsSection.VRHandControls.Button.TooltipContent">
       <segment state="translated">
         <source>If enabled, VR hand controls remain enabled when the gaze cursor is active.</source>
-        <target>Si se activa, los controles de mano de RV permanecen activos cuando el cursor de mirada está activo.</target>
+        <target>若啟用，在視線游標處於作用中時，VR 手部控制仍將保持啟用狀態。</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControllerSection.HyperspaceThrottle.TooltipTitle">
       <segment state="translated">
         <source>Hyperspace Throttle</source>
-        <target>Modo de Acelerador para Hiperespacio</target>
+        <target>超空間節流閥</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControllerSection.HyperspaceThrottle.TooltipContent">
@@ -2956,48 +2937,49 @@ Valores mayores permiten al juego escoger blancos más alejados del centro de la
         <source>Punch it! Use an alternative hyperspace method with a controller axis.
 When enabled, the hyperspace throttle must be held below 20% until the hyperjump is ready. The throttle can then be increased to the chosen threshold to engage hyperspace.
 [[Please bind a controller axis to 'Hyperspace slider' for this to function correctly.]]</source>
-        <target>Utiliza un método de hiperespacio alternativo con el eje de un controlador.
-Al activarlo, el acelerador de hiperespacio debe mantenerse por debajo del 20% hasta que el hipersalto esté preparado. El acelerador entonces se puede aumentar hasta el umbral escogido para entrar al hiperespacio.
-[[Por favor, asigna un eje de controlador a 'Hyperspace Slider' para que esta característica funcione correctamente.]]</target>
+        <target>全速推進！使用控制器軸向作為替代超空間啟動方式。
+啟用時，超空間節流閥必須維持在 20% 以下，直到超空間跳躍準備就緒。隨後可將節流閥推過所選閾值以進入超空間。
+[[請務必將控制器軸向綁定至「超空間滑桿」，此功能方可正常運作。]]</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControllerSection.HyperspaceThrottleThreshold.TooltipTitle">
       <segment>
         <source>Disable Collisions</source>
-        <target></target>
+        <target>停用碰撞</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControllerSection.HyperspaceThrottleThreshold.TooltipContent">
       <segment>
         <source>Toggle player collisions with other craft.
 [[Counts as cheating.]]</source>
-        <target></target>
+        <target>切換玩家座機與其他機艦之間的碰撞判定。
+[[視同作弊。]]</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControllerSection.Vibration.TooltipTitle">
       <segment state="translated">
         <source>Vibration</source>
-        <target>Vibración</target>
+        <target>震動</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControllerSection.Vibration.TooltipContent">
       <segment state="translated">
         <source>Enable controller vibration.
 (Xbox and Dualshock 4 controllers only)</source>
-        <target>Activa la vibración del controlador.
-(Sólo controladores Xbox y Dualshock 4)</target>
+        <target>啟用控制器震動功能。
+（僅支援 Xbox 及 DualShock 4 控制器）</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControllerSection.VibrationStrength.TooltipTitle">
       <segment state="translated">
         <source>Vibration Strength</source>
-        <target>Fuerza de la Vibración</target>
+        <target>震動強度</target>
       </segment>
     </unit>
     <unit id="ControlSettings.ControllerSection.VibrationStrength.TooltipContent">
       <segment state="translated">
         <source>Adjust the strength of controller vibration in-game.</source>
-        <target>Ajusta la fuerza de la vibración del controlador durante el juego.</target>
+        <target>調整遊戲中控制器震動的強度。</target>
       </segment>
     </unit>
     <unit id="DefaultSettings.Header.TooltipTitle">
@@ -3015,73 +2997,73 @@ Al activarlo, el acelerador de hiperespacio debe mantenerse por debajo del 20% h
     <unit id="Achievements.Settings.ShowAchievementNotificationsLabel.TooltipTitle">
       <segment state="translated">
         <source>Show Achievement Notifications</source>
-        <target>Mostrar Notificaciones de Logros</target>
+        <target>顯示成就通知</target>
       </segment>
     </unit>
     <unit id="Achievements.Settings.ShowAchievementNotificationsLabel.TooltipContent">
       <segment state="translated">
         <source>If enabled, achievement popups are shown when progress is earned or achievements completed.</source>
-        <target>Si está activo, se mostrarán notificaciones emergentes de logros cuando se obtenga progreso o se consiga un logro.</target>
+        <target>若啟用，在獲得進度或完成成就時將顯示快顯通知。</target>
       </segment>
     </unit>
     <unit id="TelemetrySettings.EnableTelemetryToggle.TooltipTitle">
       <segment state="translated">
         <source>Enable Telemetry</source>
-        <target>Activar la Emisión de Telemetría</target>
+        <target>啟用遙測</target>
       </segment>
     </unit>
     <unit id="TelemetrySettings.EnableTelemetryToggle.TooltipContent">
       <segment state="translated">
         <source>Activates the broadcasting of telemetry data for motion seats or other local accessory devices.</source>
-        <target>Activa la emisión de datos de telemetría para asientos móviles u otros dispositivos periféricos locales.</target>
+        <target>啟用遙測資料廣播，供動態座艙座椅或其他本地外接裝置使用。</target>
       </segment>
     </unit>
     <unit id="TelemetrySettings.TelemetryFormat.TooltipTitle">
       <segment state="translated">
         <source>Telemetry Format</source>
-        <target>Formato de Telemetría</target>
+        <target>遙測格式</target>
       </segment>
     </unit>
     <unit id="TelemetrySettings.TelemetryFormat.TooltipContent">
       <segment state="translated">
         <source>Select which format will XWVM use to broadcast game state data.</source>
-        <target>Selecciona qué formato usará XWVM para emitir datos del estado del juego.</target>
+        <target>選擇 XWVM 廣播遊戲狀態資料所使用的格式。</target>
       </segment>
     </unit>
     <unit id="TelemetrySettings.BroadcastAddress.TooltipTitle">
       <segment state="translated">
         <source>Broadcast Address</source>
-        <target>Dirección de Emisión</target>
+        <target>廣播位址</target>
       </segment>
     </unit>
     <unit id="TelemetrySettings.BroadcastAddress.TooltipContent">
       <segment state="translated">
         <source>Determines the network address used for broadcasting UDP packets with telemetry data.</source>
-        <target>Determina la dirección de red usada para emitir paquetes UDP con datos de telemetría.</target>
+        <target>設定用於廣播遙測資料 UDP 封包的網路位址。</target>
       </segment>
     </unit>
     <unit id="TelemetrySettings.BroadcastPort.TooltipTitle">
       <segment state="translated">
         <source>Broadcast Port</source>
-        <target>Puerto de Emisión</target>
+        <target>廣播連接埠</target>
       </segment>
     </unit>
     <unit id="TelemetrySettings.BroadcastPort.TooltipContent">
       <segment state="translated">
         <source>Determines which network port the game uses to emit UDP packets with telemetry data.</source>
-        <target>Determina qué puerto de red utilizará el juego para emitir paquetes UDP con datos de telemetría.</target>
+        <target>設定遊戲發送遙測資料 UDP 封包所使用的網路連接埠。</target>
       </segment>
     </unit>
     <unit id="TelemetrySettings.BroadcastInterval.TooltipTitle">
       <segment state="translated">
         <source>Broadcast Interval</source>
-        <target>Intervalo de Emisión</target>
+        <target>廣播間隔</target>
       </segment>
     </unit>
     <unit id="TelemetrySettings.BroadcastInterval.TooltipContent">
       <segment state="translated">
         <source>Determines how often the game emits telemetry data.</source>
-        <target>Determina cada cuánto tiempo el juego emite datos de telemetría.</target>
+        <target>設定遊戲發送遙測資料的頻率。</target>
       </segment>
     </unit>
     <unit id="RestartNotification.TooltipTitle">
@@ -3099,61 +3081,61 @@ Al activarlo, el acelerador de hiperespacio debe mantenerse por debajo del 20% h
     <unit id="CameraSettings.OverTheShoulderCamera.Label">
       <segment>
         <source>Over-the-Shoulder Camera Mode</source>
-        <target>Modo Cámara Tercera Persona</target>
+        <target>過肩鏡頭模式（第三人稱）</target>
       </segment>
     </unit>
     <unit id="CameraSettings.OverTheShoulderCamera.RightSlider.Label">
       <segment>
         <source>Right Offset</source>
-        <target>Sesgo Lateral</target>
+        <target>向右偏移</target>
       </segment>
     </unit>
     <unit id="CameraSettings.OverTheShoulderCamera.RightSlider.TooltipTitle">
       <segment>
         <source>Over-the-Shoulder Camera - Right Offset</source>
-        <target>Cámara Tercera Persona - Sesgo Lateral</target>
+        <target>過肩鏡頭 - 向右偏移</target>
       </segment>
     </unit>
     <unit id="CameraSettings.OverTheShoulderCamera.RightSlider.TooltipContent">
       <segment>
         <source>How much should the camera be offset towards the right during Over-the-Shoulder camera mode.</source>
-        <target>Cuánto debería estar sesgada la cámara lateralmente durante el modo de cámara de tercera persona.</target>
+        <target>在過肩鏡頭模式下，鏡頭向右偏移的距離幅度。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.OverTheShoulderCamera.BackSlider.Label">
       <segment>
         <source>Back Offset</source>
-        <target>Sesgo hacia Atrás</target>
+        <target>向後偏移</target>
       </segment>
     </unit>
     <unit id="CameraSettings.OverTheShoulderCamera.BackSlider.TooltipTitle">
       <segment>
         <source>Over-the-Shoulder Camera - Back Offset</source>
-        <target>Cámara Tercera Persona - Sesgo hacia Atrás</target>
+        <target>過肩鏡頭 - 向後偏移</target>
       </segment>
     </unit>
     <unit id="CameraSettings.OverTheShoulderCamera.BackSlider.TooltipContent">
       <segment>
         <source>How much should the camera be offset backwards during Over-the-Shoulder camera mode.</source>
-        <target>Cuánto debería estar sesgada la cámara hacia atrás durante el modo de cámara de tercera persona.</target>
+        <target>在過肩鏡頭模式下，鏡頭向後偏移的距離幅度。</target>
       </segment>
     </unit>
     <unit id="CameraSettings.OverTheShoulderCamera.UpSlider.Label">
       <segment>
         <source>Up Offset</source>
-        <target>Sesgo hacia Arriba</target>
+        <target>向上偏移</target>
       </segment>
     </unit>
     <unit id="CameraSettings.OverTheShoulderCamera.UpSlider.TooltipTitle">
       <segment>
         <source>Over-the-Shoulder Camera - Up Offset</source>
-        <target>Cámara Tercera Persona - Sesgo hacia Arriba</target>
+        <target>過肩鏡頭 - 向上偏移</target>
       </segment>
     </unit>
     <unit id="CameraSettings.OverTheShoulderCamera.UpSlider.TooltipContent">
       <segment>
         <source>How much should the camera be offset upwards during Over-the-Shoulder camera mode.</source>
-        <target>Cuánto debería estar sesgada la cámara hacia arriba durante el modo de cámara de tercera persona.</target>
+        <target>在過肩鏡頭模式下，鏡頭向上偏移的距離幅度。</target>
       </segment>
     </unit>
   </file>
