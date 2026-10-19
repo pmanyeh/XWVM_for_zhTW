@@ -4,7 +4,7 @@
     <unit id="Tour.tour3.Title">
       <segment>
         <source>Tour III</source>
-        <target>Campaña III</target>
+        <target>第三輪執勤</target>
       </segment>
     </unit>
     <unit id="Tour.tour3.Description">
@@ -12,9 +12,9 @@
         <source>THE GATHERING STORM
 Prepare for a showdown between
 the Rebellion and the Empire.</source>
-        <target>LA TEMPESTAD INMINENTE
-Prepárate para un enfrentamiento
-entre la Rebelión y el Imperio.</target>
+        <target>蓄勢待發
+準備迎接反抗軍與帝國的
+終極決戰。</target>
       </segment>
     </unit>
     <unit id="Tour.tour3.CrawlTitle">
@@ -23,9 +23,8 @@ entre la Rebelión y el Imperio.</target>
 THE GATHERING STORM
 
 </source>
-        <target>Campaña de Servicio III
-LA TEMPESTAD INMINENTE
-</target>
+        <target>第三輪執勤
+蓄勢待發</target>
       </segment>
     </unit>
     <unit id="Tour.tour3.CrawlText">
@@ -33,15 +32,17 @@ LA TEMPESTAD INMINENTE
         <source>Having discovered the existence of the DEATH STAR project, the Rebel Alliance prepares for its greatest challenge.  With the technical plans in the hands of Princess Leia, the Alliance gathers its forces to destroy the Empire's ultimate weapon.
 
 The DEATH STAR, nearing completion at a secret Imperial base, is being prepared for its reign of terror.</source>
-        <target>Tras descubrir la existencia del proyecto ESTRELLA DE LA MUERTE, la Alianza Rebelde se prepara para su mayor desafío. Con los planos técnicos en manos de la Princesa Leia, la Alianza reúne sus fuerzas para destruir el arma definitiva del Imperio.
+        <target>在查明「死星」計畫的驚天秘密後，反抗軍同盟正全力備戰，迎向史上最嚴峻的考驗。
 
-La ESTRELLA DE LA MUERTE, cuya construcción está a punto de concluir en una base imperial secreta, se prepara para iniciar su reinado de terror.</target>
+隨著技術藍圖安全送達莉亞公主手中，同盟迅速集結所有兵力，誓死摧毀帝國這具終極毀滅武器。
+
+而死星在一處帝國絕密基地中已近完工，即將在銀河系展開其恐怖統治……</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.Title">
       <segment state="translated">
         <source>Guard Weapons Tranfer</source>
-        <target>Protege la Transferencia de Armamento</target>
+        <target>掩護軍火物資轉運</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.Description">
@@ -51,262 +52,261 @@ Sidral II until the
 Corvette Frazier has
 transferred its
 cargo.</source>
-        <target>Protege al Carguero
-Sidal II hasta que la Corbeta
-Frazier haya
-transferido su carga.</target>
+        <target>掩護貨船西德拉爾二號，
+直到巡邏艦弗雷澤號完成
+物資轉運作業。</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Text.1">
       <segment state="translated">
         <source>&gt;OP 1: Guard Military Eqpt. Transfer</source>
-        <target>&gt;OP 1: Protege Transferencia de Material Militar</target>
+        <target>>行動 1：掩護軍用物資轉運</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Text.2">
       <segment state="translated">
         <source>[[Protect ]]military rendezvous from attack by Imperial fighters.</source>
-        <target>[[Protege]] un encuentro militar del ataque de cazas imperiales.</target>
+        <target>[[掩護]]軍事會合點免遭帝國戰機的突襲。</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Text.3">
       <segment state="translated">
         <source>[[Intercept]] Imperial TIE Fighter and TIE Bomber Squadrons.</source>
-        <target>[[Intercepta]] Escuadrillas de Cazas TIE y Bombarderos TIE del Imperio.</target>
+        <target>[[攔截]]帝國鈦戰機與鈦轟炸機中隊。</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Text.4">
       <segment state="translated">
         <source>  With the news that the Empire is building a massive new type of secret weapon, [[High Command]] is anxious that the Alliance prepare itself for a large, decisive battle.  Although the location of the [[Death]] [[Star]] is still a mystery, efforts are being made to discover what military contractors are involved in its construction.$  The first breakthrough in this effort has been the capture of a [[Freighter ]]loaded with the latest</source>
-        <target>  Con la noticia de que el Imperio está construyendo un nuevo tipo de arma secreta descomunal, el [[Alto Mando]] está ansioso de que la Alianza se prepare para una gran y decisiva batalla.  Aunque la ubicación de la [[Estrella de la Muerte]] sigue siendo un misterio, se están haciendo esfuerzos para descubrir qué contratistas militares están involucrados en su construcción.$  El primer resultado de este esfuerzo ha sido la captura de un [[Carguero]] cargado con</target>
+        <target>  獲悉帝國正秘密建造一種新型滅世武器後，[[最高統帥部]]急迫要求同盟全軍加緊備戰，準備迎接一場大規模殊死決戰。儘管[[死星]]的確切位置仍被重重迷霧籠罩，但我們正全力清查參與其建造的所有軍火承包商。$  此項工作的第一項重大突破，便是成功截獲了一艘滿載最新</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Text.5">
       <segment state="translated">
         <source>military hardware.  It is hoped that an analysis of this equipment will reveal more about who is building the Death Star.$  Your mission is to stand guard over the Freighter [[Sidral II]] and wait until the Corvette [[Frazier]] has loaded the captured equipment.</source>
-        <target>equipamiento militar último modelo.  Esperamos que un análisis de este material revele más sobre quién está construyendo la Estrella de la Muerte.$  Tu misión es custodiar el Carguero [[Sidral II]] y esperar a que la Corbeta [[Frazier]] haya cargado el equipo capturado.</target>
+        <target>軍事裝備的[[貨船]]。我們期望透過分析這批設備，進一步查明死星背後的建造鏈。$  你的任務是為貨船[[西德拉爾二號（Sidral II）]]提供警戒，直到巡邏艦[[弗雷澤號（Frazier）]]將截獲的物資全部裝載完畢。</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Tag.0">
       <segment state="translated">
         <source>A-W Red (YOU)</source>
-        <target>A-A Rojo (TÚ)</target>
+        <target>A-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Tag.1">
       <segment state="translated">
         <source>Military Equipment</source>
-        <target>Equipamiento Militar</target>
+        <target>軍用裝備</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Tag.2">
       <segment state="translated">
         <source>FRT Sidral II</source>
-        <target>CRG Sidral II</target>
+        <target>FRT 西德拉爾二號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Tag.3">
       <segment>
         <source>TIE Fighters</source>
-        <target>Cazas TIE</target>
+        <target>鈦戰機</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Tag.4">
       <segment>
         <source>TIE Bombers</source>
-        <target>Bombarderos TIE</target>
+        <target>鈦轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Tag.5">
       <segment state="translated">
         <source>CRV Frazier</source>
-        <target>CRB Frazier</target>
+        <target>CRV 弗雷澤號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.1.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.2.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.3.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.4.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.5.Designation">
       <segment>
         <source>DARA 2</source>
-        <target>DARA 2</target>
+        <target>達拉二號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.5.Cargo">
       <segment state="translated">
         <source>MILITARY EQPT.</source>
-        <target>EQUIPAMIENTO MILITAR</target>
+        <target>軍用裝備</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.6.Designation">
       <segment>
         <source>DARA 1</source>
-        <target>DARA 1</target>
+        <target>達拉一號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.6.Cargo">
       <segment state="translated">
         <source>MILITARY EQPT.</source>
-        <target>EQUIPAMIENTO MILITAR</target>
+        <target>軍用裝備</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.7.Designation">
       <segment>
         <source>SIDRAL II</source>
-        <target>SIDRAL II</target>
+        <target>西德拉爾二號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.7.Cargo">
       <segment state="translated">
         <source>MILITARY EQPT.</source>
-        <target>EQUIPAMIENTO MILITAR</target>
+        <target>軍用裝備</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.8.Designation">
       <segment>
         <source>FRAZIER</source>
-        <target>FRAZIER</target>
+        <target>弗雷澤號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.9.Designation">
       <segment state="translated">
         <source>IMMORTAL</source>
-        <target>INMORTAL</target>
+        <target>不朽號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.FG.10.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.1.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.2.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.3.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.4.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.5.Designation">
       <segment>
         <source>DARA 2</source>
-        <target>DARA 2</target>
+        <target>達拉二號</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.5.Cargo">
       <segment state="translated">
         <source>MILITARY EQPT.</source>
-        <target>EQUIPAMIENTO MILITAR</target>
+        <target>軍用裝備</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.6.Designation">
       <segment>
         <source>DARA 1</source>
-        <target>DARA 1</target>
+        <target>達拉一號</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.6.Cargo">
       <segment state="translated">
         <source>MILITARY EQPT.</source>
-        <target>EQUIPAMIENTO MILITAR</target>
+        <target>軍用裝備</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.7.Designation">
       <segment>
         <source>SIDRAL II</source>
-        <target>SIDRAL II</target>
+        <target>西德拉爾二號</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.7.Cargo">
       <segment state="translated">
         <source>MILITARY EQPT.</source>
-        <target>EQUIPAMIENTO MILITAR</target>
+        <target>軍用裝備</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.8.Designation">
       <segment>
         <source>FRAZIER</source>
-        <target>FRAZIER</target>
+        <target>弗雷澤號</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.9.Designation">
       <segment state="translated">
         <source>IMMORTAL</source>
-        <target>INMORTAL</target>
+        <target>不朽號</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.FG.10.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.CompletionMessage.0">
       <segment state="translated">
         <source>The freighter and the corvette have completed their rendezvous</source>
-        <target>El carguero y la corbeta han completado su encuentro</target>
+        <target>貨船與巡邏艦已圓滿完成物資對接會合！</target>
       </segment>
     </unit>
     <unit id="Mission.defend2.CompletionMessage.1">
       <segment state="translated">
         <source>Both ships have hyperdrived to safety</source>
-        <target>Ambas naves han saltado a salvo al hiperespacio</target>
+        <target>兩艘艦船均已安全跳入超空間脫離！</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.Title">
       <segment state="translated">
         <source>Destroy Repair Dock</source>
-        <target>Destruye el Dique de Reparaciones</target>
+        <target>摧毀維修船塢</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.Description">
@@ -315,286 +315,284 @@ transferido su carga.</target>
 leader in destroying
 an Imperial Repair Dock 
 and the surrounding ships.</source>
-        <target>Ayuda a tu líder de vuelo
-en la destrucción de un 
-Dique de Reparaciones Imperial
-y las naves que lo rodean.</target>
+        <target>協助長機摧毀帝國維修船塢
+以及周邊集結的艦船。</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Text.1">
       <segment state="translated">
         <source>&gt;OP 2: Destroy Imperial Repair Dock</source>
-        <target>&gt;OP 2: Destruye Dique de Reparaciones Imperial</target>
+        <target>>行動 2：摧毀帝國維修船塢</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Text.2">
       <segment state="translated">
         <source>Your flight leader [[Red One]] will attack the [[Corvette]] and [[Repair Dock]].</source>
-        <target>Tu líder de vuelo [[Rojo Uno]] atacará a la [[Corbeta]] y al [[Dique de Reparaciones]].</target>
+        <target>長機[[紅一號]]將攻擊敵方[[巡邏艦]]與[[維修船塢]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Text.3">
       <segment>
         <source>You are to destroy all the [[smaller ships]] and any defenses in the area.</source>
-        <target>Debes destruir todas las [[naves menores]] y cualquier defensa en la zona.</target>
+        <target>你負責摧毀所有[[小型艦艇]]以及該空域的防空火力。</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Text.4">
       <segment state="translated">
         <source>  Part of the shipment of military equipment captured in the last operation passed through an Imperial repair facility near [[Coruscant]].  High Command believes that an attack on this base could be devastating.  Knocking out this facility will cripple the infrastructure that services the starships the [[Death Star]] project depends on.$  Your mission is to completely destroy this facility.</source>
-        <target>Parte del envío de equipamiento militar capturado en la última operación pasó por una instalación de reparaciones imperial cerca de [[Coruscant]]. El Alto Mando cree que un ataque a esta base podría ser devastador.  Inutilizar esta instalación desarticulará la infraestructura que proporciona servicio a las naves de las que depende el proyecto [[Estrella de la Muerte]].$  Tu misión es destruir completamente esta instalación.</target>
+        <target>  上次行動截獲的部分軍備物資曾途經[[科羅森（Coruscant）]]附近的一處帝國維修設施。最高統帥部研判，對該基地發動毀滅性打擊將重創其後勤樞紐，癱瘓為[[死星]]工程效力的星際艦船維修體系。$  你的任務是將此維修基地徹底夷為平地。</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.0">
       <segment state="translated">
         <source>Y-W Red (YOU)</source>
-        <target>A-Y Rojo (TÚ)</target>
+        <target>Y-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.1">
       <segment>
         <source>TIE Fighters</source>
-        <target>Cazas TIE</target>
+        <target>鈦戰機</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.2">
       <segment>
         <source>TIE Bombers</source>
-        <target>Bombarderos TIE</target>
+        <target>鈦轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.3">
       <segment>
         <source>Mines</source>
-        <target>Minas</target>
+        <target>太空水雷</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.4">
       <segment state="translated">
         <source>Imperial CRV</source>
-        <target>CRB Imperial</target>
+        <target>帝國巡邏艦</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.5">
       <segment>
         <source>Freighter</source>
-        <target>Carguero</target>
+        <target>貨船</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.6">
       <segment state="translated">
         <source>Imperial TRNs</source>
-        <target>TRNs Imperiales</target>
+        <target>帝國運輸船</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.7">
       <segment state="translated">
         <source>Imperial SHUs</source>
-        <target>LANs Imperiales</target>
+        <target>帝國太空梭</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.8">
       <segment state="translated">
         <source>Repair Dock</source>
-        <target>Dique de Reparaciones</target>
+        <target>維修船塢</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.9">
       <segment state="translated">
         <source>Coruscant</source>
-        <target>Coruscant</target>
+        <target>科羅森</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.1.Designation">
       <segment state="translated">
         <source>LAMBDA</source>
-        <target>LAMBDA</target>
+        <target>藍布達</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.2.Designation">
       <segment>
         <source>OMEGA</source>
-        <target>OMEGA</target>
+        <target>歐米茄</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.3.Designation">
       <segment state="translated">
         <source>REPAIR DOCK</source>
-        <target>DIQUE DE REPARACIONES</target>
+        <target>維修船塢 1</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.4.Designation">
       <segment state="translated">
         <source>REPAIR DOCK</source>
-        <target>DIQUE DE REPARACIONES</target>
+        <target>維修船塢 2</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.5.Designation">
       <segment>
         <source>KATO</source>
-        <target>KATO</target>
+        <target>加藤號</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.7.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.9.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.10.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.11.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.12.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.13.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.FG.14.Designation">
       <segment state="translated">
         <source>VULTURE</source>
-        <target>BUITRE</target>
+        <target>禿鷹號</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.1.Designation">
       <segment state="translated">
         <source>LAMBDA</source>
-        <target>LAMBDA</target>
+        <target>藍布達</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.2.Designation">
       <segment>
         <source>OMEGA</source>
-        <target>OMEGA</target>
+        <target>歐米茄</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.3.Designation">
       <segment state="translated">
         <source>REPAIR DOCK</source>
-        <target>DIQUE DE REPARACIONES</target>
+        <target>維修船塢 1</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.4.Designation">
       <segment>
         <source>KATO</source>
-        <target>KATO</target>
+        <target>加藤號</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.5.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.6.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.7.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.8.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.9.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.10.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.11.Designation">
       <segment state="translated">
         <source>VULTURE</source>
-        <target>BUITRE</target>
+        <target>禿鷹號</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.12.Designation">
       <segment state="translated">
         <source>REPAIR DOCK</source>
-        <target>DIQUE DE REPARACIONES</target>
+        <target>維修船塢 2</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.13.Cargo">
       <segment state="translated">
         <source>ON ENGINESINE</source>
-        <target>ON ENGINESINE</target>
+        <target>引擎維修設備</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.13.SpecialCargo">
       <segment state="translated">
         <source>ON ENGINESINE</source>
-        <target>ON ENGINESINE</target>
+        <target>引擎維修設備</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.14.Cargo">
       <segment state="translated">
         <source>ON ENGINESINE</source>
-        <target>ON ENGINESINE</target>
+        <target>引擎維修設備</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.FG.14.SpecialCargo">
       <segment state="translated">
         <source>ON ENGINESINE</source>
-        <target>ON ENGINESINE</target>
+        <target>引擎維修設備</target>
       </segment>
     </unit>
     <unit id="Mission.yraid.CompletionMessage.0">
       <segment state="translated">
         <source>THE REPAIR AREA HAS BEEN DESTROYED</source>
-        <target>EL DIQUE DE REPARACIONES HA SIDO DESTRUIDO</target>
+        <target>帝國維修空域已被徹底摧毀！</target>
       </segment>
     </unit>
     <unit id="Mission.max14.Title">
       <segment>
         <source>Capture Military Transport</source>
-        <target>Captura Transporte Militar</target>
+        <target>俘虜軍事運輸船</target>
       </segment>
     </unit>
     <unit id="Mission.max14.Description">
@@ -604,275 +602,274 @@ carrying military advisors
 has been disabled.  Lead 
 your Y-wing squadron to
 oversee its capture.</source>
-        <target>Un transporte imperial
-que transporta asesores militares
-ha sido incapacitado. Dirige a tu
-escuadrón de Alas-Y para supervisar
-su captura.</target>
+        <target>一艘載運軍事顧問的
+帝國運輸船已被癱瘓。
+率領你的 Y翼中隊
+掩護對其登艦俘獲。</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.Text.1">
       <segment>
         <source>&gt;OP 3: Capture Military Transport</source>
-        <target>&gt;OP 3: Captura Transporte Militar</target>
+        <target>>行動 3：俘虜軍事運輸船</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.Text.2">
       <segment state="translated">
         <source>An Imperial Military [[Transport ]]is disabled and stranded.</source>
-        <target>Un [[Transporte]] Militar del Imperio ha sido incapacitado y está varado.</target>
+        <target>一艘帝國軍事[[運輸船]]已遭癱瘓並動彈不得。</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.Text.3">
       <segment state="translated">
         <source>Protect the [[Shuttle]] [[Hunter]] while it boards and captures the [[Transport]]. </source>
-        <target>Protege a la [[Lanzadera Cazadora]] mientras aborda y captura el [[Transporte]].</target>
+        <target>掩護[[獵人號太空梭]]實施強行登艦並俘獲該[[運輸船]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.Text.4">
       <segment state="translated">
         <source>  [[Special Forces Command]] has succeeded in sabotaging an important military Transport carrying [[Imperial Military Advisors]].[[ ]] It is hoped that these high ranking officers have been assigned to the [[Death Star ]]project and have knowledge about it.$  You are to lead your [[Y-wing]] Squadron to oversee its capture. Stay with the captured Transport until it makes it to safety aboard the Alliance Frigate [[Inad]].</source>
-        <target>  El [[Mando de Fuerzas Especiales]] ha tenido éxito al sabotear un transporte militar importante que transportaba [[asesores militares del Imperio]].  Tenemos esperanzas de que estos oficiales de alto rango hayan sido asignados al proyecto [[Estrella de la Muerte]] y tengan información sobre el mismo.$  Debes liderar tu escuadrón de [[Alas-Y]] para supervisar su captura. Quédate con el transporte capturado hasta que atraque a salvo a bordo de la fragata aliada [[Inad]].</target>
+        <target>  [[特種部隊司令部]]成功破壞了一艘載運[[帝國軍事顧問]]的關鍵軍事運輸船。[[ ]]我們期望能從這些高級軍官口中審出關於[[死星]]工程的深層情報。$  你將率領[[Y翼戰機]]中隊前去督導並護衛這場俘獲行動。全程掩護該受俘運輸船，直到其安全進入同盟巡防艦[[伊納德號（Inad）]]的機庫。</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.Tag.0">
       <segment state="translated">
         <source>Disabled Imperial TRN</source>
-        <target>TRN Imperial Incapacitado</target>
+        <target>癱瘓的帝國運輸船</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.Tag.1">
       <segment state="translated">
         <source>Y-W Red (YOU)</source>
-        <target>A-Y Rojo (TÚ)</target>
+        <target>Y-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.Tag.2">
       <segment state="translated">
         <source>X-W Blue</source>
-        <target>A-X Azul</target>
+        <target>X-W 藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.Tag.3">
       <segment state="translated">
         <source>SHU Hunter</source>
-        <target>LAN Cazadora</target>
+        <target>SHU 獵人號</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.0.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.1.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.2.Designation">
       <segment state="translated">
         <source>HUNTER 1</source>
-        <target>CAZADORA 1</target>
+        <target>獵人一號</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.2.Cargo">
       <segment>
         <source>BOARD PTY</source>
-        <target>PTDA DE ABORDAJE</target>
+        <target>登艦部隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.3.Designation">
       <segment state="translated">
         <source>HUNTER 2</source>
-        <target>CAZADORA 2</target>
+        <target>獵人二號</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.3.Cargo">
       <segment state="translated">
         <source>BOARD PTY</source>
-        <target>PRTDA DE ABORDAJE</target>
+        <target>登艦部隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.4.Designation">
       <segment>
         <source>OMICRON 1</source>
-        <target>OMICRÓN 1</target>
+        <target>奧米克戎一號</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.4.Cargo">
       <segment state="translated">
         <source>MIL ADVISORS</source>
-        <target>ASESORES MIL.</target>
+        <target>軍事顧問</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.5.Designation">
       <segment>
         <source>MU</source>
-        <target>MU</target>
+        <target>繆</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.6.Designation">
       <segment state="translated">
         <source>LAMBDA 1</source>
-        <target>LAMBDA 1</target>
+        <target>藍布達一號</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.6.Cargo">
       <segment state="translated">
         <source>BOARD PTY</source>
-        <target>PRTDA DE ABORDAJE</target>
+        <target>登艦部隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.7.Designation">
       <segment state="translated">
         <source>RHO</source>
-        <target>RHO</target>
+        <target>羅</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.8.Designation">
       <segment>
         <source>IMMORTAL</source>
-        <target>INMORTAL</target>
+        <target>不朽號</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.9.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.10.Designation">
       <segment>
         <source>THETA</source>
-        <target>THETA</target>
+        <target>西塔</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.11.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.max14.FG.12.Designation">
       <segment>
         <source>INAD</source>
-        <target>INAD</target>
+        <target>伊納德號</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.0.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.1.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.2.Designation">
       <segment state="translated">
         <source>HUNTER 1</source>
-        <target>CAZADORA 1</target>
+        <target>獵人一號</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.2.Cargo">
       <segment state="translated">
         <source>BOARD PTY</source>
-        <target>PRTDA DE ABORDAJE</target>
+        <target>登艦部隊</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.3.Designation">
       <segment state="translated">
         <source>HUNTER 2</source>
-        <target>CAZADORA 2</target>
+        <target>獵人二號</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.3.Cargo">
       <segment>
         <source>BOARD PTY</source>
-        <target>PTDA DE ABORDAJE</target>
+        <target>登艦部隊</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.4.Designation">
       <segment>
         <source>OMICRON 1</source>
-        <target>OMICRÓN 1</target>
+        <target>奧米克戎一號</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.4.Cargo">
       <segment state="translated">
         <source>MIL ADVISORS</source>
-        <target>CONSEJEROS MIL.</target>
+        <target>軍事顧問</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.5.Designation">
       <segment>
         <source>MU</source>
-        <target>MU</target>
+        <target>繆</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.6.Designation">
       <segment>
         <source>LAMBDA 1</source>
-        <target>LAMBDA 1</target>
+        <target>藍布達一號</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.6.Cargo">
       <segment state="translated">
         <source>BOARD PTY</source>
-        <target>PRTDA DE ABORDAJE</target>
+        <target>登艦部隊</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.7.Designation">
       <segment>
         <source>RHO</source>
-        <target>RHO</target>
+        <target>羅</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.8.Designation">
       <segment>
         <source>IMMORTAL</source>
-        <target>INMORTAL</target>
+        <target>不朽號</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.9.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.10.Designation">
       <segment>
         <source>THETA</source>
-        <target>THETA</target>
+        <target>西塔</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.11.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.max14.FG.12.Designation">
       <segment>
         <source>INAD</source>
-        <target>INAD</target>
+        <target>伊納德號</target>
       </segment>
     </unit>
     <unit id="Mission.max14.CompletionMessage.0">
       <segment state="translated">
         <source>The Captured Transport has reached the safety of FRG Inad</source>
-        <target>El Transporte Capturado está a salvo en la FRA Inad.</target>
+        <target>受俘運輸船已安全抵達巡防艦伊納德號！</target>
       </segment>
     </unit>
     <unit id="Mission.max17.Title">
       <segment state="translated">
         <source>Scramble!</source>
-        <target>¡A sus naves!</target>
+        <target>緊急升空攔截！</target>
       </segment>
     </unit>
     <unit id="Mission.max17.Description">
@@ -882,280 +879,279 @@ Cruiser Defiance from
 a surprise attack by
 the Imperial Star
 Destroyer Immortal.</source>
-        <target>Defiende el Crucero Calamari 
-Desafío de un ataque sorpresa
-por parte del Destructor Estelar
-Imperial Inmortal.</target>
+        <target>保衛蒙卡拉馬里巡洋艦挑釁號，
+抵禦帝國滅星艦不朽號的
+突襲。</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Text.1">
       <segment state="translated">
         <source>&gt;OP 4: Scramble!</source>
-        <target>&gt;OP 4: ¡A sus naves!</target>
+        <target>>行動 4：緊急升空攔截！</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Text.2">
       <segment state="translated">
         <source>  The Star Destroyer [[Immortal ]]has just ended its hyperdrive jump next to the Cruiser[[ Defiance]].  Our cruiser is stationed above [[Bestine]], site of an important base.$  You will be one of the few starfighters that can scramble to defend the ship.  Hold off[[ ]]the [[TIE Bombers]] until the Defiance can hyperdrive to safety.  Its jump coordinates will be downloaded to your R2 for your return. </source>
-        <target>  El Destructor Estelar [[Inmortal]] acaba de emerger del hiperespacio junto al Crucero [[Desafío]].  Nuestro crucero está estacionado sobre [[Bestine]], localización de una base importante.$  Serás uno de los pocos cazas que puedan despegar para defender la nave.  Mantén a raya a los [[Bombarderos TIE]] hasta que el Desafío pueda saltar a salvo al hiperespacio.  Las coordenadas del salto se descargarán en tu R2 para tu regreso.</target>
+        <target>  滅星艦[[不朽號]]剛剛跳出超空間，逼近巡洋艦[[挑釁號（Defiance）]]身側。我方巡洋艦目前駐泊於重要基地所在的[[貝斯汀（Bestine）]]上空。$  你是目前少數能緊急升空保衛母艦的戰機之一。務必阻擊敵方[[鈦轟炸機]]，直到挑釁號能安全跳入超空間。其撤離座標將下載至你的 R2 單位以供返航。</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Text.3">
       <segment state="translated">
         <source>With your [[X-wing]] defend[[ ]]our command ship,[[ ]]the Calamari Cruiser[[ Defiance]].</source>
-        <target>Con tu [[Ala-X]] defiende nuestra nave de mando, el Crucero Calamari [[Desafío]].</target>
+        <target>駕駛你的[[X翼戰機]]誓死保衛我軍指揮旗艦——蒙卡拉馬里巡洋艦[[挑釁號]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Text.4">
       <segment state="translated">
         <source>The STD [[Immortal ]]has just entered our sector and is deploying [[TIEs]].</source>
-        <target>El DES [[Inmortal]] ha entrado recientemente a nuestro sector y está desplegando [[TIEs]].</target>
+        <target>滅星艦[[不朽號]]剛剛進入我方星區，正全力出動[[鈦戰機群]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Tag.0">
       <segment state="translated">
         <source>CRS Defiance</source>
-        <target>CRU Desafío</target>
+        <target>CRS 挑釁號</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Tag.1">
       <segment state="translated">
         <source>X-W Red (YOU)</source>
-        <target>A-X Rojo (TÚ)</target>
+        <target>X-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Tag.2">
       <segment>
         <source>A-W Blue</source>
-        <target>A-A Azul</target>
+        <target>A-W 藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Tag.3">
       <segment state="translated">
         <source>STD Immortal</source>
-        <target>DES Inmortal</target>
+        <target>STD 不朽號</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Tag.4">
       <segment>
         <source>TIE Bombers</source>
-        <target>Bombarderos TIE</target>
+        <target>鈦轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Tag.5">
       <segment>
         <source>TIE Interceptors</source>
-        <target>Interceptores TIE</target>
+        <target>鈦截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Tag.6">
       <segment>
         <source>Bestine</source>
-        <target>Bestine</target>
+        <target>貝斯汀</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.0.Designation">
       <segment state="translated">
         <source>Red</source>
-        <target>Rojo</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.1.Designation">
       <segment state="translated">
         <source>Blue</source>
-        <target>Azul</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.2.Designation">
       <segment state="translated">
         <source>Immortal</source>
-        <target>Inmortal</target>
+        <target>不朽號 1</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.3.Designation">
       <segment>
         <source>Immortal</source>
-        <target>Inmortal</target>
+        <target>不朽號 2</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.4.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.5.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.6.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.7.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.8.Designation">
       <segment>
         <source>Defiance</source>
-        <target>Desafío</target>
+        <target>挑釁號</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.9.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.10.Designation">
       <segment>
         <source>Beta</source>
-        <target>BETA</target>
+        <target>貝塔 2</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.11.Designation">
       <segment>
         <source>IOTA</source>
-        <target>IOTA</target>
+        <target>約塔</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.12.Designation">
       <segment>
         <source>theta</source>
-        <target>THETA</target>
+        <target>西塔</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.13.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.14.Designation">
       <segment>
         <source>gamma</source>
-        <target>gamma</target>
+        <target>伽瑪 2</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.FG.15.Designation">
       <segment state="translated">
         <source>bestine</source>
-        <target>Bestine</target>
+        <target>貝斯汀</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.1.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.2.Designation">
       <segment>
         <source>IMMORTAL</source>
-        <target>INMORTAL</target>
+        <target>不朽號 1</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.3.Designation">
       <segment state="translated">
         <source>IMMORTAL</source>
-        <target>INMORTAL</target>
+        <target>不朽號 2</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.4.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.5.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.6.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.7.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.8.Designation">
       <segment state="translated">
         <source>DEFIANCE</source>
-        <target>DESAFÍO</target>
+        <target>挑釁號</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.9.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.10.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔 2</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.11.Designation">
       <segment>
         <source>IOTA</source>
-        <target>IOTA</target>
+        <target>約塔</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.12.Designation">
       <segment>
         <source>THETA</source>
-        <target>THETA</target>
+        <target>西塔</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.13.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔</target>
       </segment>
     </unit>
     <unit id="Mission.max17.FG.14.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪 2</target>
       </segment>
     </unit>
     <unit id="Mission.max17.CompletionMessage.0">
       <segment state="translated">
         <source>The Defiance has made it to safety</source>
-        <target>El Desafío está a salvo.</target>
+        <target>巡洋艦挑釁號已成功安全撤離！</target>
       </segment>
     </unit>
     <unit id="Mission.max17.CompletionMessage.1">
       <segment state="translated">
         <source>The jump coordinates have been fed to your computer</source>
-        <target>Las coordenadas de salto han sido transferidas a tu astromecánico</target>
+        <target>超空間跳躍座標已輸入你的航法電腦！</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.Title">
       <segment state="translated">
         <source>Intercept and Capture</source>
-        <target>Intercepción y Captura</target>
+        <target>攔截與俘獲</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.Description">
@@ -1164,347 +1160,344 @@ Imperial Inmortal.</target>
 Imperial Corvette to
 capture members of the 
 Death Star design team.</source>
-        <target>Lidera un ataque contra
-una Corbeta Imperial para
-capturar miembros del equipo
-de diseño de la Estrella de la
-Muerte.</target>
+        <target>率隊突襲一艘帝國巡邏艦，
+俘獲死星設計團隊的核心成員。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.1">
       <segment state="translated">
         <source>&gt;OP 5: Intercept and Capture</source>
-        <target>&gt;OP 5: Intercepción y Captura</target>
+        <target>>行動 5：攔截與俘獲</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.2">
       <segment state="translated">
         <source>Part of the Death Star design team is on their way to a rendezvous with the Star Destroyer [[Immortal]].</source>
-        <target>Parte del equipo de diseño de la Estrella de la Muerte esta en ruta para encontrarse con el Destructor Estelar [[Inmortal]].</target>
+        <target>死星設計團隊的部分成員正前往與滅星艦[[不朽號]]會合。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.3">
       <segment state="translated">
         <source>With them is a squad of [[Stormtroopers]] holding them as virtual prisoners on their [[Corvette]].</source>
-        <target>Con ellos hay una escuadra de [[Tropas de Asalto]] reteniéndolos prácticamente como prisioneros en su [[Corbeta]].</target>
+        <target>一隊[[暴風兵]]正押解著他們，將其形同囚犯般軟禁在[[巡邏艦]]上。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.4">
       <segment state="translated">
         <source>There are [[Gunboat]] and [[TIE Fighter]] escorts. These will be attacked and drawn off by the [[X-wings]].</source>
-        <target>Hay una escolta de [[Cañoneras de Asalto]] y [[Cazas TIE]]. Los cuales serán atacados y alejados por los [[Alas-X]].</target>
+        <target>敵軍擁有[[突擊砲艇]]與[[鈦戰機]]護航。[[X翼戰機]]將負責攻擊並引開敵機。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.5">
       <segment state="translated">
         <source>You will lead the capture effort. Your task will be to disable the [[Corvette]] carrying the design team.</source>
-        <target>Tú dirigirás la operación de captura. Tu tarea será incapacitar la [[Corbeta]] que transporta al equipo de diseño.</target>
+        <target>你將率領俘獲突擊。你的任務是以離子砲癱瘓載有設計團隊的[[巡邏艦]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.6">
       <segment state="translated">
         <source>A [[Rescue Shuttle]] will drop out of hyperspace as soon as the Corvette has been disabled.</source>
-        <target>Una [[Lanzadera de Rescate]] saldrá del hiperespacio tan pronto como la Corbeta haya sido incapacitada.</target>
+        <target>一旦巡邏艦被癱瘓，[[救援太空梭]]隨即脫離超空間實施接管。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.7">
       <segment state="translated">
         <source>Protect the [[Shuttle]] as it makes its escape back into hyperspace.</source>
-        <target>Protege la [[Lanzadera]] mientras se retira de regreso al hiperespacio.</target>
+        <target>掩護[[太空梭]]完成俘獲並跳回超空間。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.8">
       <segment state="translated">
         <source>If you have time before the Immortal's[[ TIE interceptors]] arrive, you may attack the other craft.</source>
-        <target>Si tienes tiempo antes de que lleguen los [[interceptores TIE]] del Inmortal, puedes atacar a las otras naves.</target>
+        <target>若在不朽號的[[鈦截擊機]]抵達前尚有餘力，可順勢打擊其他敵機。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.9">
       <segment state="translated">
         <source>  The Military Advisors captured in the Corellian system were unable to provide many details of the Death Star Project except that the design team was led by [[Bevel Lemelisk]].  They also knew that part of his team had recently travelled to [[Coruscant]] to meet with Imperial Grand Moff [[Tarkin]].$  High Command believes it is important to try to capture the design team.</source>
-        <target>  Los asesores militares capturados en el sistema de Coruscant no fueron capaces de proporcionar muchos detalles sobre el Proyecto Estrella de la Muerte excepto que el equipo de diseño estaba liderado por [[Bevel Lemelisk]].  También sabían que parte de su equipo había viajado recientemente a [[Coruscant]] para reunirse con el Gran Moff Imperial [[Tarkin]].$  El Alto Mando cree que es importante intentar capturar al equipo de diseño.</target>
+        <target>  在柯爾里亞星系俘獲的軍事顧問未能吐露死星工程的太多細節，只知設計團隊由[[貝維爾·萊梅利斯克（Bevel Lemelisk）]]領導。他們亦透露其團隊成員近期曾前往[[科羅森]]會見帝國高級星區總督[[塔金（Tarkin）]]。$  最高統帥部研判生擒該設計團隊具有極高價值。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.10">
       <segment state="translated">
         <source>Their loss can only slow the progress on the Death Star.  More importantly they will help us interpret the technical readouts en route to us with Princess Leia.$  Your mission is to lead this daring attack on the Imperial Corvette and capture the design team.</source>
-        <target>Su pérdida solo puede retrasar el progreso de la Estrella de la Muerte.  Y lo más importante es que nos ayudarán a interpretar los datos técnicos que nos trae la Princesa Leia.$  Tu misión es liderar este atrevido ataque contra la Corbeta Imperial y capturar al equipo de diseño.</target>
+        <target>失去這些科學家將大幅延宕死星的建造進度；更重要的是，他們能協助我們解讀莉亞公主正護送前來的技術藍圖。$  你的任務是率領這場大膽的突擊，俘虜帝國巡邏艦與設計團隊。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Tag.0">
       <segment>
         <source>X-W Blue</source>
-        <target>A-X Azul</target>
+        <target>X-W 藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Tag.1">
       <segment state="translated">
         <source>Y-W Red 1 (YOU)</source>
-        <target>A-Y Rojo 1 (TÚ)</target>
+        <target>Y-W 紅一號（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Tag.2">
       <segment>
         <source>STD Immortal</source>
-        <target>DES Inmortal</target>
+        <target>STD 不朽號</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Tag.3">
       <segment state="translated">
         <source>Imperial Gunships</source>
-        <target>Cañoneras Imperiales</target>
+        <target>帝國砲艇</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Tag.4">
       <segment state="translated">
         <source>TIE Fighters</source>
-        <target>Cazas TIE</target>
+        <target>鈦戰機</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Tag.5">
       <segment>
         <source>Coruscant</source>
-        <target>Coruscant</target>
+        <target>科羅森</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Tag.6">
       <segment state="translated">
         <source>Rescue</source>
-        <target>Rescate</target>
+        <target>救援部隊</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Tag.7">
       <segment>
         <source>SHU Rescue</source>
-        <target>LAN Rescate</target>
+        <target>SHU 救援號</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Tag.8">
       <segment state="translated">
         <source>Imperial CRV</source>
-        <target>CRB Imperial</target>
+        <target>帝國巡邏艦</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.0.Designation">
       <segment>
         <source>RED 1</source>
-        <target>ROJO 1</target>
+        <target>紅一號</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.1.Designation">
       <segment>
         <source>RESCUE 1</source>
-        <target>RESCATE 1</target>
+        <target>救援一號</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.1.Cargo">
       <segment state="translated">
         <source>ATTACK TEAM</source>
-        <target>EQUIPO DE ATAQUE</target>
+        <target>突擊突擊隊</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.2.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.3.Designation">
       <segment state="translated">
         <source>RHO</source>
-        <target>RHO</target>
+        <target>羅</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.4.Designation">
       <segment>
         <source>GODAR</source>
-        <target>GODAR</target>
+        <target>戈達爾號</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.4.Cargo">
       <segment>
         <source>DESIGN TEAM</source>
-        <target>EQUIPO DE DISEÑO</target>
+        <target>設計團隊</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.5.Designation">
       <segment>
         <source>TAU</source>
-        <target>TAU</target>
+        <target>陶</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.6.Designation">
       <segment state="translated">
         <source>IMMORTAL</source>
-        <target>INMORTAL</target>
+        <target>不朽號</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.7.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.8.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.9.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.10.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.11.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.12.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.13.Designation">
       <segment>
         <source>IOTA</source>
-        <target>IOTA</target>
+        <target>約塔</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.14.Designation">
       <segment>
         <source>THETA</source>
-        <target>THETA</target>
+        <target>西塔</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.FG.15.Designation">
       <segment>
         <source>coruscant</source>
-        <target>Coruscant</target>
+        <target>科羅森</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.0.Designation">
       <segment>
         <source>RED 1</source>
-        <target>ROJO 1</target>
+        <target>紅一號</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.1.Designation">
       <segment>
         <source>RESCUE 1</source>
-        <target>RESCATE 1</target>
+        <target>救援一號</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.1.Cargo">
       <segment state="translated">
         <source>ATTACK TEAM</source>
-        <target>EQUIPO DE ATAQUE</target>
+        <target>突擊突擊隊</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.2.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.3.Designation">
       <segment>
         <source>RHO</source>
-        <target>RHO</target>
+        <target>羅</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.4.Designation">
       <segment>
         <source>GODAR</source>
-        <target>GODAR</target>
+        <target>戈達爾號</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.4.Cargo">
       <segment>
         <source>DESIGN TEAM</source>
-        <target>EQUIPO DE DISEÑO</target>
+        <target>設計團隊</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.5.Designation">
       <segment>
         <source>TAU</source>
-        <target>TAU</target>
+        <target>陶</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.6.Designation">
       <segment>
         <source>IMMORTAL</source>
-        <target>INMORTAL</target>
+        <target>不朽號</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.7.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.8.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.9.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.10.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.11.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.12.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.13.Designation">
       <segment>
         <source>IOTA</source>
-        <target>IOTA</target>
+        <target>約塔</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.FG.14.Designation">
       <segment>
         <source>THETA</source>
-        <target>THETA</target>
+        <target>西塔</target>
       </segment>
     </unit>
     <unit id="Mission.wyresc3.CompletionMessage.0">
       <segment>
         <source>The Design team has been captured</source>
-        <target>El Equipo de Diseño ha sido capturado</target>
+        <target>死星設計團隊已全數落入我方手中！</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.Title">
       <segment state="translated">
         <source>Destroy Imperial Base</source>
-        <target>Destruye Base Imperial</target>
+        <target>摧毀帝國基地</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.Description">
@@ -1514,245 +1507,243 @@ the Imperial base
 near Kalla VII and
 destroy all equipment
 and supply ships.</source>
-        <target>Lidera una incursión sobre
-la base imperial
-cerca de Kalla VII y
-destruye todas las naves
-de suministros y equipamiento.</target>
+        <target>率隊突襲卡拉七號星附近的
+帝國基地，
+摧毀所有裝備與補給船隻。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.Text.1">
       <segment state="translated">
         <source>&gt;OP 6: Destroy Imperial Supply Base</source>
-        <target>&gt;OP 6: Destruye Base de Abastecimiento Imperial</target>
+        <target>>行動 6：摧毀帝國補給基地</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.Text.2">
       <segment state="translated">
         <source>Attack Imperial supply and repair base. Destroy [[containers]] and [[mines]].</source>
-        <target>Ataca la base de suministros y reparaciones del Imperio. Destruye los [[contenedores]] y las [[minas]].</target>
+        <target>攻擊帝國補給與維修基地。摧毀[[貨櫃]]與[[太空水雷]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.Text.3">
       <segment state="translated">
         <source>Attack any Imperial [[Freighters]] that approach the base.</source>
-        <target>Ataca cualquier [[Carguero]] imperial que se acerque a la base.</target>
+        <target>摧毀任何接近該基地的帝國[[貨船]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.Text.4">
       <segment state="translated">
         <source>  High Command has demanded that all units search for evidence of where the [[Death Star]] is being constructed.  Our intelligence has identified a key supply and repair base near [[Kalla VII]] being used by starships going to and from the Death Star project.  Their exact destination remains a mystery.$  General Dodonna has devised a brilliant plan to learn where the Death Star Project is located by capturing an Imperial starship intact.</source>
-        <target>  El Alto Mando ha exigido que todas las unidades busquen pruebas de dónde se está construyendo la [[Estrella de la Muerte]].  Nuestra inteligencia ha identificado una base de suministros y reparaciones clave cerca de [[Kalla VII]], utilizada por naves que van y vienen del proyecto Estrella de la Muerte.  Su destino exacto sigue siendo un misterio.$  El General Dodonna ha ideado un plan brillante para descubrir dónde se encuentra el Proyecto Estrella de la Muerte mediante la captura una nave imperial intacta.</target>
+        <target>  最高統帥部要求所有部隊全力搜尋死星建造地的確切證據。我方情報查明，位於[[卡拉七號星（Kalla VII）]]附近的一處重要補給維修基地，正供往返死星工程的星際艦船頻繁使用。其具體目的地仍不得而知。$  多東納將軍（General Dodonna）策劃了一項精準計畫，企圖藉由完整俘獲一艘帝國主力艦，徹底查明死星工程的所在地。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.Text.5">
       <segment state="translated">
         <source>  His plan calls for attacking the supply base at [[Kalla VII]] and rendering it unusable, so that when the next Imperial starship arrives for repairs it will become stranded.$  Your mission is to lead the initial assault on the base near [[Kalla VII]] and destroy all equipment and any supply ships.</source>
-        <target>  Su plan involucra atacar la base de abastecimiento de [[Kalla VII]] y dejarla inutilizada para que cuando llegue la próxima nave imperial en busca de reparaciones ésta quede varada.$  Tu misión es liderar la primera fase del ataque a la base cerca de [[Kalla VII]], y destruir todo el equipamiento y cualquier nave de suministro.</target>
+        <target>  他的計畫是突襲位於[[卡拉七號星]]的補給基地並將其徹底摧毀，如此一來，下一艘前來維修的帝國戰艦便會因失去後勤而拋錨受困。$  你的任務是率領先鋒部隊突擊[[卡拉七號星]]基地，摧毀所有後勤裝備與補給船隻。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.Tag.0">
       <segment state="translated">
         <source>X-W Red (YOU)</source>
-        <target>A-X Rojo (TÚ)</target>
+        <target>X-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.Tag.1">
       <segment state="translated">
         <source>Supply Base Containers</source>
-        <target>Contenedores de Base de Suministro</target>
+        <target>補給基地貨櫃群</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.Tag.2">
       <segment>
         <source>Mines</source>
-        <target>Minas</target>
+        <target>太空水雷</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.0.Designation">
       <segment>
         <source>CHI</source>
-        <target>CHI</target>
+        <target>齊</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.0.Cargo">
       <segment>
         <source>EQUIPMENT</source>
-        <target>EQUIPAMIENTO</target>
+        <target>重型裝備</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.1.Designation">
       <segment state="translated">
         <source>PI</source>
-        <target>PI</target>
+        <target>派</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.1.Cargo">
       <segment>
         <source>WEAPONS</source>
-        <target>ARMAS</target>
+        <target>軍火武器</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.2.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.3.Designation">
       <segment>
         <source>PSI</source>
-        <target>PSI</target>
+        <target>普賽</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.3.Cargo">
       <segment>
         <source>MACHINERY</source>
-        <target>MAQUINARIA</target>
+        <target>工程機械</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.5.Designation">
       <segment state="translated">
         <source>DIPUTS</source>
-        <target>ODIPUTSE</target>
+        <target>迪普茲號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.5.Cargo">
       <segment state="translated">
         <source>REPAIR EQUIP</source>
-        <target>EQUP. REPARACIONES</target>
+        <target>維修設備</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.6.Designation">
       <segment>
         <source>PRIAM</source>
-        <target>PRIAM</target>
+        <target>普里阿摩斯號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.7.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.larry1.FG.8.Designation">
       <segment state="translated">
         <source>RED </source>
-        <target>ROJO </target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.0.Designation">
       <segment>
         <source>CHI</source>
-        <target>CHI</target>
+        <target>齊</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.0.Cargo">
       <segment>
         <source>EQUIPMENT</source>
-        <target>EQUIPAMIENTO</target>
+        <target>重型裝備</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.0.SpecialCargo">
       <segment state="translated">
         <source>PWR SUPPLY</source>
-        <target>FUENTE DE ENERGÍA</target>
+        <target>動力源</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.1.Designation">
       <segment>
         <source>PI</source>
-        <target>PI</target>
+        <target>派</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.1.Cargo">
       <segment>
         <source>WEAPONS</source>
-        <target>ARMAS</target>
+        <target>軍火武器</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.1.SpecialCargo">
       <segment>
         <source>LAUNCHERS</source>
-        <target>LANZADORES</target>
+        <target>發射器</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.2.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.3.Designation">
       <segment>
         <source>PSI</source>
-        <target>PSI</target>
+        <target>普賽</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.3.Cargo">
       <segment state="translated">
         <source>MACHINERY</source>
-        <target>MAQUINARIA</target>
+        <target>工程機械</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.3.SpecialCargo">
       <segment>
         <source>TOOLS</source>
-        <target>HERRAMIENTAS</target>
+        <target>維修工具</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.4.Designation">
       <segment state="translated">
         <source>DIPUTS</source>
-        <target>ODIPUTSE</target>
+        <target>迪普茲號</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.4.Cargo">
       <segment state="translated">
         <source>REPAIR EQUIP</source>
-        <target>EQUP. REPARACIONES</target>
+        <target>維修設備</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.4.SpecialCargo">
       <segment>
         <source>TECHNICIANS</source>
-        <target>TÉCNICOS</target>
+        <target>技術工程師</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.5.Designation">
       <segment>
         <source>PRIAM</source>
-        <target>PRIAM</target>
+        <target>普里阿摩斯號</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.6.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.FG.7.Designation">
       <segment state="translated">
         <source>RED </source>
-        <target>ROJO </target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.CompletionMessage.0">
       <segment>
         <source>The supply area has been destroyed</source>
-        <target>El área de abastecimiento ha sido destruida</target>
+        <target>補給基地區域已被徹底夷平！</target>
       </segment>
     </unit>
     <unit id="Mission.larry1.CompletionMessage.1">
       <segment>
         <source>The resupply freighters have been destroyed</source>
-        <target>Los cargueros de reabastecimiento han sido destruidos</target>
+        <target>前來補給的敵軍貨船已悉數被消滅！</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.Title">
       <segment state="translated">
         <source>Destroy Priam's Escort</source>
-        <target>Destruye la Escolta de la Priam</target>
+        <target>殲滅普里阿摩斯號護航部隊</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.Description">
@@ -1761,238 +1752,237 @@ de suministros y equipamiento.</target>
 Priam's escorts in order 
 to leave the Frigate 
 vulnerable to capture.</source>
-        <target>Elimina la escolta de
-la Fragata Priam para
-dejar a la Fragata 
-vulnerable de ser capturada.</target>
+        <target>肅清巡防艦普里阿摩斯號的
+護航兵力，
+使其陷入孤立無援以利俘獲。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Text.1">
       <segment state="translated">
         <source>&gt;OP 7: Destroy Priam's Escort</source>
-        <target>&gt;OP 7: Destruye la Escolta de la Priam</target>
+        <target>>行動 7：殲滅普里阿摩斯號護航部隊</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Text.2">
       <segment state="translated">
         <source>Attack the ships providing escort for the Frigate [[Priam]].</source>
-        <target>Ataca las naves que proporcionan escolta a la Fragata [[Priam]].</target>
+        <target>攻擊為巡防艦[[普里阿摩斯號（Priam）]]提供掩護的護航船隻。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Text.3">
       <segment state="translated">
         <source>The [[A-wings ]]will concentrate on destroying the TIE fighters.</source>
-        <target>Los [[Alas-A]] se concentrarán en destruir los cazas TIE.</target>
+        <target>[[A翼戰機]]將集中全力消滅敵方鈦戰機。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Text.4">
       <segment state="translated">
         <source>Your [[Y-wings]] will try to destroy the [[Corvette]] escort.</source>
-        <target>Tus [[Alas-Y]] intentarán destruir la escolta de [[Corbetas]].</target>
+        <target>你的[[Y翼戰機]]將全力摧毀護航的[[巡邏艦]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Text.5">
       <segment state="translated">
         <source>Beware of the minefield that is surrounding the Frigate [[Priam]].</source>
-        <target>Cuidado con el campo de minas que rodea la Fragata [[Priam]].</target>
+        <target>嚴防布設於巡防艦[[普里阿摩斯號]]周遭的太空水雷陣。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Text.6">
       <segment state="translated">
         <source>  The Frigate[[ Priam]] has arrived at the Imperial supply base near [[Kalla VII]] needing repairs.  Because of the destruction of the base by our last operation, the Priam is stranded, unable to go into hyperspace.$  This is just the opportunity that General Dodonna has hoped for to seize an Imperial starship.$  Your mission is to clear out the Priam's escort and to leave it defenseless.</source>
-        <target>  La Fragata [[Priam]] ha llegado a la base de suministros imperial cerca [[Kalla VII]], necesitando reparaciones.  Debido a la destrucción de la base en nuestra última operación, la Priam está varada, incapaz de entrar al hiperespacio.$  Ésta es exactamente la oportunidad que el General Dodonna esperaba para apoderarse de una nave capital imperial.$  Tu misión es despojar a la Priam de su escolta y dejarla indefensa.</target>
+        <target>  巡防艦[[普里阿摩斯號]]已抵達[[卡拉七號星]]附近的帝國基地等待緊急維修。由於該基地已在上次作戰中被我軍完全摧毀，普里阿摩斯號動彈不得，無法進入超空間。$  這正是多東納將軍生擒帝國主力軍艦的天賜良機。$  你的任務是徹底消滅普里阿摩斯號的外圍護航部隊，使其徹底失去防護。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Tag.0">
       <segment>
         <source>FRG Priam</source>
-        <target>FRA Priam</target>
+        <target>FRG 普里阿摩斯號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Tag.1">
       <segment>
         <source>Corvette</source>
-        <target>Corbeta</target>
+        <target>巡邏艦</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Tag.2">
       <segment state="translated">
         <source>Y-W Red (YOU)</source>
-        <target>Ala-Y Rojo (TÚ)</target>
+        <target>Y-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Tag.3">
       <segment state="translated">
         <source>X-W Gold</source>
-        <target>A-X Oro</target>
+        <target>X-W 金隊</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Tag.4">
       <segment>
         <source>TIE Fighters</source>
-        <target>Cazas TIE</target>
+        <target>鈦戰機</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Tag.5">
       <segment state="translated">
         <source>A-W Blue</source>
-        <target>A-A Azul</target>
+        <target>A-W 藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.Tag.6">
       <segment>
         <source>Mines</source>
-        <target>Minas</target>
+        <target>太空水雷</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.1.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.2.Designation">
       <segment>
         <source>Priam</source>
-        <target>Priam</target>
+        <target>普里阿摩斯號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.3.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.4.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.5.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.6.Designation">
       <segment state="translated">
         <source>Dar Es I</source>
-        <target>Dar Es I</target>
+        <target>達爾埃斯一號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.7.Designation">
       <segment state="translated">
         <source>Dar Es II</source>
-        <target>Dar Es II</target>
+        <target>達爾埃斯二號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.8.Designation">
       <segment state="translated">
         <source>Dar Es III</source>
-        <target>Dar Es III</target>
+        <target>達爾埃斯三號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.9.Designation">
       <segment>
         <source>OMEGA</source>
-        <target>OMEGA</target>
+        <target>歐米茄</target>
       </segment>
     </unit>
     <unit id="Briefing.larry2.FG.9.Cargo">
       <segment>
         <source>SUPPLIES</source>
-        <target>SUMINISTROS</target>
+        <target>軍用物資</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.1.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.2.Designation">
       <segment>
         <source>PRIAM</source>
-        <target>PRIAM</target>
+        <target>普里阿摩斯號</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.3.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.4.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.5.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.6.Designation">
       <segment>
         <source>DAR ES I</source>
-        <target>DAR ES I</target>
+        <target>達爾埃斯一號</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.7.Designation">
       <segment>
         <source>DAR ES II</source>
-        <target>DAR ES II</target>
+        <target>達爾埃斯二號</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.8.Designation">
       <segment>
         <source>DAR ES III</source>
-        <target>DAR ES III</target>
+        <target>達爾埃斯三號</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.9.Designation">
       <segment>
         <source>OMEGA</source>
-        <target>OMEGA</target>
+        <target>歐米茄</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.9.Cargo">
       <segment>
         <source>SUPPLIES</source>
-        <target>SUMINISTROS</target>
+        <target>軍用物資</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.FG.9.SpecialCargo">
       <segment>
         <source>PERSONnel</source>
-        <target>Personal</target>
+        <target>艦載人員</target>
       </segment>
     </unit>
     <unit id="Mission.larry2.CompletionMessage.0">
       <segment state="translated">
         <source>The FRG's defences have been eliminated</source>
-        <target>Las defensas de la FRA han sido eliminadas.</target>
+        <target>巡防艦的外圍護航防禦已全數肅清！</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.Title">
       <segment>
         <source>Capture the Frigate Priam</source>
-        <target>Captura la Fragata Priam</target>
+        <target>俘獲普里阿摩斯號巡防艦</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.Description">
@@ -2003,317 +1993,316 @@ as they disable the Imperial
 Frigate Priam.  Rebel 
 Commandos will then board
 and capture it.</source>
-        <target>Proporciona cobertura para
-las dos oleadas de Alas-Y
-conforme incapacitan a la Fragata
-Imperial Priam. Tras esto, los comandos
-rebeldes la abordarán y capturarán.</target>
+        <target>為兩波 Y翼戰機編隊提供掩護，
+以離子砲癱瘓帝國巡防艦普里阿摩斯號。
+反抗軍突擊隊隨後將
+登艦實施接管俘獲。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.Text.1">
       <segment state="translated">
         <source>&gt;OP 8: Capture the Frigate Priam</source>
-        <target>&gt;OP 8: Captura la Fragata Priam</target>
+        <target>>行動 8：俘獲普里阿摩斯號巡防艦</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.Text.2">
       <segment state="translated">
         <source>Your [[A-wing]] is to destroy mines and provide cover for the Y-wings that are disabling the Frigate [[Priam]].</source>
-        <target>Tu Ala-A debe destruir minas y proporcionar cobertura para los Alas-Y que están incapacitando la Fragata [[Priam]].</target>
+        <target>你的[[A翼戰機]]將負責清除太空水雷，並為正癱瘓巡防艦[[普里阿摩斯號]]的 Y翼部隊提供掩護。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.Text.3">
       <segment state="translated">
         <source>Protect our boarding craft as they storm the Frigate[[ Priam ]]and capture it.  </source>
-        <target>Protege nuestras naves de abordaje mientras asaltan la Fragata [[Priam]] y la capturan.</target>
+        <target>保護我方登艦部隊強行攻入巡防艦[[普里阿摩斯號]]並將其俘虜接管。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.Text.4">
       <segment state="translated">
         <source>  During the last operation the Frigate [[Priam]] was stripped of her escort.  Except for a few small groups of TIEs and some mines she has deployed around her, the [[Priam]] is virtually defenseless.$  General Dodonna has ordered that our Special Forces Command lead a "board and capture" operation against the Priam.  Your mission is to fly cover in an [[A-wing]] during the disabling and capture of the Priam. </source>
-        <target>  Durante la última operación, la Fragata [[Priam]] quedó despojada de su escolta.  Salvo por unos pocos grupos menores de TIEs y algunas minas que ha desplegado a su alrededor, la [[Priam]] está prácticamente indefensa.$  El General Dodonna ha ordenado que nuestro Mando de Fuerzas Especiales dirija una operación de "abordaje y captura" contra la Priam.  Tu misión es proporcionar cobertura en un [[Ala-A]] durante el proceso de incapacitar y capturar la Priam. </target>
+        <target>  在上次行動中，巡防艦[[普里阿摩斯號]]的外圍護航已被全數肅清。除了周圍殘存的少數幾隊鈦戰機以及布設的水雷外，[[普里阿摩斯號]]已形同毫無防護。$  多東納將軍已下令特種部隊司令部對該艦發動強行登艦俘獲作戰。你的任務是駕駛[[A翼戰機]]在癱瘓及俘獲普里阿摩斯號期間提供全程空中掩護。</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.Tag.0">
       <segment>
         <source>FRG Priam</source>
-        <target>FRA Priam</target>
+        <target>FRG 普里阿摩斯號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.Tag.1">
       <segment state="translated">
         <source>A-W Red (YOU)</source>
-        <target>A-A Rojo (TÚ)</target>
+        <target>A-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.Tag.2">
       <segment state="translated">
         <source>Y-W Gold</source>
-        <target>A-Y Oro</target>
+        <target>Y-W 金隊</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.1.Designation">
       <segment>
         <source>Gold</source>
-        <target>Oro</target>
+        <target>金隊</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.2.Designation">
       <segment>
         <source>jordi 1</source>
-        <target>JORDI 1</target>
+        <target>霍迪一號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.2.Cargo">
       <segment state="translated">
         <source>EQUIPMENT</source>
-        <target>EQUIPAMIENTO</target>
+        <target>重型裝備</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.3.Designation">
       <segment>
         <source>jordi 2</source>
-        <target>jordi 2</target>
+        <target>霍迪二號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.3.Cargo">
       <segment>
         <source>EQUIPMENT</source>
-        <target>EQUIPAMIENTO</target>
+        <target>重型裝備</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.4.Designation">
       <segment>
         <source>panda 1</source>
-        <target>panda 1</target>
+        <target>熊貓一號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.4.Cargo">
       <segment state="translated">
         <source>CREW</source>
-        <target>TRIPULACIÓN</target>
+        <target>艦載人員</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.5.Designation">
       <segment>
         <source>panda 2</source>
-        <target>panda 2</target>
+        <target>熊貓二號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.5.Cargo">
       <segment state="translated">
         <source>CREW</source>
-        <target>TRIPULACIÓN</target>
+        <target>艦載人員</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.6.Designation">
       <segment>
         <source>assault 1</source>
-        <target>Asalto 1</target>
+        <target>突擊一號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.6.Cargo">
       <segment>
         <source>COMMANDOS</source>
-        <target>COMANDOS</target>
+        <target>特戰突擊隊</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.7.Designation">
       <segment>
         <source>assault 2</source>
-        <target>Asalto 2</target>
+        <target>突擊二號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.7.Cargo">
       <segment state="translated">
         <source>COMMANDOS</source>
-        <target>COMANDOS</target>
+        <target>特戰突擊隊</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.8.Designation">
       <segment>
         <source>Priam</source>
-        <target>Priam</target>
+        <target>普里阿摩斯號</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.9.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.10.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔 1</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.11.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔 2</target>
       </segment>
     </unit>
     <unit id="Briefing.larry3.FG.12.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔 3</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.1.Designation">
       <segment>
         <source>GOLD</source>
-        <target>ORO</target>
+        <target>金隊</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.2.Designation">
       <segment>
         <source>JORDI 1</source>
-        <target>JORDI 1</target>
+        <target>霍迪一號</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.2.Cargo">
       <segment state="translated">
         <source>EQUIPMENT</source>
-        <target>EQUIPAMIENTO</target>
+        <target>重型裝備</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.2.SpecialCargo">
       <segment>
         <source>SUPPLIES</source>
-        <target>SUMINISTROS</target>
+        <target>補給物資</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.3.Designation">
       <segment>
         <source>JORDI 2</source>
-        <target>JORDI 2</target>
+        <target>霍迪二號</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.3.Cargo">
       <segment>
         <source>EQUIPMENT</source>
-        <target>EQUIPAMIENTO</target>
+        <target>重型裝備</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.3.SpecialCargo">
       <segment>
         <source>SUPPLIES</source>
-        <target>SUMINISTROS</target>
+        <target>補給物資</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.4.Designation">
       <segment>
         <source>PANDA 1</source>
-        <target>PANDA 1</target>
+        <target>熊貓一號</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.4.Cargo">
       <segment>
         <source>CREW</source>
-        <target>TRIPULACIÓN</target>
+        <target>艦載人員</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.4.SpecialCargo">
       <segment>
         <source>OFFICERS</source>
-        <target>OFICIALES</target>
+        <target>軍官人員</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.5.Designation">
       <segment>
         <source>PANDA 2</source>
-        <target>PANDA 2</target>
+        <target>熊貓二號</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.5.Cargo">
       <segment state="translated">
         <source>CREW</source>
-        <target>TRIPULACIÓN</target>
+        <target>艦載人員</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.5.SpecialCargo">
       <segment>
         <source>OFFICERS</source>
-        <target>OFICIALES</target>
+        <target>軍官人員</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.6.Designation">
       <segment>
         <source>ASSAULT 1</source>
-        <target>ASALTO 1</target>
+        <target>突擊一號</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.6.Cargo">
       <segment>
         <source>COMMANDOS</source>
-        <target>COMANDOS</target>
+        <target>特戰突擊隊</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.7.Designation">
       <segment>
         <source>ASSAULT 2</source>
-        <target>ASALTO 2</target>
+        <target>突擊二號</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.7.Cargo">
       <segment>
         <source>COMMANDOS</source>
-        <target>COMANDOS</target>
+        <target>特戰突擊隊</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.8.Designation">
       <segment>
         <source>PRIAM</source>
-        <target>PRIAM</target>
+        <target>普里阿摩斯號</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.9.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.10.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔 1</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.11.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔 2</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.FG.12.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔 3</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.CompletionMessage.0">
       <segment state="translated">
         <source>The Frigate Priam has been secured</source>
-        <target>La Fragata Priam ha sido capturada</target>
+        <target>巡防艦普里阿摩斯號已安全受控！</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.CompletionMessage.1">
       <segment state="translated">
         <source>All Imperial personnel have been subdued</source>
-        <target>Todos los efectivos imperiales han sido sometidos</target>
+        <target>艦上所有帝國人員均已繳械制伏！</target>
       </segment>
     </unit>
     <unit id="Mission.larry3.CompletionMessage.2">
       <segment state="translated">
         <source>The Priam's captain has surrendered control to our forces</source>
-        <target>El capitán de la Priam ha cedido el control a nuestras fuerzas</target>
+        <target>普里阿摩斯號艦長已正式向我軍投降交出控制權！</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.Title">
       <segment state="translated">
         <source>Capture Ethar I and II</source>
-        <target>Captura Ethar I y II</target>
+        <target>奪回埃薩一號與二號</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.Description">
@@ -2324,376 +2313,376 @@ recover the Corvettes
 Ethar I and II.  These ships
 must be recovered from
 the Empire!</source>
-        <target>Proporciona cobertura a los
-Alas-Y que intentan recuperar
-las Corbetas Ethar I y II.  ¡Estas
-naves deben ser recuperadas del Imperio!</target>
+        <target>掩護 Y翼戰機奪回
+巡邏艦埃薩一號與二號。
+必須從帝國手中奪回
+這兩艘同盟主力艦！</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Text.1">
       <segment state="translated">
         <source>&gt;OP 9: Capture Ethar I and II</source>
-        <target>&gt;OP 9: Captura Ethar I y II</target>
+        <target>>行動 9：奪回埃薩一號與二號</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Text.2">
       <segment state="translated">
         <source>Two Corellian Corvettes, Ethar I and II are being [[repaired]] by the Empire.</source>
-        <target>Dos corbetas Corellianas, Ethar I y II, están siendo [[reparadas]] por el Imperio.</target>
+        <target>兩艘柯爾里亞巡邏艦埃薩一號與二號正遭受帝國[[搶修接管]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Text.3">
       <segment state="translated">
         <source>Destroy the [[Gunboat]] escorts and keep an eye on other enemy fighters.</source>
-        <target>Destruye la escolta de [[Cañoneras de Asalto]] y mantén los ojos abiertos en caso de otros cazas enemigos.</target>
+        <target>消滅[[砲艇]]護航部隊並緊盯其他敵機的一舉一動。</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Text.4">
       <segment state="translated">
         <source>Support the [[Y-Wing]] Squadrons in disabling the captured Corvettes.</source>
-        <target>Ayuda a los Escuadrones de [[Alas-Y]] para incapacitar las corbetas capturadas.</target>
+        <target>支援[[Y翼戰機]]中隊以離子砲癱瘓被俘的巡邏艦。</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Text.5">
       <segment state="translated">
         <source>Protect our [[Rescue Shuttles]] while they recapture both starships.</source>
-        <target>Protege a las [[Lanzaderas de Rescate]] mientras recapturan ambas naves.</target>
+        <target>掩護我方[[救援太空梭]]重新奪回這兩艘主力戰艦。</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Text.6">
       <segment state="translated">
         <source>  The capture of the Frigate[[ Priam]] revealed that the construction site of the [[Death Star]] was located in the [[Horuz]] system near the prison planet [[Despayre]]. Two Alliance Corellian [[Corvettes]] were dispatched to the Horuz system to investigate and found only the shattered remnants of the planet Despayre and no trace of the Death Star.$  Once again it appeared that the Empire had remained one step ahead </source>
-        <target>  La captura de la Fragata [[Priam]] ha revelado que el lugar de construcción de la [[Estrella de la Muerte]] se encontraba en el sistema [[Horuz]], cerca del planeta prisión [[Despayre]]. Dos [[corbetas]] corellianas de la Alianza fueron despachadas al sistema Horuz para investigar y sólo encontraron los restos fragmentados del planeta Despayre y ningún rastro de la Estrella de la Muerte.$  Una vez más parecía que el Imperio se mantenía un paso por delante </target>
+        <target>  自巡防艦[[普里阿摩斯號]]審訊得出的情資顯示，[[死星]]的建造基地位於[[霍魯茲（Horuz）]]星系、死囚監獄星球[[迪斯佩爾（Despayre）]]附近。兩艘同盟柯爾里亞[[巡邏艦]]奉命前往霍魯茲星系進行偵察，卻驚見迪斯佩爾星早已化為齏粉殘骸，而死星則不見蹤影！$  帝國顯然再度搶先了</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Text.7">
       <segment state="translated">
         <source>of the Alliance.  To make matters worse, Imperial forces were lying in wait for our [[Corvettes]] to ambush and capture them.$  Your mission is to spearhead the recovery effort.  These Corvettes are vital elements of the [[Alliance]] [[Fleet]].  They must be recovered!  Fly your [[X-wing]] to protect the board and capture craft.</source>
-        <target>de la Alianza.  Para empeorar las cosas, las fuerzas imperiales estaban esperando a nuestras [[Corbetas]] para emboscarlas y capturarlas.$  Tu misión es liderar el esfuerzo de recuperación.  Estas [[Corbetas]] son elementos críticos de la [[Flota de la Alianza]].  ¡Deben ser recuperados!  Vuela tu [[Ala-X]] para proteger a las naves de abordaje y captura.</target>
+        <target>同盟一步。更糟的是，帝國伏擊部隊早已在此設伏，突襲並俘獲了我方兩艘[[巡邏艦]]。$  你的任務是擔任奪回作戰的前鋒。這兩艘巡邏艦是[[同盟艦隊]]極其寶貴的核心戰力，必須奪回！駕駛你的[[X翼戰機]]掩護登艦接管部隊。</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Tag.0">
       <segment state="translated">
         <source>Ethar I</source>
-        <target>Ethar I</target>
+        <target>埃薩一號</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Tag.1">
       <segment>
         <source>Ethar II</source>
-        <target>Ethar II</target>
+        <target>埃薩二號</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Tag.2">
       <segment state="translated">
         <source>Stormtrooper</source>
-        <target>Tropas de Asalto</target>
+        <target>暴風兵</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Tag.3">
       <segment state="translated">
         <source>Assault Gunships</source>
-        <target>Cañoneras de Asalto</target>
+        <target>突擊砲艇</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Tag.4">
       <segment state="translated">
         <source>Y-W Blue and Gold</source>
-        <target>A-Y Azul y Oro</target>
+        <target>Y-W 藍隊與金隊</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Tag.5">
       <segment state="translated">
         <source>X-W Red (YOU)</source>
-        <target>A-X Rojo (TÚ)</target>
+        <target>X-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Tag.6">
       <segment>
         <source>Rescue Shuttles</source>
-        <target>Lanzaderas de Rescate</target>
+        <target>救援太空梭</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.Tag.7">
       <segment>
         <source>Imperial SHUs</source>
-        <target>LANs Imperiales</target>
+        <target>帝國太空梭</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.0.Designation">
       <segment state="translated">
         <source>Red</source>
-        <target>Rojo</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.1.Designation">
       <segment>
         <source>Ethar 1</source>
-        <target>Ethar 1</target>
+        <target>埃薩一號</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.1.Cargo">
       <segment>
         <source>Senator</source>
-        <target>SENADOR</target>
+        <target>參議員</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.2.Designation">
       <segment state="translated">
         <source>Ethar 2</source>
-        <target>Ethar 2</target>
+        <target>埃薩二號</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.2.Cargo">
       <segment>
         <source>Admiral</source>
-        <target>Almirante</target>
+        <target>上將</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.3.Designation">
       <segment>
         <source>Ceptor 1</source>
-        <target>Ceptor 1</target>
+        <target>攔截一號</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.3.Cargo">
       <segment>
         <source>Repair Team</source>
-        <target>Equipo de Reparación</target>
+        <target>維修小組</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.4.Designation">
       <segment>
         <source>Ceptor 2</source>
-        <target>Ceptor 2</target>
+        <target>攔截二號</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.4.Cargo">
       <segment>
         <source>Repair Team</source>
-        <target>Equipo de Reparación</target>
+        <target>維修小組</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.5.Designation">
       <segment>
         <source>MU</source>
-        <target>MU</target>
+        <target>繆</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.6.Designation">
       <segment>
         <source>Rho</source>
-        <target>RHO</target>
+        <target>羅</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.7.Designation">
       <segment>
         <source>Tau</source>
-        <target>TAU</target>
+        <target>陶 1</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.8.Designation">
       <segment state="translated">
         <source>Rogue 2</source>
-        <target>Pícaro 2</target>
+        <target>俠盜二號</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.8.Cargo">
       <segment>
         <source>Rescue Team</source>
-        <target>Equipo de Rescate</target>
+        <target>救援隊</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.9.Designation">
       <segment state="translated">
         <source>Rogue 1</source>
-        <target>Pícaro 1</target>
+        <target>俠盜一號</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.9.Cargo">
       <segment>
         <source>Rescue Team</source>
-        <target>Equipo de Rescate</target>
+        <target>救援隊</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.10.Designation">
       <segment>
         <source>Gold</source>
-        <target>Oro</target>
+        <target>金隊</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.11.Designation">
       <segment state="translated">
         <source>Blue</source>
-        <target>Azul</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.12.Designation">
       <segment>
         <source>NU</source>
-        <target>NU</target>
+        <target>紐</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.13.Designation">
       <segment state="translated">
         <source>tau</source>
-        <target>tau</target>
+        <target>陶 2</target>
       </segment>
     </unit>
     <unit id="Briefing.assault2.FG.14.Designation">
       <segment>
         <source>mu</source>
-        <target>mu</target>
+        <target>繆 2</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.1.Designation">
       <segment>
         <source>ETHAR 1</source>
-        <target>ETHAR 1</target>
+        <target>埃薩一號</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.1.Cargo">
       <segment>
         <source>Senator</source>
-        <target>Senador</target>
+        <target>參議員</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.2.Designation">
       <segment>
         <source>ETHAR 2</source>
-        <target>ETHAR 2</target>
+        <target>埃薩二號</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.2.Cargo">
       <segment>
         <source>Admiral</source>
-        <target>Almirante</target>
+        <target>上將</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.3.Designation">
       <segment>
         <source>CEPTOR 1</source>
-        <target>CEPTOR 1</target>
+        <target>攔截一號</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.3.Cargo">
       <segment>
         <source>Repair Team</source>
-        <target>Equipo de Reparación</target>
+        <target>維修小組</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.4.Designation">
       <segment>
         <source>CEPTOR 2</source>
-        <target>CEPTOR 2</target>
+        <target>攔截二號</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.4.Cargo">
       <segment>
         <source>Repair Team</source>
-        <target>Equipo de Reparación</target>
+        <target>維修小組</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.5.Designation">
       <segment state="translated">
         <source>MU</source>
-        <target>MU</target>
+        <target>繆</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.6.Designation">
       <segment>
         <source>RHO</source>
-        <target>RHO</target>
+        <target>羅</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.7.Designation">
       <segment>
         <source>TAU</source>
-        <target>TAU</target>
+        <target>陶 1</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.8.Designation">
       <segment state="translated">
         <source>ROGUE 2</source>
-        <target>PÍCARO 2</target>
+        <target>俠盜二號</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.8.Cargo">
       <segment>
         <source>Rescue Team</source>
-        <target>Equipo de Rescate</target>
+        <target>救援隊</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.9.Designation">
       <segment state="translated">
         <source>ROGUE 1</source>
-        <target>PÍCARO 1</target>
+        <target>俠盜一號</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.9.Cargo">
       <segment>
         <source>Rescue Team</source>
-        <target>Equipo de Rescate</target>
+        <target>救援隊</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.10.Designation">
       <segment>
         <source>GOLD</source>
-        <target>ORO</target>
+        <target>金隊</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.11.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.12.Designation">
       <segment>
         <source>NU</source>
-        <target>NU</target>
+        <target>紐</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.13.Designation">
       <segment>
         <source>TAU</source>
-        <target>TAU</target>
+        <target>陶 2</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.FG.14.Designation">
       <segment>
         <source>MU</source>
-        <target>MU</target>
+        <target>繆 2</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.CompletionMessage.0">
       <segment>
         <source>Nice combat engagement, Red Two!</source>
-        <target>¡Excelente combate, Rojo Dos!</target>
+        <target>精采絕倫的空戰交鋒，紅二號！</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.CompletionMessage.1">
       <segment state="translated">
         <source>Both Corellian Corvettes have been recovered</source>
-        <target>Las dos Corbetas Corellianas han sido recuperadas</target>
+        <target>兩艘柯爾里亞巡邏艦已全數安全奪回！</target>
       </segment>
     </unit>
     <unit id="Mission.assault2.CompletionMessage.2">
       <segment state="translated">
         <source>See you back at the Defiance!</source>
-        <target>¡Nos vemos de regreso al Desafío!</target>
+        <target>回挑釁號巡洋艦見！</target>
       </segment>
     </unit>
     <unit id="Mission.max19.Title">
       <segment state="translated">
         <source>Guard Vital Supply Depot</source>
-        <target>Protege Depósito de Suministros Crítico</target>
+        <target>保衛關鍵補給站</target>
       </segment>
     </unit>
     <unit id="Mission.max19.Description">
@@ -2701,219 +2690,218 @@ naves deben ser recuperadas del Imperio!</target>
         <source>Protect our hidden
 cache of weapons from
 Imperial attack.</source>
-        <target>Protege nuestro alijo
-secreto de armas de un
-ataque imperial.</target>
+        <target>保衛我軍隱密的武器庫存點，
+抵禦帝國軍突襲。</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.Text.1">
       <segment state="translated">
         <source>&gt;OP 10: Guard Vital Supply Depot</source>
-        <target>&gt;OP 10: Protege Depósito de Suministros Crítico</target>
+        <target>>行動 10：保衛關鍵補給站</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.Text.2">
       <segment state="translated">
         <source>Protect [[military supply cache]] from Imperial attack.</source>
-        <target>Protege un [[alijo de suministros militares]] de un ataque imperial.</target>
+        <target>保衛[[軍火物資儲備點]]免遭帝國突擊。</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.Text.3">
       <segment state="translated">
         <source>  [[High Command]] has sent out a priority alert to all military bases that Imperial Forces are on the move.  The new super weapon, the [[Death Star]], has been completed and is starting its campaign of terror!  Imperial Forces are on the attack in all sectors.  The Emperor seems determined to exterminate us once and for all.$ [[ ]]Your mission is to guard a hidden cache of weapons. </source>
-        <target>  El [[Alto Mando]] ha enviado una alerta de prioridad a todas las bases militares, informando que las Fuerzas Imperiales están en movimiento.  ¡La nueva super-arma, la [[Estrella de la Muerte]], ha sido completada y está iniciando su campaña de terror!  Las Fuerzas Imperiales están atacando en todos los sectores.  El Emperador parece decidido a exterminarnos de una vez por todas.$ Tu misión es proteger un alijo de armas oculto.</target>
+        <target>  [[最高統帥部]]已向所有軍事基地發出緊急特級警報：帝國軍主力已全面出動。新型超級武器[[「死星」]]已經完工，正展開其席捲銀河的恐怖血洗戰役！帝國艦隊在所有星區同時發起猛攻，皇帝顯然決心將我們趕盡殺絕。$ [[ ]]你的任務是誓死守衛一處隱密的同盟武器物資儲備庫。</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.Text.4">
       <segment state="translated">
         <source>Wait for [[A-wing Blue]] squadron to relieve you.</source>
-        <target>Espera a que el escuadrón de [[Alas-A Azul]] te releve.</target>
+        <target>等待[[藍隊 A翼戰機]]中隊前來換防接應。</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.Tag.0">
       <segment>
         <source>Supply Containers</source>
-        <target>Contenedores de Suministros</target>
+        <target>物資貨櫃群</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.Tag.1">
       <segment state="translated">
         <source>A-W Red (YOU)</source>
-        <target>A-A Rojo (TÚ)</target>
+        <target>A-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.1.Designation">
       <segment>
         <source>ZL</source>
-        <target>ZL</target>
+        <target>ZL 貨櫃</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.1.Cargo">
       <segment state="translated">
         <source>PWR SUPPLY</source>
-        <target>FUENTE DE ENERGÍA</target>
+        <target>動力單元</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.2.Designation">
       <segment>
         <source>LT</source>
-        <target>LT</target>
+        <target>LT 貨櫃</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.2.Cargo">
       <segment state="translated">
         <source>WEAPONS</source>
-        <target>ARMAS</target>
+        <target>軍火武器</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.3.Designation">
       <segment>
         <source>XZ</source>
-        <target>XZ</target>
+        <target>XZ 貨櫃</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.3.Cargo">
       <segment state="translated">
         <source>FOOD SUPPLIES</source>
-        <target>ALIMENTOS</target>
+        <target>口糧物資</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.4.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.5.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.6.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.7.Designation">
       <segment state="translated">
         <source>RETSUB</source>
-        <target>ANOTAM</target>
+        <target>雷特薩布號</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.8.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.max19.FG.9.Designation">
       <segment>
         <source>ZEP</source>
-        <target>ZEP</target>
+        <target>澤普號</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.1.Designation">
       <segment>
         <source>ZL</source>
-        <target>ZL</target>
+        <target>ZL 貨櫃</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.1.Cargo">
       <segment state="translated">
         <source>PWR SUPPLY</source>
-        <target>FUENTE DE ENERGÍA</target>
+        <target>動力單元</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.2.Designation">
       <segment>
         <source>LT</source>
-        <target>LT</target>
+        <target>LT 貨櫃</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.2.Cargo">
       <segment>
         <source>WEAPONS</source>
-        <target>ARMAS</target>
+        <target>軍火武器</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.3.Designation">
       <segment>
         <source>XZ</source>
-        <target>XZ</target>
+        <target>XZ 貨櫃</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.3.Cargo">
       <segment state="translated">
         <source>FOOD SUPPLIES</source>
-        <target>ALIMENTOS</target>
+        <target>口糧物資</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.4.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.5.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.6.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.7.Designation">
       <segment state="translated">
         <source>RETSUB</source>
-        <target>ANOTAM</target>
+        <target>雷特薩布號</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.8.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Mission.max19.FG.9.Designation">
       <segment>
         <source>ZEP</source>
-        <target>ZEP</target>
+        <target>澤普號</target>
       </segment>
     </unit>
     <unit id="Mission.max19.CompletionMessage.0">
       <segment state="translated">
         <source>ENOUGH VITAL CONTAINERS HAVE BEEN SAVED</source>
-        <target>SE HAN SALVADO SUFICIENTES CONTENEDORES CRÍTICOS</target>
+        <target>足夠數量的關鍵物資貨櫃已保全無恙！</target>
       </segment>
     </unit>
     <unit id="Mission.max19.CompletionMessage.1">
       <segment state="translated">
         <source>YOU HAVE BEEN RELIEVED BY BLUE SQUADRON</source>
-        <target>HAS SIDO RELEVADO POR EL ESCUADRÓN AZUL</target>
+        <target>藍隊戰機已抵達現場為你實施換防！</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.Title">
       <segment state="translated">
         <source>Defend the Independence</source>
-        <target>Defiende al Independencia</target>
+        <target>保衛獨立號巡洋艦</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.Description">
@@ -2923,246 +2911,244 @@ the attacking Imperial
 ships.  Provide cover
 until the Independence
 has escaped.</source>
-        <target>Intercepta y destruye
-las naves imperiales
-atacantes. Proporciona
-cobertura hasta que el
-Independencia
-haya escapado.</target>
+        <target>攔截並摧毀來襲的
+帝國艦船。
+提供空中掩護，
+直到獨立號安全撤離。</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Text.1">
       <segment state="translated">
         <source>&gt;OP 11: Defend Cruiser Independence</source>
-        <target>&gt;OP 11: Defiende al Crucero Independencia</target>
+        <target>>行動 11：保衛獨立號巡洋艦</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Text.2">
       <segment state="translated">
         <source>The Alliance Flagship [[Independence]] is under attack and needs our help!</source>
-        <target>¡La nave insignia de la Alianza, el [[Independencia]], está siendo atacado y necesita nuestra ayuda!</target>
+        <target>同盟旗艦[[獨立號（Independence）]]正遭受猛烈圍攻，急需我軍救援！</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Text.3">
       <segment state="translated">
         <source>Ward off the Imperial Forces until the [[Independence]] has escaped.</source>
-        <target>Mantén a raya a las Fuerzas Imperiales hasta que el [[Independencia]] haya escapado.</target>
+        <target>全力阻擊帝國大軍，直到[[獨立號]]順利脫離戰場。</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Text.4">
       <segment state="translated">
         <source>  The Cruiser [[Independence]], carrying members of the [[High Command ]]is under attack from Imperial forces near Bestine.  [[Mon Mothma]] thinks that this attack is the opening phase of the Empire's grand offensive.[[  ]]High Command[[ ]]must escape to [[Yavin]] to coordinate the Alliance defense.$  All available Rebel forces are being scrambled to aid the Independence.  Your mission is to fend off the Imperial attack.</source>
-        <target>  El Crucero [[Independencia]], que porta miembros del [[Alto Mando]], está bajo ataque de fuerzas imperiales cerca de Bestine.  [[Mon Mothma]] piensa que este ataque es la primera fase de la gran ofensiva imperial.   El [[Alto Mando]] debe escapar a [[Yavin]] para coordinar la defensa de la Alianza. $  Todas las fuerzas rebeldes disponibles están despegando inmediatamente para ayudar al Independencia.  Tu misión es repeler el ataque imperial.</target>
+        <target>  載有[[最高統帥部]]首長的巡洋艦[[獨立號]]在貝斯汀附近遭到帝國主力部隊的圍攻。[[蒙瑪斯瑪（Mon Mothma）]]研判此役為帝國大進攻的前哨戰。[[  ]]最高統帥部必須立刻撤退至[[雅汶（Yavin）]]以指揮全同盟防線。$  所有可用的反抗軍戰機均已緊急升空馳援獨立號。你的任務是竭力擊退帝國的進攻。</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Tag.0">
       <segment>
         <source>CRS Independence</source>
-        <target>CRU Independencia</target>
+        <target>CRS 獨立號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Tag.1">
       <segment state="translated">
         <source>X-W Red (YOU)</source>
-        <target>A-X Rojo (TÚ)</target>
+        <target>X-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Tag.2">
       <segment state="translated">
         <source>A-W Blue</source>
-        <target>A-A Azul</target>
+        <target>A-W 藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Tag.3">
       <segment>
         <source>Assault Gunships</source>
-        <target>Cañoneras de Asalto</target>
+        <target>突擊砲艇</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Tag.4">
       <segment>
         <source>TIE Bombers</source>
-        <target>Bombarderos TIE</target>
+        <target>鈦轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Tag.5">
       <segment>
         <source>Bestine</source>
-        <target>Bestine</target>
+        <target>貝斯汀</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.0.Designation">
       <segment state="translated">
         <source>Red</source>
-        <target>Rojo</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.1.Designation">
       <segment state="translated">
         <source>Blue</source>
-        <target>Azul</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.2.Designation">
       <segment>
         <source>Independence</source>
-        <target>Independencia</target>
+        <target>獨立號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.2.Cargo">
       <segment>
         <source>Mon Mothma</source>
-        <target>Mon Mothma</target>
+        <target>蒙瑪斯瑪</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.3.Designation">
       <segment state="translated">
         <source>Defiance</source>
-        <target>Desafío</target>
+        <target>挑釁號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.3.Cargo">
       <segment state="translated">
         <source>Mon Mothma</source>
-        <target>Mon Mothma</target>
+        <target>蒙瑪斯瑪</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.4.Designation">
       <segment state="translated">
         <source>Mu</source>
-        <target>Mu</target>
+        <target>繆</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.5.Designation">
       <segment>
         <source>Alpha</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.6.Designation">
       <segment>
         <source>eta</source>
-        <target>ETA</target>
+        <target>艾塔</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.7.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.8.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.9.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.10.Designation">
       <segment state="translated">
         <source>Immortal</source>
-        <target>Inmortal</target>
+        <target>不朽號</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.FG.11.Designation">
       <segment>
         <source>Nu</source>
-        <target>NU</target>
+        <target>紐</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.1.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.2.Designation">
       <segment>
         <source>INDEPENDENCE</source>
-        <target>INDEPENDENCIA</target>
+        <target>獨立號</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.2.Cargo">
       <segment>
         <source>Mon Mothma</source>
-        <target>Mon Mothma</target>
+        <target>蒙瑪斯瑪</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.3.Designation">
       <segment>
         <source>MU</source>
-        <target>MU</target>
+        <target>繆</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.4.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.5.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.6.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.7.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.8.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.9.Designation">
       <segment>
         <source>IMMORTAL</source>
-        <target>INMORTAL</target>
+        <target>不朽號</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.FG.10.Designation">
       <segment>
         <source>NU</source>
-        <target>NU</target>
+        <target>紐</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.CompletionMessage.0">
       <segment state="translated">
         <source>Again you have helped save the day!</source>
-        <target>¡De nuevo has ayudado a salvar la situación!</target>
+        <target>你再次力挽狂瀾拯救了危局！</target>
       </segment>
     </unit>
     <unit id="Mission.defend1.CompletionMessage.1">
       <segment state="translated">
         <source>The Independence is safe, return home to the Defiance</source>
-        <target>El Independencia está a salvo. Regresa a casa al Desafío.</target>
+        <target>獨立號已安然脫險，請返航挑釁號巡洋艦！</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.Title">
       <segment state="translated">
         <source>Begin Death Star Assault</source>
-        <target>Comienza el Ataque a la Estrella de la Muerte</target>
+        <target>發起死星突擊</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.Description">
@@ -3174,281 +3160,280 @@ the defenses of the
 Death Star.  Destroy
 as many ships as
 possible.</source>
-        <target>Utiliza tu Ala-X para destruir
-el Satélite de Comunicaciones
-que está coordinando las defensas
-de la Estrella de la Muerte.
-Destruye tantas naves como sea posible.</target>
+        <target>駕駛你的 X翼戰機，
+摧毀協調死星防禦網絡的
+通訊衛星。
+盡可能擊沉更多敵艦。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Text.1">
       <segment state="translated">
         <source>&gt;OP 12: Begin Death Star Assault</source>
-        <target>&gt;OP 12: Comienza el Ataque a la Estrella de la Muerte</target>
+        <target>>行動 12：發起死星突擊</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Text.2">
       <segment state="translated">
         <source>Escorted by [[A-Wings]], you are to attack the [[Death Star's]] defenses.</source>
-        <target>Escoltado por [[Alas-A]], debes atacar las defensas de la [[Estrella de la Muerte]].</target>
+        <target>在[[A翼戰機]]護航下，向[[死星]]防線發動突擊。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Text.3">
       <segment state="translated">
         <source>Destroy the [[Comm Sat]] so that reinforcements cannot be called in.</source>
-        <target>Destruye el [[Satélite de Comunicaciones]] para que no puedan pedir refuerzos.</target>
+        <target>摧毀敵方[[通訊衛星]]，阻止其呼叫增援部隊。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Text.4">
       <segment state="translated">
         <source>This will leave the [[Death Star]] open to a direct attack by starfighters.</source>
-        <target>Esto dejará a la [[Estrella de la Muerte]] vulnerable a un ataque directo con cazas estelares.</target>
+        <target>此舉將使[[死星]]門戶大開，便於星際戰機發動直接打擊。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Text.5">
       <segment state="translated">
         <source>  The Empire has discovered the main Alliance base on the fourth moon of [[Yavin ]]and has sent the Death Star to destroy it. Our fleet has gathered to defend our base and to destroy the [[Death Star]].$  Our scientists have concluded that the best tactic against the Death Star is to use our small, fast [[starfighters]] rather than send our larger starships.$  </source>
-        <target>  El Imperio ha descubierto la base principal de la Alianza en la cuarta luna de [[Yavin]] y ha enviado la Estrella de la Muerte para destruirla. Nuestra flota se ha reunido para defender nuestra base y destruir la [[Estrella de la Muerte]].$  Nuestros científicos han concluido que la mejor táctica contra la Estrella de la Muerte es utilizar nuestros pequeños y veloces [[cazas estelares]] en lugar de enviar nuestras naves capitales, de mayor tamaño.$  </target>
+        <target>  帝國已發現了同盟位於[[雅汶四號衛星（Yavin 4）]]的總部基地，並出動死星企圖將其徹底抹殺。全同盟艦隊已誓死集結，保衛基地並摧毀[[死星]]。$  我方科學家研判，與其派出大型主力艦，對抗死星的最佳戰術莫過於派出體積小、機動靈活的[[星際戰機]]。$</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Text.6">
       <segment state="translated">
         <source>  Your mission is to clear a path to the Death Star by disrupting her escort force.  Use your X-wing to destroy the [[Comm Sat]] that is being used to coordinate their defenses.  Take out as many of the screening ships as possible to weaken the Death Star's protection.$  Good Luck!</source>
-        <target>  Tu misión es abrir camino hasta la Estrella de la Muerte desbaratando su fuerza de escolta. Utiliza tu Ala-X para destruir el [[Satélite de Comunicaciones]] que se está utilizando para coordinar sus defensas.  Elimina tantas naves defensivas como sea posible para debilitar la protección del Estrella de la Muerte.$  ¡Buena Suerte!</target>
+        <target>  你的任務是瓦解死星的護航警戒屏障，為後續部隊殺出一條血路。駕駛你的 X翼戰機摧毀用於協調死星防衛的[[通訊衛星]]。盡可能消滅外圍的護航警戒艦船，削弱死星的防護。$  祝你好運！</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.0">
       <segment state="translated">
         <source>TIE Interceptors</source>
-        <target>Interceptores TIE</target>
+        <target>鈦截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.1">
       <segment>
         <source>TIE Fighters</source>
-        <target>Cazas TIE</target>
+        <target>鈦戰機</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.2">
       <segment>
         <source>TIE Bombers</source>
-        <target>Bombarderos TIE</target>
+        <target>鈦轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.3">
       <segment state="translated">
         <source>Gunboats</source>
-        <target>Cañoneras</target>
+        <target>突擊砲艇</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.4">
       <segment>
         <source>Frigate</source>
-        <target>Fragata</target>
+        <target>巡防艦</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.5">
       <segment>
         <source>Corvettes</source>
-        <target>Corbetas</target>
+        <target>巡邏艦</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.6">
       <segment>
         <source>Comm Sat</source>
-        <target>Satélite de Comunicaciones</target>
+        <target>通訊衛星</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.7">
       <segment>
         <source>Death Star</source>
-        <target>Estrella de la Muerte</target>
+        <target>死星</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.8">
       <segment state="translated">
         <source>X-W Red (YOU)</source>
-        <target>A-X Rojo (TÚ)</target>
+        <target>X-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.9">
       <segment state="translated">
         <source>A-W Blue</source>
-        <target>A-A Azul</target>
+        <target>A-W 藍隊</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.10">
       <segment state="translated">
         <source>Yavin</source>
-        <target>Yavin</target>
+        <target>雅汶</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.1.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.2.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.3.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.4.Designation">
       <segment>
         <source>MU</source>
-        <target>MU</target>
+        <target>繆</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.5.Designation">
       <segment>
         <source>BB 45</source>
-        <target>BB 45</target>
+        <target>BB 45 號</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.6.Designation">
       <segment>
         <source>SB 35</source>
-        <target>SB 35</target>
+        <target>SB 35 號</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.7.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.8.Designation">
       <segment>
         <source>DIVAD</source>
-        <target>DIVAD</target>
+        <target>迪瓦德號</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.9.Designation">
       <segment state="translated">
         <source>DS COMM 1</source>
-        <target>EdlM COM 1</target>
+        <target>死星通訊一號</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.10.Designation">
       <segment state="translated">
         <source>DEATH STAR</source>
-        <target>ESTRELLA DE LA MUERTE</target>
+        <target>死星</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.11.Designation">
       <segment>
         <source>YAVIN</source>
-        <target>YAVIN</target>
+        <target>雅汶</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.FG.12.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.1.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.2.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.3.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.4.Designation">
       <segment state="translated">
         <source>MU</source>
-        <target>MU</target>
+        <target>繆</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.5.Designation">
       <segment>
         <source>BB 45</source>
-        <target>BB 45</target>
+        <target>BB 45 號</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.6.Designation">
       <segment>
         <source>SB 35</source>
-        <target>SB 35</target>
+        <target>SB 35 號</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.7.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.8.Designation">
       <segment>
         <source>DIVAD</source>
-        <target>DIVAD</target>
+        <target>迪瓦德號</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.9.Designation">
       <segment>
         <source>BLUE</source>
-        <target>AZUL</target>
+        <target>藍隊</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.FG.10.Designation">
       <segment state="translated">
         <source>DS COMM 1</source>
-        <target>EdlM COM 1</target>
+        <target>死星通訊一號</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.CompletionMessage.0">
       <segment state="translated">
         <source>The Comm Sat has been destroyed</source>
-        <target>El Satélite de Comunicaciones ha sido destruido</target>
+        <target>死星通訊衛星已被徹底摧毀！</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.CompletionMessage.1">
       <segment state="translated">
         <source>Your have prepared the way for our attack on the Death Star</source>
-        <target>Has preparado el camino para nuestro ataque sobre la Estrella de la Muerte</target>
+        <target>你已為我們進攻死星劈開了勝利之路！</target>
       </segment>
     </unit>
     <unit id="Mission.dstar1.CompletionMessage.2">
       <segment state="translated">
         <source>Excellent job!</source>
-        <target>¡Excelente trabajo!</target>
+        <target>表現無懈可擊！</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.Title">
       <segment state="translated">
         <source>Attack Death Star Surface</source>
-        <target>Ataca la Superficie de la Estrella de la Muerte</target>
+        <target>突擊死星地表</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.Description">
@@ -3458,318 +3443,316 @@ surface defenses that
 surround a Nav Buoy
 in preparation for
 a Trench Run.</source>
-        <target>Despeja las defensas en
-la superficie que rodean una
-Boya de Navegación en 
-de la Estrella de la Muerte
-preparación para un
-Ataque en la Trinchera.</target>
+        <target>清除圍繞導航衛星四周的
+死星地表防禦，
+為壕溝衝刺戰
+做好全面準備。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Text.1">
       <segment state="translated">
         <source>&gt;OP 13: Attack Death Star Surface</source>
-        <target>&gt;OP 13: Ataca la Superficie de la Estrella de la Muerte</target>
+        <target>>行動 13：突擊死星地表</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Text.2">
       <segment state="translated">
         <source>Engage any TIE Fighters encountered on your way to the [[Nav Buoy]].</source>
-        <target>Atacar a cualquier Caza TIE que te encuentres en tu camino hasta la [[Boya de Navegación]].</target>
+        <target>在前往[[導航衛星]]途中消滅任何遭遇的鈦戰機。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Text.3">
       <segment state="translated">
         <source>Destroy all [[Turbolaser Gun Towers]] surrounding the [[Nav Buoy]].</source>
-        <target>Destruye todas las [[Torres de Cañones Turboláser]] que rodean la [[boya de navegación]].</target>
+        <target>摧毀環繞[[導航衛星]]四周的所有[[渦輪雷射砲塔]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Text.4">
       <segment state="translated">
         <source>Destroy all [[Hangar Ports]] from which the TIE Fighters are launched.</source>
-        <target>Destruye todas las [[Salidas de Hangares]] desde las que se lanzan los Cazas TIE.</target>
+        <target>摧毀所有出動鈦戰機的[[機庫彈射口]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Text.5">
       <segment state="translated">
         <source>  The Death Star surface is covered with [[Turbolaser Towers]].  These batteries provide defense against small spacecraft such as starfighters.  The Death Star also carries a large contingent of [[TIE Fighters]] and [[Bombers]].  Both of these forces must be countered before we can launch our assault on the [[Death Star's Trench]].$  Your mission is to rendezvous at the Nav Buoy near the surface and </source>
-        <target>  La superficie de la Estrella de la Muerte está cubierta con [[Torres Turboláser]].  Esta artillería proporciona defensa contra pequeñas naves como los cazas estelares.  La Estrella de la Muerte también lleva consigo un gran contingente de [[Cazas]] y [[Bombarderos TIE]].  La combinación de estas dos fuerzas debe ser contrarrestada antes de que podamos lanzar nuestro ataque a la [[Trinchera de la Estrella de la Muerte]].$  Tu misión es encontrarte con la boya de navegación cerca de la superficie y</target>
+        <target>  死星地表布滿了密集的高能[[渦輪雷射砲塔]]。這些防空砲台專門用以禦防小型戰機的突擊。此外，死星亦搭載了規模龐大的[[鈦戰機]]與[[鈦轟炸機]]大隊。在我們向[[死星壕溝]]發起總攻擊前，這兩股防禦火力必須被先行瓦解。$  你的任務是在地表附近的導航衛星會合，並</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Text.6">
       <segment state="translated">
         <source>destroy all the Turbolaser Towers within a [[two]] kilometer radius.  You must also destroy the four[[ Hangar Port exits]] that are camouflaged as simple supply containers.  From here, TIE squadrons exit the interior of the Death Star.$$&gt;Good Luck!$ $&gt;May the Force be with you!</source>
-        <target>destruir todas las Torres Turboláser dentro de un radio de [[dos]] kilómetros.  También debes destruir las cuatro [[salidas de hangar]] que están camufladas como simples contenedores de suministro.  A través de éstas salen escuadrones de cazas TIE del interior de la Estrella de la Muerte.$$&gt;¡Buena Suerte!$ $&gt;¡Que la Fuerza te acompañe!</target>
+        <target>徹底摧毀半徑[[兩公里]]範圍內的所有渦輪雷射砲塔。你亦必須摧毀偽裝成普通補給貨櫃的四處[[機庫彈射出口]]。敵軍鈦戰機中隊正是自此處蜂擁殺出。$$>祝你好運！$ $>願原力與你同在！</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Tag.0">
       <segment state="translated">
         <source>X-W Red (YOU)</source>
-        <target>A-X Rojo (TÚ)</target>
+        <target>X-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Tag.1">
       <segment state="translated">
         <source>TIE Squadrons</source>
-        <target>Escuadrones de TIEs</target>
+        <target>鈦戰機中隊</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Tag.2">
       <segment>
         <source>Nav Buoy</source>
-        <target>Boya de Navegación</target>
+        <target>導航衛星</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Tag.3">
       <segment state="translated">
         <source>Hangar Ports</source>
-        <target>Salidas de Hangar</target>
+        <target>機庫彈射口</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.1.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.2.Designation">
       <segment state="translated">
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.3.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪 1</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.4.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪 2</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.5.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.6.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.7.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔 1</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.8.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔 2</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.9.Designation">
       <segment>
         <source>THETA</source>
-        <target>THETA</target>
+        <target>西塔</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.10.Designation">
       <segment>
         <source>IOTA</source>
-        <target>IOTA</target>
+        <target>約塔</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.12.Designation">
       <segment state="translated">
         <source>HANGAR PORT</source>
-        <target>SALIDA DE HANGAR</target>
+        <target>機庫彈射口 1</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.12.Cargo">
       <segment state="translated">
         <source>TIE SQUADRONS</source>
-        <target>ESCUADRONES DE TIES</target>
+        <target>鈦戰機中隊</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.13.Designation">
       <segment state="translated">
         <source>HANGAR PORT</source>
-        <target>SALIDA DE HANGAR</target>
+        <target>機庫彈射口 2</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.13.Cargo">
       <segment state="translated">
         <source>TIE SQUADRONS</source>
-        <target>ESCUADRONES DE TIES</target>
+        <target>鈦戰機中隊</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.14.Designation">
       <segment state="translated">
         <source>HANGAR PORT</source>
-        <target>SALIDA DE HANGAR</target>
+        <target>機庫彈射口 3</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.14.Cargo">
       <segment state="translated">
         <source>TIE SQUADRONS</source>
-        <target>ESCUADRONES DE TIES</target>
+        <target>鈦戰機中隊</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.15.Designation">
       <segment state="translated">
         <source>HANGAR PORT</source>
-        <target>SALIDA DE HANGAR</target>
+        <target>機庫彈射口 4</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.FG.15.Cargo">
       <segment state="translated">
         <source>TIE SQUADRONS</source>
-        <target>ESCUADRONES DE TIES</target>
+        <target>鈦戰機中隊</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.0.Designation">
       <segment>
         <source>RED</source>
-        <target>ROJO</target>
+        <target>紅隊</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.1.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.2.Designation">
       <segment>
         <source>BETA</source>
-        <target>BETA</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.3.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪 1</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.4.Designation">
       <segment>
         <source>GAMMA</source>
-        <target>GAMMA</target>
+        <target>伽瑪 2</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.5.Designation">
       <segment>
         <source>DELTA</source>
-        <target>DELTA</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.6.Designation">
       <segment>
         <source>ZETA</source>
-        <target>ZETA</target>
+        <target>澤塔</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.7.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔 1</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.8.Designation">
       <segment>
         <source>ETA</source>
-        <target>ETA</target>
+        <target>艾塔 2</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.9.Designation">
       <segment>
         <source>THETA</source>
-        <target>THETA</target>
+        <target>西塔</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.10.Designation">
       <segment>
         <source>IOTA</source>
-        <target>IOTA</target>
+        <target>約塔</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.11.Designation">
       <segment state="translated">
         <source>HANGAR PORT</source>
-        <target>SALIDA DE HANGAR</target>
+        <target>機庫彈射口 1</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.11.Cargo">
       <segment state="translated">
         <source>TIE SQUADRONS</source>
-        <target>ESCUADRONES DE TIES</target>
+        <target>鈦戰機中隊</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.12.Designation">
       <segment state="translated">
         <source>HANGAR PORT</source>
-        <target>SALIDA DE HANGAR</target>
+        <target>機庫彈射口 2</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.12.Cargo">
       <segment state="translated">
         <source>TIE SQUADRONS</source>
-        <target>ESCUADRONES DE TIES</target>
+        <target>鈦戰機中隊</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.13.Designation">
       <segment state="translated">
         <source>HANGAR PORT</source>
-        <target>SALIDA DE HANGAR</target>
+        <target>機庫彈射口 3</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.13.Cargo">
       <segment state="translated">
         <source>TIE SQUADRONS</source>
-        <target>ESCUADRONES DE TIES</target>
+        <target>鈦戰機中隊</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.14.Designation">
       <segment state="translated">
         <source>HANGAR PORT</source>
-        <target>SALIDA DE HANGAR</target>
+        <target>機庫彈射口 4</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.FG.14.Cargo">
       <segment state="translated">
         <source>TIE SQUADRONS</source>
-        <target>ESCUADRONES DE TIES</target>
+        <target>鈦戰機中隊</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.CompletionMessage.0">
       <segment state="translated">
         <source>All TIE fighter hangar ports destroyed in target area</source>
-        <target>Todas las salidas de hangares de cazas TIE destruidos en la zona objetivo.</target>
+        <target>目標空域內所有鈦戰機機庫彈射口已被全數摧毀！</target>
       </segment>
     </unit>
     <unit id="Mission.dstar2.CompletionMessage.1">
       <segment state="translated">
         <source>All laser towers cleared in target area</source>
-        <target>Todas las torres láser despejadas en el área de objetivo.</target>
+        <target>目標空域內所有雷射砲塔已被肅清完畢！</target>
       </segment>
     </unit>
     <unit id="Mission.dstar3.Title">
       <segment state="translated">
         <source>Death Star Trench Run</source>
-        <target>La Trinchera de la Estrella de la Muerte</target>
+        <target>死星壕溝衝刺戰</target>
       </segment>
     </unit>
     <unit id="Mission.dstar3.Description">
@@ -3779,82 +3762,81 @@ assault on the Death
 Star by attacking the
 Exhaust Port at the end
 of the Trench.</source>
-        <target>Completa el ataque final a
-la Estrella de la Muerte
-atacando el Conducto de Ventilación
-al final de la Trinchera.</target>
+        <target>發動對死星的終極突擊，
+精準命中壕溝盡頭的
+散熱排氣孔！</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Text.1">
       <segment state="translated">
         <source>&gt;OP 14: Death Star Trench Run</source>
-        <target>&gt;OP 14: La Trinchera de la Estrella de la Muerte</target>
+        <target>>行動 14：死星壕溝衝刺戰</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Text.2">
       <segment state="translated">
         <source>In your [[X-wing]] follow the [[Nav Buoys]] to the Death Star Trench.</source>
-        <target>En tu [[Ala-X]] sigue las [[boyas de navegación]] hasta la Trinchera de la Estrella de la Muerte.</target>
+        <target>駕駛你的[[X翼戰機]]跟隨[[導航衛星]]導引切入死星壕溝。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Text.3">
       <segment state="translated">
         <source>Turn [[left]] and [[descend]] into the Death Star Trench.</source>
-        <target>Gira a la [[izquierda]] y [[desciende]] a la Trinchera de la Estrella de la Muerte.</target>
+        <target>向[[左]]轉向並[[俯衝俯衝入]]死星壕溝。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Text.4">
       <segment state="translated">
         <source>Beware of Imperial [[TIE fighters]].  They will send their best after you.</source>
-        <target>Cuidado con los [[cazas TIE]] del Imperio.  Enviarán a sus élites tras tu nave.</target>
+        <target>嚴防帝國[[鈦戰機]]。敵軍必定派出最精銳的王牌前來截殺。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Text.5">
       <segment state="translated">
         <source>Follow the trench to the[[ Exhaust Port]].  Use your [[Proton Torpedoes]]!</source>
-        <target>Sigue la trinchera hasta el [[Conducto de Ventilación]].  ¡Utiliza tus [[Torpedos de Protones]]!</target>
+        <target>沿著壕溝全速俯衝衝向[[散熱排氣孔]]。發射你的[[質子魚雷]]！</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Text.6">
       <segment state="translated">
         <source>  Alliance scientists and engineers have analyzed the captured technical readouts of the Death Star.  They believe they have uncovered a [[weak spot]] that makes it vulnerable to attack.$  Along the equator of this huge artificial moon is a narrow trench.  At the end of this trench is a small [[exhaust outlet port]] which reaches all the way to the reactor core at the center of the battle station.</source>
-        <target>  Los científicos e ingenieros de la Alianza han analizado los datos técnicos capturados de la Estrella de la Muerte.  Creen haber descubierto un [[punto débil]] que la hace vulnerable a un ataque.$  A lo largo del ecuador de esta enorme luna artificial, hay una estrecha trinchera.  Al final de esta trinchera hay un pequeño [[puerto de salida de ventilación]] que llega hasta el núcleo del reactor en el centro de la estación de combate.</target>
+        <target>  同盟科學家與工程師已徹底分析了截獲的死星技術藍圖。他們確認發現了足以致死星於死地的[[核心弱點]]。$  在這顆龐大人造月球的赤道沿線上有一條狹窄的壕溝。在壕溝的盡頭有一個微小的[[熱排氣口]]，一路直通戰鬥太空站核心的反應爐。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Text.7">
       <segment state="translated">
         <source>  Our scientists believe that a[[ proton torpedo]] fired directly into this exhaust port could cause a [[chain reaction]] that would destroy the entire Death Star.$  [[Nav Buoys]] have been placed on the Death Star surface where previous attacks have cleared away the Turbolaser Towers.  Follow the buoys to the trench, turn [[left]] and descend into the trench.  Your R2D2 unit will then boost your engine speed.</source>
-        <target>  Nuestros científicos creen que un [[torpedo de protones]] disparado directamente dentro de este conducto de ventilación podría causar una [[reacción en cadena]] que destruiría completamente la Estrella de la Muerte.$  Se han colocado [[boyas de navegación]] sobre la superficie de la Estrella de la Muerte donde ataques previos despejaron las Torres Turboláser.  Sigue las boyas hasta la trinchera, gira a la [[izquierda]] y desciende a la trinchera.  Tu unidad R2D2 potenciará en ese momento la velocidad de tu motor.</target>
+        <target>  我們的科學家研判，若能將一枚[[質子魚雷]]直接射入此排氣孔，將引發毀天滅地的[[連鎖反應]]，徹底炸毀整座死星。$  [[導航衛星]]已布設於死星地表先前已肅清砲塔的區域。跟隨導航浮標飛往壕溝，向[[左]]轉向並俯衝進壕溝。你的 R2 機器人隨後將全力超頻推動引擎航速。</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Text.8">
       <segment state="translated">
         <source>  Your increased speed will improve your chances of surviving this hazardous mission.  Destroy the [[gun emplacements ]]on the floor and walls of the trench before they can fire at you.  The exhaust port is located at the end of the trench.  Watch your [[targeting computer]] for when the exhaust port comes into range of your proton torpedoes.$$&gt;May the Force be with you!</source>
-        <target>  Tu velocidad aumentada mejorará tus posibilidades de sobrevivir durante esta peligrosa misión.  Destruye los [[emplazamientos de artillería]] en el suelo y paredes de la trinchera antes de que puedan dispararte.  La salida de ventilación está ubicada al final de la trinchera.  Mantén un ojo en tu [[computadora de objetivos]] para cuando la salida de ventilación esté al alcance de tus torpedos de protones.$$&gt;¡Que la Fuerza te acompañe!</target>
+        <target>  大幅提升的航速能提升你在這場極度危險任務中的生還機率。摧毀壕溝底部與側壁上的[[雷射砲台]]，趕在它們開火前將其粉碎。散熱排氣孔位於壕溝的終端。密切注視你的[[瞄準電腦]]，一旦排氣孔進入質子魚雷的有效射程立即發射！$$>願原力與你同在！</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Tag.0">
       <segment state="translated">
         <source>X-W Red (YOU)</source>
-        <target>A-X Rojo (TÚ)</target>
+        <target>X-W 紅隊（你）</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Tag.1">
       <segment state="translated">
         <source>Nav Buoys</source>
-        <target>Boyas de Navegación</target>
+        <target>導航衛星</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Tag.2">
       <segment state="translated">
         <source>&lt;- Trench</source>
-        <target>&lt;- Trinchera</target>
+        <target>&lt;- 壕溝</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Tag.3">
       <segment state="translated">
         <source>Exhaust Port</source>
-        <target>Salida de Ventilación</target>
+        <target>散熱排氣孔</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.Tag.4">
@@ -3878,49 +3860,49 @@ al final de la Trinchera.</target>
     <unit id="Briefing.dstar3.FG.0.Designation">
       <segment>
         <source>RED 1</source>
-        <target>ROJO 1</target>
+        <target>紅一號</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.FG.3.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar3.FG.4.Designation">
       <segment state="translated">
         <source>OMEGA</source>
-        <target>OMEGA</target>
+        <target>歐米茄</target>
       </segment>
     </unit>
     <unit id="Mission.dstar3.FG.0.Designation">
       <segment>
         <source>RED 1</source>
-        <target>ROJO 1</target>
+        <target>紅一號</target>
       </segment>
     </unit>
     <unit id="Mission.dstar3.FG.1.Designation">
       <segment>
         <source>ALPHA</source>
-        <target>ALFA</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="Mission.dstar3.FG.2.Designation">
       <segment state="translated">
         <source>OMEGA</source>
-        <target>OMEGA</target>
+        <target>歐米茄</target>
       </segment>
     </unit>
     <unit id="Mission.dstar3.CompletionMessage.0">
       <segment state="translated">
         <source>You've hit the exhaust port, that was one in a million!</source>
-        <target>¡Has acertado en la salida de ventilación! ¡Era un disparo entre un millón!</target>
+        <target>你命中了散熱排氣孔！真是百萬分之一的奇蹟一擊！</target>
       </segment>
     </unit>
     <unit id="Mission.dstar3.CompletionMessage.1">
       <segment>
         <source>let's get out of here!</source>
-        <target>¡Vámonos de aquí!</target>
+        <target>我們快離開這裡！</target>
       </segment>
     </unit>
   </file>
