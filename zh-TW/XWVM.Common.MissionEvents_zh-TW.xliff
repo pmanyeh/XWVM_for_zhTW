@@ -1,167 +1,167 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en" trgLang="en">
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en" trgLang="zh-TW">
   <file id="XWVM.Common.MissionEvents">
     <!-- Simple Events -->
     <unit id="MissionStart">
-      <segment>
+      <segment state="translated">
         <source>[[Mission started]]</source>
-        <target>[[Mission iniciada]]</target>
+        <target>[[任務開始]]</target>
       </segment>
     </unit>
     <unit id="MissionComplete">
-      <segment>
+      <segment state="translated">
         <source>[[Mission complete]]</source>
-        <target>[[Mission completada]]</target>
+        <target>[[任務完成]]</target>
       </segment>
     </unit>
     <unit id="MissionFailed">
-      <segment>
+      <segment state="translated">
         <source>[[Mission failed]]</source>
-        <target>[[Mission fracasada]]</target>
+        <target>[[任務失敗]]</target>
       </segment>
     </unit>
     <unit id="ReinforcementRequest">
-      <segment>
+      <segment state="translated">
         <source>[[Request for reinforcements acknowledged]]</source>
-        <target>[[Petición de refuerzos recibida]]</target>
+        <target>[[增援請求已收到]]</target>
       </segment>
     </unit>
     
     <!-- Ship Arrival Events -->
     <unit id="Arrived_SameIff_Group">
-      <segment>
+      <segment state="translated">
         <source>[[{species.ABBR}]] group [[{designation}]] entered sector at [[{distance} km]]</source>
-        <target>Grupo [[{designation}]] de [[{species.ABBR}]] ha entrado al sector a [[{distance} km]]</target>
+        <target>[[{species.ABBR}]] 編隊 [[{designation}]] 進入本空域，距離 [[{distance} 公里]]</target>
       </segment>
     </unit>
     <unit id="Arrived_SameIff_Single">
-      <segment>
+      <segment state="translated">
         <source>[[{species.ABBR} {designation}]] entered sector at [[{distance} km]]</source>
-        <target>[[{species.ABBR} {designation}]] ha entrado al sector a [[{distance} km]]</target>
+        <target>[[{species.ABBR} {designation}]] 進入本空域，距離 [[{distance} 公里]]</target>
       </segment>
     </unit>
     <unit id="Arrived_DifferentIff_Single">
-      <segment>
+      <segment state="translated">
         <source>A new [[{species.ONE}]] entered sector at [[{distance} km]]</source>
-        <target>{species.GENDER:choose(M|F):Un nuevo|Una nueva} [[{species.ONE}]] ha entrado al sector a [[{distance} km]]</target>
+        <target>一艘新 [[{species.ONE}]] 進入本空域，距離 [[{distance} 公里]]</target>
       </segment>
     </unit>
     <unit id="Arrived_DifferentIff_Group">
-      <segment>
+      <segment state="translated">
         <source>[[{waveSize}]] new [[{species.OTHER}]] entered sector at [[{distance} km]]</source>
-        <target>[[{waveSize}]] {species.GENDER:choose(M|F):nuevos|nuevas} [[{species.OTHER}]] han entrado al sector a [[{distance} km]]</target>
+        <target>[[{waveSize}]] 艘新 [[{species.OTHER}]] 進入本空域，距離 [[{distance} 公里]]</target>
       </segment>
     </unit>
 
     <!-- Single Entity Events -->
     <unit id="EnteredHangar">
-      <segment>
+      <segment state="translated">
         <source>[[{species.ABBR} {designation}]] entered hangar</source>
-        <target>[[{species.ABBR} {designation}]] ha entrado al hangar</target>
+        <target>[[{species.ABBR} {designation}]] 已進入機庫</target>
       </segment>
     </unit>
     <unit id="EnteredHyperspace">
-      <segment>
+      <segment state="translated">
         <source>[[{species.ABBR} {designation}]] has entered hyperspace</source>
-        <target>[[{species.ABBR} {designation}]] ha entrado al hiperespacio</target>
+        <target>[[{species.ABBR} {designation}]] 已進入超空間</target>
       </segment>
     </unit>
     <unit id="Destroyed">
-      <segment>
+      <segment state="translated">
         <source>[[{species.ABBR} {designation}]] has been [[destroyed]]</source>
-        <target>[[{species.ABBR} {designation}]] ha sido [[{species.GENDER:choose(M|F):destruido|destruida}]]</target>
+        <target>[[{species.ABBR} {designation}]] 已被[[摧毀]]</target>
       </segment>
     </unit>
     <unit id="Disabled">
-      <segment>
+      <segment state="translated">
         <source>[[{species.ABBR} {designation}]] has been [[disabled]]</source>
-        <target>[[{species.ABBR} {designation}]] ha sido [[{species.GENDER:choose(M|F):incapacitado|incapacitada}]]</target>
+        <target>[[{species.ABBR} {designation}]] 已被[[癱瘓]]</target>
       </segment>
     </unit>
     <unit id="Identified">
-      <segment>
+      <segment state="translated">
         <source>[[{species.ABBR} {designation}]] has been [[identified]]</source>
-        <target>[[{species.ABBR} {designation}]] ha sido [[{species.GENDER:choose(M|F):identificado|identificada}]]</target>
+        <target>[[{species.ABBR} {designation}]] 已完成[[識別]]</target>
       </segment>
     </unit>
     <unit id="DockingComplete">
-      <segment>
+      <segment state="translated">
         <source>[[{species.ABBR} {designation}]] reports docking operation complete</source>
-        <target>[[{species.ABBR} {designation}]] reporta operación de acoplamiento completada</target>
+        <target>[[{species.ABBR} {designation}]] 回報對接作業完成</target>
       </segment>
     </unit>
     <unit id="SurfaceObjectDestroyed">
-      <segment>
+      <segment state="translated">
         <source>Surface object has been [[destroyed]]</source>
-        <target>Objeto de superficie [[destruido]]</target>
+        <target>表面目標已被[[摧毀]]</target>
       </segment>
     </unit>
 
     <!-- Multi-Entity Events -->
     <unit id="Docked">
-      <segment>
+      <segment state="translated">
         <source>[[{agent.species.ABBR} {agent.designation}]] has docked with [[{subject.species.ABBR} {subject.designation}]]</source>
-        <target>[[{agent.species.ABBR} {agent.designation}]] se ha acoplado con [[{subject.species.ABBR} {subject.designation}]]</target>
+        <target>[[{agent.species.ABBR} {agent.designation}]] 已與 [[{subject.species.ABBR} {subject.designation}]] 對接</target>
       </segment>
     </unit>
     <unit id="Captured">
-      <segment>
+      <segment state="translated">
         <source>[[{subject.species.ABBR} {subject.designation}]] has been [[captured]] by [[{agent.species.ABBR} {agent.designation}]]</source>
-        <target>[[{subject.species.ABBR} {subject.designation}]] ha sido [[{subject.species.GENDER:choose(M|F):capturado|capturada}]] por [[{agent.species.ABBR} {agent.designation}]]</target>
+        <target>[[{subject.species.ABBR} {subject.designation}]] 已被 [[{agent.species.ABBR} {agent.designation}]] [[捕獲]]</target>
       </segment>
     </unit>
     <unit id="Repaired">
-      <segment>
+      <segment state="translated">
         <source>[[{subject.species.ABBR} {subject.designation}]] has been [[repaired]] by [[{agent.species.ABBR} {agent.designation}]]</source>
-        <target>[[{subject.species.ABBR} {subject.designation}]] ha sido [[{subject.species.GENDER:choose(M|F):reparado|reparada}]] por [[{agent.species.ABBR} {agent.designation}]]</target>
+        <target>[[{subject.species.ABBR} {subject.designation}]] 已由 [[{agent.species.ABBR} {agent.designation}]] [[修復]]</target>
       </segment>
     </unit>
     <unit id="ComponentDestruction">
-      <segment>
+      <segment state="translated">
         <source>[[{agent.designation}]] destroyed [[{subject.designation}]]'s component #[[{componentNo}]]</source>
-        <target>[[{agent.designation}]] ha destruido el componente num. [[{componentNo}]] de [[{subject.designation}]]</target>
+        <target>[[{agent.designation}]] 摧毀了 [[{subject.designation}]] 的第 [[{componentNo}]] 號組件</target>
       </segment>
     </unit>
 
     <!-- System Events -->
     <unit id="SystemDamaged">
-      <segment>
+      <segment state="translated">
         <source>[[{systemName}]]: damaged and [[inoperative]]!</source>
-        <target>¡[[{systemName}]]: dañado e [[inoperativo]]!</target>
+        <target>[[{systemName}]]：受損且[[無法運作]]！</target>
       </segment>
     </unit>
     <unit id="SystemRepaired">
-      <segment>
+      <segment state="translated">
         <source>[[{systemName}: repaired]]!</source>
-        <target>¡[[{systemName}: reparado]]!</target>
+        <target>[[{systemName}：已修復]]！</target>
       </segment>
     </unit>
 
     <!-- Sensor/Detection Events -->
     <unit id="EntityPresenceDetected">
-      <segment>
+      <segment state="translated">
         <source>[[{detector.designation}]] detects [[{detected.designation}]] at sensor [[{sensorId}]]</source>
-        <target>[[{detector.designation}]] detecta a [[{detected.designation}]] en sensor [[{sensorId}]]</target>
+        <target>[[{detector.designation}]] 感測器 [[{sensorId}]] 偵測到 [[{detected.designation}]]</target>
       </segment>
     </unit>
     <unit id="PPGGateVisited">
-      <segment>
+      <segment state="translated">
         <source>[[{runnerId}]] visits [[{platformId}]]'s gate [[{gateNo}]]</source>
-        <target>[[{runnerId}]] visita puerta [[{gateNo}]] de [[{platformId}]]</target>
+        <target>[[{runnerId}]] 通過 [[{platformId}]] 的第 [[{gateNo}]] 號閘門</target>
       </segment>
     </unit>
 
     <!-- Weapon Events -->
     <unit id="WeaponFired">
-      <segment>
+      <segment state="translated">
         <source>Weapon firing event {agent.designation} {projectile}</source>
-        <target>Evento de disparo de arma {agent.designation} {projectile}</target>
+        <target>武器開火事件 {agent.designation} {projectile}</target>
       </segment>
     </unit>
     <unit id="WeaponHit">
-      <segment>
+      <segment state="translated">
         <source>Weapon impact event {agent.designation} {projectile} {subject.designation}</source>
-        <target>Evento de impacto de arma {agent.designation} {projectile} {subject.designation}</target>
+        <target>武器命中事件 {agent.designation} {projectile} {subject.designation}</target>
       </segment>
     </unit>
   </file>
