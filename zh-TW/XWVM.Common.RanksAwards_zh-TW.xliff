@@ -334,7 +334,7 @@
 		</notes>
         <segment state="translated">
           <source>{species.ONE} {award}</source>
-          <target>{award} de {species.ONE}</target>
+          <target>{species.ONE} {award}</target>
         </segment>
       </unit>
 	  <unit id="Award.MissionCollectionPatchTooltip" >
@@ -346,7 +346,7 @@
 		</notes>
         <segment state="translated">
           <source>{collection} number {number}</source>
-          <target>{collection} número {number}</target>
+          <target>{collection} 第 {number} 號</target>
         </segment>
       </unit>
 	  

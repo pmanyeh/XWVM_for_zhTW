@@ -70,25 +70,25 @@
     <unit id="AstromechWorkshop.Customize.Label">
       <segment state="translated">
         <source>Customize</source>
-        <target>Personalizar</target>
+        <target>自訂外觀</target>
       </segment>
     </unit>
     <unit id="AstromechWorkshop.Name.Label">
       <segment state="translated">
         <source>Astromech Name</source>
-        <target>Nombre del Astromecánico</target>
+        <target>技工機器人名稱</target>
       </segment>
     </unit>
     <unit id="AstromechWorkshop.Name.TooltipTitle">
       <segment state="translated">
         <source>Astromech Name</source>
-        <target>Nombre del Astromecánico</target>
+        <target>技工機器人名稱</target>
       </segment>
     </unit>
     <unit id="AstromechWorkshop.Name.TooltipContent">
       <segment state="translated">
         <source>Use a custom name for your onboard R2 unit (for craft that use one).</source>
-        <target>Utiliza un nombre personalizado para tu unidad astromecánica de abordo (en naves que emplean una).</target>
+        <target>為你的艦載 R2 機器人設定自訂名稱（適用於配備機器人的戰機）。</target>
       </segment>
     </unit>
     <unit id="AstromechWorkshop.HeadSection.Label">

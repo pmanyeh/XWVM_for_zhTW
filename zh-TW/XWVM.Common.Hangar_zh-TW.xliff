@@ -106,13 +106,13 @@
 		<unit id="Hangar.Ship.Kind.Utility">
 			<segment state="translated">
 				<source>Utility</source>
-				<target>De Servicio</target>
+				<target>勤務支援船</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.Ship.Kind.Fighter">
 			<segment state="translated">
 				<source>Fighter</source>
-				<target>Caza</target>
+				<target>星際戰機</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.Ship.Kind.Transport">
@@ -130,7 +130,7 @@
 		<unit id="Hangar.Ship.Kind.Container">
 			<segment state="translated">
 				<source>Container</source>
-				<target>Contenedor</target>
+				<target>貨櫃</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.Ship.Kind.Capital">
@@ -142,37 +142,37 @@
 		<unit id="Hangar.Ship.Kind.Mine">
 			<segment state="translated">
 				<source>Mine</source>
-				<target>Mina</target>
+				<target>太空水雷</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.Ship.Kind.Asteroid">
 			<segment state="translated">
 				<source>Asteroid</source>
-				<target>Asteroide</target>
+				<target>小行星</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.Ship.Kind.Weapon">
 			<segment state="translated">
 				<source>Weapon</source>
-				<target>Arma</target>
+				<target>武裝平台</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.Ship.Kind.PPGPlatform">
 			<segment state="translated">
 				<source>Proving Grounds Platform</source>
-				<target>Plataforma de Entrenamiento</target>
+				<target>試煉場平台</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.Ship.Kind.SurfaceBuilding">
 			<segment state="translated">
 				<source>Surface Building</source>
-				<target>Estructura de Superficie</target>
+				<target>地表建築</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.Ship.Kind.Debris">
 			<segment state="translated">
 				<source>Debris</source>
-				<target>Escombros</target>
+				<target>太空殘骸</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.Ship.Kind.Platform">
@@ -190,19 +190,19 @@
 		<unit id="Hangar.PilotAssignment.Title">
 			<segment state="translated">
 				<source>Pilot Assignment</source>
-				<target>Asignación de Pilotos</target>
+				<target>飛行員指派</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.CraftLoadout.Title">
 			<segment state="translated">
 				<source>Craft Selection and Loadout</source>
-				<target>Selección de Nave y Equipamiento</target>
+				<target>戰機選擇與武裝配置</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.PilotAssignment.SelectFromRosterButton.Label">
 			<segment state="translated">
 				<source>Select Pilot from Roster</source>
-				<target>Escoger Piloto de la Lista</target>
+				<target>從名冊選取飛行員</target>
 			</segment>
 		</unit>
 		<unit id="Hangar.PilotAssignment.UnassignButton.Label">
