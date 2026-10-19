@@ -1,0 +1,1242 @@
+{
+  "遊戲人物": [
+    [
+      "Yun",
+      "楊"
+    ],
+    [
+      "Takara",
+      "塔卡拉"
+    ],
+    [
+      "Sariss",
+      "撒雷斯；莎莉絲"
+    ],
+    [
+      "Ru Murleen",
+      "露．瑪琳"
+    ],
+    [
+      "Rookie One",
+      "魯基．旺"
+    ],
+    [
+      "Rahn",
+      "朗"
+    ],
+    [
+      "Morgan Katarn",
+      "摩根．凱特恩"
+    ],
+    [
+      "Maw",
+      "謨"
+    ],
+    [
+      "Maarek Stele",
+      "馬力克．史泰勒"
+    ],
+    [
+      "Kyle Katarn",
+      "凱．凱特恩"
+    ],
+    [
+      "Keyan Farlander",
+      "凱恩．弗蘭德"
+    ],
+    [
+      "Kasan Moor",
+      "凱珊‧摩爾"
+    ],
+    [
+      "Kaerobani",
+      "凱羅霸尼"
+    ],
+    [
+      "Ka'Pa the Hutt",
+      "赫特族卡帕"
+    ],
+    [
+      "Jerec",
+      "傑爾克"
+    ],
+    [
+      "Jan Ors",
+      "珍．歐斯"
+    ],
+    [
+      "Gorc ＆ Pic",
+      "格克與皮克"
+    ],
+    [
+      "Boc",
+      "波克"
+    ],
+    [
+      "Ali Tarrack",
+      "艾莉．塔拉克"
+    ]
+  ],
+  "星際戰機": [
+    [
+      "Z-95 Headhunter",
+      "Z-95 「獵頭者」式戰機"
+    ],
+    [
+      "Y-Wing",
+      "Ｙ翼戰機"
+    ],
+    [
+      "X-Wing",
+      "Ｘ翼戰機"
+    ],
+    [
+      "TIE Interceptor",
+      "鈦攔截機"
+    ],
+    [
+      "TIE Fighter",
+      "鈦戰機"
+    ],
+    [
+      "TIE Defender",
+      "鈦防禦者"
+    ],
+    [
+      "TIE Bomber",
+      "鈦轟炸機"
+    ],
+    [
+      "T-Wing",
+      "Ｔ翼戰機"
+    ],
+    [
+      "Skipray blastboat",
+      "「飛魟」型炮艇"
+    ],
+    [
+      "Shrike, Incom Alpha-52 prototype",
+      "「百舌鳥號」，印康 Alpha-52 型原型機"
+    ],
+    [
+      "Scimitar Assault Bomber",
+      "「彎刀」式突襲轟炸機"
+    ],
+    [
+      "R-41 Starchaser",
+      "R-41 「逐星者」式戰機"
+    ],
+    [
+      "Preybird",
+      "「獵食鳥」戰機；「狩獵鳥」戰機"
+    ],
+    [
+      "Missile Boat",
+      "飛彈艇；飛彈快艇；飛彈砲艇"
+    ],
+    [
+      "K-Wing",
+      "Ｋ翼戰機"
+    ],
+    [
+      "E-Wing",
+      "Ｅ翼戰機"
+    ],
+    [
+      "B-Wing",
+      "Ｂ翼戰機"
+    ],
+    [
+      "Assault Gunboat",
+      "突擊砲艇"
+    ],
+    [
+      "Advenced TIE Fighter/TIE AVENGER/TIE Advanced",
+      "先進鈦戰機"
+    ],
+    [
+      "A-Wing",
+      "Ａ翼戰機"
+    ]
+  ],
+  "原力": [
+    [
+      "Sith",
+      "西斯"
+    ],
+    [
+      "Lightsaber Throw",
+      "光劍投擲"
+    ],
+    [
+      "Lightsaber",
+      "光劍"
+    ],
+    [
+      "Jedi Master",
+      "絕地大師"
+    ],
+    [
+      "Jedi Knight",
+      "絕地武士"
+    ],
+    [
+      "Holocron",
+      "原力全像投影器；全像角錐"
+    ],
+    [
+      "Force Push",
+      "原力推移"
+    ],
+    [
+      "Force Projection",
+      "原力投影"
+    ],
+    [
+      "Force",
+      "原力"
+    ],
+    [
+      "Far Sight",
+      "原力預視"
+    ],
+    [
+      "Dark Jedi",
+      "黑暗絕地"
+    ],
+    [
+      "Danger Sense",
+      "危機感"
+    ],
+    [
+      "Chain Lightning",
+      "連環閃電"
+    ]
+  ],
+  "生物": [
+    [
+      "ysalamiri",
+      "伊撒拉密利"
+    ],
+    [
+      "womp-rat",
+      "王鼠"
+    ],
+    [
+      "wampa",
+      "魍霸"
+    ],
+    [
+      "vornskr",
+      "馮斯克"
+    ],
+    [
+      "tauntaun",
+      "唐唐；冬冬"
+    ],
+    [
+      "swamp wampa",
+      "沼澤魍霸"
+    ],
+    [
+      "space slug",
+      "宇宙巨蟲"
+    ],
+    [
+      "sarlacc",
+      "沙雷克"
+    ],
+    [
+      "ronto",
+      "龍駝"
+    ],
+    [
+      "rancor",
+      "獠戈獸"
+    ],
+    [
+      "nerf",
+      "那福"
+    ],
+    [
+      "mynock",
+      "麥那蝙蝠"
+    ],
+    [
+      "krayt dragon",
+      "魁龍"
+    ],
+    [
+      "gundark",
+      "庚達克"
+    ],
+    [
+      "dianoga",
+      "戴亞諾卡"
+    ],
+    [
+      "dewback",
+      "濕背獸"
+    ],
+    [
+      "dart flower",
+      "飛鏢花"
+    ],
+    [
+      "bantha",
+      "班沙"
+    ]
+  ],
+  "團體、職業和企業": [
+    [
+      "Swoop gang",
+      "飛車黨"
+    ],
+    [
+      "Sienar Fleet Systems",
+      "西納艦隊系統;西納艦隊系統企業"
+    ],
+    [
+      "Rogue Squadron",
+      "俠盜中隊；浪子中隊"
+    ],
+    [
+      "Miradyne",
+      "米拉達因"
+    ],
+    [
+      "Lumini Pirate",
+      "魯明尼海盜"
+    ],
+    [
+      "Kuat Drive Yard",
+      "奎特造船廠；奎特造艦企業"
+    ],
+    [
+      "Cygnus Spacework",
+      "賽格那斯太空工業"
+    ],
+    [
+      "Bounty Hunter",
+      "賞金獵人"
+    ],
+    [
+      "BlasTech",
+      "爆擊技術"
+    ]
+  ],
+  "小說人物": [
+    [
+      "Ysanne \"Iceheart\" Isard",
+      "伊珊．「冰心」．艾撒德"
+    ],
+    [
+      "Winter",
+      "溫特"
+    ],
+    [
+      "Teneniel Djo",
+      "塔娜妮爾．裘"
+    ],
+    [
+      "Targeter",
+      "標定者，溫特的代號之一"
+    ],
+    [
+      "Tanel Ka",
+      "塔娜爾．凱"
+    ],
+    [
+      "Talon Karrde",
+      "鷹爪．卡爾德"
+    ],
+    [
+      "Ta'a Chume",
+      "塔．瓊"
+    ],
+    [
+      "Rukh",
+      "如剋"
+    ],
+    [
+      "Prince Xizor",
+      "西澤王子"
+    ],
+    [
+      "Prince Isolder",
+      "艾索德王子"
+    ],
+    [
+      "Melina Carniss",
+      "梅莉娜．卡妮絲"
+    ],
+    [
+      "Marellis",
+      "瑪蕾莉絲，瑪拉的化名之一"
+    ],
+    [
+      "Mara Jade",
+      "瑪拉．婕德"
+    ],
+    [
+      "Luuke Skywalker",
+      "路兀克．天行者"
+    ],
+    [
+      "Lowbacca",
+      "洛巴卡"
+    ],
+    [
+      "Karrinna Janish",
+      "卡莉娜．珍妮部A瑪拉的化名之一"
+    ],
+    [
+      "Joruus C'baoth",
+      "喬魯兀斯．瑟鮑斯"
+    ],
+    [
+      "Jaina Solo",
+      "婕娜．索羅"
+    ],
+    [
+      "Jacen Solo",
+      "傑森．索羅"
+    ],
+    [
+      "Guri",
+      "居莉"
+    ]
+  ],
+  "電影人物": [
+    [
+      "Zev Senesca",
+      "柴夫‧山內斯卡"
+    ],
+    [
+      "Yoda",
+      "尤達"
+    ],
+    [
+      "Wes Janson",
+      "魏斯‧詹森"
+    ],
+    [
+      "Wedge Antilles",
+      "魏奇．安提利斯"
+    ],
+    [
+      "Walex Blissex",
+      "華列克斯．比利賽克斯"
+    ],
+    [
+      "Tomaas Azzameen",
+      "湯瑪斯‧亞札明"
+    ],
+    [
+      "Threepio",
+      "崔比歐"
+    ],
+    [
+      "Princess Leia Organa",
+      "莉亞．歐嘉納公主"
+    ],
+    [
+      "Porkins",
+      "波金斯"
+    ],
+    [
+      "Owen Lars",
+      "歐文．拉斯"
+    ],
+    [
+      "Olin Garn",
+      "歐林‧赫?"
+    ],
+    [
+      "Obi-Wan Kenobi (Ben Kenobi)",
+      "歐比王 肯諾比  (班 肯諾比)"
+    ],
+    [
+      "Mon Mothma",
+      "蒙．莫斯瑪"
+    ],
+    [
+      "Moff Jerjerrod",
+      "星區首長傑杰洛"
+    ],
+    [
+      "Luke Skywalker",
+      "路克．天行者"
+    ],
+    [
+      "Lord Darth Vader",
+      "達斯．維德大君"
+    ],
+    [
+      "Lobot",
+      "洛伯特"
+    ],
+    [
+      "Lando Calrissian",
+      "藍道．卡瑞森"
+    ],
+    [
+      "Kasan Moor",
+      "凱珊‧摩爾"
+    ],
+    [
+      "K'Armyn Viraxo",
+      "卡敏‧維拉索"
+    ]
+  ],
+  "星際": [
+    [
+      "Wild Space",
+      "深太空"
+    ],
+    [
+      "Unknown Region",
+      "謎之邊陲"
+    ],
+    [
+      "Outer Rim Territories",
+      "邊疆領域"
+    ],
+    [
+      "Hub Worlds",
+      "內緣地帶"
+    ],
+    [
+      "Core Worlds",
+      "核心區域"
+    ]
+  ],
+  "星系及星球": [
+    [
+      "Yavin",
+      "雅汶"
+    ],
+    [
+      "Wayland",
+      "衛蘭"
+    ],
+    [
+      "Vortex",
+      "渦特斯"
+    ],
+    [
+      "Varonat",
+      "伐洛納特"
+    ],
+    [
+      "Thyferra",
+      "帝佛拉"
+    ],
+    [
+      "Tatooine",
+      "塔圖音"
+    ],
+    [
+      "Svivren",
+      "士維弗倫"
+    ],
+    [
+      "Sullust",
+      "蘇祿斯特"
+    ],
+    [
+      "Sluis Van",
+      "斯陸依司．凡"
+    ],
+    [
+      "Rishi",
+      "瑞席"
+    ],
+    [
+      "Phorliss",
+      "佛利司"
+    ],
+    [
+      "Ord Mantell",
+      "歐德曼特爾"
+    ],
+    [
+      "New Alderaan",
+      "新奧德朗"
+    ],
+    [
+      "Nar Shaddaa",
+      "那峽達"
+    ],
+    [
+      "Nal Hutta",
+      "那赫塔"
+    ],
+    [
+      "Myrkr",
+      "密爾卡"
+    ],
+    [
+      "Mechis III",
+      "馬其斯三號"
+    ],
+    [
+      "Maw",
+      "莫"
+    ],
+    [
+      "Kessel",
+      "凱索"
+    ],
+    [
+      "Kashyyyk",
+      "卡須克"
+    ]
+  ],
+  "城市、城鎮及地區": [
+    [
+      "Tropis-on-Varonat",
+      "伐洛納特的特羅皮司"
+    ],
+    [
+      "Nomad City",
+      "遊牧城"
+    ],
+    [
+      "Mount Tantiss",
+      "坦堤斯山"
+    ],
+    [
+      "Mos Eilsey",
+      "摩斯艾斯里"
+    ],
+    [
+      "Imperial City",
+      "帝都"
+    ],
+    [
+      "Hyllyard City",
+      "海理亞德市"
+    ],
+    [
+      "Echo Base",
+      "回音基地"
+    ],
+    [
+      "Dune Sea",
+      "沙丘海；沙之海"
+    ],
+    [
+      "Cloud City",
+      "雲市；雲之都"
+    ],
+    [
+      "Begger's Canyon",
+      "乞丐峽谷"
+    ],
+    [
+      "Archorhead",
+      "亞丘罕"
+    ]
+  ],
+  "種族": [
+    [
+      "Wookiee",
+      "烏奇族"
+    ],
+    [
+      "Weequay",
+      "威魁"
+    ],
+    [
+      "Ugnaught",
+      "烏格那族"
+    ],
+    [
+      "Twi'lek",
+      "提列克族"
+    ],
+    [
+      "Tusken Raider/Sand People",
+      "塔斯肯強盜/沙人"
+    ],
+    [
+      "Trandoshan",
+      "川多珊族"
+    ],
+    [
+      "Talz",
+      "塔茲族"
+    ],
+    [
+      "Rodian",
+      "羅地安族"
+    ],
+    [
+      "Quarren/Squid Head",
+      "夸倫族/章魚頭"
+    ],
+    [
+      "Noghri",
+      "諾赫里族"
+    ],
+    [
+      "Mon Calamari",
+      "蒙克萊梅利族"
+    ],
+    [
+      "Jawa",
+      "賈娃族"
+    ],
+    [
+      "Ithorian/Hammerhead",
+      "依索族/棒槌頭"
+    ],
+    [
+      "Hutt",
+      "赫特族"
+    ],
+    [
+      "Human",
+      "人類"
+    ],
+    [
+      "Gotal",
+      "果陀族"
+    ],
+    [
+      "Gamorrean",
+      "遞秧?"
+    ],
+    [
+      "Ewok",
+      "伊渥克族"
+    ],
+    [
+      "Bothan",
+      "波森族"
+    ],
+    [
+      "Bith",
+      "畢斯族"
+    ]
+  ],
+  "歷史": [
+    [
+      "Sith War",
+      "西斯戰爭"
+    ],
+    [
+      "Katana Fleet",
+      "卡塔那艦隊"
+    ],
+    [
+      "Dark Force",
+      "暗黑武力"
+    ],
+    [
+      "Clone War",
+      "複製人戰爭"
+    ],
+    [
+      "Battle of Yavin",
+      "雅汶戰役"
+    ],
+    [
+      "Battle of Hoth",
+      "霍斯戰役"
+    ],
+    [
+      "Battle of Endor",
+      "安鐸戰役"
+    ]
+  ],
+  "勢力": [
+    [
+      "Stormtrooper",
+      "突擊士兵"
+    ],
+    [
+      "Spacetrooper",
+      "太空士兵"
+    ],
+    [
+      "Snowtrooper",
+      "雪地士兵"
+    ],
+    [
+      "Secret Order of Emperor",
+      "祕密組織"
+    ],
+    [
+      "Scouttrooper",
+      "斥候士兵"
+    ],
+    [
+      "Sandtrooper",
+      "沙漠士兵"
+    ],
+    [
+      "Royal Guard",
+      "皇家侍衛"
+    ],
+    [
+      "Rebel Alliance",
+      "反抗軍同盟，帝國稱之為「叛軍」"
+    ],
+    [
+      "Old Republic",
+      "舊共和"
+    ],
+    [
+      "New Republic",
+      "新共和"
+    ],
+    [
+      "Moff",
+      "星區首長"
+    ],
+    [
+      "Imperial Navy",
+      "帝國海軍"
+    ],
+    [
+      "Grand Moff",
+      "高級星區首長"
+    ],
+    [
+      "Grand Admiral",
+      "元帥"
+    ],
+    [
+      "Galactic Empire",
+      "銀河帝國"
+    ],
+    [
+      "Director of Imperial Intelligence",
+      "帝國情報總監"
+    ],
+    [
+      "Death Commando",
+      "死神突擊隊"
+    ],
+    [
+      "Darktrooper",
+      "黑暗士兵"
+    ],
+    [
+      "Bothan Spy Network",
+      "玻森情報網"
+    ]
+  ],
+  "名艦及名機": [
+    [
+      "Wild Karrde",
+      "狂野卡爾德"
+    ],
+    [
+      "Virago",
+      "潑婦；悍婦"
+    ],
+    [
+      "Tantive IV",
+      "坦地夫四號"
+    ],
+    [
+      "Stinger",
+      "刺針"
+    ],
+    [
+      "Starlight Intruder",
+      "星光闖入者"
+    ],
+    [
+      "SSD Vengeance",
+      "超級滅星者戰艦「復仇」號"
+    ],
+    [
+      "SSD Terror",
+      "超級滅星者戰艦「恐懼」號"
+    ],
+    [
+      "SSD Razor's Kiss",
+      "超級滅星者戰艦「剃刀之吻」號"
+    ],
+    [
+      "SSD Lusankya",
+      "超級滅星者戰艦「露珊琪亞」號"
+    ],
+    [
+      "SSD Iron Fist",
+      "超級滅星者戰艦「鐵拳」號"
+    ],
+    [
+      "SSD Intimidator",
+      "超級滅星者戰艦「恐嚇者」號"
+    ],
+    [
+      "SSD Executor",
+      "超級滅星者戰艦「執行者」號"
+    ],
+    [
+      "SSD Allegiance",
+      "超級滅星者戰艦「忠誠」號"
+    ],
+    [
+      "SSD (K)Night Hammer",
+      "超級滅星者戰艦「暗夜之鎚／武士之鎚」號"
+    ],
+    [
+      "Slave IV",
+      "奴隸四號"
+    ],
+    [
+      "Slave II",
+      "奴隸二號"
+    ],
+    [
+      "Slave I",
+      "奴隸一號"
+    ],
+    [
+      "Shuttle Tydirium",
+      "泰迪倫交通梭"
+    ],
+    [
+      "Shrike, Incom Alpha-52 prototype",
+      "「百舌鳥號」，印康 Alpha-52 型原型機"
+    ],
+    [
+      "Shadow Chaser",
+      "追影者"
+    ]
+  ],
+  "星際艦艇": [
+    [
+      "World Devastator",
+      "滅世者"
+    ],
+    [
+      "Vindicator Star Destroyer",
+      "護衛者級滅星者戰艦"
+    ],
+    [
+      "Victory class Star Destroyer",
+      "勝利級滅星者戰艦"
+    ],
+    [
+      "Utility Tug",
+      "拖船"
+    ],
+    [
+      "Trast Speeder Truck",
+      "卻司特型快速運輸艦"
+    ],
+    [
+      "Super (class) Star Destroyer",
+      "超級滅星者戰艦"
+    ],
+    [
+      "Sun Crusher",
+      "毀日者"
+    ],
+    [
+      "Strike class Cruiser",
+      "打擊級巡洋艦"
+    ],
+    [
+      "Star Galleon",
+      "星際炮艦"
+    ],
+    [
+      "Nebulon-B Frigate",
+      "尼布隆Ｂ型巡防艦"
+    ],
+    [
+      "Lorinar Strike Cruiser",
+      "羅瑞那型打擊巡洋艦"
+    ],
+    [
+      "Lambda Shuttle",
+      "蘭伯達級交通梭"
+    ],
+    [
+      "Interdictor Cruiser",
+      "阻絕者巡洋艦"
+    ],
+    [
+      "Imperial class Star Destroyer",
+      "帝國級滅星者戰艦"
+    ],
+    [
+      "Heavy Lifter Shuttle",
+      "載重貨運梭"
+    ],
+    [
+      "Gamma-Class ATR-6 Assault Transport",
+      "珈瑪級 ATR-6 型強襲運兵艇"
+    ],
+    [
+      "Eclipse Star Destroyer",
+      "日蝕級滅星者戰艦"
+    ],
+    [
+      "Dreadnaught",
+      "無畏級戰艦"
+    ],
+    [
+      "Delta-Class DX-9 Stormtrooper Transport",
+      "戴爾他級 DX-9 型突擊隊運兵艇"
+    ],
+    [
+      "Death Star",
+      "死星"
+    ]
+  ],
+  "表面機艦": [
+    [
+      "Troop Transport",
+      "浮遊運兵艇"
+    ],
+    [
+      "T-16 Skyhopper",
+      "「躍空號」飛艇"
+    ],
+    [
+      "Swoop",
+      "飆機"
+    ],
+    [
+      "Speeder Bike",
+      "飛行機車"
+    ],
+    [
+      "Snow speeder",
+      "雪地飛行器；雪飛艇"
+    ],
+    [
+      "Sandcrawler",
+      "沙蟲"
+    ],
+    [
+      "Sail Barge",
+      "浮力遊舫"
+    ],
+    [
+      "Land speeder",
+      "陸行艇"
+    ],
+    [
+      "Cloud car",
+      "雲車"
+    ],
+    [
+      "AT-ST (All Terrain Scout Transporter)",
+      "全地域偵察運輸載具"
+    ],
+    [
+      "AT-PT (All Terrain Personal Transporter )",
+      "全地域人員運輸載具"
+    ],
+    [
+      "AT-AT (All Terrain Armored Transporter)",
+      "全地域裝甲運輸載具"
+    ],
+    [
+      "Air speeder",
+      "飛行艇"
+    ]
+  ],
+  "機艦裝備": [
+    [
+      "Warhead Launcher",
+      "導彈發射器"
+    ],
+    [
+      "Tractor Beam",
+      "拖曳光束；牽引光束"
+    ],
+    [
+      "Space Bomb",
+      "宇宙炸彈"
+    ],
+    [
+      "Shield Generator",
+      "護盾產生器"
+    ],
+    [
+      "RMF-31 Repeating Blaster Cannon",
+      "RMF-31 雷射機砲"
+    ],
+    [
+      "Repulsor",
+      "反重力引擎"
+    ],
+    [
+      "Proton Torpedo",
+      "質子魚雷"
+    ],
+    [
+      "Jammer Beam",
+      "干擾光束"
+    ],
+    [
+      "Ion Cannon",
+      "離子炮"
+    ],
+    [
+      "Inertial damper",
+      "抗慣性裝置"
+    ],
+    [
+      "Hyperdrive",
+      "超空間引擎"
+    ],
+    [
+      "Heavy Rocket",
+      "重型火箭"
+    ],
+    [
+      "Flare",
+      "熾燄彈"
+    ],
+    [
+      "Decoy Beam",
+      "欺敵光束"
+    ],
+    [
+      "Concussion Missile",
+      "震爆飛彈"
+    ],
+    [
+      "Chaff",
+      "干擾絲"
+    ]
+  ],
+  "科技": [
+    [
+      "Spaarti cylinder",
+      "史巴提試管"
+    ],
+    [
+      "Hyperspace",
+      "超空間"
+    ],
+    [
+      "Holo",
+      "全像"
+    ],
+    [
+      "GCT (Global Communications Transpoder) Device",
+      "全域通訊器"
+    ],
+    [
+      "Data card",
+      "資料卡"
+    ],
+    [
+      "Carbon Freeze",
+      "碳化"
+    ]
+  ],
+  "人物裝備": [
+    [
+      "Torture Droid",
+      "拷問機器人"
+    ],
+    [
+      "Protocol Droid",
+      "禮儀機器人"
+    ],
+    [
+      "Probe Droid",
+      "探測機器人"
+    ],
+    [
+      "Loading Droid",
+      "起重機器人"
+    ],
+    [
+      "Construction Droid",
+      "建築機器人"
+    ],
+    [
+      "Assassin Droid",
+      "暗殺機器人"
+    ]
+  ],
+  "機器人": [
+    [
+      "Thermal Detonator",
+      "熱雷管；熱核手榴彈"
+    ],
+    [
+      "Seeker Rail Detonator",
+      "導彈發射器"
+    ],
+    [
+      "Repeater Rifle",
+      "連發步槍"
+    ],
+    [
+      "Rail Detonator",
+      "榴彈發射器"
+    ],
+    [
+      "Manual Sequence Charge",
+      "手動起爆裝置"
+    ],
+    [
+      "Holdout Blaster",
+      "掌心雷"
+    ],
+    [
+      "Force Pike",
+      "動力矛"
+    ],
+    [
+      "Flash Bomb",
+      "閃光彈"
+    ],
+    [
+      "Concussion Rifle",
+      "震盪步槍"
+    ],
+    [
+      "Carbonite Gun",
+      "碳化槍"
+    ],
+    [
+      "Carbonite Freeze Charges",
+      "碳化槍彈藥"
+    ],
+    [
+      "Bryar Pistol",
+      "拜爾手槍"
+    ],
+    [
+      "Bowcaster",
+      "弓槍"
+    ],
+    [
+      "Blaster",
+      "雷射槍"
+    ],
+    [
+      "BlasTech E-11 Stormtrooper Rifle",
+      "「爆擊技術」 E-11 型突擊士兵制式步槍"
+    ],
+    [
+      "BlasTech E-11 Electroscope",
+      "「爆擊技術」 E-11 型狙擊瞄準器"
+    ],
+    [
+      "BlasTech DL-44 Pistol",
+      "「爆擊技術」 DL-44 型（雷射）手槍"
+    ],
+    [
+      "Automatic Sequence Charge",
+      "自動起爆裝置"
+    ]
+  ]
+}
