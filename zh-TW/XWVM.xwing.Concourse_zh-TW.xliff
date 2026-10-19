@@ -5,87 +5,87 @@
       <unit id="Registration.Pilot.Controls.CreatePilotButton">
         <segment state="translated">
           <source>Create Pilot</source>
-          <target>Crear Piloto</target>
+          <target>建立飛行員</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.Controls.MeritsButton">
         <segment state="translated">
           <source>Merits</source>
-          <target>Méritos</target>
+          <target>勳獎章</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.Controls.PilotLogButton">
         <segment state="translated">
           <source>Pilot Log</source>
-          <target>Hoja de Servicios</target>
+          <target>飛行員日誌</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.Controls.ModifyDeleteButton">
         <segment state="translated">
           <source>Modify/Delete Pilot</source>
-          <target>Alterar/Borrar Piloto</target>
+          <target>修改／刪除飛行員</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.Controls.ReviveButton">
         <segment state="translated">
           <source>Revive Pilot</source>
-          <target>Reanimar Piloto</target>
+          <target>復活飛行員</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.CreatePilot.PromptText">
         <segment state="translated">
           <source>&lt;b&gt;Create New Pilot&lt;/b&gt;
 Please enter the new pilot name.</source>
-          <target>&lt;b&gt;Crear Piloto Nuevo&lt;/b&gt;
-Por favor, introduce el nombre del nuevo piloto.</target>
+          <target>&lt;b&gt;建立新飛行員&lt;/b&gt;
+請輸入新飛行員姓名。</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.CreatePilot.AlreadyExists">
         <segment state="translated">
           <source>This pilot name already exists, please choose a unique name.</source>
-          <target>Este nombre de piloto ya existe. Por favor, escoge un nombre único.</target>
+          <target>此飛行員姓名已存在，請選擇一個不重複的姓名。</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ModifyPilot.PromptText">
         <segment state="translated">
           <source>&lt;b&gt;Modify Existing Pilot&lt;/b&gt;</source>
-          <target>&lt;b&gt;Alterar Piloto Existente&lt;/b&gt;</target>
+          <target>&lt;b&gt;修改既有飛行員&lt;/b&gt;</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.CreatePilot.CreateButton">
         <segment state="translated">
           <source>Create</source>
-          <target>Crear</target>
+          <target>建立</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.CreatePilot.CancelButton">
         <segment state="translated">
           <source>Cancel</source>
-          <target>Cancelar</target>
+          <target>取消</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ModifyPilot.ModifyButton">
         <segment state="translated">
           <source>Update</source>
-          <target>Actualizar</target>
+          <target>更新</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ModifyPilot.CancelButton">
         <segment state="translated">
           <source>Cancel</source>
-          <target>Cancelar</target>
+          <target>取消</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ModifyPilot.DeleteButton">
         <segment state="translated">
           <source>Reset or Delete Pilot</source>
-          <target>Borrar o Reiniciar Piloto</target>
+          <target>重設或刪除飛行員</target>
         </segment>
       </unit>
 	  <unit id="Registration.Pilot.DeletePilot.ResetButton" >
         <segment>
           <source>Reset Pilot (this game only)</source>
-          <target>Reiniciar Piloto (sólo para este juego)</target>
+          <target>重設飛行員（僅限此遊戲）</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.DeletePilot.DeleteText">
@@ -94,22 +94,22 @@ Por favor, introduce el nombre del nuevo piloto.</target>
 The existing pilot data can be reset &lt;b&gt;for the current game only&lt;/b&gt; (losing all progress, scores, and so on), or the pilot can be &lt;b&gt;permanently deleted for all games.&lt;/b&gt;
 
 Do you wish to continue?</source>
-          <target>&lt;b&gt;Borrar Piloto Existente&lt;/b&gt;
-Los datos existentes del piloto pueden ser reiniciados &lt;b&gt;sólo para el juego actual&lt;/b&gt; (perdiendo todo el progreso, puntuaciones, y demás), o el piloto &lt;b&gt;se puede borrar permanentemente para todos los juegos.&lt;/b&gt;.
+          <target>&lt;b&gt;刪除既有飛行員&lt;/b&gt;
+既有飛行員資料可以&lt;b&gt;僅針對目前遊戲重設&lt;/b&gt;（遺失所有進度、積分等），或者可以&lt;b&gt;針對所有遊戲永久刪除該飛行員。&lt;/b&gt;
 
-¿Deseas continuar?</target>
+你確定要繼續嗎？</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.DeletePilot.CancelButton">
         <segment state="translated">
           <source>Cancel</source>
-          <target>Cancelar</target>
+          <target>取消</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.DeletePilot.DeleteButton">
         <segment state="translated">
           <source>Delete Pilot (all games)</source>
-          <target>Borrar Piloto (todos los juegos)</target>
+          <target>刪除飛行員（所有遊戲）</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.RevivePilot.ReviveText">
@@ -118,416 +118,416 @@ Los datos existentes del piloto pueden ser reiniciados &lt;b&gt;sólo para el ju
 This pilot will be revived, allowing progress from the last saved point. The score will be set to zero&lt;/b&gt;.
 
 Do you wish to continue?</source>
-          <target>&lt;b&gt;Reanimar Piloto&lt;/b&gt;
-Se reanimará a este piloto, permitiendo que siga adelante desde la última vez que se guardó. La puntuación será restablecida a cero.&lt;/b&gt;.
+          <target>&lt;b&gt;復活飛行員&lt;/b&gt;
+此飛行員將會復活，允許從最後儲存點繼續進度。積分將會歸零。&lt;/b&gt;
 
-¿Deseas continuar?</target>
+你確定要繼續嗎？</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.RevivePilot.ReviveButton">
         <segment state="translated">
           <source>Revive Pilot</source>
-          <target>Reanimar Piloto</target>
+          <target>復活飛行員</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.CancelPilot.CancelButton">
         <segment state="translated">
           <source>Cancel</source>
-          <target>Cancelar</target>
+          <target>取消</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.PilotDetail.Name">
         <segment state="translated">
           <source>Name</source>
-          <target>Nombre</target>
+          <target>姓名</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.PilotDetail.Rank">
         <segment state="translated">
           <source>Rank</source>
-          <target>Rango</target>
+          <target>軍階</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.PilotDetail.Score">
         <segment state="translated">
           <source>Score</source>
-          <target>Puntuación</target>
+          <target>積分</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.PilotDetail.ActiveTOD">
         <segment state="translated">
           <source>Active Tour</source>
-          <target>Campaña Activa</target>
+          <target>進行中戰役</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.PilotDetail.Status">
         <segment state="translated">
           <source>Status</source>
-          <target>Estado</target>
+          <target>狀態</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.PilotSelection.Header">
         <segment state="translated">
           <source>Pilot Selection</source>
-          <target>Lista de Pilotos</target>
+          <target>飛行員名冊</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ModifyPilot.PortraitText">
         <segment state="translated">
           <source>Pilot Portrait</source>
-          <target>Retrato de Piloto</target>
+          <target>飛行員肖像</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ModifyPilot.PortraitUseDefaultButton">
         <segment state="translated">
           <source>Select from Portrait Gallery</source>
-          <target>Escoger de Galería de Retratos</target>
+          <target>從肖像畫廊中選取</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ModifyPilot.PortraitSelectButton">
         <segment state="translated">
           <source>Select from File</source>
-          <target>Escoger de Fichero</target>
+          <target>從檔案中選取</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ModifyPilot.Portrait.GuidanceText">
         <segment state="translated">
           <source>Images will be stretched to a 217:325 aspect ratio.
 Supported file formats are jpg and png.</source>
-          <target>Las imágenes se estirarán a una relación de aspecto de 217:325.
-Los formatos soportados son PNG y JPG.</target>
+          <target>圖片將被拉伸至 217:325 寬高比。
+支援的檔案格式為 JPG 與 PNG。</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ModifyPilot.PortraitGallery.PromptText">
         <segment state="translated">
           <source>&lt;b&gt;Portrait Gallery&lt;/b&gt;
 Select the desired pilot portrait below, or cancel to keep your previous selection.</source>
-          <target>&lt;b&gt;Galería de Retratos&lt;/b&gt;
-Escoge el retrato de piloto deseado, o cancela para mantener tu elección anterior.</target>
+          <target>&lt;b&gt;肖像畫廊&lt;/b&gt;
+請在下方選擇偏好的飛行員肖像，或按取消以保留先前的選擇。</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.TourDesk.NewTour">
         <segment state="translated">
           <source>New Tour</source>
-          <target>Nueva Campaña</target>
+          <target>新戰役</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.TourDesk.PlayCutscenes">
         <segment state="translated">
           <source>View TOD Cutscenes</source>
-          <target>Ver Cinemáticas de Campaña</target>
+          <target>觀看戰役過場動畫</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.TourDesk.ChangeTour">
         <segment state="translated">
           <source>Change Tour</source>
-          <target>Cambiar Campaña</target>
+          <target>切換戰役</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.TourDesk.ReturnToConcourse">
         <segment state="translated">
           <source>Return to Concourse</source>
-          <target>Volver a la Cubierta Central</target>
+          <target>返回中央大廳</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.TourDesk.BeginTour">
         <segment state="translated">
           <source>Begin {0}</source>
-          <target>Comenzar {0}</target>
+          <target>開始 {0}</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.TourDesk.ContinueTour">
         <segment state="translated">
           <source>Continue {0} Mission {1}</source>
-          <target>Continuar {0}, Misión {1}</target>
+          <target>繼續 {0} 任務 {1}</target>
         </segment>
       </unit>
       <unit id="Concourse.TourDesk.TourAndOperation">
         <segment state="translated">
           <source>{0} Operation {1}</source>
-          <target>{0} Operación {1}</target>
+          <target>{0} 作戰行動 {1}</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.HistoricalCombat">
         <segment state="translated">
           <source>Historical Combat</source>
-          <target>Combate Histórico</target>
+          <target>歷史作戰</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.PilotProvingGround">
         <segment state="translated">
           <source>Pilot Proving Ground</source>
-          <target>Campo de Pruebas de Pilotos</target>
+          <target>飛行員試煉場</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.IMUSEPlayer">
         <segment state="translated">
           <source>MIDI Player</source>
-          <target>Reproductor MIDI</target>
+          <target>MIDI 播放器</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.TechRoom">
         <segment state="translated">
           <source>Tech Room</source>
-          <target>Sala Técnica</target>
+          <target>科技展示室</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.FilmRoom">
         <segment state="translated">
           <source>Film Room</source>
-          <target>Sala de Proyección</target>
+          <target>放映室</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.Register">
         <segment state="translated">
           <source>Register</source>
-          <target>Registro</target>
+          <target>註冊報到</target>
         </segment>
       </unit>
       <unit id="Registration.Navigation.EnterConcourse">
         <segment state="translated">
           <source>Enter Spaceport</source>
-          <target>Entrar al Puerto Espacial</target>
+          <target>進入太空港</target>
         </segment>
       </unit>
       <unit id="Registration.Navigation.AstromechWorkshop">
         <segment state="translated">
           <source>Load Astromech</source>
-          <target>Cargar Astromecánico</target>
+          <target>載入宇航機器人</target>
         </segment>
       </unit>
       <unit id="PPG.Navigation.BackToConcourse">
         <segment state="translated">
           <source>Back to Concourse</source>
-          <target>Volver a Cubierta Central</target>
+          <target>返回中央大廳</target>
         </segment>
       </unit>
       <unit id="PPG.Navigation.EnterMaze">
         <segment state="translated">
           <source>Enter Maze</source>
-          <target>Entrar al Laberinto</target>
+          <target>進入迷宮</target>
         </segment>
       </unit>
       <unit id="TechRoom.Navigation.Exit">
         <segment state="translated">
           <source>Exit Tech Room</source>
-          <target>Salir de la Sala Técnica</target>
+          <target>離開科技展示室</target>
         </segment>
       </unit>
       <unit id="TechRoom.Navigation.FilmRoom">
         <segment state="translated">
           <source>Enter Film Room</source>
-          <target>Entrar a la Sala de Proyección</target>
+          <target>進入放映室</target>
         </segment>
       </unit>
       <unit id="FilmRoom.Navigation.Exit">
         <segment state="translated">
           <source>Exit Film Room</source>
-          <target>Salir de la Sala de Proyección</target>
+          <target>離開放映室</target>
         </segment>
       </unit>
       <unit id="FilmRoom.Navigation.TechRoom">
         <segment state="translated">
           <source>Enter Tech Room</source>
-          <target>Entrar a la Sala Técnica</target>
+          <target>進入科技展示室</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.PilotDetail.Difficulty">
         <segment state="translated">
           <source>Difficulty</source>
-          <target>Dificultad</target>
+          <target>難度</target>
         </segment>
       </unit>
       <unit id="TechRoom.Controls.Label.CraftSelection">
         <segment state="translated">
           <source>Craft Selection</source>
-          <target>Selección de Nave</target>
+          <target>艦船選取</target>
         </segment>
       </unit>
       <unit id="TechRoom.Controls.Label.SubsystemSelection">
         <segment state="translated">
           <source>Component Selection</source>
-          <target>Selección de Componente</target>
+          <target>次系統組件選取</target>
         </segment>
       </unit>
       <unit id="PPG.Controls.Label.LevelSelection">
         <segment state="translated">
           <source>Level Selection</source>
-          <target>Selección de Nivel</target>
+          <target>關卡選取</target>
         </segment>
       </unit>
       <unit id="HistoricalSelect.Controls.Label.TourSelection">
         <segment state="translated">
           <source>Tour Selection</source>
-          <target>Selección de Campaña</target>
+          <target>戰役選取</target>
         </segment>
       </unit>
       <unit id="HistoricalSelect.Controls.Label.MissionSelection">
         <segment state="translated">
           <source>Mission Selection</source>
-          <target>Selección de Misión</target>
+          <target>任務選取</target>
         </segment>
       </unit>
       <unit id="HistoricalSelect.Controls.Label.MissionBriefing">
         <segment state="translated">
           <source>Mission Briefing</source>
-          <target>Reunión Táctica de Misión</target>
+          <target>任務簡報</target>
         </segment>
       </unit>
       <unit id="HistoricalSelect.Controls.Label.Concourse">
         <segment state="translated">
           <source>Back to Concourse</source>
-          <target>Volver a Cubierta Central</target>
+          <target>返回中央大廳</target>
         </segment>
       </unit>
       <unit id="HistoricalBriefing.Controls.Label.Hangar">
         <segment state="translated">
           <source>Enter Hangar</source>
-          <target>Entrar al Hangar</target>
+          <target>進入機庫</target>
         </segment>
       </unit>
       <unit id="HistoricalBriefing.Controls.Label.PageControl">
         <segment state="translated">
           <source>Briefing Page</source>
-          <target>Página de Instrucciones</target>
+          <target>簡報頁面</target>
         </segment>
       </unit>
       <unit id="Hangar.Controls.Label.PilotAssignment">
         <segment state="translated">
           <source>Pilot Assignment</source>
-          <target>Asignación de Pilotos</target>
+          <target>飛行員指派</target>
         </segment>
       </unit>
       <unit id="Hangar.Controls.Label.CraftSelection">
         <segment state="translated">
           <source>Craft Selection and Loadout</source>
-          <target>Selección de Nave y Equipamiento</target>
+          <target>艦船選取與軍備配置</target>
         </segment>
       </unit>
       <unit id="Hangar.Controls.Label.PilotLog">
         <segment state="translated">
           <source>Pilot Log</source>
-          <target>Hoja de Servicio</target>
+          <target>飛行員日誌</target>
         </segment>
       </unit>
       <unit id="Hangar.Controls.Label.PilotUniform">
         <segment state="translated">
           <source>View Uniform and Medals</source>
-          <target>Ver Uniforme y Medallas</target>
+          <target>檢視制服與勳章</target>
         </segment>
       </unit>
       <unit id="Hangar.Label">
         <segment>
           <source>Hangar</source>
-          <target>Hangar</target>
+          <target>機庫</target>
         </segment>
       </unit>
       <unit id="Hangar.Navigation.EnterMission">
         <segment state="translated">
           <source>Enter Mission</source>
-          <target>Entrar a la Misión</target>
+          <target>進入任務</target>
         </segment>
       </unit>
       <unit id="Debrief.Label">
         <segment state="translated">
           <source>Debriefing</source>
-          <target>Informe de Misión</target>
+          <target>任務後簡報</target>
         </segment>
       </unit>
       <unit id="PilotLog.ExitButton.Label">
         <segment state="translated">
           <source>Exit Debriefing</source>
-          <target>Salir del Informe de Misión</target>
+          <target>離開任務後簡報</target>
         </segment>
       </unit>
       <unit id="Debrief.Navigation.ReflyMission">
         <segment state="translated">
           <source>Refly Mission</source>
-          <target>Volver a Volar la Misión</target>
+          <target>重新飛行任務</target>
         </segment>
       </unit>
       <unit id="Debrief.Controls.Label.PageControl">
         <segment state="translated">
           <source>Debriefing Page</source>
-          <target>Pagina de Informe</target>
+          <target>任務後簡報頁面</target>
         </segment>
       </unit>
       <unit id="PilotLog.Controls.Label.PageControl">
         <segment state="translated">
           <source>Stats Page</source>
-          <target>Página de Estadísticas</target>
+          <target>統計頁面</target>
         </segment>
       </unit>
       <unit id="PilotMerits.Label">
         <segment state="translated">
           <source>Pilot Merits</source>
-          <target>Méritos de Piloto</target>
+          <target>飛行員勳獎</target>
         </segment>
       </unit>
       <unit id="Concourse.Navigation.ToTourDesk">
         <segment state="translated">
           <source>Tour of Duty</source>
-          <target>Campaña de Servicio</target>
+          <target>服役戰役</target>
         </segment>
       </unit>
       <unit id="Hangar.Notification.Cheats">
         <segment state="translated">
           <source>Cheat settings are enabled.
 Tour progression is not allowed: you may play this mission, but will not be able to advance to the next until cheats are disabled.</source>
-          <target>Los Trucos están activos.
-No se permite progresar en la campaña: Puedes jugar la misión, pero no podrás avanzar a la siguiente hasta que se desactiven los trucos.</target>
+          <target>作弊設定已啟用。
+不允許戰役進度前進：你可以遊玩此任務，但必須在停用作弊後方能晉級下一關。</target>
         </segment>
       </unit>
       <unit id="Debrief.Notification.Cheats">
         <segment state="translated">
           <source>Cheat settings were enabled when this mission was played.
 Tour progression is not allowed: you will need to disable cheat options and replay the mission to advance to the next mission.</source>
-          <target>Los Trucos estuvieron activos mientras se jugaba la misión.
-No se permite progresar en la campaña: tendrás que desactivar los Trucos y volver a jugar la misión para poder avanzar a la siguiente.</target>
+          <target>進行此任務時啟用了作弊設定。
+不允許戰役進度前進：你需要停用作弊選項並重新遊玩此任務，方能晉級下一關。</target>
         </segment>
       </unit>
       <unit id="Concourse.Title">
         <segment state="translated">
           <source>Concourse</source>
-          <target>Cubierta Central</target>
+          <target>中央大廳</target>
         </segment>
       </unit>
       <unit id="Concourse.TourDesk.Title">
         <segment state="translated">
           <source>Tour of Duty</source>
-          <target>Campaña de Servicio</target>
+          <target>服役戰役</target>
         </segment>
       </unit>
       <unit id="Concourse.Registration.Title">
         <segment state="translated">
           <source>Pilot Registration</source>
-          <target>Registro de Pilotos</target>
+          <target>飛行員註冊</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.CreatePilot.ImportButton">
         <segment state="translated">
           <source>Import original pilot</source>
-          <target>Importar Piloto Clásico</target>
+          <target>匯入原版飛行員</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ImportPilot.PromptText">
         <segment state="translated">
           <source>&lt;b&gt;Import Original pilot&lt;/b&gt;
 Select original game pilot to import.</source>
-          <target>&lt;b&gt;Importar Piloto Clásico&lt;/b&gt;
-Escoge el piloto clásico a importar.</target>
+          <target>&lt;b&gt;匯入原版飛行員&lt;/b&gt;
+請選擇要匯入的原版遊戲飛行員檔案。</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ImportPilot.ImportButton">
         <segment state="translated">
           <source>Import</source>
-          <target>Importar</target>
+          <target>匯入</target>
         </segment>
       </unit>
       <unit id="Registration.Pilot.ImportPilot.AlreadyExists">
         <segment state="translated">
           <source>This pilot name already exists, please delete this pilot first or import another.</source>
-          <target>Este nombre de piloto ya existe. Por favor, borra primero este piloto o importa otro.</target>
+          <target>此飛行員姓名已存在，請先刪除該飛行員或匯入其他檔案。</target>
         </segment>
       </unit>
       <unit id="Debrief.Notification.PlotArmor">
@@ -535,15 +535,15 @@ Escoge el piloto clásico a importar.</target>
           <source>Cheat settings were active during this mission.
 Campaign progression will be tolerated for this mission.
 However, remember to disable cheat settings  for subsequent missions.</source>
-          <target>Los Trucos estuvieron activos durante esta misión.
-Se va a tolerar que la campaña progrese durante esta misión.
-Pero recuerda desactivar los trucos para las siguientes misiones.</target>
+          <target>此任務進行期間啟用了作弊設定。
+本任務將寬容允許戰役進度前進。
+但請記得在後續任務中停用作弊設定。</target>
         </segment>
       </unit>
       <unit id="Debrief.Notification.PlotArmorAvailableTitle">
         <segment state="translated">
           <source>Where is my plot armor!?</source>
-          <target>¿¡Dónde está mi armadura de guion!?</target>
+          <target>我的主角光環在哪裡！？</target>
         </segment>
       </unit>
       <unit id="Debrief.Notification.PlotArmorAvailableDesc">
@@ -552,34 +552,34 @@ Pero recuerda desactivar los trucos para las siguientes misiones.</target>
 Do you need a bit of plot armor?
 If you use cheat settings during your next attempts, we'll pretend you didn't.
 Up to you.</source>
-          <target>Has estado intentando completar esta misión varias veces.
-¿Necesitas un poco de armadura de guion?
-Si utilizas Trucos durante los siguientes intentos, haremos la vista gorda.
-Tú decides.</target>
+          <target>你已經多次嘗試此任務了。
+需要一點主角光環（劇情護體）嗎？
+如果你在接下來的嘗試中開啟作弊設定，我們會假裝沒看到。
+由你決定。</target>
         </segment>
       </unit>
       <unit id="HistoricalBriefing.Controls.Label.ReturnToBriefingRoom">
         <segment state="translated">
           <source>Return to Briefing Room</source>
-          <target>Volver a Reunión Táctica</target>
+          <target>返回簡報室</target>
         </segment>
       </unit>
        <unit id="Debrief.ExitDoor.Label" >
         <segment>
           <source>Exit Debriefing</source>
-          <target>Salir de Informe de Misión</target>
+          <target>離開任務後簡報</target>
         </segment>
       </unit>
       <unit id="Debrief.ReflyDoor.Label" >
         <segment>
           <source>Refly Mission</source>
-          <target>Volver a Volar Misión</target>
+          <target>重新飛行任務</target>
         </segment>
       </unit>
  	  <unit id="Debrief.Title.Starfighter" >
         <segment>
           <source>{0} Starfighter</source>
-          <target>Caza {0}</target>
+          <target>{0} 星際戰機</target>
         </segment>
       </unit>
  	  <unit id="Debrief.Title.TodMission" >
@@ -590,7 +590,7 @@ Tú decides.</target>
 		</notes>
         <segment>
           <source>TOD [[{todNum}]] {historical:cond:Historical Mission|Mission} [[{missNum}]]  Score (({score}))</source>
-          <target>CdS [[{todNum}]] {historical:cond:Misión Histórica|Misión} [[{missNum}]]  Puntos (({score}))</target>
+          <target>戰役 [[{todNum}]] {historical:cond:歷史任務|任務} [[{missNum}]]  積分 (({score}))</target>
         </segment>
       </unit>
  	  <unit id="Debrief.Title.PpgRun" >
@@ -601,7 +601,7 @@ Tú decides.</target>
 		</notes>
         <segment>
           <source>Proving Ground Run [[{missNum}]]  Score (({score}))</source>
-          <target>Recorrido de Pruebas [[{missNum}]]  Puntos (({score}))</target>
+          <target>試煉場飛行 [[{missNum}]]  積分 (({score}))</target>
         </segment>
       </unit>
  	  <unit id="Debrief.Title.BonusMission" >
@@ -612,7 +612,7 @@ Tú decides.</target>
 		</notes>
         <segment>
           <source>Bonus Mission [[{missNum}]]  Score (({score}))</source>
-          <target>Misión Extra [[{missNum}]]  Puntos (({score}))</target>
+          <target>額外任務 [[{missNum}]]  積分 (({score}))</target>
         </segment>
       </unit>
  	  <unit id="Debrief.Title.CustomMission" >
@@ -623,7 +623,7 @@ Tú decides.</target>
 		</notes>
         <segment>
           <source>Custom Mission [[{missNum}]]  Score (({score}))</source>
-          <target>Misión Personalizada [[{missNum}]]  Puntos (({score}))</target>
+          <target>自訂任務 [[{missNum}]]  積分 (({score}))</target>
         </segment>
       </unit>
  	  <unit id="Debrief.Title.HistoricalMission" >
@@ -634,79 +634,79 @@ Tú decides.</target>
 		</notes>
         <segment>
           <source>Historical Mission [[{missNum}]]  Score (({score}))</source>
-          <target>Misión Histórica [[{missNum}]]  Puntos (({score}))</target>
+          <target>歷史任務 [[{missNum}]]  積分 (({score}))</target>
         </segment>
       </unit>  
  	  <unit id="Debrief.Goals.CompletedGoals" >
         <segment>
           <source>Completed Mission Goals</source>
-          <target>Objetivos de Misión Completados</target>
+          <target>已完成任務目標</target>
         </segment>
       </unit>
  	  <unit id="Debrief.Goals.IncompleteGoals" >
         <segment>
           <source>Incomplete Mission Goals</source>
-          <target>Objetivos de Misión No Completados</target>
+          <target>未完成任務目標</target>
         </segment>
       </unit>
  	  <unit id="Debrief.MissionSuccess" >
         <segment>
           <source>The Mission was a Success!</source>
-          <target>¡La Misión fue un Éxito!</target>
+          <target>任務圓滿成功！</target>
         </segment>
       </unit>
  	  <unit id="Debrief.MissionFailure" >
         <segment>
           <source>The Mission was a Failure!</source>
-          <target>¡La Misión fue un Fracaso!</target>
+          <target>任務宣告失敗！</target>
         </segment>
       </unit>
  	  <unit id="Debrief.DSGoal.ExhaustPortDestroyed" >
         <segment>
           <source>You destroyed the Exhaust Port.</source>
-          <target>Destruiste el Puerto de Ventilación.</target>
+          <target>你成功摧毀了散熱排氣孔。</target>
         </segment>
       </unit>
  	  <unit id="Debrief.DSGoal.LaserTowersDestroyed" >
         <segment>
           <source>You destroyed the Laser Towers.</source>
-          <target>Destruiste las Torres Láser.</target>
+          <target>你成功摧毀了雷射防禦塔。</target>
         </segment>
       </unit>
  	  <unit id="Debrief.DSGoal.ExhaustPortNotDestroyed" >
         <segment>
           <source>You did not destroy the Exhaust Port.</source>
-          <target>No destruiste el Puerto de Ventilación.</target>
+          <target>你未能摧毀散熱排氣孔。</target>
         </segment>
       </unit>
  	  <unit id="Debrief.DSGoal.LaserTowersNotDestroyed" >
         <segment>
           <source>You did not destroy the Laser Towers.</source>
-          <target>No destruiste las Torres Láser.</target>
+          <target>你未能摧毀雷射防禦塔。</target>
         </segment>
       </unit>
   	  <unit id="Debrief.SpacecraftKills" >
         <segment>
           <source>Spacecraft Kills (Yours): [[{total} ({byPlayer})]]</source>
-          <target>Naves Derribadas (Por Ti): [[{total} ({byPlayer})]]</target>
+          <target>擊墜機艦數（個人）：[[{total} ({byPlayer})]]</target>
         </segment>
       </unit>
   	  <unit id="Debrief.SpacecraftLosses" >
         <segment>
           <source>Spacecraft Losses: [[{total}]]</source>
-          <target>Naves Perdidas: [[{total}]]</target>
+          <target>機艦損失數：[[{total}]]</target>
         </segment>
       </unit>
   	  <unit id="Debrief.SurfaceObjectsDestroyed" >
         <segment>
           <source>Death Star Buildings Destroyed: [[{count}]]</source>
-          <target>Estructuras de la Estrella de la Muerte Destruidas: [[{count}]]</target>
+          <target>摧毀死星地表建築數：[[{count}]]</target>
         </segment>
       </unit>
   	  <unit id="Debrief.PpgScore" >
         <segment>
           <source>Proving grounds score: [[{score}]]</source>
-          <target>Puntuación del Campo de Pruebas: [[{score}]]</target>
+          <target>試煉場積分：[[{score}]]</target>
         </segment>
       </unit>
   	  <unit id="Debrief.PpgLevelCleared" >
@@ -717,31 +717,31 @@ Tú decides.</target>
 		</notes>
         <segment>
           <source>Level cleared: (({cleared:cond:None|{}}))</source>
-          <target>Niveles completados: (({cleared:cond:None|{}}))</target>
+          <target>過關等級：(({cleared:cond:無|{}}))</target>
         </segment>
       </unit>
   	  <unit id="Debrief.PpgGatesPassed" >
         <segment>
           <source>Gates passed: (({passed}))</source>
-          <target>Puertas pasadas: (({passed}))</target>
+          <target>通過閘門：(({passed}))</target>
         </segment>
       </unit>
   	  <unit id="Debrief.PpgGatesMissed" >
         <segment>
           <source>Gates missed: (({missed}))</source>
-          <target>Puertas omitidas: (({missed}))</target>
+          <target>錯過閘門：(({missed}))</target>
         </segment>
       </unit>
   	  <unit id="Debrief.PpgGatesRemaining" >
         <segment>
           <source>Gates remaining: (({remaining}))</source>
-          <target>Puertas restantes: (({remaining}))</target>
+          <target>剩餘閘門：(({remaining}))</target>
         </segment>
       </unit>
   	  <unit id="Debrief.PpgRoundsFired" >
         <segment>
           <source>Rounds fired: [[{total}]]</source>
-          <target>Disparos realizados: [[{total}]]</target>
+          <target>射擊發數：[[{total}]]</target>
         </segment>
       </unit>
   	  <unit id="Debrief.PpgTargetHits" >
@@ -752,25 +752,25 @@ Tú decides.</target>
 		</notes>
         <segment>
           <source>Target hits: (({hits} ({percent}%) ))</source>
-          <target>Objetivos impactados: (({hits} ({percent}%) ))</target>
+          <target>目標命中：(({hits} ({percent}%) ))</target>
         </segment>
       </unit>
   	  <unit id="Debrief.ShotReport.LasersFired" >
         <segment>
           <source>Lasers fired: [[{total}]]</source>
-          <target>Láseres disparados: [[{total}]]</target>
+          <target>雷射發射數：[[{total}]]</target>
         </segment>
       </unit>
   	  <unit id="Debrief.ShotReport.IonsFired" >
         <segment>
           <source>Ion blasts fired: [[{total}]]</source>
-          <target>Descargas de iones disparadas: [[{total}]]</target>
+          <target>離子發射數：[[{total}]]</target>
         </segment>
       </unit>
   	  <unit id="Debrief.ShotReport.WarheadsFired" >
         <segment>
           <source>Projectiles fired: [[{total}]]</source>
-          <target>Proyectiles disparados: [[{total}]]</target>
+          <target>彈頭發射數：[[{total}]]</target>
         </segment>
       </unit>
   	  <unit id="Debrief.ShotReport.TotalHits" >
@@ -781,7 +781,7 @@ Tú decides.</target>
 		</notes>
         <segment>
           <source>Total hits: (({hits} ({percent}%) ))</source>
-          <target>Impactos totales: (({hits} ({percent}%) ))</target>
+          <target>總命中數：(({hits} ({percent}%) ))</target>
         </segment>
       </unit>
   	  <unit id="Debrief.ShotReport.SpacecraftHits" >
@@ -792,7 +792,7 @@ Tú decides.</target>
 		</notes>
         <segment>
           <source>Spacecraft hits: (({hits} ({percent}%) ))</source>
-          <target>Impactos en naves: (({hits} ({percent}%) ))</target>
+          <target>機艦命中數：(({hits} ({percent}%) ))</target>
         </segment>
       </unit>
   	  <unit id="Debrief.ShotReport.GroundHits" >
@@ -803,157 +803,157 @@ Tú decides.</target>
 		</notes>
         <segment>
           <source>Ground hits: (({hits} ({percent}%) ))</source>
-          <target>Impactos en superficie: (({hits} ({percent}%) ))</target>
+          <target>地面命中數：(({hits} ({percent}%) ))</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReportHeading" >		
         <segment>
           <source>Wingmate Report:</source>
-          <target>Informe de Compañeros de Ala:</target>
+          <target>僚機回報：</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.CriticalDamage" >		
         <segment>
           <source>Returned with critical damage</source>
-          <target>Regresó con daños críticos</target>
+          <target>受嚴重損傷返航</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.HeavyDamage" >		
         <segment>
           <source>Returned with heavy damage</source>
-          <target>Regresó con daños severos</target>
+          <target>受重度損傷返航</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.ModerateDamage" >		
         <segment>
           <source>Returned with moderate damage</source>
-          <target>Regresó con daños moderados</target>
+          <target>受中度損傷返航</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.LightDamage" >		
         <segment>
           <source>Returned with light damage</source>
-          <target>Regresó con daños ligeros</target>
+          <target>受輕度損傷返航</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.SafelyReturned" >		
         <segment>
           <source>Returned safely</source>
-          <target>Regresó en buen estado</target>
+          <target>安全返航</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.Crashed" >		
         <segment>
           <source>Crashed</source>
-          <target>Se estrelló</target>
+          <target>墜毀</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.DownedBy" >		
         <segment>
           <source>Downed (by {species.ONE})</source>
-          <target>Derribado (por {species.ONE})</target>
+          <target>遭到擊墜（由 {species.ONE}）</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.Downed" >		
         <segment>
           <source>Downed</source>
-          <target>Derribado</target>
+          <target>遭到擊墜</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.Captured" >		
         <segment>
           <source>CAPTURED</source>
-          <target>CAPTURADO</target>
+          <target>被俘</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.Dead" >		
         <segment>
           <source>DEAD</source>
-          <target>FALLECIDO</target>
+          <target>陣亡</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.Rescued" >		
         <segment>
           <source>Rescued</source>
-          <target>Rescatado</target>
+          <target>獲救</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.Kills" >		
         <segment>
           <source>Kills</source>
-          <target>Derribos</target>
+          <target>擊墜數</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.Score" >		
         <segment>
           <source>Score</source>
-          <target>Puntuación</target>
+          <target>積分</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.Progress" >		
         <segment>
           <source>Progress to {nextRank}: (({score}/{nextRankScore} ({toGo} points to go) ))</source>
-          <target>Ascenso a {nextRank}: (({score}/{nextRankScore} ({toGo} puntos restantes) ))</target>
+          <target>晉級 {nextRank} 進度：(({score}/{nextRankScore}（尚需 {toGo} 分） ))</target>
         </segment>
       </unit>
   	  <unit id="Debrief.WingmateReport.NoProgress" >		
         <segment>
           <source>Progress to {nextRank}: ((Must reach {bestScore} to start progressing again.))</source>
-          <target>Ascenso a {nextRank}: ((Debe acumular {bestScore} para volver a avanzar.))</target>
+          <target>晉級 {nextRank} 進度：((必須累積至 {bestScore} 分方可繼續推進。))</target>
         </segment>
       </unit>
 	  <unit id="Debrief.WingmateReport.MaxRank" >		
         <segment>
           <source>((At top rank.))</source>
-          <target>((A máximo rango.))</target>
+          <target>((已達最高軍階。))</target>
         </segment>
       </unit>
       <unit id="HistoricalSelect.Label.CollectionMissionRefTitle">
         <segment state="translated">
           <source>{collection} Mission {ref}</source>
-          <target>{collection} - Misión {ref}</target>
+          <target>{collection} 任務 {ref}</target>
         </segment>
       </unit>
 	  <unit id="HistoricalSelect.Label.MissionRefTitle">
         <segment state="translated">
           <source>Mission {ref}</source>
-          <target>Misión {ref}</target>
+          <target>任務 {ref}</target>
         </segment>
       </unit>
       <unit id="HistoricalSelect.Label.Classic">
         <segment state="translated">
           <source>(Classic)</source>
-          <target>(Clásica)</target>
+          <target>（經典）</target>
         </segment>
       </unit>
       <unit id="HistoricalSelect.Label.Custom">
         <segment state="translated">
           <source>Custom</source>
-          <target>Personalizadas</target>
+          <target>自訂</target>
         </segment>
       </unit>
 	  <unit id="PpgSelect.Level">
         <segment state="translated">
           <source>Level {ref}</source>
-          <target>Nivel {ref}</target>
+          <target>等級 {ref}</target>
         </segment>
       </unit>
 	  <unit id="PpgSelect.Title">
         <segment state="translated">
           <source>Rebel Proving Ground</source>
-          <target>Campo de Pruebas Rebelde</target>
+          <target>反抗軍試煉場</target>
         </segment>
       </unit>
 	  <unit id="PpgSelect.LevelIndicator">
         <segment state="translated">
           <source>Level {current}/{max}</source>
-          <target>Nivel {current}/{max}</target>
+          <target>等級 {current}/{max}</target>
         </segment>
       </unit>
 	  <unit id="PpgLoading.Title">
         <segment state="translated">
           <source>Pilot Proving Ground</source>
-          <target>Campo de Pruebas de Pilotos</target>
+          <target>飛行員試煉場</target>
         </segment>
       </unit>
 	  <unit id="PpgLoading.Description">
@@ -963,116 +963,114 @@ Tú decides.</target>
 For the best score, fly through the gates in the correct order.
 
 Watch out for the laser turrets!</source>
-          <target>Cruza las puertas tan rápido como puedas, antes de que se agote el tiempo.
+          <target>在時限耗盡之前，盡快穿過所有閘門。
 
-Para mayor puntuación, cruza las puertas en el orden correcto.
+按照正確順序穿過閘門可獲得最高積分。
 
-¡Cuidado con las torretas láser!</target>
+小心雷射砲塔！</target>
         </segment>
       </unit>
 	  <unit id="Registration.Pilot.ModifyPilot.CloneButton">
         <segment state="translated">
           <source>Clone Pilot</source>
-          <target>Clonar Piloto</target>
+          <target>複製飛行員</target>
         </segment>
       </unit>
 	  <unit id="Registration.Pilot.ClonePilot.CloneText">
         <segment state="translated">
           <source><b>Clone Pilot</b>
 This pilot will be cloned with a new name. While the original pilot might be dead or captured, the clone will not.</source>
-          <target><b>Clonar Piloto</b>
-Este piloto será clonado con un nuevo nombre. Aunque el piloto original esté muerto o capturado, el clon no lo estará.
-</target>
+          <target>無</target>
         </segment>
       </unit>
 	  <unit id="Registration.Pilot.ClonePilot.InvalidNameError">
         <segment state="translated">
           <source>Please enter a valid pilot name!</source>
-          <target>¡Un nombre válido para el piloto, por favor!</target>
+          <target>請輸入有效的飛行員姓名！</target>
         </segment>
       </unit>
 	  <unit id="Registration.Pilot.ClonePilot.AlreadyExistsError">
         <segment state="translated">
           <source>The clone must have a different name than other pilots.</source>
-          <target>El clon debe tener un nombre diferente al de otros pilotos.</target>
+          <target>複製人必須使用與其他飛行員不同的姓名。</target>
         </segment>
       </unit>
 	  <unit id="Registration.Pilot.ClonePilot.BlankStatsLabel">
         <segment state="translated">
           <source>Reset kills and statistics records</source>
-          <target>Borrar registros de derribos y estadísticas</target>
+          <target>重設擊墜數與統計紀錄</target>
         </segment>
       </unit>
 	  <unit id="Registration.Pilot.ClonePilot.BlankHeroAwardsLabel">
         <segment state="translated">
           <source>Reset heroic awards</source>
-          <target>Borrar condecoraciones al heroísmo</target>
+          <target>重設英雄榮譽勳章</target>
         </segment>
       </unit>
 	<unit id="Briefing.Label.Exit">
 		<segment>
 			<source>Exit Briefing</source>
-			<target>Salir de Reunión Táctica</target>
+			<target>離開簡報</target>
 		</segment>
 	</unit>
 	<unit id="Briefing.Label.Title">
 		<segment>
 			<source>Briefing</source>
-			<target>Reunión Táctica</target>
+			<target>任務簡報</target>
 		</segment>
 	</unit>
 	<unit id="Briefing.Label.ChangeOfficer">
 		<segment>
 			<source>Change Briefing Officer</source>
-			<target>Cambiar el Oficial Táctico</target>
+			<target>更換簡報軍官</target>
 		</segment>
 	</unit>
 	<unit id="Briefing.Label.Map">
 		<segment>
 			<source>Briefing Map</source>
-			<target>Mapa Táctico</target>
+			<target>簡報地圖</target>
 		</segment>
 	</unit>
 	<unit id="Briefing.Label.PrimaryQuestions">
 		<segment>
 			<source>Primary Briefing</source>
-			<target>Instrucciones Principales</target>
+			<target>主要簡報</target>
 		</segment>
 	</unit>
 	<unit id="Briefing.Label.SecondaryQuestions">
 		<segment>
 			<source>Secondary Briefing</source>
-			<target>Instrucciones Secundarias</target>
+			<target>次要簡報</target>
 		</segment>
 	</unit>
 	<unit id="Briefing.Label.PageIndicator">
 		<segment>
 			<source>Page {current} of {total}</source>
-			<target>Página {current} de {total}</target>
+			<target>第 {current} 頁，共 {total} 頁</target>
 		</segment>
 	</unit>
 	<unit id="Briefing.Label.EnterHangar">
 		<segment>
 			<source>Enter Hangar</source>
-			<target>Entrar al Hangar</target>
+			<target>進入機庫</target>
 		</segment>
 	</unit>
 	<unit id="Briefing.Label.BackToConcourse">
 		<segment>
 			<source>Return to Concourse</source>
-			<target>Regresar a la Cubierta Central</target>
+			<target>返回中央大廳</target>
 		</segment>
 	</unit>
 	<unit id="Briefing.Label.BackToMissionSelect">
 		<segment>
 			<source>Return to Mission Selection</source>
-			<target>Regresar a la Selección de Misiones</target>
+			<target>返回任務選取</target>
 		</segment>
 	</unit>
       <unit id="Hangar.Navigation.ExitHangar">
         <segment state="translated">
           <source>Return</source>
-          <target>Regresar</target>
+          <target>返回</target>
         </segment>
       </unit>
     <unit id="Registration.Pilot.InvalidDead.Label">
@@ -1080,9 +1078,9 @@ Este piloto será clonado con un nuevo nombre. Aunque el piloto original esté m
         <source>This pilot is dead!
 
 Revive, clone, or create a new pilot to continue.</source>
-        <target>¡Este piloto está muerto!
+        <target>此飛行員已陣亡！
 
-Para continuar, reanima, clona o crea un nuevo piloto.</target>
+請復活、複製或建立新飛行員以繼續。</target>
       </segment>
     </unit>
     <unit id="Registration.Pilot.InvalidCaptured.Label">
@@ -1090,9 +1088,9 @@ Para continuar, reanima, clona o crea un nuevo piloto.</target>
         <source>This pilot is captured!
 
 Revive, clone, or create a new pilot to continue.</source>
-        <target>¡Este piloto está capturado!
+        <target>此飛行員已被俘虜！
 
-Para continuar, reanima, clona o crea un nuevo piloto.</target>
+請復活、複製或建立新飛行員以繼續。</target>
       </segment>
     </unit>
     <unit id="Registration.Pilot.InvalidUnselected.Label">
@@ -1100,75 +1098,75 @@ Para continuar, reanima, clona o crea un nuevo piloto.</target>
         <source>You must register!
 
 Select or create a pilot to continue.</source>
-        <target>¡Debes registratre!
+        <target>你必須先登記身分！
 
-Escoge o crea un piloto para continuar.</target>
+請選擇或建立飛行員以繼續。</target>
       </segment>
     </unit>
     <unit id="Registration.Pilot.ClonePilotError.Label">
       <segment state="translated">
         <source>Error cloning pilot:</source>
-        <target>Error al clonar piloto:</target>
+        <target>複製飛行員時發生錯誤：</target>
       </segment>
     </unit>
     <unit id="Registration.Pilot.ClonePilot.NameTemplate">
       <segment state="translated">
         <source>{name}'s Clone</source>
-        <target>Clon de {name}</target>
+        <target>{name} 的複製人</target>
       </segment>
     </unit>
     <unit id="Registration.Pilot.PilotStatus.Text">
       <segment state="translated">
         <source>({status:choose(Active|Captured|Dead):Active|Captured|Dead})</source>
-        <target>({status:choose(Active|Captured|Dead):En activo|Capturado|Fallecido})</target>
+        <target>（{status:choose(Active|Captured|Dead):現役|被俘|陣亡}）</target>
       </segment>
     </unit>
     <unit id="Registration.Pilot.CreatePilot.AlreadyExistsError">
       <segment state="translated">
         <source>This pilot name already exists, please choose a unique name.</source>
-        <target>Este nombre de piloto ya está en uso. Por favor, escoge un nombre único.</target>
+        <target>此飛行員姓名已存在，請選擇一個不重複的姓名。</target>
       </segment>
     </unit>
     <unit id="Registration.Pilot.ImportPilot.AlreadyExistsError">
       <segment state="translated">
         <source>This pilot name already exists, please delete the existing pilot first or import another.</source>
-        <target>Este nombre de piloto ya está en uso. Por favor, borra primero el piloto existente o importa otro.</target>
+        <target>此飛行員姓名已存在，請先刪除既有飛行員或匯入其他檔案。</target>
       </segment>
     </unit>
     <unit id="Registration.Pilot.ImportPilot.Error">
       <segment state="translated">
         <source>Error importing pilot.</source>
-        <target>Error al importar piloto.</target>
+        <target>匯入飛行員時發生錯誤。</target>
       </segment>
     </unit>
 	<unit id="Registration.Pilot.Difficulty.Easy">
       <segment state="translated">
         <source>Easy</source>
-        <target>Fácil</target>
+        <target>簡單</target>
       </segment>
     </unit>
 	<unit id="Registration.Pilot.Difficulty.Medium">
       <segment state="translated">
         <source>Medium</source>
-        <target>Moderada</target>
+        <target>中等</target>
       </segment>
     </unit>
 	<unit id="Registration.Pilot.Difficulty.Hard">
       <segment state="translated">
         <source>Hard</source>
-        <target>Difícil</target>
+        <target>困難</target>
       </segment>
     </unit>
 	<unit id="Registration.Pilot.PortraitSource.FromGallery">
       <segment state="translated">
         <source>Using gallery portrait.</source>
-        <target>Usando retrato de la galería.</target>
+        <target>使用肖像畫廊頭像。</target>
       </segment>
     </unit>
 	<unit id="Registration.Pilot.PortraitSource.FromPath">
       <segment state="translated">
         <source>Path: {path}</source>
-        <target>Ruta: {path}</target>
+        <target>路徑：{path}</target>
       </segment>
     </unit>
   </file>
