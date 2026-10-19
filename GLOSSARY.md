@@ -215,3 +215,123 @@
 | 分辨率 | **解析度** | Resolution |
 | 掉幀 / 卡頓 | **延遲 / 掉格** | Stutter, Lag, Frame drop |
 | 軟件 / 硬件 | **軟體 / 硬體** | Software / Hardware |
+
+---
+
+## 八、 重要人物與名將飛行員 (Characters & Pilots)
+
+| 英文原名 (Source) | 臺灣正體中文 (Target) | 身份 / 備註 |
+| :--- | :--- | :--- |
+| **Luke Skywalker** | 路克·天行者 | 反抗軍英雄 / 絕地學徒 |
+| **Darth Vader / Lord Vader** | 達斯·維達 / 維達大人 | 帝國元帥 / 西斯黑暗領主 |
+| **Emperor Palpatine** | 白卜庭皇帝 | 銀河帝國最高統治者 |
+| **Grand Moff Tarkin** | 塔金總督 | 死星指揮官 / 帝國大星區長 |
+| **Princess Leia / Princess Leia Organa** | 莉亞公主 | 奧德蘭議員 / 反抗軍領袖 |
+| **Mon Mothma** | 蒙·茉斯瑪 | 反抗軍同盟最高統帥 |
+| **Admiral Ackbar / Commander Ackbar** | 阿克巴上將 / 阿克巴指揮官 | 反抗軍艦隊指揮官 |
+| **General Jan Dodonna** | 簡·多東納將軍 | 雅汶基地反抗軍指揮官 |
+| **Keyan Farlander** | 基揚·法蘭德 | 《X戰機》官方主角 / 菁英飛官 |
+| **Wedge Antilles** | 威吉·安地列斯 | 俠盜中隊傳奇飛官 |
+| **Biggs Darklighter** | 比格斯·夜光者 | 路克摯友 / 紅三號飛官 |
+| **Red Leader / Gold Leader** | 紅隊隊長 / 金隊隊長 | 雅汶戰役戰機編隊長 |
+| **Overlord Ghorin** | 戈林霸主 | 邊境軍閥勢力領袖 |
+
+---
+
+## 九、 星球、星系與重要天體 (Planets, Star Systems & Sectors)
+
+| 英文原名 (Source) | 臺灣正體中文 (Target) | 說明 / 星戰背景 |
+| :--- | :--- | :--- |
+| **Death Star** | 死星 | 帝國終極軌道戰鬥太空站 |
+| **Yavin / Yavin 4 / Yavin Base** | 雅汶 / 雅汶四號星 / 雅汶基地 | 反抗軍同盟祕密主基地 |
+| **Tatooine** | 塔圖因 | 雙日沙漠行星 / 天行者故鄉 |
+| **Alderaan** | 奧德蘭 | 莉亞故鄉 / 遭死星摧毀 |
+| **Hoth** | 霍斯 | 冰封死寂星球 / 迴音基地 |
+| **Coruscant** | 科羅森 | 銀河帝國首都星（帝國中心） |
+| **Corellia / Corellian System** | 科雷利亞 / 科雷利亞星系 | 造船樞紐與走私客溫床 |
+| **Kessel** | 凱瑟 | 辛香料礦坑與黑牢死囚星 |
+| **Sullust** | 薩勒斯特 | 火山岩漿星球 / 索羅蘇布造船工業 |
+| **Kashyyyk** | 卡須克 | 武技族（丘巴卡母星）密林星球 |
+| **Endor** | 恩多 | 綠意盎然森林衛星 / 恩多戰役 |
+| **Bespin** | 貝斯坪 | 氣體巨星 / 雲城所在地 |
+| **Dantooine** | 丹圖因 | 廢棄反抗軍舊基地草原星球 |
+| **Fondor** | 方多 | 帝國海軍大型軌道船塢基地 |
+| **Kuat** | 庫亞特 | 庫亞特造船廠 / 滅星艦誕生地 |
+| **Ord Mantell** | 歐德曼特爾 | 賞金獵人與犯罪集團出沒地 |
+| **Ralltiir** | 拉提爾 | 遭帝國殘酷鎮壓的反叛星球 |
+| **Toprawa** | 托普拉瓦 | 反抗軍攔截死星藍圖關鍵地點 |
+| **Roche System** | 羅許星系 | 韋爾平人小行星帶聚集地 |
+| **Plooriod Cluster / Plooriod III / IV** | 普洛利德星團 / 普洛利德三號、四號星 | 帝國視察與走私交火空域 |
+| **Cron Drift** | 克隆漂移區 | 危險密集小行星與碎屑帶 |
+| **Senex System** | 塞內克斯星系 | 邊境貴族獨立星系 |
+| **Circarpous System** | 瑟卡波斯星系 | 敏感邊境星系 |
+| **Bonadan System** | 博納丹星系 | 企業星區繁榮工業港 |
+| **Kalla VII** | 卡拉七號星 | 帝國資源採掘星 |
+| **Mytus VII** | 麥圖斯七號星 | 星之盡頭監獄所在星球 |
+| **Orron III** | 歐倫三號星 | 帝國重要糧倉與農業世界 |
+| **Retep III / V** | 瑞特普三號、五號星 | 反抗軍伏擊空域 |
+| **Sidral II** | 西德拉爾二號星 | 邊境巡邏空域 |
+| **Sunaj / Sunaj IV** | 蘇納吉四號星 | 秘密軍火轉運星 |
+| **Turkana** | 圖卡納 | 圖卡納戰役交鋒空域 |
+| **Outer Rim Territories** | 外環星域 | 帝國法外邊境與反抗勢力搖籃 |
+| **Corporate Sector** | 企業星區 | 自主特權企業管理領地 |
+| **Core Worlds** | 核心世界 | 銀河政治經濟核心星系群 |
+
+---
+
+## 十、 太空站、基地設施與作戰計畫 (Stations, Bases, Facilities & Operations)
+
+| 英文原名 (Source) | 臺灣正體中文 (Target) | 備註 / 功能說明 |
+| :--- | :--- | :--- |
+| **Operation Strike Fear** | 「震懾行動」 / 「恐懼打擊行動」 | 帝國對薩勒斯特的大規模清剿計畫 |
+| **Project Shantipole** | 「香蒂波爾計畫」 | B戰機原型秘密研發工程專案 |
+| **Imperial Battle Station** | 帝國戰鬥太空站 | 即死星等級戰鬥站 |
+| **Imperial Repair Dock / Repair Depot** | 帝國維修船塢 / 維修基地 | 戰艦後勤補給基地 |
+| **Weapons Stockyard** | 軍火儲備庫 | 武器彈藥集中儲存設施 |
+| **Military Supply Cache** | 軍事補給暫存站 | 走私或反抗軍秘密補給處 |
+| **Secret Outpost** | 秘密前哨站 | 深空情報通訊站 |
+| **Ghorman Base** | 戈爾曼基地 | 曾發生戈爾曼屠殺事件的基地 |
+| **Star's End** | 星之盡頭 | 麥圖斯七號星的極刑監獄 |
+| **Proving Ground Platform** | 試飛場太空平台 | 模擬教學與驗證空間站 |
+| **Nav Buoy** | 導航浮標 | 超空間躍遷導航信標 |
+| **Communication Satellite (Comm Sat)** | 通訊衛星 | 區域通訊中繼衛星 |
+| **Surveillance Satellite** | 監控衛星 | 帝國偵查空域感測網 |
+
+---
+
+## 十一、 著名旗艦艦名、外星種族與製造商 (Named Ships, Species & Corporations)
+
+### 1. 著名旗艦與特定艦名 (Named Ships)
+| 英文原名 (Source) | 臺灣正體中文 (Target) | 艦種 / 歸屬 |
+| :--- | :--- | :--- |
+| **Tantive IV** | 坦特維四號 | 莉亞公主座艦（科雷利亞護衛艦） |
+| **Independence** | 獨立號 | 反抗軍主力旗艦（蒙卡拉馬里巡洋艦） |
+| **Defiance** | 蔑視號 | 反抗軍蒙卡拉馬里巡洋艦 |
+| **Liberty** | 自由號 | 反抗軍蒙卡拉馬里巡洋艦 |
+| **Liberator** | 解放者號 | 反抗軍護衛主力艦 |
+| **Cathleen** | 凱絲琳號 | 反抗軍巡洋艦 |
+| **Falcon (Shuttle Falcon)** | 獵鷹號 | 阿克巴撤離座機（穿梭機） |
+| **Devastator** | 毀滅者號 | 達斯·維達旗艦（帝國級滅星艦） |
+| **Immortal** | 不朽號 | 帝國滅星艦 |
+| **Invincible** | 無敵號 | 帝國滅星艦 |
+| **Implacable** | 無情號 | 帝國滅星艦 |
+| **Relentless** | 殘酷號 | 帝國滅星艦 |
+| **Warrior** | 勇士號 | 帝國滅星艦 |
+| **Intrepid** | 無畏號 | 帝國滅星艦 |
+| **Predator** | 掠食者號 | 帝國滅星艦 |
+| **Maximus** | 麥西穆斯號 | 帝國滅星艦 |
+| **Priam** | 普里阿摩斯號 | 帝國星雲B型護衛艦 |
+| **Korolev** | 科羅廖夫號 | 反抗軍支援艦 |
+
+### 2. 外星種族與代表組織 (Alien Species & Corps)
+| 英文原名 (Source) | 臺灣正體中文 (Target) | 說明 |
+| :--- | :--- | :--- |
+| **Sullustan / Sullustans** | 薩勒斯特人 | 擅長導航與工程的矮小外星種族 |
+| **Wookiee / Wookiees** | 武技族 | 高大強壯毛皮種族，如丘巴卡 |
+| **Twi'lek / Twi'leks** | 堤列克族 | 頭部擁有雙觸鬚 (Lekku) 的種族 |
+| **Verpine** | 韋爾平人 | 昆蟲型高智商工程種族 |
+| **Habassan / Habassans** | 哈巴桑人 | 與反抗軍同盟合作的邊境種族 |
+| **Cygnus Spaceworks** | 西格納斯太空工程公司 | 突擊砲艇與飛彈艇設計商 |
+| **Slayn & Korpil** | 斯萊恩與科皮爾 | 與阿克巴合作研發 B戰機之廠商 |
+| **Imperial Security Bureau (ISB)** | 帝國安全局 | 帝國內部調查與情報秘密組織 |
+| **Storm Unit Commandos** | 風暴突擊特遣隊 | 反抗軍菁英地面滲透部隊 |
