@@ -1,328 +1,328 @@
 <?xml version="1.0"?>
 <xliff version="2.0" srcLang="en" trgLang="zh-TW" xmlns="urn:oasis:names:tc:xliff:document:2.0">
   <file id="XWVM.Common.RanksAwards">
-      <unit id="PilotRank.FltCadet" >
-        <segment>
+      <unit id="PilotRank.FltCadet">
+        <segment state="translated">
           <source>Flight Cadet</source>
-          <target>Cadete de Vuelo</target>
+          <target>見習飛行員</target>
         </segment>
       </unit>
-      <unit id="PilotRank.FltOfficer" >
-        <segment>
+      <unit id="PilotRank.FltOfficer">
+        <segment state="translated">
           <source>Flight Officer</source>
-          <target>Oficial de Vuelo</target>
+          <target>飛行軍官</target>
         </segment>
       </unit>
-      <unit id="PilotRank.Lieutenant" >
-        <segment>
+      <unit id="PilotRank.Lieutenant">
+        <segment state="translated">
           <source>Lieutenant</source>
-          <target>Teniente</target>
+          <target>中尉</target>
         </segment>
       </unit>
-      <unit id="PilotRank.Captain" >
-        <segment>
+      <unit id="PilotRank.Captain">
+        <segment state="translated">
           <source>Captain</source>
-          <target>Capitán</target>
+          <target>上尉</target>
         </segment>
       </unit>
-      <unit id="PilotRank.Commander" >
-        <segment>
+      <unit id="PilotRank.Commander">
+        <segment state="translated">
           <source>Commander</source>
-          <target>Comandante</target>
+          <target>指揮官</target>
         </segment>
       </unit>
-      <unit id="PilotRank.General" >
-        <segment>
+      <unit id="PilotRank.General">
+        <segment state="translated">
           <source>General</source>
-          <target>General</target>
+          <target>將軍</target>
         </segment>
       </unit>
-      <unit id="Award.KalidorCrescent" >
-        <segment>
+      <unit id="Award.KalidorCrescent">
+        <segment state="translated">
           <source>Kalidor Crescent</source>
-          <target>Media Luna Kalidor</target>
+          <target>卡利多新月勳章</target>
         </segment>
       </unit>
-      <unit id="Award.BronzeCluster" >
-        <segment>
+      <unit id="Award.BronzeCluster">
+        <segment state="translated">
           <source>Bronze Cluster</source>
-          <target>Cúmulo de Bronce</target>
+          <target>青銅星簇</target>
         </segment>
       </unit>
-      <unit id="Award.SilverTalons" >
-        <segment>
+      <unit id="Award.SilverTalons">
+        <segment state="translated">
           <source>Silver Talons</source>
-          <target>Garras Plateadas</target>
+          <target>白銀利爪</target>
         </segment>
       </unit>
-      <unit id="Award.SilverScimitar" >
-        <segment>
+      <unit id="Award.SilverScimitar">
+        <segment state="translated">
           <source>Silver Scimitar</source>
-          <target>Cimitarra Plateada</target>
+          <target>白銀彎刀</target>
         </segment>
       </unit>
-     <unit id="Award.GoldenWings" >
-        <segment>
+     <unit id="Award.GoldenWings">
+        <segment state="translated">
           <source>Golden Wings</source>
-          <target>Alas Doradas</target>
+          <target>黃金之翼</target>
         </segment>
       </unit>
-      <unit id="Award.DiamondEyes" >
-        <segment>
+      <unit id="Award.DiamondEyes">
+        <segment state="translated">
           <source>Diamond Eyes</source>
-          <target>Ojos de Diamante</target>
+          <target>鑽石之眼</target>
         </segment>
       </unit>
-      <unit id="Award.YouveBeenAwarded" >
-        <segment>
+      <unit id="Award.YouveBeenAwarded">
+        <segment state="translated">
           <source>You have been awarded the {awardName}!</source>
-          <target>¡Se te han concedido: {awardName}!</target>
+          <target>您已榮獲 {awardName}！</target>
         </segment>
       </unit>
-       <unit id="Award.SecretOrderRankUp" >
-        <segment>
+       <unit id="Award.SecretOrderRankUp">
+        <segment state="translated">
           <source>Your rank in the Secret Order is now {rankName}!</source>
-          <target>¡Tu rango en la Orden Secreta ahora es {rankName}!</target>
+          <target>您在秘密教團中的位階晉升為 {rankName}！</target>
         </segment>
       </unit>
-     <unit id="Award.SecretOrderRank1" >
-        <segment>
+     <unit id="Award.SecretOrderRank1">
+        <segment state="translated">
           <source>First Initiate</source>
-          <target>Círculo Inicial</target>
+          <target>初階入教者</target>
         </segment>
       </unit>
-      <unit id="Award.SecretOrderRank2" >
-        <segment>
+      <unit id="Award.SecretOrderRank2">
+        <segment state="translated">
           <source>Second Circle</source>
-          <target>Segundo Círculo</target>
+          <target>第二圈成員</target>
         </segment>
       </unit>
-      <unit id="Award.SecretOrderRank3" >
-        <segment>
+      <unit id="Award.SecretOrderRank3">
+        <segment state="translated">
           <source>Third Circle</source>
-          <target>Tercer Círculo</target>
+          <target>第三圈成員</target>
         </segment>
       </unit>
-      <unit id="Award.SecretOrderRank4" >
-        <segment>
+      <unit id="Award.SecretOrderRank4">
+        <segment state="translated">
           <source>Fourth Circle</source>
-          <target>Cuarto Círculo</target>
+          <target>第四圈成員</target>
         </segment>
       </unit>
-      <unit id="Award.SecretOrderRank5" >
-        <segment>
+      <unit id="Award.SecretOrderRank5">
+        <segment state="translated">
           <source>Inner circle</source>
-          <target>Círculo Interno</target>
+          <target>核心圈成員</target>
         </segment>
       </unit>
-      <unit id="Award.SecretOrderRank6" >
-        <segment>
+      <unit id="Award.SecretOrderRank6">
+        <segment state="translated">
           <source>Emperor's Hand</source>
-          <target>Mano del Emperador</target>
+          <target>皇帝之手</target>
         </segment>
       </unit>
-      <unit id="Award.SecretOrderRank7" >
-        <segment>
+      <unit id="Award.SecretOrderRank7">
+        <segment state="translated">
           <source>Emperor's Eyes</source>
-          <target>Ojos del Emperador</target>
+          <target>皇帝之眼</target>
         </segment>
       </unit>
-      <unit id="Award.SecretOrderRank8" >
-        <segment>
+      <unit id="Award.SecretOrderRank8">
+        <segment state="translated">
           <source>Emperor's Voice</source>
-          <target>Voz del Emperador</target>
+          <target>皇帝之聲</target>
         </segment>
       </unit>
-      <unit id="Award.SecretOrderRank9" >
-        <segment>
+      <unit id="Award.SecretOrderRank9">
+        <segment state="translated">
           <source>Emperor's Reach</source>
-          <target>Alcance del Emperador</target>
+          <target>皇帝之握</target>
         </segment>
       </unit>
-      <unit id="Award.AwardedBonusPin" >
-        <segment>
+      <unit id="Award.AwardedBonusPin">
+        <segment state="translated">
           <source>You have been awarded the Bonus Objectives Pin!</source>
-          <target>¡Se te ha concedido el Broche de Objetivos Extra!</target>
+          <target>您已榮獲獎勵目標別針！</target>
         </segment>
       </unit>
-      <unit id="Award.BonusPinName" >
-        <segment>
+      <unit id="Award.BonusPinName">
+        <segment state="translated">
           <source>{missionTitle} Bonus Goals Pin {missionIndex}</source>
-          <target>Broche de Objetivos Extra {missionIndex} de {missionTitle}</target>
+          <target>{missionTitle} 獎勵目標別針 {missionIndex}</target>
         </segment>
       </unit>
-      <unit id="Award.AwardedSecondaryPin" >
-        <segment>
+      <unit id="Award.AwardedSecondaryPin">
+        <segment state="translated">
           <source>You have been awarded the Secondary Objectives Pin!</source>
-          <target>¡Se te ha concedido el Broche de Objetivos Secundarios!</target>
+          <target>您已榮獲次要目標別針！</target>
         </segment>
       </unit>
-      <unit id="Award.SecondaryPinName" >
-        <segment>
+      <unit id="Award.SecondaryPinName">
+        <segment state="translated">
           <source>{missionTitle} Secondary Pin {missionIndex}</source>
-          <target>Broche de Objetivos Secundarios {missionIndex} de {missionTitle}</target>
+          <target>{missionTitle} 次要目標別針 {missionIndex}</target>
         </segment>
       </unit>
-	  <unit id="Award.AwardedFlightBadge" >
-        <segment>
+	  <unit id="Award.AwardedFlightBadge">
+        <segment state="translated">
           <source>You have been awarded the {species.ONE} Flight Badge!</source>
-          <target>¡Se te ha concedido el Distintivo de Vuelo {species.GENDER:choose(M|F):del|de la} {species.ONE}!</target>
+          <target>您已榮獲 {species.ONE} 飛行胸章！</target>
         </segment>
       </unit>
-      <unit id="Award.FlightBadgeName" >
-        <segment>
+      <unit id="Award.FlightBadgeName">
+        <segment state="translated">
           <source>{species.ONE} Flight Badge</source>
-          <target>Distintivo de Vuelo {species.GENDER:choose(M|F):del|de la} {species.ONE}</target>
+          <target>{species.ONE} 飛行胸章</target>
         </segment>
       </unit>
-	  <unit id="Award.AwardedHistoricPatch" >
-        <segment>
+	  <unit id="Award.AwardedHistoricPatch">
+        <segment state="translated">
           <source>You have been awarded the Historic {missionTitle} Battle Patch {missionIndex}!</source>
-          <target>¡Se te ha concedido el Parche de Combate Histórico {missionIndex} de {missionTitle}!</target>
+          <target>您已榮獲歷史 {missionTitle} 作戰臂章 {missionIndex}！</target>
         </segment>
       </unit>
-      <unit id="Award.HistoricPatchName" >
-        <segment>
+      <unit id="Award.HistoricPatchName">
+        <segment state="translated">
           <source>Historic {missionTitle} Battle Patch {missionIndex}</source>
-          <target>Parche de Combate Histórico {missionIndex} de {missionTitle}</target>
+          <target>歷史 {missionTitle} 作戰臂章 {missionIndex}</target>
         </segment>
       </unit>
-	  <unit id="Award.AwardedHistoricMedallion" >
-        <segment>
+	  <unit id="Award.AwardedHistoricMedallion">
+        <segment state="translated">
           <source>You have been awarded {upgrade:choose(False|True):a|a new} Combat Medallion!</source>
-          <target>¡Has {upgrade:choose(False|True):sido condecorado con una|recibido una nueva} Medalla de Combate!</target>
+          <target>您已榮獲{upgrade:choose(False|True):一枚|一枚嶄新的}作戰紀念章！</target>
         </segment>
       </unit>
-      <unit id="Award.AwardedRankUp" >
-        <segment>
+      <unit id="Award.AwardedRankUp">
+        <segment state="translated">
           <source>You have been promoted to {rank}.</source>
-          <target>Te han ascendido a {rank}.</target>
+          <target>您已晉升為 {rank}。</target>
         </segment>
       </unit>
-	  <unit id="Award.AwardedMedal" >
-        <segment>
+	  <unit id="Award.AwardedMedal">
+        <segment state="translated">
           <source>You have been awarded the {medalName}!</source>
-          <target>¡Se te ha otorgado la medalla: {medalName}!</target>
+          <target>您已榮獲 {medalName}！</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle1MedalName" >
-        <segment>
+	  <unit id="Award.Battle1MedalName">
+        <segment state="translated">
           <source>Medal of Redemption</source>
-          <target>Medalla de la Redención</target>
+          <target>救贖勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle2MedalName" >
-        <segment>
+	  <unit id="Award.Battle2MedalName">
+        <segment state="translated">
           <source>Medal of Unity</source>
-          <target>Medalla de la Unidad</target>
+          <target>團結勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle3MedalName" >
-        <segment>
+	  <unit id="Award.Battle3MedalName">
+        <segment state="translated">
           <source>Medal of Progress</source>
-          <target>Medalla del Progreso</target>
+          <target>進步勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle4MedalName" >
-        <segment>
+	  <unit id="Award.Battle4MedalName">
+        <segment state="translated">
           <source>Medal of Order</source>
-          <target>Medalla del Orden</target>
+          <target>秩序勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle5MedalName" >
-        <segment>
+	  <unit id="Award.Battle5MedalName">
+        <segment state="translated">
           <source>Medal of Loyalty</source>
-          <target>Medalla de la Lealtad</target>
+          <target>忠誠勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle6MedalName" >
-        <segment>
+	  <unit id="Award.Battle6MedalName">
+        <segment state="translated">
           <source>Medal of Destiny</source>
-          <target>Medalla del Destino</target>
+          <target>命運勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle7MedalName" >
-        <segment>
+	  <unit id="Award.Battle7MedalName">
+        <segment state="translated">
           <source>Emperor's Will</source>
-          <target>Voluntad del Emperador</target>
+          <target>皇帝之意志勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle8MedalName" >
-        <segment>
+	  <unit id="Award.Battle8MedalName">
+        <segment state="translated">
           <source>Medal of Dignity</source>
-          <target>Medalla de la Dignidad</target>
+          <target>尊嚴勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle9MedalName" >
-        <segment>
+	  <unit id="Award.Battle9MedalName">
+        <segment state="translated">
           <source>Medal of Futility</source>
-          <target>Medalla de la Futilidad</target>
+          <target>虛無勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle10MedalName" >
-        <segment>
+	  <unit id="Award.Battle10MedalName">
+        <segment state="translated">
           <source>Medal of Horror</source>
-          <target>Medalla del Horror</target>
+          <target>恐懼勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle11MedalName" >
-        <segment>
+	  <unit id="Award.Battle11MedalName">
+        <segment state="translated">
           <source>Medal of Liberty</source>
-          <target>Medalla de la Libertad</target>
+          <target>自由勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle12MedalName" >
-        <segment>
+	  <unit id="Award.Battle12MedalName">
+        <segment state="translated">
           <source>Medal of Guile</source>
-          <target>Medalla de la Astucia</target>
+          <target>智謀勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Battle13MedalName" >
-        <segment>
+	  <unit id="Award.Battle13MedalName">
+        <segment state="translated">
           <source>Medal of Victory</source>
-          <target>Medalla de la Victoria</target>
+          <target>勝利勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Tour1MedalName" >
-        <segment>
+	  <unit id="Award.Tour1MedalName">
+        <segment state="translated">
           <source>Corellian Cross</source>
-          <target>Cruz Coreliana</target>
+          <target>科雷利亞十字勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Tour2MedalName" >
-        <segment>
+	  <unit id="Award.Tour2MedalName">
+        <segment state="translated">
           <source>Mantooine Medallion</source>
-          <target>Medallón de Mantooine</target>
+          <target>曼圖因紀念章</target>
         </segment>
       </unit>
-	  <unit id="Award.Tour3MedalName" >
-        <segment>
+	  <unit id="Award.Tour3MedalName">
+        <segment state="translated">
           <source>Star of Alderaan</source>
-          <target>Estrella de Alderaan</target>
+          <target>奧德蘭之星勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Tour4MedalName" >
-        <segment>
+	  <unit id="Award.Tour4MedalName">
+        <segment state="translated">
           <source>Shield of Yavin</source>
-          <target>Escudo de Yavin</target>
+          <target>雅汶之盾勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.Tour5MedalName" >
-        <segment>
+	  <unit id="Award.Tour5MedalName">
+        <segment state="translated">
           <source>Talons of Hoth</source>
-          <target>Garras de Hoth</target>
+          <target>霍斯利爪勳章</target>
         </segment>
       </unit>
-	  <unit id="Award.UndecoratedAward" >
-        <segment>
+	  <unit id="Award.UndecoratedAward">
+        <segment state="translated">
           <source>Undecorated {award}</source>
-          <target>{award} sin condecoraciones</target>
+          <target>無加敘 {award}</target>
         </segment>
       </unit>
-	  <unit id="Award.DecoratedAward" >
-        <segment>
+	  <unit id="Award.DecoratedAward">
+        <segment state="translated">
           <source>{award} with {decoration} decoration</source>
-          <target>{award} con condecoración {decoration}</target>
+          <target>附帶 {decoration} 勳飾之 {award}</target>
         </segment>
       </unit>
 	  <unit id="Award.FlightBadgeAward" >
@@ -332,7 +332,7 @@
 				"B-wing Flight Badge"
 			</note>
 		</notes>
-        <segment>
+        <segment state="translated">
           <source>{species.ONE} {award}</source>
           <target>{award} de {species.ONE}</target>
         </segment>
@@ -344,7 +344,7 @@
 				"B-wing Historical Missions number 6"
 			</note>
 		</notes>
-        <segment>
+        <segment state="translated">
           <source>{collection} number {number}</source>
           <target>{collection} número {number}</target>
         </segment>
