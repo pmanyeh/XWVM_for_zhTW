@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<xliff version="2.0" srcLang="en" trgLang="zh-TW" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.tf.TourNames">
+    
+      <unit id="ship1">
+        <segment state="translated">
+          <source>TIE Fighter (T/F)</source>
+          <target>Caza TIE (T/C)</target>
+        </segment>
+      </unit>
+      <unit id="ship2">
+        <segment state="translated">
+          <source>TIE Interceptor (T/I)</source>
+          <target>Interceptor TIE (T/I)</target>
+        </segment>
+      </unit>
+      <unit id="ship3">
+        <segment state="translated">
+          <source>TIE Bomber (T/B)</source>
+          <target>Bombardero TIE (T/B)</target>
+        </segment>
+      </unit>
+      <unit id="ship4">
+        <segment state="translated">
+          <source>TIE Advanced (T/A)</source>
+          <target>TIE Avanzado (T/A)</target>
+        </segment>
+      </unit>
+      <unit id="ship5">
+        <segment state="translated">
+          <source>Assault Gunboat (GUN)</source>
+          <target>Cañonera de Asalto (CAÑ)</target>
+        </segment>
+      </unit>
+      <unit id="ship6">
+        <segment state="translated">
+          <source>TIE Defender (T/D)</source>
+          <target>Defensor TIE (T/D)</target>
+        </segment>
+      </unit>
+      <unit id="ship7">
+        <segment state="translated">
+          <source>Missile Boat (MIS)</source>
+          <target>Misilera (MIS)</target>
+        </segment>
+      </unit>
+      <unit id="custom">
+        <segment state="translated">
+          <source>Custom Missions</source>
+          <target>Misiones Personalizadas</target>
+        </segment>
+      </unit>
+      <unit id="battle1">
+        <segment>
+          <source>1</source>
+          <target>1</target>
+        </segment>
+      </unit>
+      <unit id="battle2">
+        <segment>
+          <source>2</source>
+          <target>2</target>
+        </segment>
+      </unit>
+      <unit id="battle3">
+        <segment>
+          <source>3</source>
+          <target>3</target>
+        </segment>
+      </unit>
+      <unit id="battle4">
+        <segment>
+          <source>4</source>
+          <target>4</target>
+        </segment>
+      </unit>
+      <unit id="battle5">
+        <segment>
+          <source>5</source>
+          <target>5</target>
+        </segment>
+      </unit>
+      <unit id="battle6">
+        <segment>
+          <source>6</source>
+          <target>6</target>
+        </segment>
+      </unit>
+      <unit id="battle7">
+        <segment>
+          <source>7</source>
+          <target>7</target>
+        </segment>
+      </unit>
+      <unit id="battle8">
+        <segment>
+          <source>8</source>
+          <target>8</target>
+        </segment>
+      </unit>
+      <unit id="battle9">
+        <segment>
+          <source>9</source>
+          <target>9</target>
+        </segment>
+      </unit>
+      <unit id="battle10">
+        <segment>
+          <source>10</source>
+          <target>10</target>
+        </segment>
+      </unit>
+      <unit id="battle11">
+        <segment>
+          <source>11</source>
+          <target>11</target>
+        </segment>
+      </unit>
+      <unit id="battle12">
+        <segment>
+          <source>12</source>
+          <target>12</target>
+        </segment>
+      </unit>
+      <unit id="battle13">
+        <segment>
+          <source>13</source>
+          <target>13</target>
+        </segment>
+      </unit>
+    
+  </file>
+</xliff>
