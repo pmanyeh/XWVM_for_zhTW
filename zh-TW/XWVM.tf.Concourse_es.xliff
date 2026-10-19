@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<xliff version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.tf.Concourse">    
+      <unit id="Concourse.Navigation.PilotProvingGround">
+        <segment state="translated">
+          <source>Training Simulator</source>
+          <target>Simulador de Entrenamiento</target>
+        </segment>
+      </unit>
+      <unit id="Concourse.Navigation.HistoricalCombat">
+        <segment state="translated">
+          <source>Combat Chamber</source>
+          <target>Cámara de Combate</target>
+        </segment>
+      </unit>
+      <unit id="Concourse.Navigation.ToTourDesk">
+        <segment state="translated">
+          <source>Battles</source>
+          <target>Batallas</target>
+        </segment>
+      </unit>
+      <unit id="Briefing.Question.ExitQuestion">
+        <segment state="translated">
+          <source>That is enough for now, sir.</source>
+          <target>No hay más preguntas por ahora, señor.</target>
+        </segment>
+      </unit>
+      <unit id="BattleBriefing.Controls.Label.Exit">
+        <segment state="translated">
+          <source>Return to Concourse</source>
+          <target>Volver a Cubierta Central</target>
+        </segment>
+      </unit>
+      <unit id="BattleBriefing.Controls.Label.Start">
+        <segment state="translated">
+          <source>Start Mission</source>
+          <target>Comenzar Misión</target>
+        </segment>
+      </unit>
+      <unit id="BattleBriefing.Controls.Label.TalkToOfficer">
+        <segment state="translated">
+          <source>Talk to Flight Officer</source>
+          <target>Hablar a Oficial de Vuelo</target>
+        </segment>
+      </unit>
+      <unit id="BattleBriefing.Controls.Label.TalkToSecretOrder">
+        <segment state="translated">
+          <source>Talk to Cloaked Figure</source>
+          <target>Hablar con el Individuo Encapuchado</target>
+        </segment>
+      </unit>
+      <unit id="BattleBriefing.Controls.Label.GoToMap">
+        <segment state="translated">
+          <source>View Mission Map</source>
+          <target>Ver Mapa de la Misión</target>
+        </segment>
+      </unit>
+   	  <unit id="Debrief.Title.BattleMission" >
+		<notes>
+			<note>
+			[[, ]], ((, and )) delimit highlighted text. Conserve those tags.
+			</note>
+		</notes>
+        <segment>
+          <source>[[Battle]] {battleNum} [[Mission]] {missNum} [[Score]] {score}</source>
+          <target>[[Batalla]] {battleNum} [[Misión]] {missNum} [[Puntos]] {score}</target>
+        </segment>
+      </unit>
+ 	  <unit id="Debrief.Title.PpgRun" >
+		<notes>
+			<note>
+			[[, ]], ((, and )) delimit highlighted text. Conserve those tags.
+			</note>
+		</notes>
+        <segment>
+          <source>[[Training Simulator]] {missNum} [[Score]] {score}</source>
+          <target>[[Simulador de Entrenamiento]] {missNum} [[Puntos]] {score}</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.Title.CustomMission" >
+		<notes>
+			<note>
+			[[, ]], ((, and )) delimit highlighted text. Conserve those tags.
+			</note>
+		</notes>
+        <segment>
+          <source>[[Custom Mission]] {missTitle} [[Score]] {score}</source>
+          <target>[[Misión Personalizada]] {missTitle} [[Puntos]] {score}</target>
+        </segment>
+      </unit>
+ 	  <unit id="Debrief.Title.HistoricalMission" >
+		<notes>
+			<note>
+			[[, ]], ((, and )) delimit highlighted text. Conserve those tags.
+			</note>
+		</notes>
+        <segment>
+          <source>[[Combat Chamber]] {missNum} [[Score]] {score}</source>
+          <target>[[Cámara de Combate]] {missNum} [[Puntos]] {score}</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.PpgLevelCleared" >
+        <segment>
+          <source>{species.ONE} ({species.ABBR}) Training level {cleared}</source>
+          <target>Nivel de Entrenamiento {cleared} de {species.ONE} ({species.ABBR})</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.PpgScore" >
+        <segment>
+          <source>Training score: {score}</source>
+          <target>Puntuación de entrenamiento: {score}</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.PpgGatesPassed" >
+        <segment>
+          <source>Segments passed: {passed}</source>
+          <target>Segmentos pasados: {passed}</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.PpgGatesRemaining" >
+        <segment>
+          <source>Segments remaining: {remaining}</source>
+          <target>Segmentos restantes: {remaining}</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.PpgTargetsHit" >
+        <segment>
+          <source>Targets hit: {hits}</source>
+          <target>Objetivos impactados: {hits}</target>
+        </segment>
+      </unit>
+ 	  <unit id="Debrief.MissionSuccess" >
+        <segment>
+          <source>The primary mission was a [[success]].</source>
+          <target>La misión principal fue un [[éxito]].</target>
+        </segment>
+      </unit>
+ 	  <unit id="Debrief.MissionFailure" >
+        <segment>
+          <source>The primary mission was a [[failure]].</source>
+          <target>La misión principal fue un [[fracaso]].</target>
+        </segment>
+      </unit>
+ 	  <unit id="Debrief.AwardReceived" >
+        <segment>
+          <source>You received an award!</source>
+          <target>¡Has recibido una distinción!</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.ShotReport.Lasers" >
+        <segment>
+          <source>Laser hits: {hits} of {total} ({percent}%)</source>
+          <target>Impactos láser: {hits} de {total} ({percent}%)</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.ShotReport.Ions" >
+        <segment>
+          <source>Ion hits: {hits} of {total} ({percent}%)</source>
+          <target>Impactos de iones: {hits} de {total} ({percent}%)</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.ShotReport.Warheads" >
+        <segment>
+          <source>Warhead hits: {hits} of {total} ({percent}%)</source>
+          <target>Impactos de ojivas: {hits} de {total} ({percent}%)</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.GoalsCompletedAll" >
+        <segment>
+          <source>All {goalType:choose(primary|secondary|bonus):Primary|Secondary|Bonus} goals completed.</source>
+          <target>Todos los objetivos {goalType:choose(primary|secondary|bonus):Primarios|Secundarios|Extra} completados.</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.GoalsCompletedNone" >
+        <segment>
+          <source>No {goalType:choose(primary|secondary|bonus):Primary|Secondary|Bonus} goals completed.</source>
+          <target>Ningún objetivo {goalType:choose(primary|secondary|bonus):Primario|Secundario|Extra} completado.</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.GoalsCompletedSome" >
+        <segment>
+          <source>{completed} of {total} {goalType:choose(primary|secondary|bonus):Primary|Secondary|Bonus} goals completed.</source>
+          <target>{completed} de {total} objetivos {goalType:choose(primary|secondary|bonus):Primarios|Secundarios|Extra} completados.</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.SpacecraftKills" >
+        <segment>
+          <source>Ships [[destroyed]] (by player): {total} ({byPlayer})</source>
+          <target>Naves [[destruidas]] (por ti): {total} ({byPlayer})</target>
+        </segment>
+      </unit>
+  	  <unit id="Debrief.SpacecraftAction" >
+        <segment>
+          <source>Ships [[{action:choose(lost|captured):lost|captured}]]: {total}</source>
+          <target>Naves [[{action:choose(lost|captured):perdidas|capturadas}]]: {total}</target>
+        </segment>
+      </unit>
+      <unit id="HistoricalSelect.Label.CollectionMissionRefTitle">
+        <segment state="translated">
+          <source>{collection} Mission {ref}</source>
+          <target>{collection} - Misión {ref}</target>
+        </segment>
+      </unit>
+	  <unit id="HistoricalSelect.Label.MissionRefTitle">
+        <segment state="translated">
+          <source>Mission {ref}</source>
+          <target>Misión {ref}</target>
+        </segment>
+      </unit>
+      <unit id="HistoricalSelect.Label.Classic">
+        <segment state="translated">
+          <source>(Classic)</source>
+          <target>(Clásica)</target>
+        </segment>
+      </unit>
+      <unit id="HistoricalSelect.Label.Custom">
+        <segment state="translated">
+          <source>Custom</source>
+          <target>Personalizadas</target>
+        </segment>
+      </unit>
+	  <unit id="PpgSelect.Level">
+        <segment state="translated">
+          <source>Level {ref}</source>
+          <target>Nivel {ref}</target>
+        </segment>
+      </unit>
+	  <unit id="PpgSelect.Title">
+        <segment state="translated">
+          <source>Rebel Proving Ground</source>
+          <target>Campo de Pruebas Rebelde</target>
+        </segment>
+      </unit>
+	  <unit id="PpgSelect.LevelIndicator">
+        <segment state="translated">
+          <source>Level {current}/{max}</source>
+          <target>Nivel {current}/{max}</target>
+        </segment>
+      </unit>
+	  <unit id="PpgLoading.Title">
+        <segment state="translated">
+          <source>Pilot Proving Ground</source>
+          <target>Campo de Pruebas de Pilotos</target>
+        </segment>
+      </unit>
+	  <unit id="PpgLoading.Description">
+        <segment state="translated">
+          <source>Pass through the gates as quickly as you can, before the timer runs out.
+
+For the best score, fly through the gates in the correct order.
+
+Watch out for the laser turrets!</source>
+          <target>Cruza las puertas tan rápido como puedas, antes de que se agote el tiempo.
+
+Para mayor puntuación, cruza las puertas en el orden correcto.
+
+¡Cuidado con las torretas láser!</target>
+        </segment>
+      </unit>
+	  <unit id="Registration.Pilot.ModifyPilot.CloneButton">
+        <segment state="translated">
+          <source>Clone Pilot</source>
+          <target>Clonar Piloto</target>
+        </segment>
+      </unit>
+	  <unit id="Registration.Pilot.ClonePilot.CloneText">
+        <segment state="translated">
+          <source><b>Clone Pilot</b>
+This pilot will be cloned with a new name. While the original pilot might be dead or captured, the clone will not.</source>
+          <target><b>Clonar Piloto</b>
+Este piloto será clonado con un nuevo nombre. Aunque el piloto original esté muerto o capturado, el clon no lo estará.
+</target>
+        </segment>
+      </unit>
+	  <unit id="Registration.Pilot.ClonePilot.InvalidNameError">
+        <segment state="translated">
+          <source>Please enter a valid pilot name!</source>
+          <target>¡Un nombre válido para el piloto, por favor!</target>
+        </segment>
+      </unit>
+	  <unit id="Registration.Pilot.ClonePilot.AlreadyExistsError">
+        <segment state="translated">
+          <source>The clone must have a different name than other pilots.</source>
+          <target>El clon debe tener un nombre diferente al de otros pilotos.</target>
+        </segment>
+      </unit>
+	  <unit id="Registration.Pilot.ClonePilot.BlankStatsLabel">
+        <segment state="translated">
+          <source>Reset kills and statistics records</source>
+          <target>Borrar registros de derribos y estadísticas</target>
+        </segment>
+      </unit>
+	  <unit id="Registration.Pilot.ClonePilot.BlankHeroAwardsLabel">
+        <segment state="translated">
+          <source>Reset heroic awards</source>
+          <target>Borrar condecoraciones al heroísmo</target>
+        </segment>
+      </unit>
+	<unit id="Briefing.Label.Exit">
+		<segment>
+			<source>Exit Briefing</source>
+			<target>Salir de Reunión Táctica</target>
+		</segment>
+	</unit>
+	<unit id="Briefing.Label.Title">
+		<segment>
+			<source>Briefing</source>
+			<target>Reunión Táctica</target>
+		</segment>
+	</unit>
+	<unit id="Briefing.Label.PageIndicator">
+		<segment>
+			<source>Page {current} of {total}</source>
+			<target>Página {current} de {total}</target>
+		</segment>
+	</unit>
+    <unit id="Registration.Pilot.InvalidDead.Label">
+      <segment state="translated">
+        <source>This pilot is dead!
+
+Revive, clone, or create a new pilot to continue.</source>
+        <target>¡Este piloto está muerto!
+
+Para continuar, reanima, clona o crea un nuevo piloto.</target>
+      </segment>
+    </unit>
+    <unit id="Registration.Pilot.InvalidCaptured.Label">
+      <segment state="translated">
+        <source>This pilot is captured!
+
+Revive, clone, or create a new pilot to continue.</source>
+        <target>¡Este piloto está capturado!
+
+Para continuar, reanima, clona o crea un nuevo piloto.</target>
+      </segment>
+    </unit>
+    <unit id="Registration.Pilot.InvalidUnselected.Label">
+      <segment state="translated">
+        <source>You must register!
+
+Select or create a pilot to continue.</source>
+        <target>¡Debes registratre!
+
+Escoge o crea un piloto para continuar.</target>
+      </segment>
+    </unit>
+    <unit id="Registration.Pilot.ClonePilotError.Label">
+      <segment state="translated">
+        <source>Error cloning pilot:</source>
+        <target>Error al clonar piloto:</target>
+      </segment>
+    </unit>
+    <unit id="Registration.Pilot.ClonePilot.NameTemplate">
+      <segment state="translated">
+        <source>{name}'s Clone</source>
+        <target>Clon de {name}</target>
+      </segment>
+    </unit>
+    <unit id="Registration.Pilot.PilotStatus.Text">
+      <segment state="translated">
+        <source>({status:choose(Active|Captured|Dead):Active|Captured|Dead})</source>
+        <target>({status:choose(Active|Captured|Dead):En activo|Capturado|Fallecido})</target>
+      </segment>
+    </unit>
+    <unit id="Registration.Pilot.CreatePilot.AlreadyExistsError">
+      <segment state="translated">
+        <source>This pilot name already exists, please choose a unique name.</source>
+        <target>Este nombre de piloto ya está en uso. Por favor, escoge un nombre único.</target>
+      </segment>
+    </unit>
+    <unit id="Registration.Pilot.ImportPilot.AlreadyExistsError">
+      <segment state="translated">
+        <source>This pilot name already exists, please delete the existing pilot first or import another.</source>
+        <target>Este nombre de piloto ya está en uso. Por favor, borra primero el piloto existente o importa otro.</target>
+      </segment>
+    </unit>
+    <unit id="Registration.Pilot.ImportPilot.Error">
+      <segment state="translated">
+        <source>Error importing pilot.</source>
+        <target>Error al importar piloto.</target>
+      </segment>
+    </unit>
+	<unit id="Registration.Pilot.Difficulty.Easy">
+      <segment state="translated">
+        <source>Easy</source>
+        <target>Fácil</target>
+      </segment>
+    </unit>
+	<unit id="Registration.Pilot.Difficulty.Medium">
+      <segment state="translated">
+        <source>Medium</source>
+        <target>Moderada</target>
+      </segment>
+    </unit>
+	<unit id="Registration.Pilot.Difficulty.Hard">
+      <segment state="translated">
+        <source>Hard</source>
+        <target>Difícil</target>
+      </segment>
+    </unit>
+	<unit id="Registration.Pilot.PortraitSource.FromGallery">
+      <segment state="translated">
+        <source>Using gallery portrait.</source>
+        <target>Usando retrato de la galería.</target>
+      </segment>
+    </unit>
+	<unit id="Registration.Pilot.PortraitSource.FromPath">
+      <segment state="translated">
+        <source>Path: {path}</source>
+        <target>Ruta: {path}</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

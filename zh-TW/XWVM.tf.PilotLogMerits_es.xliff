@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<xliff version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.tf.PilotLogMerits">
+      <unit id="Scores.HighScoreTitle" >
+        <segment>
+          <source>High Scores</source>
+          <target>Récords</target>
+        </segment>
+      </unit>
+      <unit id="Scores.NoHighScoresAvailable" >
+        <segment>
+          <source>No High Scores</source>
+          <target>No hay Récords</target>
+        </segment>
+      </unit>
+	<unit id="PilotLog.Stats.TitleLine" >
+		<notes>
+			<note>
+				Whatever is written here, will be shown in uppercase.
+			</note>
+		</notes>
+        <segment>
+          <source>{pilotRank} {pilotName}</source>
+          <target>{pilotRank} {pilotName}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.ScoreSkillLine" >
+		<notes>
+			<note>
+				The | will look like a little separation.
+			</note>
+		</notes>
+        <segment>
+          <source>Score: {score}|Skill: {skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Rookie|Officer|Veteran|Ace|Top Ace|Jedi}</source>
+          <target>Puntuación: {score}|Habilidad: {skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Novato|Oficial|Veterano|As|As de Ases|Jedi}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.LaserHitsLine" >
+        <segment>
+          <source>Laser hits: {hits} of {fired} ({percentage}%)</source>
+          <target>Impactos láser: {hits} de {fired} ({percentage}%)</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.ProjectileHitsLine" >
+        <segment>
+          <source>Warhead hits: {hits} of {fired} ({percentage}%)</source>
+          <target>Impactos de ojivas: {hits} de {fired} ({percentage}%)</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TODKillsLine" >
+        <segment>
+          <source>Total kills: {kills}</source>
+          <target>Derribos totales: {kills}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TODCapturesLine" >
+        <segment>
+          <source>Total captures: {captures}</source>
+          <target>Capturas totales: {captures}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.CraftLostLine" >
+        <segment>
+          <source>Craft lost: {craftLost}</source>
+          <target>Naves perdidas: {craftLost}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.HistoricalRecordLine" >
+        <segment>
+          <source>Mission {missionNum} {status:cond:Complete|Incomplete} {points} Points</source>
+          <target>Misión {missionNum} {status:cond:Completada|Incompleta} {points} Puntos</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TODRecordTitleLine" >
+        <segment>
+          <source>Battle {tourName} {status:cond:Complete|In Progress}</source>
+          <target>Batalla {tourName} {status:cond:Completada|En Progreso}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TODMissionLine" >
+        <segment>
+          <source>Mission {missionNum} with {points} Points</source>
+          <target>Misión {missionNum} con {points} Puntos</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TODTotalScoreLine" >
+        <segment>
+          <source>Total score: {score}</source>
+          <target>Puntuación total: {score}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TODVictoriesTitleLine" >
+        <segment>
+          <source>Player Battle Victories</source>
+          <target>Derribos del Jugador en Batalla</target>
+        </segment>
+	</unit>
+	<unit id="AwardType.TourMedal" >
+        <segment>
+          <source>Battle Medal</source>
+          <target>Medalla de Batalla</target>
+        </segment>
+	</unit>
+	<unit id="AwardType.FlightBadge" >
+        <segment>
+          <source>Training Patch</source>
+          <target>Parche de Entrenamiento</target>
+        </segment>
+      </unit>
+	  <unit id="AwardType.HistoricalFlightPatch" >
+		<segment>
+			<source>{Status:choose(0|1|2):Bronze|Silver|Gold} Combat Medallion</source>
+			<target>Medallón de Combate de {Status:choose(0|1|2):Bronce|Plata|Oro}</target>
+        </segment>
+    </unit>
+	<unit id="AwardType.SecondaryGoals" >
+      <segment>
+        <source>All Secondary Goals Completed</source>
+        <target>Todos los Objetivos Secundarios Completados</target>
+      </segment>
+    </unit>
+	<unit id="AwardType.BonusGoals" >
+      <segment>
+        <source>All Bonus Goals Completed</source>
+        <target>Todos los Objetivos Adicionales Completados</target>
+      </segment>
+    </unit>
+	<unit id="AwardType.SecretOrder" >
+      <segment>
+        <source>Secret Order Tattoo</source>
+        <target>Tatuaje de la Orden Secreta</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
