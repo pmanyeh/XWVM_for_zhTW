@@ -4,182 +4,182 @@
     <unit id="a-alpha">
       <segment state="translated">
         <source>Alpha</source>
-        <target>Alfa</target>
+        <target>阿爾法</target>
       </segment>
     </unit>
     <unit id="a-await">
       <segment state="translated">
         <source>Awaiting further instructions.</source>
-        <target>A la espera de nuevas órdenes.</target>
+        <target>等待進一步指示。</target>
       </segment>
     </unit>
     <unit id="a-begin">
       <segment state="translated">
         <source>Begin</source>
-        <target>Inicia</target>
+        <target>開始</target>
       </segment>
     </unit>
     <unit id="a-begun">
       <segment state="translated">
         <source>begun</source>
-        <target>iniciada</target>
+        <target>已開始</target>
       </segment>
     </unit>
     <unit id="a-beta">
       <segment>
         <source>Beta</source>
-        <target>Beta</target>
+        <target>貝塔</target>
       </segment>
     </unit>
     <unit id="a-board">
       <segment state="translated">
         <source>Boarding</source>
-        <target>Abordaje</target>
+        <target>登艦作業</target>
       </segment>
     </unit>
     <unit id="a-capt">
       <segment state="translated">
         <source>Capture</source>
-        <target>Captura</target>
+        <target>捕獲</target>
       </segment>
     </unit>
     <unit id="a-commen">
       <segment state="translated">
         <source>Commence</source>
-        <target>Inicien</target>
+        <target>開始執行</target>
       </segment>
     </unit>
     <unit id="a-compl">
       <segment state="translated">
         <source>complete.</source>
-        <target>completada.</target>
+        <target>已完成。</target>
       </segment>
     </unit>
     <unit id="a-craft">
       <segment state="translated">
         <source>craft</source>
-        <target>nave</target>
+        <target>機艦</target>
       </segment>
     </unit>
     <unit id="a-critic">
       <segment state="translated">
         <source>Mission critical</source>
-        <target>Esencial para la Misión</target>
+        <target>任務關鍵</target>
       </segment>
     </unit>
     <unit id="a-delta">
       <segment>
         <source>Delta</source>
-        <target>Delta</target>
+        <target>德爾塔</target>
       </segment>
     </unit>
     <unit id="a-destr">
       <segment state="translated">
         <source>destroyed.</source>
-        <target>destruido.</target>
+        <target>已摧毀。</target>
       </segment>
     </unit>
     <unit id="a-disabl">
       <segment state="translated">
         <source>disabled.</source>
-        <target>incapacitado.</target>
+        <target>已癱瘓。</target>
       </segment>
     </unit>
 	<unit id="a-diseng">
       <segment>
         <source>disengaging attack.</source>
-        <target>cancelando el ataque.</target>
+        <target>脫離攻擊。</target>
       </segment>
     </unit>
 
     <unit id="a-dock">
       <segment state="translated">
         <source>Docking</source>
-        <target>Acoplamiento</target>
+        <target>對接作業</target>
       </segment>
     </unit>
     <unit id="a-emp">
       <segment state="translated">
         <source>The Emperor will be pleased.</source>
-        <target>El Emperador estará satisfecho.</target>
+        <target>帝皇將會非常滿意。</target>
       </segment>
     </unit>
     <unit id="a-excel">
       <segment state="translated">
         <source>Excellent</source>
-        <target>Excelente</target>
+        <target>太優秀了</target>
       </segment>
     </unit>
     <unit id="a-gamma">
       <segment>
         <source>Gamma</source>
-        <target>Gamma</target>
+        <target>伽瑪</target>
       </segment>
     </unit>
     <unit id="a-good">
       <segment state="translated">
         <source>Good</source>
-        <target>Buena</target>
+        <target>漂亮</target>
       </segment>
     </unit>
     <unit id="a-group">
       <segment state="translated">
         <source>Flight group</source>
-        <target>Grupo de vuelo</target>
+        <target>編隊</target>
       </segment>
     </unit>
     <unit id="a-head">
       <segment state="translated">
         <source>Heading for home.</source>
-        <target>Yendo a casa.</target>
+        <target>正在返航。</target>
       </segment>
     </unit>
     <unit id="a-hull">
       <segment state="translated">
         <source>hull condition critical.</source>
-        <target>Integridad del casco crítica.</target>
+        <target>機體狀況處於危急狀態。</target>
       </segment>
     </unit>
     <unit id="a-hunt">
       <segment state="translated">
         <source>hunting</source>
-        <target>caza</target>
+        <target>獵殺</target>
       </segment>
     </unit>
     <unit id="a-ignor">
       <segment state="translated">
         <source>Ignoring target</source>
-        <target>Ignorando objetivo</target>
+        <target>忽略目標</target>
       </segment>
     </unit>
     <unit id="a-incom">
       <segment state="translated">
         <source>Incoming missile</source>
-        <target>Alerta Misil</target>
+        <target>飛彈來襲</target>
       </segment>
     </unit>
     <unit id="a-instal">
       <segment state="translated">
         <source>installation</source>
-        <target>instalación</target>
+        <target>設施</target>
       </segment>
     </unit>
     <unit id="a-missio">
       <segment state="translated">
         <source>mission</source>
-        <target>misión</target>
+        <target>任務</target>
       </segment>
     </unit>
     <unit id="a-mu">
       <segment>
         <source>Mu</source>
-        <target>Mu</target>
+        <target>繆</target>
       </segment>
     </unit>
     <unit id="a-object">
       <segment state="translated">
         <source>objectives completed</source>
-        <target>objetivos completados</target>
+        <target>目標已達成</target>
       </segment>
     </unit>
     <unit id="a-one">
@@ -191,73 +191,73 @@
     <unit id="a-onway">
       <segment state="translated">
         <source>On my way</source>
-        <target>En camino</target>
+        <target>我正在前往</target>
       </segment>
     </unit>
     <unit id="a-oper">
       <segment state="translated">
         <source>operation</source>
-        <target>operación</target>
+        <target>作業</target>
       </segment>
     </unit>
     <unit id="a-primar">
       <segment state="translated">
         <source>Primary</source>
-        <target>Primarios</target>
+        <target>主要</target>
       </segment>
     </unit>
     <unit id="a-proc">
       <segment state="translated">
         <source>Proceeding with mission.</source>
-        <target>Continuando con la misión</target>
+        <target>繼續執行任務。</target>
       </segment>
     </unit>
     <unit id="a-reload">
       <segment state="translated">
         <source>Reload</source>
-        <target>Recarga</target>
+        <target>重新裝填</target>
       </segment>
     </unit>
     <unit id="a-second">
       <segment state="translated">
         <source>Secondary</source>
-        <target>Secundarios</target>
+        <target>次要</target>
       </segment>
     </unit>
     <unit id="a-secret">
       <segment state="translated">
         <source>Secret</source>
-        <target>Secretos</target>
+        <target>秘密</target>
       </segment>
     </unit>
     <unit id="a-shield">
       <segment state="translated">
         <source>shields down</source>
-        <target>sin escudos</target>
+        <target>護盾已耗盡</target>
       </segment>
     </unit>
     <unit id="a-shoot">
       <segment state="translated">
         <source>shooting</source>
-        <target>puntería</target>
+        <target>射擊命中</target>
       </segment>
     </unit>
     <unit id="a-super">
       <segment state="translated">
         <source>Superb</source>
-        <target>Magnífico</target>
+        <target>精湛的表現</target>
       </segment>
     </unit>
     <unit id="a-target">
       <segment state="translated">
         <source>target</source>
-        <target>objetivo</target>
+        <target>目標</target>
       </segment>
     </unit>
     <unit id="a-this">
       <segment state="translated">
         <source>this is</source>
-        <target>aquí</target>
+        <target>這裡是</target>
       </segment>
     </unit>
     <unit id="a-two">
@@ -269,79 +269,79 @@
     <unit id="a-under">
       <segment state="translated">
         <source>under attack.</source>
-        <target>bajo ataque.</target>
+        <target>遭受攻擊。</target>
       </segment>
     </unit>
     <unit id="a-using">
       <segment state="translated">
         <source>Using your target for attack.</source>
-        <target>Atacando a tu objetivo.</target>
+        <target>正轉向攻擊你的目標。</target>
       </segment>
     </unit>
     <unit id="a-work">
       <segment state="translated">
         <source>work</source>
-        <target>trabajo</target>
+        <target>幹得好</target>
       </segment>
     </unit>
     <unit id="c-diseng">
       <segment state="translated">
         <source>disengaging attack.</source>
-        <target>interrumpiendo ataque.</target>
+        <target>脫離攻擊。</target>
       </segment>
     </unit>
     <unit id="c-order">
       <segment state="translated">
         <source>Order acknowledged, sir.</source>
-        <target>Orden recibida, señor.</target>
+        <target>指令已收到，長官。</target>
       </segment>
     </unit>
     <unit id="c-radio">
       <segment state="translated">
         <source>Radio message received.</source>
-        <target>Mensaje de radio recibido.</target>
+        <target>收到無線電訊息。</target>
       </segment>
     </unit>
     <unit id="c-trans">
       <segment state="translated">
         <source>Transmission received.</source>
-        <target>Transmisión recibida.</target>
+        <target>收到通訊傳輸。</target>
       </segment>
     </unit>
     <unit id="e-abort">
       <segment state="translated">
         <source>Abort mission! Mission a failure.</source>
-        <target>¡Aborten la misión! La mission ha fracasado.</target>
+        <target>中止任務！任務判定失敗。</target>
       </segment>
     </unit>
     <unit id="e-ack">
       <segment state="translated">
         <source>acknowledged.</source>
-        <target>recibida.</target>
+        <target>已收到。</target>
       </segment>
     </unit>
     <unit id="e-denied">
       <segment state="translated">
         <source>denied.</source>
-        <target>denegada.</target>
+        <target>已拒絕。</target>
       </segment>
     </unit>
     <unit id="e-hangar">
       <segment state="translated">
         <source>You are cleared for hangar entry.</source>
-        <target>Tienes permiso para entrar al hangar.</target>
+        <target>已獲准進入機庫。</target>
       </segment>
     </unit>
     <unit id="e-reinf">
       <segment state="translated">
         <source>reinforcements</source>
-        <target>refuerzos</target>
+        <target>增援</target>
       </segment>
     </unit>
     <unit id="e-reques">
       <segment state="translated">
         <source>Request for</source>
-        <target>Petición de</target>
+        <target>請求</target>
       </segment>
     </unit>
   </file>
