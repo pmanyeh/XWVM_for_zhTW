@@ -7,163 +7,163 @@
 		<unit id="Condition_Always">
 			<segment state="translated">
 				<source>Always</source>
-				<target>Siempre</target>
+				<target>總是</target>
 			</segment>
 		</unit>
 		<unit id="Condition_None">
 			<segment state="translated">
 				<source>None</source>
-				<target>Ninguno</target>
+				<target>無</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Arrived">
 			<segment state="translated">
 				<source>Arrived</source>
-				<target>Lleg{count:plural:ó|aron}</target>
+				<target>已到達</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Attacked">
 			<segment state="translated">
 				<source>Attacked</source>
-				<target>Atacad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>遭攻擊</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Boarded">
 			<segment state="translated">
 				<source>Boarded</source>
-				<target>Abordad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>遭登艦</target>
 			</segment>
 		</unit>
 		<unit id="Condition_CannonSysDisabled">
 			<segment state="translated">
 				<source>Cannons Disabled</source>
-				<target>Cañones Incapacitados</target>
+				<target>雷射砲已癱瘓</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Captured">
 			<segment state="translated">
 				<source>Captured</source>
-				<target>Capturad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已被捕獲</target>
 			</segment>
 		</unit>
 		<unit id="Condition_CompletedBonusGoals">
 			<segment state="translated">
 				<source>Completed Bonus Goals</source>
-				<target>Objetivos Extra Completados</target>
+				<target>完成額外目標</target>
 			</segment>
 		</unit>
 		<unit id="Condition_CompletedMission">
 			<segment state="translated">
 				<source>Completed Mission</source>
-				<target>Complet{count:plural:ó|aron} la Misión</target>
+				<target>完成任務</target>
 			</segment>
 		</unit>
 		<unit id="Condition_CompletedPrimaryGoals">
 			<segment state="translated">
 				<source>Completed Primary Goals</source>
-				<target>Objetivos Primarios Completados</target>
+				<target>完成主要目標</target>
 			</segment>
 		</unit>
 		<unit id="Condition_CompletedSecondaryGoals">
 			<segment state="translated">
 				<source>Completed Secondary Goals</source>
-				<target>Objetivos Secundarios Completados</target>
+				<target>完成次要目標</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Destroyed">
 			<segment state="translated">
 				<source>Destroyed</source>
-				<target>Destruid{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已摧毀</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Disabled">
 			<segment state="translated">
 				<source>Disabled</source>
-				<target>Incapacitad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已癱瘓</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Docked">
 			<segment state="translated">
 				<source>Docked</source>
-				<target>Acoplad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已對接</target>
 			</segment>
 		</unit>
 		<unit id="Condition_DroppedOff">
 			<segment state="translated">
 				<source>Dropped Off</source>
-				<target>Soltad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已投放</target>
 			</segment>
 		</unit>
 		<unit id="Condition_FailedBonusGoals">
 			<segment state="translated">
 				<source>Failed Bonus Goals</source>
-				<target>Objetivos Extra Fallados</target>
+				<target>未達成額外目標</target>
 			</segment>
 		</unit>
 		<unit id="Condition_FailedPrimaryGoals">
 			<segment state="translated">
 				<source>Failed Primary Goals</source>
-				<target>Objetivos Primarios Fallados</target>
+				<target>未達成主要目標</target>
 			</segment>
 		</unit>
 		<unit id="Condition_FailedSecondaryGoals">
 			<segment state="translated">
 				<source>Failed Secondary Goals</source>
-				<target>Objetivos Secundarios Fallados</target>
+				<target>未達成次要目標</target>
 			</segment>
 		</unit>
 		<unit id="Condition_FiftyHull">
 			<segment state="translated">
 				<source>Fifty Hull</source>
-				<target>Casco al 50%</target>
+				<target>機體剩餘50%</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Inspected">
 			<segment state="translated">
 				<source>Inspected</source>
-				<target>Inspeccionad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已完成檢查</target>
 			</segment>
 		</unit>
 		<unit id="Condition_OutOfWarheads">
 			<segment state="translated">
 				<source>Out of Warheads</source>
-				<target>Sin Ojivas</target>
+				<target>彈頭耗盡</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Reinforced">
 			<segment state="translated">
 				<source>Reinforced</source>
-				<target>Reforzad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>獲得增援</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Survived">
 			<segment state="translated">
 				<source>Survived</source>
-				<target>Sobrevivi{count:plural:ó|eron}</target>
+				<target>存活</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Threatened">
 			<segment state="translated">
 				<source>Threatened</source>
-				<target>Amenazad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>遭受威脅</target>
 			</segment>
 		</unit>
 		<unit id="Condition_ZeroShields">
 			<segment state="translated">
 				<source>Zero Shields</source>
-				<target>Sin Escudos</target>
+				<target>護盾耗盡</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Recovered">
 			<segment state="translated">
 				<source>Recovered</source>
-				<target>Recuperad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已回收</target>
 			</segment>
 		</unit>
 		<unit id="Condition_Unknown">
 			<segment state="translated">
 				<source>Unknown</source>
-				<target>Desconocido</target>
+				<target>未知</target>
 			</segment>
 		</unit>
 
@@ -171,37 +171,37 @@
 		<unit id="Amount_AllButOne">
 			<segment state="translated">
 				<source>All But One</source>
-				<target>Tod{species.GENDER:choose(M|F):os|as} Menos Un{species.GENDER:choose(M|F):o|a}</target>
+				<target>除一艘外全數</target>
 			</segment>
 		</unit>
 		<unit id="Amount_AllButOneOfFirstWave">
 			<segment state="translated">
 				<source>All But One of First Wave</source>
-				<target>Tod{species.GENDER:choose(M|F):os|as} Menos Un{species.GENDER:choose(M|F):o|a} de la Primera Oleada</target>
+				<target>第一波除一艘外全數</target>
 			</segment>
 		</unit>
 		<unit id="Amount_AllNonPlayerCraft">
 			<segment state="translated">
 				<source>All Non-Player Craft</source>
-				<target>Tod{species.GENDER:choose(M|F):os los|as las} que No Son Jugador</target>
+				<target>所有非玩家機艦</target>
 			</segment>
 		</unit>
 		<unit id="Amount_AllNonSpecialCraft">
 			<segment state="translated">
 				<source>All Non-Special Craft</source>
-				<target>Tod{species.GENDER:choose(M|F):os los|as las} No Especiales</target>
+				<target>所有非特殊機艦</target>
 			</segment>
 		</unit>
 		<unit id="Amount_AtLeastOne">
 			<segment state="translated">
 				<source>Any</source>
-				<target>Cualquiera</target>
+				<target>任一</target>
 			</segment>
 		</unit>
 		<unit id="Amount_AtLeastOneOfFirstWave">
 			<segment state="translated">
 				<source>Any of First Wave</source>
-				<target>Cualquiera de la Primera Oleada</target>
+				<target>第一波任一</target>
 			</segment>
 		</unit>
 		<unit id="Amount_FiftyPercent">
@@ -213,7 +213,7 @@
 		<unit id="Amount_FiftyPercentFirstWave">
 			<segment state="translated">
 				<source>50% of First Wave</source>
-				<target>50% de la Primera Oleada</target>
+				<target>第一波 50%</target>
 			</segment>
 		</unit>
 		<unit id="Amount_HundredPercent">
@@ -225,13 +225,13 @@
 		<unit id="Amount_HundredPercentFirstWave">
 			<segment state="translated">
 				<source>100% of First Wave</source>
-				<target>100% de la Primera Oleada</target>
+				<target>第一波 100%</target>
 			</segment>
 		</unit>
 		<unit id="Amount_PlayerCraft">
 			<segment state="translated">
 				<source>Player Craft</source>
-				<target>Nave del Jugador</target>
+				<target>玩家座機</target>
 			</segment>
 		</unit>
 		<unit id="Amount_SeventyFivePercent">
@@ -243,13 +243,13 @@
 		<unit id="Amount_SeventyFivePercentFirstWave">
 			<segment state="translated">
 				<source>75% of First Wave</source>
-				<target>75% de la Primera Oleada</target>
+				<target>第一波 75%</target>
 			</segment>
 		</unit>
 		<unit id="Amount_SpecialCraft">
 			<segment state="translated">
 				<source>Special Craft</source>
-				<target>{species.GENDER:choose(M|F):Los|Las} Especiales</target>
+				<target>特殊機艦</target>
 			</segment>
 		</unit>
 		<unit id="Amount_TwentyFivePercent">
@@ -261,7 +261,7 @@
 		<unit id="Amount_TwentyFivePercentFirstWave">
 			<segment state="translated">
 				<source>25% of First Wave</source>
-				<target>25% de la Primera Oleada</target>
+				<target>第一波 25%</target>
 			</segment>
 		</unit>
 
@@ -270,109 +270,109 @@
 		<unit id="Goal_Arrived_Unresolved">
 			<segment state="translated">
 				<source>must arrive</source>
-				<target>deb{count:plural:e|en} llegar</target>
+				<target>必須到達</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Attacked_Unresolved">
 			<segment state="translated">
 				<source>must be attacked</source>
-				<target>deb{count:plural:e|en} ser atacad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>必須遭受攻擊</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Boarded_Unresolved">
 			<segment state="translated">
 				<source>must be boarded</source>
-				<target>deb{count:plural:e|en} ser abordad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>必須完成登艦</target>
 			</segment>
 		</unit>
 		<unit id="Goal_CannonSysDisabled_Unresolved">
 			<segment state="translated">
 				<source>must have cannons disabled</source>
-				<target>deb{count:plural:e|en} tener los cañones incapacitados</target>
+				<target>必須癱瘓其雷射砲</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Captured_Unresolved">
 			<segment state="translated">
 				<source>must be captured</source>
-				<target>deb{count:plural:e|en} ser capturad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>必須被捕獲</target>
 			</segment>
 		</unit>
 		<unit id="Goal_CompletedMission_Unresolved">
 			<segment state="translated">
 				<source>must complete mission</source>
-				<target>deb{count:plural:e|en} completar la misión</target>
+				<target>必須完成任務</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Destroyed_Unresolved">
 			<segment state="translated">
 				<source>must be destroyed</source>
-				<target>deb{count:plural:e|en} ser destruid{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>必須摧毀</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Disabled_Unresolved">
 			<segment state="translated">
 				<source>must be disabled</source>
-				<target>deb{count:plural:e|en} ser incapacitad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>必須癱瘓</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Docked_Unresolved">
 			<segment state="translated">
 				<source>must have docked</source>
-				<target>deb{count:plural:e|en} haberse acoplado</target>
+				<target>必須完成對接</target>
 			</segment>
 		</unit>
 		<unit id="Goal_DroppedOff_Unresolved">
 			<segment state="translated">
 				<source>must have dropped off</source>
-				<target>deb{count:plural:e|en} haber soltado</target>
+				<target>必須完成投放</target>
 			</segment>
 		</unit>
 		<unit id="Goal_FiftyHull_Unresolved">
 			<segment state="translated">
 				<source>must have half hull</source>
-				<target>deb{count:plural:e|en} tener el casco al 50%</target>
+				<target>機體必須降至半數</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Inspected_Unresolved">
 			<segment state="translated">
 				<source>must be inspected</source>
-				<target>deb{count:plural:e|en} ser inspeccionad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>必須完成檢查</target>
 			</segment>
 		</unit>
 		<unit id="Goal_OutOfWarheads_Unresolved">
 			<segment state="translated">
 				<source>must be out of warheads</source>
-				<target>deb{count:plural:e|en} estar sin ojivas</target>
+				<target>必須耗盡彈頭</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Survived_Unresolved">
 			<segment state="translated">
 				<source>must survive</source>
-				<target>deb{count:plural:e|en} sobrevivir</target>
+				<target>必須存活</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Threatened_Unresolved">
 			<segment state="translated">
 				<source>must be threatened</source>
-				<target>deb{count:plural:e|en} ser amenazad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>必須受到威脅</target>
 			</segment>
 		</unit>
 		<unit id="Goal_ZeroShields_Unresolved">
 			<segment state="translated">
 				<source>must have zero shields</source>
-				<target>deb{count:plural:e|en} quedarse sin escudos</target>
+				<target>護盾必須耗盡</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Recovered_Unresolved">
 			<segment state="translated">
 				<source>must be recovered</source>
-				<target>deb{count:plural:e|en} ser recuperad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>必須回收</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Unknown_Unresolved">
 			<segment state="translated">
 				<source>Unknown</source>
-				<target>Desconocido</target>
+				<target>未知</target>
 			</segment>
 		</unit>
 
@@ -380,109 +380,109 @@
 		<unit id="Goal_Arrived_Passed">
 			<segment state="translated">
 				<source>arrived</source>
-				<target>lleg{count:plural:ó|aron}</target>
+				<target>已到達</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Attacked_Passed">
 			<segment state="translated">
 				<source>attacked</source>
-				<target>atacad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已遭受攻擊</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Boarded_Passed">
 			<segment state="translated">
 				<source>boarded</source>
-				<target>abordad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已登艦</target>
 			</segment>
 		</unit>
 		<unit id="Goal_CannonSysDisabled_Passed">
 			<segment state="translated">
 				<source>cannons disabled</source>
-				<target>cañones incapacitados</target>
+				<target>雷射砲已癱瘓</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Captured_Passed">
 			<segment state="translated">
 				<source>captured</source>
-				<target>capturad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已被捕獲</target>
 			</segment>
 		</unit>
 		<unit id="Goal_CompletedMission_Passed">
 			<segment state="translated">
 				<source>completed mission</source>
-				<target>completó la misión</target>
+				<target>已完成任務</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Destroyed_Passed">
 			<segment state="translated">
 				<source>destroyed</source>
-				<target>destruid{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已摧毀</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Disabled_Passed">
 			<segment state="translated">
 				<source>disabled</source>
-				<target>incapacitad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已癱瘓</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Docked_Passed">
 			<segment state="translated">
 				<source>docked</source>
-				<target>acoplad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已對接</target>
 			</segment>
 		</unit>
 		<unit id="Goal_DroppedOff_Passed">
 			<segment state="translated">
 				<source>dropped off</source>
-				<target>soltó</target>
+				<target>已投放</target>
 			</segment>
 		</unit>
 		<unit id="Goal_FiftyHull_Passed">
 			<segment state="translated">
 				<source>half hull</source>
-				<target>con casco al 50%</target>
+				<target>機體半數</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Inspected_Passed">
 			<segment state="translated">
 				<source>inspected</source>
-				<target>inspeccionad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已檢查</target>
 			</segment>
 		</unit>
 		<unit id="Goal_OutOfWarheads_Passed">
 			<segment state="translated">
 				<source>out of warheads</source>
-				<target>sin ojivas</target>
+				<target>彈頭耗盡</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Survived_Passed">
 			<segment state="translated">
 				<source>survived</source>
-				<target>sobrevivió</target>
+				<target>已存活</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Threatened_Passed">
 			<segment state="translated">
 				<source>threatened</source>
-				<target>amenazad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已受威脅</target>
 			</segment>
 		</unit>
 		<unit id="Goal_ZeroShields_Passed">
 			<segment state="translated">
 				<source>zero shields</source>
-				<target>sin escudos</target>
+				<target>護盾耗盡</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Recovered_Passed">
 			<segment state="translated">
 				<source>recovered</source>
-				<target>recuperad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>已回收</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Unknown_Passed">
 			<segment state="translated">
 				<source>Unknown</source>
-				<target>Desconocido</target>
+				<target>未知</target>
 			</segment>
 		</unit>
 
@@ -490,109 +490,109 @@
 		<unit id="Goal_Arrived_Failed">
 			<segment state="translated">
 				<source>didn't arrive</source>
-				<target>no lleg{count:plural:ó|aron}</target>
+				<target>未到達</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Attacked_Failed">
 			<segment state="translated">
 				<source>was not attacked</source>
-				<target>no fu{count:plural:e|eron} atacad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>未遭受攻擊</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Boarded_Failed">
 			<segment state="translated">
 				<source>not boarded</source>
-				<target>no fu{count:plural:e|eron} abordad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>未登艦</target>
 			</segment>
 		</unit>
 		<unit id="Goal_CannonSysDisabled_Failed">
 			<segment state="translated">
 				<source>didn't have cannons disabled</source>
-				<target>sus cañones no fueron incapacitados</target>
+				<target>雷射砲未癱瘓</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Captured_Failed">
 			<segment state="translated">
 				<source>not captured</source>
-				<target>no capturad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>未被捕獲</target>
 			</segment>
 		</unit>
 		<unit id="Goal_CompletedMission_Failed">
 			<segment state="translated">
 				<source>didn't complete mission</source>
-				<target>no complet{count:plural:ó|aron} la misión</target>
+				<target>未完成任務</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Destroyed_Failed">
 			<segment state="translated">
 				<source>not destroyed</source>
-				<target>no destruid{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>未被摧毀</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Disabled_Failed">
 			<segment state="translated">
 				<source>not disabled</source>
-				<target>no incapacitad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>未被癱瘓</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Docked_Failed">
 			<segment state="translated">
 				<source>not docked</source>
-				<target>no se acopl{count:plural:ó|aron}</target>
+				<target>未對接</target>
 			</segment>
 		</unit>
 		<unit id="Goal_DroppedOff_Failed">
 			<segment state="translated">
 				<source>didn't drop off</source>
-				<target>no solt{count:plural:ó|aron}</target>
+				<target>未投放</target>
 			</segment>
 		</unit>
 		<unit id="Goal_FiftyHull_Failed">
 			<segment state="translated">
 				<source>not half hull</source>
-				<target>no lleg{count:plural:ó|aron} a tener el casco al 50%</target>
+				<target>機體未降至半數</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Inspected_Failed">
 			<segment state="translated">
 				<source>not inspected</source>
-				<target>no inspeccionad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>未檢查</target>
 			</segment>
 		</unit>
 		<unit id="Goal_OutOfWarheads_Failed">
 			<segment state="translated">
 				<source>not out of warheads</source>
-				<target>no lleg{count:plural:ó|aron} a estar sin ojivas</target>
+				<target>彈頭未耗盡</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Survived_Failed">
 			<segment state="translated">
 				<source>didn't survive</source>
-				<target>no sobrevivi{count:plural:ó|eron}</target>
+				<target>未存活</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Threatened_Failed">
 			<segment state="translated">
 				<source>not threatened</source>
-				<target>no amenazad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>未受威脅</target>
 			</segment>
 		</unit>
 		<unit id="Goal_ZeroShields_Failed">
 			<segment state="translated">
 				<source>not zero shields</source>
-				<target>no lleg{count:plural:ó|aron} a estar sin escudos</target>
+				<target>護盾未耗盡</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Recovered_Failed">
 			<segment state="translated">
 				<source>not recovered</source>
-				<target>no recuperad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+				<target>未回收</target>
 			</segment>
 		</unit>
 		<unit id="Goal_Unknown_Failed">
 			<segment state="translated">
 				<source>Unknown</source>
-				<target>Desconocido</target>
+				<target>未知</target>
 			</segment>
 		</unit>
 
@@ -603,25 +603,25 @@
 			</notes>
 			<segment state="translated">
 				<source>{amount} of \{0\}: {condition}</source>
-				<target>{amount} de \{0\}: {condition}</target>
+				<target>\{0\} 之 {amount}：{condition}</target>
 			</segment>
 		</unit>
 		<unit id="Trigger_OrWentHome">
 			<segment state="translated">
 				<source> or Went Home</source>
-				<target> o se march{count:plural:ó|aron}</target>
+				<target> 或 返航</target>
 			</segment>
 		</unit>
 		<unit id="Trigger_Or">
 			<segment state="translated">
 				<source> or </source>
-				<target> o </target>
+				<target> 或 </target>
 			</segment>
 		</unit>
 		<unit id="Trigger_And">
 			<segment state="translated">
 				<source> and </source>
-				<target> y </target>
+				<target> 且 </target>
 			</segment>
 		</unit>
 
@@ -642,13 +642,13 @@
 		<unit id="Goal_MissingCondition">
 			<segment state="translated">
 				<source>Missing Goal Condition Lookup!!!</source>
-				<target>No se puede encontrar la condición de la misión!!!</target>
+				<target>缺少目標條件查閱項目！！！</target>
 			</segment>
 		</unit>
 		<unit id="Goal_InvalidCondition">
 			<segment state="translated">
 				<source>Invalid Goal Condition!!!</source>
-				<target>Condición de objetivo no válida!!!</target>
+				<target>無效的目標條件！！！</target>
 			</segment>
 		</unit>
 
@@ -657,49 +657,49 @@
 		<unit id="CraftCategory_Fighter">
 			<segment state="translated">
 				<source>Fighters</source>
-				<target>Cazas</target>
+				<target>戰鬥機</target>
 			</segment>
 		</unit>
 		<unit id="CraftCategory_Transport">
 			<segment state="translated">
 				<source>Transports</source>
-				<target>Transportes</target>
+				<target>運輸艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftCategory_FreighterContainer">
 			<segment state="translated">
 				<source>Freighters/Containers</source>
-				<target>Cargueros/Contenedores</target>
+				<target>貨船／貨櫃</target>
 			</segment>
 		</unit>
 		<unit id="CraftCategory_Capital">
 			<segment state="translated">
 				<source>Starships</source>
-				<target>Naves Capitales</target>
+				<target>主力艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftCategory_Utility">
 			<segment state="translated">
 				<source>Utility</source>
-				<target>Servicio</target>
+				<target>通用艦船</target>
 			</segment>
 		</unit>
 		<unit id="CraftCategory_Platform">
 			<segment state="translated">
 				<source>Platforms</source>
-				<target>Plataformas</target>
+				<target>太空平台</target>
 			</segment>
 		</unit>
 		<unit id="CraftCategory_Mine">
 			<segment state="translated">
 				<source>Mines</source>
-				<target>Minas</target>
+				<target>太空水雷</target>
 			</segment>
 		</unit>
 		<unit id="CraftCategory_Object">
 			<segment state="translated">
 				<source>Probes/Sats/Navs</source>
-				<target>Sondas/Satélites/Boyas</target>
+				<target>探測器／人造衛星／導航浮標</target>
 			</segment>
 		</unit>
 
@@ -707,19 +707,19 @@
 		<unit id="ObjectCategory_Craft">
 			<segment state="translated">
 				<source>Craft</source>
-				<target>Naves</target>
+				<target>機艦</target>
 			</segment>
 		</unit>
 		<unit id="ObjectCategory_Weapon">
 			<segment state="translated">
 				<source>Mines</source>
-				<target>Minas</target>
+				<target>太空水雷</target>
 			</segment>
 		</unit>
 		<unit id="ObjectCategory_Satellite">
 			<segment state="translated">
 				<source>Probes/Sats/Navs</source>
-				<target>Sondas/Satélites/Boyas</target>
+				<target>探測器／人造衛星／導航浮標</target>
 			</segment>
 		</unit>
 
@@ -727,73 +727,73 @@
 		<unit id="Status_Normal">
 			<segment state="translated">
 				<source>craft with no special initial status</source>
-				<target>naves sin estado inicial especial</target>
+				<target>初始狀態無特殊的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_HalfShields">
 			<segment state="translated">
 				<source>craft starting with half shields</source>
-				<target>naves que empiezan al 50% de escudos</target>
+				<target>初始護盾半滿的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_NoShields">
 			<segment state="translated">
 				<source>craft starting with no shields</source>
-				<target>naves que empiezan sin escudos</target>
+				<target>初始無護盾的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_DoubleMissiles">
 			<segment state="translated">
 				<source>craft starting with double payload</source>
-				<target>naves que empiezan con doble carga de ojivas</target>
+				<target>初始雙倍載彈量的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_HalfMissiles">
 			<segment state="translated">
 				<source>craft starting with half payload</source>
-				<target>naves que empiezan con media carga de ojivas</target>
+				<target>初始半數載彈量的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_HalfShieldsNoCharging">
 			<segment state="translated">
 				<source>craft starting with half, non-charging shields</source>
-				<target>naves que empiezan con escudos al 50%, sin recarga</target>
+				<target>初始護盾半滿且無法充能的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_HyperdriveAdded">
 			<segment state="translated">
 				<source>craft with added hyperdrive</source>
-				<target>naves con hipermotor añadido</target>
+				<target>加裝超空間驅動器的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_NoHyperdrive">
 			<segment state="translated">
 				<source>craft starting with no hyperdrive</source>
-				<target>naves que empiezan sin hipermotor</target>
+				<target>初始無超空間驅動器的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_NoMissiles">
 			<segment state="translated">
 				<source>craft starting with no payload</source>
-				<target>naves que empiezan sin carga de ojivas</target>
+				<target>初始無彈藥負載的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_NoTurrets">
 			<segment state="translated">
 				<source>craft starting with no turrets</source>
-				<target>naves que empiezan sin torretas</target>
+				<target>初始無砲塔的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_ShieldAdded">
 			<segment state="translated">
 				<source>craft with added shields</source>
-				<target>naves con escudos añadidos</target>
+				<target>加裝護盾的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_ShieldToZero">
 			<segment state="translated">
 				<source>craft starting with depleted shields</source>
-				<target>naves que empiezan con los escudos agotados</target>
+				<target>初始護盾耗盡的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Status_Fallback">
@@ -802,7 +802,7 @@
 			</notes>
 			<segment state="translated">
 				<source>craft with status '{status}'</source>
-				<target>naves con el estado '{status}'</target>
+				<target>狀態為「{status}」的機艦</target>
 			</segment>
 		</unit>
 
@@ -810,127 +810,127 @@
 		<unit id="CraftWhen_CAPTURED">
 			<segment state="translated">
 				<source>craft that have been captured</source>
-				<target>naves que han sido capturadas</target>
+				<target>已被捕獲的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_PLAYER_CRAFT">
 			<segment state="translated">
 				<source>player craft</source>
-				<target>nave del jugador</target>
+				<target>玩家座機</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_SPECIAL_CRAFT">
 			<segment state="translated">
 				<source>special craft</source>
-				<target>nave especial</target>
+				<target>特殊機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_NONPLAYER_CRAFT">
 			<segment state="translated">
 				<source>non-player craft</source>
-				<target>nave de no jugador</target>
+				<target>非玩家機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_ANY_HULL_DAMAGE">
 			<segment state="translated">
 				<source>craft that have taken hull damage</source>
-				<target>naves con el casco dañado</target>
+				<target>機體受損的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_ATTACKED">
 			<segment state="translated">
 				<source>craft that have been attacked</source>
-				<target>naves que han sido atacadas</target>
+				<target>遭受攻擊的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_INSPECTED">
 			<segment state="translated">
 				<source>craft that have been inspected</source>
-				<target>naves que han sido inspeccionadas</target>
+				<target>已受檢查的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_DISABLED">
 			<segment state="translated">
 				<source>craft that have been disabled</source>
-				<target>naves que han sido incapacitadas</target>
+				<target>已被癱瘓的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_FINISHED_BEING_BOARDED">
 			<segment state="translated">
 				<source>craft that have finished being boarded</source>
-				<target>naves que han terminado de ser abordadas</target>
+				<target>已完成被登艦的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_FINISHED_DOCKING">
 			<segment state="translated">
 				<source>craft that have finished docking</source>
-				<target>naves que han terminado de acoplarse</target>
+				<target>已完成對接的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_HULL_25PERCENT">
 			<segment state="translated">
 				<source>craft that have 25% hull remaining</source>
-				<target>naves con el casco al 25%</target>
+				<target>機體剩餘 25% 的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_HULL_50PERCENT">
 			<segment state="translated">
 				<source>craft that have 50% hull remaining</source>
-				<target>naves con el casco al 50%</target>
+				<target>機體剩餘 50% 的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_HULL_75PERCENT">
 			<segment state="translated">
 				<source>craft that have 75% hull remaining</source>
-				<target>naves con el casco al 75%</target>
+				<target>機體剩餘 75% 的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_OUT_OF_WARHEADS">
 			<segment state="translated">
 				<source>craft that have run out of warheads</source>
-				<target>naves que se han quedado sin ojivas</target>
+				<target>彈頭已耗盡的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_NOT_ATTACKED">
 			<segment state="translated">
 				<source>craft that have not been attacked</source>
-				<target>naves que no han sido atacadas</target>
+				<target>未受攻擊的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_NOT_INSPECTED">
 			<segment state="translated">
 				<source>craft that have not been inspected</source>
-				<target>naves que no han sido inspeccionadas</target>
+				<target>未受檢查的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_NOT_DISABLED">
 			<segment state="translated">
 				<source>craft that have not been disabled</source>
-				<target>naves que no han sido incapacitadas</target>
+				<target>未被癱瘓的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_NOT_FINISHED_BEING_BOARDED">
 			<segment state="translated">
 				<source>craft that have not finished being boarded</source>
-				<target>naves que no han terminado de ser abordadas</target>
+				<target>尚未完成被登艦的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_NOT_FINISHED_DOCKING">
 			<segment state="translated">
 				<source>craft that have not finished docking</source>
-				<target>naves que no han terminado de acoplarse</target>
+				<target>尚未完成對接的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_NONSPECIAL_CRAFT">
 			<segment state="translated">
 				<source>craft that are not special</source>
-				<target>naves que no son especiales</target>
+				<target>非特殊機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_NOT_CAPTURED">
 			<segment state="translated">
 				<source>craft that are not captured</source>
-				<target>naves que no están capturadas</target>
+				<target>未被捕獲的機艦</target>
 			</segment>
 		</unit>
 		<unit id="CraftWhen_Fallback">
@@ -939,7 +939,7 @@
 			</notes>
 			<segment state="translated">
 				<source>craft that are '{situation}'</source>
-				<target>naves que están '{situation}'</target>
+				<target>處於「{situation}」狀態的機艦</target>
 			</segment>
 		</unit>
 
@@ -947,265 +947,265 @@
 		<unit id="Order_AttackAll">
 			<segment state="translated">
 				<source>attacking craft</source>
-				<target>naves que atacan</target>
+				<target>執行攻擊的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_AttackPrimaryAndSecondaryTargets">
 			<segment state="translated">
 				<source>attacking craft</source>
-				<target>naves que atacan</target>
+				<target>執行攻擊的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_AttackEscorts">
 			<segment state="translated">
 				<source>escort-attacking craft</source>
-				<target>naves que escoltan-atacan</target>
+				<target>攻擊護航目標的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_AttackFreightersAndCorvettes">
 			<segment state="translated">
 				<source>freighter/corvette-attacking craft</source>
-				<target>naves que atacan cargueros/corbetas</target>
+				<target>攻擊貨船／巡邏艦的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_AttackStarships">
 			<segment state="translated">
 				<source>starship-attacking craft</source>
-				<target>naves que atacan naves capitales</target>
+				<target>攻擊主力艦的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_AttackTransports">
 			<segment state="translated">
 				<source>transport-attacking craft</source>
-				<target>naves que atacan transportes</target>
+				<target>攻擊運輸艦的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_AwaitBoarding">
 			<segment state="translated">
 				<source>craft awaiting boarding</source>
-				<target>naves que esperan abordaje</target>
+				<target>等待登艦的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_BoardToCapture">
 			<segment state="translated">
 				<source>capturing craft</source>
-				<target>naves que capturan</target>
+				<target>執行登艦捕獲的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_BoardToDeliver">
 			<segment state="translated">
 				<source>cargo-delivering craft</source>
-				<target>naves que entregan cargamento</target>
+				<target>執行貨物運送的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_BoardToDestroy">
 			<segment state="translated">
 				<source>cargo-destroying craft</source>
-				<target>naves que destruyen cargamento</target>
+				<target>執行銷毀貨物的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_BoardToExchange">
 			<segment state="translated">
 				<source>cargo-exchanging craft</source>
-				<target>naves que intercambian cargamento</target>
+				<target>執行貨物交換的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_BoardToPickup">
 			<segment state="translated">
 				<source>picking-up craft</source>
-				<target>naves que recogen</target>
+				<target>執行貨物取件的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_BoardToRepair">
 			<segment state="translated">
 				<source>repairing craft</source>
-				<target>naves que reparan</target>
+				<target>執行維修的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_BoardToTake">
 			<segment state="translated">
 				<source>cargo-taking craft</source>
-				<target>naves que toman cargamento</target>
+				<target>執行奪取貨物的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_CircleAndEvade">
 			<segment state="translated">
 				<source>patrolling craft</source>
-				<target>naves que patrullan</target>
+				<target>巡邏規避中的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_CircleAndIgnore">
 			<segment state="translated">
 				<source>patrolling craft</source>
-				<target>naves que patrullan</target>
+				<target>巡邏無視中的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_CloseEscort">
 			<segment state="translated">
 				<source>escorting craft</source>
-				<target>naves que escoltan</target>
+				<target>貼身護航的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_LooseEscort">
 			<segment state="translated">
 				<source>escorting craft</source>
-				<target>naves que escoltan</target>
+				<target>散開護航的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_DisableAll">
 			<segment state="translated">
 				<source>disabling craft</source>
-				<target>naves que incapacitan</target>
+				<target>執行癱瘓的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_DisablePrimaryAndSecondaryTargets">
 			<segment state="translated">
 				<source>disabling craft</source>
-				<target>naves que incapacitan</target>
+				<target>執行癱瘓的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_DisableFreightersAndCorvettes">
 			<segment state="translated">
 				<source>craft disabling freighters/corvettes</source>
-				<target>naves que incapacitan cargueros/corbetas</target>
+				<target>癱瘓貨船／巡邏艦的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_DisableTransports">
 			<segment state="translated">
 				<source>craft disabling transports</source>
-				<target>naves que incapacitan transportes</target>
+				<target>癱瘓運輸艦的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_DisableStarships">
 			<segment state="translated">
 				<source>craft disabling starships</source>
-				<target>naves que incapacitan naves capitales</target>
+				<target>癱瘓主力艦的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_DropOffCraft">
 			<segment state="translated">
 				<source>dropping craft</source>
-				<target>naves que sueltan</target>
+				<target>投放機艦中的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_FlyHome">
 			<segment state="translated">
 				<source>craft flying home</source>
-				<target>naves yéndose</target>
+				<target>返航中的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_FlyOnceAndEvade">
 			<segment state="translated">
 				<source>craft en route</source>
-				<target>naves en camino</target>
+				<target>在途機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_FlyOnceAndIgnore">
 			<segment state="translated">
 				<source>craft en route</source>
-				<target>naves en camino</target>
+				<target>在途機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_HoldSteady">
 			<segment state="translated">
 				<source>craft holding steady</source>
-				<target>naves que permanecen detenidas</target>
+				<target>保持靜止的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_ProtectTargets">
 			<segment state="translated">
 				<source>protecting craft</source>
-				<target>naves que protegen</target>
+				<target>執行掩護的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_Rendezvous">
 			<segment state="translated">
 				<source>craft rendezvousing</source>
-				<target>naves que se reúnen</target>
+				<target>執行會合的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipAwaitArrival">
 			<segment state="translated">
 				<source>starships awaiting arrivals</source>
-				<target>naves capitales que esperan llegadas</target>
+				<target>等待抵達的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipAwaitBoarding">
 			<segment state="translated">
 				<source>starships awaiting boardings</source>
-				<target>naves capitales que esperan abordajes</target>
+				<target>等待登艦的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipAwaitLaunch">
 			<segment state="translated">
 				<source>starships awaiting launches</source>
-				<target>naves capitales que esperan despegues</target>
+				<target>等待起飛的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipAwaitReturn">
 			<segment state="translated">
 				<source>starships awaiting returns</source>
-				<target>naves capitales que esperan regresos</target>
+				<target>等待返航的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipCircle">
 			<segment state="translated">
 				<source>patrolling starships</source>
-				<target>naves capitales que patrullan</target>
+				<target>巡邏中的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipFlyHome">
 			<segment state="translated">
 				<source>starships flying home</source>
-				<target>naves capitales yéndose</target>
+				<target>返航中的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipFlyOnce">
 			<segment state="translated">
 				<source>starships en route</source>
-				<target>naves capitales en camino</target>
+				<target>在途主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipLookingToBoard">
 			<segment state="translated">
 				<source>starships looking to board</source>
-				<target>naves capitales buscando qué abordar</target>
+				<target>搜尋登艦目標的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipPatrolAttack">
 			<segment state="translated">
 				<source>starships patrolling for attack</source>
-				<target>naves capitales en patrulla para atacar</target>
+				<target>巡邏攻擊的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipPatrolDisable">
 			<segment state="translated">
 				<source>starships patrolling for disable</source>
-				<target>naves capitales en patrulla para incapacitar</target>
+				<target>巡邏癱瘓目標的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipProtect">
 			<segment state="translated">
 				<source>starships protecting</source>
-				<target>naves capitales protegiendo</target>
+				<target>執行掩護的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipSitAndFire">
 			<segment state="translated">
 				<source>starships holding station</source>
-				<target>naves capitales permaneciendo inmóviles</target>
+				<target>駐守開火的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_StarshipWaitProtect">
 			<segment state="translated">
 				<source>starships waiting to protect</source>
-				<target>naves capitales esperando para proteger</target>
+				<target>待命掩護的主力艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_TimedWait">
 			<segment state="translated">
 				<source>craft waiting</source>
-				<target>naves esperando</target>
+				<target>定時等待的機艦</target>
 			</segment>
 		</unit>
 		<unit id="Order_Fallback">
@@ -1214,7 +1214,7 @@
 			</notes>
 			<segment state="translated">
 				<source>craft with '{order}' orders</source>
-				<target>naves con órdenes '{order}'</target>
+				<target>指令為「{order}」的機艦</target>
 			</segment>
 		</unit>
 
@@ -1225,7 +1225,7 @@
 			</notes>
 			<segment state="translated">
 				<source>{skill} craft</source>
-				<target>naves {skill}</target>
+				<target>{skill}機艦</target>
 			</segment>
 		</unit>
 
@@ -1233,7 +1233,7 @@
 		<unit id="GlobalGroup_Nothing">
 			<segment state="translated">
 				<source>nothing</source>
-				<target>nada</target>
+				<target>無</target>
 			</segment>
 		</unit>
 
@@ -1241,7 +1241,7 @@
 		<unit id="NotYetImplemented">
 			<segment state="translated">
 				<source>!!Not Yet Implemented!!</source>
-				<target>¡¡Aún no implementado!!</target>
+				<target>！！尚未實作！！</target>
 			</segment>
 		</unit>
 
@@ -1252,37 +1252,37 @@
 			</notes>
 			<segment state="translated">
 				<source>Cross {gatesLeft} more gates.</source>
-				<target>Cruza {gatesLeft} puertas más.</target>
+				<target>再穿越 {gatesLeft} 個閘門。</target>
 			</segment>
 		</unit>
 		<unit id="PpgGoal_Failed">
 			<segment state="translated">
 				<source>Failed!</source>
-				<target>¡Fracasado!</target>
+				<target>失敗！</target>
 			</segment>
 		</unit>
 		<unit id="DsGoal_DestroyExhaustPort_Unresolved">
 			<segment state="translated">
 				<source>You must Destroy the Exhaust Port.</source>
-				<target>Debes Destruir el Puerto de Escape Térmico</target>
+				<target>你必須摧毀散熱排氣孔。</target>
 			</segment>
 		</unit>
 		<unit id="DsGoal_DestroyExhaustPort_Passed">
 			<segment state="translated">
 				<source>You did Destroy the Exhaust Port.</source>
-				<target>Destruiste el Puerto de Escape Térmico.</target>
+				<target>你已成功摧毀散熱排氣孔。</target>
 			</segment>
 		</unit>
 		<unit id="DsGoal_DestroyLaserTowers_Unresolved">
 			<segment state="translated">
 				<source>You must destroy the Laser Towers.</source>
-				<target>Debes Destruir las Torres Láser.</target>
+				<target>你必須摧毀雷射防禦塔。</target>
 			</segment>
 		</unit>
 		<unit id="DsGoal_DestroyLaserTowers_Passed">
 			<segment state="translated">
 				<source>You did Destroy the Laser Towers.</source>
-				<target>Destruiste las Torres Láser.</target>
+				<target>你已成功摧毀雷射防禦塔。</target>
 			</segment>
 		</unit>
 		<unit id="TimeLimitGoal_Remaining">
@@ -1291,13 +1291,13 @@
 			</notes>
 			<segment state="translated">
 				<source>Time remaining: {minutes}:{seconds}</source>
-				<target>Tiempo Restante: {minutes}:{seconds}</target>
+				<target>剩餘時間：{minutes}:{seconds}</target>
 			</segment>
 		</unit>
 		<unit id="TimeLimitGoal_Expired">
 			<segment state="translated">
 				<source>Mission time expired</source>
-				<target>Tiempo de misión agotado</target>
+				<target>任務時限已過</target>
 			</segment>
 		</unit>
 	</file>
