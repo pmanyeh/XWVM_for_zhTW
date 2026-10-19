@@ -5,25 +5,25 @@
       <unit id="PilotLog.ExitButton.Label" >
         <segment>
           <source>Exit Pilot Log</source>
-          <target>Salir de Hoja de Servicios</target>
+          <target>離開飛行員日誌</target>
         </segment>
       </unit>
       <unit id="PilotUniform.ExitButton.Label" >
         <segment>
           <source>Exit Uniform and Medals</source>
-          <target>Salir de Uniforme y Medallas</target>
+          <target>離開制服與勳章</target>
         </segment>
       </unit>
       <unit id="PilotLog.Stats.CompletedTrainingTitle" >
         <segment>
           <source>Completed Training Levels</source>
-          <target>Niveles de Entrenamiento Completados</target>
+          <target>已完成訓練關卡</target>
         </segment>
       </unit>
       <unit id="PilotLog.Stats.Generic.ContinuedBrackets" >
         <segment>
           <source>(Continued)</source>
-          <target>(Continuación)</target>
+          <target>（接續）</target>
         </segment>
       </unit>
       <unit id="Scores.MissionHighScoreRecordRow" >
@@ -32,19 +32,19 @@
 		</notes>
         <segment>
           <source>[[{pilotName}]]|((Score [[{score}]]|Kills [[{kills}]]))</source>
-          <target>[[{pilotName}]]|((Puntuación [[{score}]]|Derribos [[{kills}]]))</target>
+          <target>[[{pilotName}]]|((積分 [[{score}]]|擊墜 [[{kills}]]))</target>
         </segment>
       </unit>
       <unit id="Scores.HighScoreTitle" >
         <segment>
           <source>High Scores</source>
-          <target>Récords</target>
+          <target>最高紀錄</target>
         </segment>
       </unit>
       <unit id="Scores.NoHighScoresAvailable" >
         <segment>
           <source>No High Scores</source>
-          <target>No hay Récords</target>
+          <target>無最高紀錄</target>
         </segment>
       </unit>
       <unit id="Scores.TrainingHighScoreRecordRow" >
@@ -53,37 +53,37 @@
 		</notes>
         <segment>
           <source>[[{pilotName}]]|((Score [[{score}]]|Level [[{level}]]))</source>
-          <target>[[{pilotName}]]|((Puntuación [[{score}]]|Nivel [[{level}]]))</target>
+          <target>[[{pilotName}]]|((積分 [[{score}]]|關卡 [[{level}]]))</target>
         </segment>
       </unit>
       <unit id="AwardType.TourMedal" >
         <segment>
           <source>Tour Medal</source>
-          <target>Medalla de Campaña</target>
+          <target>戰役勳章</target>
         </segment>
       </unit>
       <unit id="AwardType.HistoricalFlightPatch" >
         <segment>
           <source>Historical Flight Patch</source>
-          <target>Parche de Vuelo Histórico</target>
+          <target>歷史飛行臂章</target>
         </segment>
       </unit>
       <unit id="AwardType.TourRibbon" >
         <segment>
           <source>Tour Ribbon</source>
-          <target>Lazo de Campaña</target>
+          <target>戰役勛表</target>
         </segment>
       </unit>
       <unit id="AwardType.Kalidor" >
         <segment>
           <source>Kalidor Crescent</source>
-          <target>Media Luna Kalidor</target>
+          <target>卡利多新月勳章</target>
         </segment>
       </unit>
       <unit id="AwardType.FlightBadge" >
         <segment>
           <source>Flight Badge</source>
-          <target>Insignia de Vuelo</target>
+          <target>飛行徽章</target>
         </segment>
       </unit>    
 	
@@ -102,13 +102,13 @@
 		</notes>
         <segment>
           <source>(*{pilotStatus}*) with (*[[{score}]]*) Tour of Duty points</source>
-          <target>(*{pilotStatus:choose(Alive|Dead|Captured):Vivo|Fallecido|Capturado}*) con (*[[{score}]]*) puntos de Campaña</target>
+          <target>(*{pilotStatus:choose(Alive|Dead|Captured):現役|陣亡|被俘}*)，戰役積分：(*[[{score}]]*)</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.PpgNoLevelsCompleted" >		
         <segment>
           <source>{species.ONE} has not completed any levels</source>
-          <target>No se ha completado ningún nivel con {species.GENDER:choose(M|F):el|la} {species.ONE}</target>
+          <target>{species.ONE} 尚未完成任何關卡</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.PpgLevelsCompleted" >		
@@ -117,43 +117,43 @@
 		</notes>
         <segment>
           <source>{species.ONE} has completed level (({level}))</source>
-          <target>Con {species.GENDER:choose(M|F):el|la} {species.ONE} se ha completado el nivel (({level}))</target>
+          <target>{species.ONE} 已完成第 (({level})) 關</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.PpgNoTrainingCompleted" >				
         <segment>
           <source>No training levels completed.</source>
-          <target>No se han completado niveles de entrenamiento.</target>
+          <target>未完成任何訓練關卡。</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TrainingBestScoresTitle" >				
         <segment>
           <source>Training Best Scores</source>
-          <target>Récords de Entrenamiento</target>
+          <target>訓練最高積分</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TrainingBestScoreEntry" >				
         <segment>
           <source>{species.ONE} has a best score of (({score}))</source>
-          <target>Con {species.GENDER:choose(M|F):el|la} {species.ONE} se tiene un récord de (({score}))</target>
+          <target>{species.ONE} 最高積分為 (({score}))</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.PageOfPages" >				
         <segment>
           <source>Page {page} of {total}</source>
-          <target>Página {page} de {total}</target>
+          <target>第 {page} 頁，共 {total} 頁</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.HistoricBestScoresTitle" >				
         <segment>
           <source>Best Scores for Historic Combat Mission:</source>
-          <target>Mejores Puntuaciones de Misiones de Combate Históricas:</target>
+          <target>歷史戰鬥任務最高積分：</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.HistoricBestScoresEntry" >				
         <segment>
           <source>Mission (({mission})) with (({score})) points</source>
-          <target>Misión (({mission})) con (({score})) puntos</target>
+          <target>任務 (({mission}))：(({score})) 分</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.CompletionRange" >				
@@ -166,7 +166,7 @@
 		</notes>
         <segment>
           <source>{collection} (Completed {range})</source>
-          <target>{collection} (Completadas {range})</target>
+          <target>{collection}（已完成 {range}）</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.NoCompletion" >				
@@ -178,7 +178,7 @@
 		</notes>
         <segment>
           <source>none</source>
-          <target>ninguna</target>
+          <target>無</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TodSpaceVictoriesTitle" >				
@@ -189,7 +189,7 @@
 		</notes>
         <segment>
           <source>TOD Space Victories (Captured): [[{kills} ({captures})]]</source>
-          <target>Derribos Espaciales en Campaña (Capturas): [[{kills} ({captures})]]</target>
+          <target>戰役太空戰果（捕獲）：[[{kills} ({captures})]]</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TodSurfaceVictories" >				
@@ -200,7 +200,7 @@
 		</notes>
         <segment>
           <source>TOD Surface Victories: [[{kills}]]</source>
-          <target>Derribos de Superficie en Campaña: [[{kills}]]</target>
+          <target>戰役表面戰果：[[{kills}]]</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TodLasersFired" >				
@@ -211,7 +211,7 @@
 		</notes>
         <segment>
           <source>TOD Lasers Fired: [[{fired}]]</source>
-          <target>Láseres Disparados en Campaña: [[{fired}]]</target>
+          <target>戰役雷射發射數：[[{fired}]]</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.CraftHits" >				
@@ -222,7 +222,7 @@
 		</notes>
         <segment>
           <source>Craft Hits: [[{hits} ({percent}%)]]</source>
-          <target>Impactos en Naves: [[{hits} ({percent}%)]]</target>
+          <target>機艦命中：[[{hits} ({percent}%)]]</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.GroundHits" >				
@@ -233,7 +233,7 @@
 		</notes>
         <segment>
           <source>Ground Hits: [[{hits} ({percent}%)]]</source>
-          <target>Impactos en Superficie: [[{hits} ({percent}%)]]</target>
+          <target>地面命中：[[{hits} ({percent}%)]]</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TodProjectilesFired" >				
@@ -244,7 +244,7 @@
 		</notes>
         <segment>
           <source>TOD Homing Projectiles Fired: [[{fired}]]</source>
-          <target>Ojivas Rastreadoras Disparadas en Campaña: [[{fired}]]</target>
+          <target>戰役導引彈藥發射數：[[{fired}]]</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TodCraftLost" >				
@@ -255,7 +255,7 @@
 		</notes>
         <segment>
           <source>TOD Craft Lost: [[{lost}]]</source>
-          <target>Naves Perdidas en Campaña: [[{lost}]]</target>
+          <target>戰役損失機數：[[{lost}]]</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TodTourDetails" >				
@@ -266,13 +266,13 @@
 		</notes>
         <segment>
           <source>Tour [[{tour}]] is {finished:cond:Complete|In Progress}</source>
-          <target>La Campaña [[{tour}]] está {finished:cond:Completada|En Progreso}</target>
+          <target>戰役 [[{tour}]]：{finished:cond:已完成|進行中}</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.OperationScoresTitle" >				
         <segment>
           <source>Scores for each Operation:</source>
-          <target>Puntuaciones de cada Operación:</target>
+          <target>各作戰行動積分：</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.OperationScoresEntry" >				
@@ -283,7 +283,7 @@
 		</notes>
         <segment>
           <source>Operation [[{mission}]] with [[{score}]] Points</source>
-          <target>Operación [[{mission}]] con [[{score}]] Puntos</target>
+          <target>作戰行動 [[{mission}]]：[[{score}]] 分</target>
         </segment>
 	</unit>
 

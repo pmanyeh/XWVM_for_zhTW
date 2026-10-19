@@ -4,13 +4,13 @@
       <unit id="Scores.HighScoreTitle" >
         <segment>
           <source>High Scores</source>
-          <target>Récords</target>
+          <target>最高紀錄</target>
         </segment>
       </unit>
       <unit id="Scores.NoHighScoresAvailable" >
         <segment>
           <source>No High Scores</source>
-          <target>No hay Récords</target>
+          <target>無最高紀錄</target>
         </segment>
       </unit>
 	<unit id="PilotLog.Stats.TitleLine" >
@@ -32,103 +32,103 @@
 		</notes>
         <segment>
           <source>Score: {score}|Skill: {skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Rookie|Officer|Veteran|Ace|Top Ace|Jedi}</source>
-          <target>Puntuación: {score}|Habilidad: {skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Novato|Oficial|Veterano|As|As de Ases|Jedi}</target>
+          <target>積分：{score}|技巧：{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):新兵|軍官|老兵|王牌|頂尖王牌|絕地}</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.LaserHitsLine" >
         <segment>
           <source>Laser hits: {hits} of {fired} ({percentage}%)</source>
-          <target>Impactos láser: {hits} de {fired} ({percentage}%)</target>
+          <target>雷射命中：{hits} / {fired}（{percentage}%）</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.ProjectileHitsLine" >
         <segment>
           <source>Warhead hits: {hits} of {fired} ({percentage}%)</source>
-          <target>Impactos de ojivas: {hits} de {fired} ({percentage}%)</target>
+          <target>彈頭命中：{hits} / {fired}（{percentage}%）</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TODKillsLine" >
         <segment>
           <source>Total kills: {kills}</source>
-          <target>Derribos totales: {kills}</target>
+          <target>總擊墜數：{kills}</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TODCapturesLine" >
         <segment>
           <source>Total captures: {captures}</source>
-          <target>Capturas totales: {captures}</target>
+          <target>總捕獲數：{captures}</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.CraftLostLine" >
         <segment>
           <source>Craft lost: {craftLost}</source>
-          <target>Naves perdidas: {craftLost}</target>
+          <target>損失機數：{craftLost}</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.HistoricalRecordLine" >
         <segment>
           <source>Mission {missionNum} {status:cond:Complete|Incomplete} {points} Points</source>
-          <target>Misión {missionNum} {status:cond:Completada|Incompleta} {points} Puntos</target>
+          <target>任務 {missionNum} {status:cond:已完成|未完成} {points} 分</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TODRecordTitleLine" >
         <segment>
           <source>Battle {tourName} {status:cond:Complete|In Progress}</source>
-          <target>Batalla {tourName} {status:cond:Completada|En Progreso}</target>
+          <target>戰役 {tourName} {status:cond:已完成|進行中}</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TODMissionLine" >
         <segment>
           <source>Mission {missionNum} with {points} Points</source>
-          <target>Misión {missionNum} con {points} Puntos</target>
+          <target>任務 {missionNum}：{points} 分</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TODTotalScoreLine" >
         <segment>
           <source>Total score: {score}</source>
-          <target>Puntuación total: {score}</target>
+          <target>總積分：{score}</target>
         </segment>
 	</unit>
 	<unit id="PilotLog.Stats.TODVictoriesTitleLine" >
         <segment>
           <source>Player Battle Victories</source>
-          <target>Derribos del Jugador en Batalla</target>
+          <target>玩家戰役戰果</target>
         </segment>
 	</unit>
 	<unit id="AwardType.TourMedal" >
         <segment>
           <source>Battle Medal</source>
-          <target>Medalla de Batalla</target>
+          <target>戰役勳章</target>
         </segment>
 	</unit>
 	<unit id="AwardType.FlightBadge" >
         <segment>
           <source>Training Patch</source>
-          <target>Parche de Entrenamiento</target>
+          <target>訓練臂章</target>
         </segment>
       </unit>
 	  <unit id="AwardType.HistoricalFlightPatch" >
 		<segment>
 			<source>{Status:choose(0|1|2):Bronze|Silver|Gold} Combat Medallion</source>
-			<target>Medallón de Combate de {Status:choose(0|1|2):Bronce|Plata|Oro}</target>
+			<target>{Status:choose(0|1|2):青銅|白銀|黃金}戰鬥獎章</target>
         </segment>
     </unit>
 	<unit id="AwardType.SecondaryGoals" >
       <segment>
         <source>All Secondary Goals Completed</source>
-        <target>Todos los Objetivos Secundarios Completados</target>
+        <target>已完成所有次要目標</target>
       </segment>
     </unit>
 	<unit id="AwardType.BonusGoals" >
       <segment>
         <source>All Bonus Goals Completed</source>
-        <target>Todos los Objetivos Adicionales Completados</target>
+        <target>已完成所有額外目標</target>
       </segment>
     </unit>
 	<unit id="AwardType.SecretOrder" >
       <segment>
         <source>Secret Order Tattoo</source>
-        <target>Tatuaje de la Orden Secreta</target>
+        <target>秘密教團刺青</target>
       </segment>
     </unit>
   </file>
