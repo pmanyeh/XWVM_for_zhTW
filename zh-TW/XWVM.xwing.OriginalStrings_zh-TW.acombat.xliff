@@ -98,13 +98,13 @@ A翼戰機的特性。
     <unit id="Briefing.awaistem.Tag.2">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.awaistem.Tag.3">
       <segment state="translated">
         <source>TIE Interceptors</source>
-        <target>鈦截擊機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.awaistem.Tag.4">
@@ -617,7 +617,7 @@ Starfighters!</source>
     <unit id="Mission.max2.Title">
       <segment state="translated">
         <source>Intercept TIE Bomber Run</source>
-        <target>攔截鈦轟炸機航線</target>
+        <target>攔截鈦式轟炸機航線</target>
       </segment>
     </unit>
     <unit id="Mission.max2.Description">
@@ -632,13 +632,13 @@ incoming TIE Bombers.</source>
 無與倫比的攔截能力。
 你將學習如何運用
 震盪飛彈擊潰來襲的
-鈦轟炸機。</target>
+鈦式轟炸機。</target>
       </segment>
     </unit>
     <unit id="Briefing.max2.Text.1">
       <segment state="translated">
         <source>&gt;Intercept TIE Bomber Run</source>
-        <target>>攔截鈦轟炸機航線</target>
+        <target>>攔截鈦式轟炸機航線</target>
       </segment>
     </unit>
     <unit id="Briefing.max2.Text.2">
@@ -650,13 +650,13 @@ incoming TIE Bombers.</source>
     <unit id="Briefing.max2.Text.3">
       <segment state="translated">
         <source>  A Shuttle bearing a high ranking Alliance officer was undergoing emergency mid-space repairs to a failed hyperdrive system when it was detected by Imperial forces.  A nearby [[Star Destroyer]] was diverted to deploy a single attack wave of [[TIE Fighters and Bombers]] before re-embarking on its previous mission. The single squadron was considered more than adequate to wipe out the tiny force of Rebels.</source>
-        <target>  一艘搭載同盟高級軍官的穿梭機因超空間推進系統故障，正在太空中進行緊急搶修，不幸被帝國軍發現。附近的一艘[[滅星艦]]臨時改道，出動了一波由[[鈦戰機與轟炸機]]組成的攻擊隊伍，隨後便繼續執行原定任務。帝國認為單憑一個中隊便足以徹底消滅這支弱小的反抗軍部隊。</target>
+        <target>  一艘搭載同盟高級軍官的穿梭機因超空間推進系統故障，正在太空中進行緊急搶修，不幸被帝國軍發現。附近的一艘[[滅星者]]臨時改道，出動了一波由[[鈦戰機與轟炸機]]組成的攻擊隊伍，隨後便繼續執行原定任務。帝國認為單憑一個中隊便足以徹底消滅這支弱小的反抗軍部隊。</target>
       </segment>
     </unit>
     <unit id="Briefing.max2.Text.4">
       <segment state="translated">
         <source>  As the fastest Alliance starfighter, the [[A-wing]] makes an outstanding interceptor.  In this simulation you will take the role of [[Red Two]].  Your task will be to fight through the initial wave of TIE Fighters to get at the TIE Bombers.  Because of the Bomber's [[concussion missiles]] you must stop them before they can get close enough to launch at the Shuttle. Use your own concussion missiles to halt the Bombers attack!</source>
-        <target>  作為同盟航速最快的星際戰機，[[A翼]]是出類拔萃的攔截機。在本次模擬中，你將扮演[[紅二號]]。你的任務是突破第一波鈦戰機的攔阻，直取鈦轟炸機。由於轟炸機裝備了[[震盪飛彈]]，你必須在他們接近至足以向穿梭機開火的距離之前將其攔截。運用你自己的震盪飛彈瓦解轟炸機的攻勢！</target>
+        <target>  作為同盟航速最快的星際戰機，[[A翼]]是出類拔萃的攔截機。在本次模擬中，你將扮演[[紅二號]]。你的任務是突破第一波鈦戰機的攔阻，直取鈦式轟炸機。由於轟炸機裝備了[[震盪飛彈]]，你必須在他們接近至足以向穿梭機開火的距離之前將其攔截。運用你自己的震盪飛彈瓦解轟炸機的攻勢！</target>
       </segment>
     </unit>
     <unit id="Briefing.max2.Text.5">
@@ -668,19 +668,19 @@ incoming TIE Bombers.</source>
     <unit id="Briefing.max2.Text.6">
       <segment>
         <source>A Star Destroyer has entered the area and launched a fighter attack.</source>
-        <target>一艘滅星艦已進入該空域並發動了戰機攻勢。</target>
+        <target>一艘滅星者已進入該空域並發動了戰機攻勢。</target>
       </segment>
     </unit>
     <unit id="Briefing.max2.Text.7">
       <segment state="translated">
         <source>The attack consists of TIE Fighters and TIE Bombers.</source>
-        <target>敵方攻擊部隊由鈦戰機與鈦轟炸機組成。</target>
+        <target>敵方攻擊部隊由鈦戰機與鈦式轟炸機組成。</target>
       </segment>
     </unit>
     <unit id="Briefing.max2.Text.8">
       <segment state="translated">
         <source>A-wing [[Red Two]] will move to intercept the TIE Bombers.</source>
-        <target>A翼戰機[[紅二號]]將前出攔截鈦轟炸機。</target>
+        <target>A翼戰機[[紅二號]]將前出攔截鈦式轟炸機。</target>
       </segment>
     </unit>
     <unit id="Briefing.max2.Text.9">
@@ -728,13 +728,13 @@ incoming TIE Bombers.</source>
     <unit id="Briefing.max2.Tag.5">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.max2.Tag.6">
       <segment state="translated">
         <source>STD Malice</source>
-        <target>滅星艦 惡意號</target>
+        <target>滅星者 惡意號</target>
       </segment>
     </unit>
     <unit id="Briefing.max2.FG.0.Designation">
@@ -872,7 +872,7 @@ incoming TIE Bombers.</source>
     <unit id="Mission.max2.CompletionMessage.0">
       <segment state="translated">
         <source>Tie Bombers are all destroyed</source>
-        <target>所有鈦轟炸機均已被全數殲滅</target>
+        <target>所有鈦式轟炸機均已被全數殲滅</target>
       </segment>
     </unit>
     <unit id="Mission.max2.CompletionMessage.1">
@@ -1224,7 +1224,7 @@ mission.</source>
     <unit id="Briefing.max15.Tag.6">
       <segment state="translated">
         <source>STD Enforcer</source>
-        <target>滅星艦 執法者號</target>
+        <target>滅星者 執法者號</target>
       </segment>
     </unit>
     <unit id="Briefing.max15.FG.0.Designation">

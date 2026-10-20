@@ -464,13 +464,13 @@ craft as you can.</source>
     <unit id="Briefing.ywaistem.Tag.2">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.ywaistem.Tag.3">
       <segment state="translated">
         <source>TIE Interceptors</source>
-        <target>鈦截擊機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.ywaistem.Tag.4">
@@ -723,7 +723,7 @@ neutral Corvette. </source>
     <unit id="Briefing.hello.Text.5">
       <segment state="translated">
         <source>Destroy all [[TIE Bombers]] to protect the Twi'lek delegation.</source>
-        <target>摧毀所有[[鈦轟炸機]]以保護堤列克代表團。</target>
+        <target>摧毀所有[[鈦式轟炸機]]以保護堤列克代表團。</target>
       </segment>
     </unit>
     <unit id="Briefing.hello.Text.6">
@@ -735,19 +735,19 @@ neutral Corvette. </source>
     <unit id="Briefing.hello.Text.7">
       <segment state="translated">
         <source>  The [[Star Destroyer]] Avenger dropped out of hyperspace long enough to hastily deploy a squadron of TIE Bombers; then abruptly departed.$  [[Alliance Counter-Intelligence]] had learned of the impending ambush, but was only able to send out two Y-wings to aid the Twi'leks.  Thanks to this timely intervention, their ship escaped and the grateful delegation soon agreed to join the Alliance!</source>
-        <target>  [[滅星艦]]「復仇者號」脫離超空間，匆匆出動一個鈦轟炸機中隊後便突然離去。$[[同盟反情報部門]]雖獲悉了伏擊情報，但僅能緊急派遣兩架 Y翼戰機馳援堤列克人。多虧這次及時救援，他們的座艦得以脫困，心存感激的代表團隨後便欣然同意加入同盟！</target>
+        <target>  [[滅星者]]「復仇者號」脫離超空間，匆匆出動一個鈦式轟炸機中隊後便突然離去。$[[同盟反情報部門]]雖獲悉了伏擊情報，但僅能緊急派遣兩架 Y翼戰機馳援堤列克人。多虧這次及時救援，他們的座艦得以脫困，心存感激的代表團隨後便欣然同意加入同盟！</target>
       </segment>
     </unit>
     <unit id="Briefing.hello.Text.8">
       <segment state="translated">
         <source>You and your wingman will hyperspace in behind the TIE Bombers to take them by surprise.  Destroy them as quickly as you can to prevent them from launching any [[torpedoes]] at the Twi'lek Corvette.  Be sure to use your sensor displays to watch behind you.  You don't want to fall victim to the same tactic you're using!$  The Twi'lek Corvette should reach its hyperspace point in about [[7 minutes]].</source>
-        <target>你與僚機將跳躍至鈦轟炸機後方發動突襲。盡速摧毀敵機，阻止他們向堤列克巡邏艦發射任何[[魚雷]]。務必利用感測器注意身後動態，切莫自己也成為相同突襲戰術的受害者！$堤列克巡邏艦預計在約[[7 分鐘]]內抵達超空間跳躍點。</target>
+        <target>你與僚機將跳躍至鈦式轟炸機後方發動突襲。盡速摧毀敵機，阻止他們向堤列克巡邏艦發射任何[[魚雷]]。務必利用感測器注意身後動態，切莫自己也成為相同突襲戰術的受害者！$堤列克巡邏艦預計在約[[7 分鐘]]內抵達超空間跳躍點。</target>
       </segment>
     </unit>
     <unit id="Briefing.hello.Text.9">
       <segment state="translated">
         <source>[[Intercept]] any TIE Bombers launched from the Star Destroyer Avenger.</source>
-        <target>[[攔截]]自滅星艦「復仇者號」出動的所有鈦轟炸機。</target>
+        <target>[[攔截]]自滅星者「復仇者號」出動的所有鈦式轟炸機。</target>
       </segment>
     </unit>
     <unit id="Briefing.hello.Tag.0">
@@ -759,7 +759,7 @@ neutral Corvette. </source>
     <unit id="Briefing.hello.Tag.1">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.hello.Tag.2">
@@ -777,7 +777,7 @@ neutral Corvette. </source>
     <unit id="Briefing.hello.Tag.4">
       <segment state="translated">
         <source>STD Avenger</source>
-        <target>滅星艦 復仇者號</target>
+        <target>滅星者 復仇者號</target>
       </segment>
     </unit>
     <unit id="Briefing.hello.FG.0.Designation">
@@ -867,7 +867,7 @@ neutral Corvette. </source>
     <unit id="Mission.hello.CompletionMessage.0">
       <segment state="translated">
         <source>All TIE Bombers have been destroyed</source>
-        <target>所有鈦轟炸機均已被摧毀</target>
+        <target>所有鈦式轟炸機均已被摧毀</target>
       </segment>
     </unit>
     <unit id="Mission.hello.CompletionMessage.1">
@@ -905,7 +905,7 @@ as possible.</source>
     <unit id="Briefing.max7.Text.2">
       <segment state="translated">
         <source>P.O.W.s are being moved from [[Kessel]] to the Star Destroyer [[Predator]].</source>
-        <target>戰俘正從[[凱瑟星]]移送至滅星艦[[掠奪者號]]。</target>
+        <target>戰俘正從[[凱瑟星]]移送至滅星者[[掠奪者號]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.max7.Text.3">
@@ -923,7 +923,7 @@ as possible.</source>
     <unit id="Briefing.max7.Text.5">
       <segment state="translated">
         <source>  Alliance Intelligence had learned of a transfer of Rebel P.O.W.'s from the prison planet [[Kessel]]. [[ ]]There were to be five shuttle loads of prisoners delivered to the Star Destroyer [[Predator]].  Overconfidence led the Empire to believe two TIE fighters were an adequate escort.$  A bold rescue plan was conceived. The plan consisted of an equal number of Rebel shuttles and three Y-wings from [[Red Squadron]].</source>
-        <target>  同盟情報部門獲悉一批反抗軍戰俘正從監獄星球[[凱瑟星]]轉移。[[ ]]共有五艘載滿囚犯的穿梭機將被送往滅星艦[[掠奪者號]]。帝國過度自負，誤以為兩架鈦戰機便足以護航。$一項大膽的營救計畫應運而生，由同等數量的反抗軍穿梭機與三架來自[[紅色中隊]]的 Y翼戰機聯手執行。</target>
+        <target>  同盟情報部門獲悉一批反抗軍戰俘正從監獄星球[[凱瑟星]]轉移。[[ ]]共有五艘載滿囚犯的穿梭機將被送往滅星者[[掠奪者號]]。帝國過度自負，誤以為兩架鈦戰機便足以護航。$一項大膽的營救計畫應運而生，由同等數量的反抗軍穿梭機與三架來自[[紅色中隊]]的 Y翼戰機聯手執行。</target>
       </segment>
     </unit>
     <unit id="Briefing.max7.Text.6">
@@ -941,7 +941,7 @@ as possible.</source>
     <unit id="Briefing.max7.Text.8">
       <segment state="translated">
         <source>  The Y-wings attacked, disabling the enemy shuttles and destroying their escorts.  Then the rescue shuttles arrived to free the captives.  All the prisoners were freed and several TIE Interceptors from the [[Predator]] were destroyed.  The participating pilots were all awarded the [[Corellian Cross]] for their bravery.$  Don't let the Empire's fighters lure you away.  Securing the area during the rescue is your top priority.</source>
-        <target>  Y翼戰機發動猛攻，癱瘓了敵方穿梭機並殲滅其護航機。隨後救援穿梭機抵達救出俘虜。所有戰俘全數獲釋，並擊落數架來自[[掠奪者號]]的鈦截擊機。參戰飛行員均因其英勇作戰而榮獲[[柯爾里亞十字勳章]]。$切莫被帝國戰機誘離陣位。在救援期間確保該空域安全是你的第一要務。</target>
+        <target>  Y翼戰機發動猛攻，癱瘓了敵方穿梭機並殲滅其護航機。隨後救援穿梭機抵達救出俘虜。所有戰俘全數獲釋，並擊落數架來自[[掠奪者號]]的鈦式截擊機。參戰飛行員均因其英勇作戰而榮獲[[柯爾里亞十字勳章]]。$切莫被帝國戰機誘離陣位。在救援期間確保該空域安全是你的第一要務。</target>
       </segment>
     </unit>
     <unit id="Briefing.max7.Tag.0">
@@ -965,7 +965,7 @@ as possible.</source>
     <unit id="Briefing.max7.Tag.3">
       <segment state="translated">
         <source>STD Predator</source>
-        <target>滅星艦 掠奪者號</target>
+        <target>滅星者 掠奪者號</target>
       </segment>
     </unit>
     <unit id="Briefing.max7.Tag.4">
@@ -1359,7 +1359,7 @@ Y翼戰機被譽為銀河系中
     <unit id="Briefing.wyresc2.Tag.6">
       <segment>
         <source>Star Destroyer</source>
-        <target>滅星艦</target>
+        <target>滅星者</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc2.Tag.7">

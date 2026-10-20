@@ -109,7 +109,7 @@ evacuation of Yavin.</source>
     <unit id="Briefing.t4m01am.Text.9">
       <segment state="translated">
         <source>  T/Bs are the main threat.  Don't let them launch their torpedoes.  There are 3 sets of 4 T/Bs followed by 2 sets of 3 T/Bs.  Engage T/Bs as close to the FRG as possible, but stay out of the FRG's gun range.$  You will be harassed by a pair of T/Fs (with 1 replacement wave).  Evade them whenever T/Bs are present.  Kill them when convenient.$</source>
-        <target>  鈦轟炸機（T/B）是最大威脅，絕不能讓它們發射魚雷。敵軍將出動 3 波各 4 架轟炸機，隨後是 2 波各 3 架轟炸機。盡可能在靠近巡防艦處攔截轟炸機，但務必保持在巡防艦的防空射程之外。$  一對鈦戰機（T/F）將持續騷擾你（並有 1 波增援）。轟炸機在場時先規避戰機，待空檔時再將其擊落。$</target>
+        <target>  鈦式轟炸機（T/B）是最大威脅，絕不能讓它們發射魚雷。敵軍將出動 3 波各 4 架轟炸機，隨後是 2 波各 3 架轟炸機。盡可能在靠近巡防艦處攔截轟炸機，但務必保持在巡防艦的防空射程之外。$  一對鈦戰機（T/F）將持續騷擾你（並有 1 波增援）。轟炸機在場時先規避戰機，待空檔時再將其擊落。$</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m01am.Text.10">
@@ -480,7 +480,7 @@ retreat from Yavin.</source>
     <unit id="Briefing.t4m02xm.Text.9">
       <segment state="translated">
         <source>  Watch for the arrival of enemy TRNs at [[5]] and [[12 ]]minutes into the mission.  They carry torpedoes and launch at the Freighters.  Use duel torpedoes on the first three, then finish off the fourth with lasers.$  The GUN pairs enter on the destruction of the previous.  So kill one GUN fast then play with its wingman.  If you are doing good, two pairs of GUNs will enter.  A STD will enter, too late and far away. </source>
-        <target>  注意在任務開始後第 [[5]] 分鐘與第 [[12]] 分鐘躍入的敵軍運輸船（TRN）。它們攜帶質子魚雷且專門瞄準我方貨船。對前三艘敵運輸船使用雙發魚雷齊射，再用雷射砲解決第四艘。$  敵突擊砲艇（GUN）均在上一組被消滅後進場。因此快速擊落一架砲艇後，可與僚機周旋拖延時間。滅星艦（STD）雖會進場，但距離過遠且為時已晚。</target>
+        <target>  注意在任務開始後第 [[5]] 分鐘與第 [[12]] 分鐘躍入的敵軍運輸船（TRN）。它們攜帶質子魚雷且專門瞄準我方貨船。對前三艘敵運輸船使用雙發魚雷齊射，再用雷射砲解決第四艘。$  敵突擊砲艇（GUN）均在上一組被消滅後進場。因此快速擊落一架砲艇後，可與僚機周旋拖延時間。滅星者（STD）雖會進場，但距離過遠且為時已晚。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m02xm.Text.10">
@@ -924,7 +924,7 @@ impending catastrophe.</source>
     <unit id="Briefing.t4m03xw.Text.4">
       <segment state="translated">
         <source>The Imperial STD [[Nihil]] is inflicting a savage beating and launching TIEs.</source>
-        <target>帝國滅星艦[[虛無號（Nihil）]]正實施狂轟濫炸並出動大批鈦戰機。</target>
+        <target>帝國滅星者[[虛無號（Nihil）]]正實施狂轟濫炸並出動大批鈦戰機。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m03xw.Text.5">
@@ -2449,7 +2449,7 @@ transport recovers it.</source>
     <unit id="Briefing.t4m06xmb.Text.11">
       <segment state="translated">
         <source>  A FRG has already launched 4 T/Fs and 4 T/Bs.  Move to intercept T/F Alpha, but not too quickly.  Stay within 8 klicks of the Container you are protecting.$  A specially modified CRV will pop up 3:18 minutes into the mission.  48 seconds later it will launch a single T/B (with 2 replacements).  Use your torpedoes in dual fire mode to destroy the CRV before the T/B is launched, then go after T/B Beta.</source>
-        <target>  一艘帝國巡防艦已出動 4 架鈦戰機與 4 架鈦轟炸機。前去攔截鈦戰機阿爾法組，但切勿跑得過遠，務必留在離目標貨櫃 8 公里以內。$  任務開始 3 分 18 秒後，一艘特製巡邏艦將躍入戰場，並在 48 秒後出動單架轟炸機（有 2 波替補）。在巡邏艦出動轟炸機前，切換質子魚雷雙發齊射徹底將其擊沉，隨後立刻追擊貝塔組轟炸機。</target>
+        <target>  一艘帝國巡防艦已出動 4 架鈦戰機與 4 架鈦式轟炸機。前去攔截鈦戰機阿爾法組，但切勿跑得過遠，務必留在離目標貨櫃 8 公里以內。$  任務開始 3 分 18 秒後，一艘特製巡邏艦將躍入戰場，並在 48 秒後出動單架轟炸機（有 2 波替補）。在巡邏艦出動轟炸機前，切換質子魚雷雙發齊射徹底將其擊沉，隨後立刻追擊貝塔組轟炸機。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m06xmb.Tag.0">
@@ -2473,7 +2473,7 @@ transport recovers it.</source>
     <unit id="Briefing.t4m06xmb.Tag.3">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m06xmb.Tag.4">
@@ -4883,7 +4883,7 @@ facility.</source>
     <unit id="Briefing.t4m10aw.Text.9">
       <segment state="translated">
         <source>  Destroy all TIE Fighters first.  Then ID all CONs.  An Imperial FRT will arrive and drop off another CON.  This one contains the grain.  ID it to bring in the [[Sarsuma]].$  This will also bring in a Star Destroyer which will destroy the [[Sarsuma]].  Let it.  You will still get the mission complete message and may return to base.</source>
-        <target>  優先消滅所有鈦戰機。接著辨識所有貨櫃（CON）。隨後一艘帝國貨船將進場卸下一具新貨櫃，該貨櫃裝有糧食。辨識該貨櫃以召喚[[薩蘇瑪號]]進場。$  此舉亦會引來一艘滅星艦將薩蘇瑪號擊沉。任由其被毀即可，你依然能順利完成任務並返航基地。</target>
+        <target>  優先消滅所有鈦戰機。接著辨識所有貨櫃（CON）。隨後一艘帝國貨船將進場卸下一具新貨櫃，該貨櫃裝有糧食。辨識該貨櫃以召喚[[薩蘇瑪號]]進場。$  此舉亦會引來一艘滅星者將薩蘇瑪號擊沉。任由其被毀即可，你依然能順利完成任務並返航基地。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m10aw.Tag.0">
@@ -7187,7 +7187,7 @@ poisoned by Ghorin.</source>
     <unit id="Briefing.t4m14am.Text.7">
       <segment state="translated">
         <source>  The grain exchange operation was successful.  Now [[High Command]] wants to confirm that the tainted grain is being distributed to Imperial forces.   A Nebulon B stationed in the [[Droma]] sector is waiting for a supply shipment. [[ Red]] Squadron will send three A-wings to identify any Transports entering that area.  All that is needed is to confirm delivery of the tainted grain.$  Do not engage the Transports!</source>
-        <target>  糧食掉包作戰圓滿成功。現在[[最高統帥部]]希望確認這批毒糧食確實已分發至帝國部隊手中。一艘駐紮在[[德羅馬（Droma）]]星區的星雲B級護衛巡防艦正等待補給船隊。[[紅隊]]中隊將派遣三架A翼戰機去辨識進入該區域的任何運輸艦。你唯一需要做的就是確認毒糧食的送達。$  切勿攻擊運輸艦！</target>
+        <target>  糧食掉包作戰圓滿成功。現在[[最高統帥部]]希望確認這批毒糧食確實已分發至帝國部隊手中。一艘駐紮在[[德羅馬（Droma）]]星區的尼布隆B級護衛巡防艦正等待補給船隊。[[紅隊]]中隊將派遣三架A翼戰機去辨識進入該區域的任何運輸艦。你唯一需要做的就是確認毒糧食的送達。$  切勿攻擊運輸艦！</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m14am.Text.8">
@@ -7211,7 +7211,7 @@ poisoned by Ghorin.</source>
     <unit id="Briefing.t4m14am.Text.11">
       <segment state="translated">
         <source>  There is only one TRN carrying grain.  It is number 2 in a 3 ship group that enters [[6:18]] minutes after mission start.  All enemy fighters increase in skill level with each new wave of each type.$  Beware of the T/As, the first one is a Novice and may collide with you.  Use your wingmen to gang up on a single T/A at a time.  (Their shields regenerate quickly.)  Use missiles on T/Bs; don't waste them on T/As.</source>
-        <target>  只有一艘運輸艦載運糧食。它是任務開始後[[第 6 分 18 秒]]進入的三艦編組中的第 2 艘。所有敵方戰機的技術等級都會隨著每一波增援而提升。$  小心進階型鈦戰機（T/A），第一批是新手，可能會撞上你。命令你的僚機每次集中火力對付單一架進階型鈦戰機（它們的護盾恢復很快）。用飛彈對付鈦轟炸機（T/B），別浪費在進階型鈦戰機上。</target>
+        <target>  只有一艘運輸艦載運糧食。它是任務開始後[[第 6 分 18 秒]]進入的三艦編組中的第 2 艘。所有敵方戰機的技術等級都會隨著每一波增援而提升。$  小心進階型鈦戰機（T/A），第一批是新手，可能會撞上你。命令你的僚機每次集中火力對付單一架進階型鈦戰機（它們的護盾恢復很快）。用飛彈對付鈦式轟炸機（T/B），別浪費在進階型鈦戰機上。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m14am.Tag.0">
@@ -7969,7 +7969,7 @@ forces.</source>
     <unit id="Briefing.t4m16awa.Text.4">
       <segment state="translated">
         <source>  First attack is by 4 GUNs with 2 following waves. The FRG arrives 7:18 into the mission.  It launches one sqdn of T/Bs and one sqdn of T/Is. (Two groups of two ships each for both types with 3 following waves.)$  Destroy all GUNs as quickly as you can.  The FRG arrives about 20 klicks away so finish off the GUNs and then go after the T/Bs.  Evade the T/Is until all T/Bs are gone.</source>
-        <target>  第一波攻擊由 4 架突擊砲艇（GUN）發起，後續有 2 波增援。巡防艦將在任務進行到 7:18 時抵達，並放出一個中隊的鈦轟炸機（T/B）與一個中隊的鈦攔截機（T/I）。（兩種機型各為兩組、每組兩架，後續有 3 波增援。）$  儘快摧毀所有突擊砲艇。巡防艦出現在約 20 公里外，因此先解決突擊砲艇，然後追擊鈦轟炸機。在所有鈦轟炸機被消滅前，先規避鈦攔截機。</target>
+        <target>  第一波攻擊由 4 架突擊砲艇（GUN）發起，後續有 2 波增援。巡防艦將在任務進行到 7:18 時抵達，並放出一個中隊的鈦式轟炸機（T/B）與一個中隊的鈦式截擊機（T/I）。（兩種機型各為兩組、每組兩架，後續有 3 波增援。）$  儘快摧毀所有突擊砲艇。巡防艦出現在約 20 公里外，因此先解決突擊砲艇，然後追擊鈦式轟炸機。在所有鈦式轟炸機被消滅前，先規避鈦式截擊機。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m16awa.Text.5">
@@ -8437,7 +8437,7 @@ Alliance.</source>
     <unit id="Briefing.t4m16xwb.Text.8">
       <segment state="translated">
         <source>  Order your wingmen to attack the T/As while you concentrate on the T/Bs.  Don't let any Bombers sneak past you.$  Ignore any T/As that attack you until all Bombers are destroyed.$  As soon as 3 CRVs, 2 FRTs and 4 SHUs make it into hyperspace you will get the mission complete message.</source>
-        <target>  命令僚機攻擊進階型鈦戰機（T/A），而你集中精力對付鈦轟炸機（T/B）。絕不能讓任何轟炸機溜過去。$  在所有轟炸機被消滅前，先忽略攻擊你的進階型鈦戰機。$  只要有 3 艘巡邏艦（CRV）、2 艘貨船（FRT）和 4 架太空梭（SHU）進入超空間，你就會收到任務完成的訊息。</target>
+        <target>  命令僚機攻擊進階型鈦戰機（T/A），而你集中精力對付鈦式轟炸機（T/B）。絕不能讓任何轟炸機溜過去。$  在所有轟炸機被消滅前，先忽略攻擊你的進階型鈦戰機。$  只要有 3 艘巡邏艦（CRV）、2 艘貨船（FRT）和 4 架太空梭（SHU）進入超空間，你就會收到任務完成的訊息。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m16xwb.Text.9">
@@ -8875,7 +8875,7 @@ Frigate Red Wind.</source>
     <unit id="Briefing.t4m17am.Text.11">
       <segment state="translated">
         <source>  Do not shoot the container. Ignore the two FRTs, TRN and SHU.  Primary concerns are the T/Bs and their torpedos.  Use your wingman wisely.$  Once the CRVs get close to the FRG, take out the mines.  You may have to do a little damage to the FRG yourself.  Hit it with lasers when in range waiting for the next wave to launch.  You may try firing all twelve missiles at the [[Red Wind]] during the first wave.</source>
-        <target>  切勿射擊貨櫃。忽略兩艘貨船（FRT）、運輸艦（TRN）和太空梭（SHU）。最首要的威脅是鈦轟炸機（T/B）及其魚雷。善用你的僚機。$  一旦巡邏艦逼近巡防艦，立刻摧毀水雷。你可能需要親自對巡防艦造成一些傷害。在等待下一波發射時，進入射程內就用雷射射擊它。你也可以在第一波期間嘗試向[[紅風號]]發射所有十二枚飛彈。</target>
+        <target>  切勿射擊貨櫃。忽略兩艘貨船（FRT）、運輸艦（TRN）和太空梭（SHU）。最首要的威脅是鈦式轟炸機（T/B）及其魚雷。善用你的僚機。$  一旦巡邏艦逼近巡防艦，立刻摧毀水雷。你可能需要親自對巡防艦造成一些傷害。在等待下一波發射時，進入射程內就用雷射射擊它。你也可以在第一波期間嘗試向[[紅風號]]發射所有十二枚飛彈。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m17am.Tag.0">
@@ -9325,7 +9325,7 @@ secret research site.</source>
     <unit id="Briefing.t4m18ym.Text.13">
       <segment state="translated">
         <source>  Do a circle while you charge up and cycle ships through the CMD. Fire six tropedoes at one CRV and two at another on your way in. Order wingman to help you attack same CRV. The third CRV now has a unprotected blind spot (dead level).$  Keep an eye on the T/Bs.  Watch for the three Imperial SHUs that come in just after the Alliance SHUs.  Do not attack the CONs until after the "MISSION COMPLETE" message.</source>
-        <target>  在為護盾充能時繞圈飛行，並在戰鬥機動顯示器（CMD）中循環切換艦船目標。在進場途中向一艘巡邏艦（CRV）發射六枚魚雷，向另一艘發射兩枚。命令僚機協助你攻擊同一艘巡邏艦。第三艘巡邏艦現在會有一個無防禦的盲區（正後方水平位）。$  隨時注意鈦轟炸機（T/B）。注意在同盟太空梭之後進場的三架帝國太空梭（SHU）。在出現「任務完成」訊息前，切勿攻擊貨櫃（CON）。</target>
+        <target>  在為護盾充能時繞圈飛行，並在戰鬥機動顯示器（CMD）中循環切換艦船目標。在進場途中向一艘巡邏艦（CRV）發射六枚魚雷，向另一艘發射兩枚。命令僚機協助你攻擊同一艘巡邏艦。第三艘巡邏艦現在會有一個無防禦的盲區（正後方水平位）。$  隨時注意鈦式轟炸機（T/B）。注意在同盟太空梭之後進場的三架帝國太空梭（SHU）。在出現「任務完成」訊息前，切勿攻擊貨櫃（CON）。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m18ym.Tag.0">
@@ -10192,7 +10192,7 @@ shipyard.</source>
     <unit id="Briefing.t4m20xm.Text.2">
       <segment state="translated">
         <source>  Congratulations on the capture of the Corvette [[Blade 5]].  This specially modified ship is the key element in Operation "[[Ram's Head]]."$  The plan was first proposed after the loss of the Freighter [[Sarsuma ]]during[[ ]]Operation "[[Grain Snatch]]."  Analysis of the flight data suggested that perhaps a Freighter or other vessel could somehow be used to decapitate a Star Destroyer by ramming its bridge.</source>
-        <target>  恭喜成功俘獲巡邏艦[[利刃5號（Blade 5）]]。這艘經過特殊改裝的艦船是「[[公羊角（Ram's Head）]]」作戰的關鍵核心。$  該計畫是在「[[糧食爭奪戰（Grain Snatch）]]」作戰中失去貨船[[薩爾蘇馬號（Sarsuma）]]後首次提出的。分析飛行數據後顯示，或許能用貨船或其他艦船撞擊滅星艦艦橋，直接斬首其指揮中樞。</target>
+        <target>  恭喜成功俘獲巡邏艦[[利刃5號（Blade 5）]]。這艘經過特殊改裝的艦船是「[[公羊角（Ram's Head）]]」作戰的關鍵核心。$  該計畫是在「[[糧食爭奪戰（Grain Snatch）]]」作戰中失去貨船[[薩爾蘇馬號（Sarsuma）]]後首次提出的。分析飛行數據後顯示，或許能用貨船或其他艦船撞擊滅星者艦橋，直接斬首其指揮中樞。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m20xm.Text.3">
@@ -10222,7 +10222,7 @@ shipyard.</source>
     <unit id="Briefing.t4m20xm.Text.7">
       <segment state="translated">
         <source>  The new shield technology used on [[Blade 5]] promises to make this idea feasible.  The captured Corvette has been renamed "[[Ram's Head]]" in honor of the operation it is to be used in.$  Operation "[[Ram's Head]]" will strike an Imperial Deep Dock where several Star Destroyers are being repaired.  The Interdictor Cruisers that normally protect the dock have been lured away by an Alliance trick. </source>
-        <target>  [[利刃5號]]上應用的新型護盾技術有望讓這個構想成為現實。俘獲的巡邏艦已被重新命名為「[[公羊角號]]」，以紀念即將執行的作戰。$  「[[公羊角]]」作戰將打擊一座正在維修數艘滅星艦的帝國深空船塢。平時保護船塢的阻絕者巡洋艦已被同盟的計策引開。</target>
+        <target>  [[利刃5號]]上應用的新型護盾技術有望讓這個構想成為現實。俘獲的巡邏艦已被重新命名為「[[公羊角號]]」，以紀念即將執行的作戰。$  「[[公羊角]]」作戰將打擊一座正在維修數艘滅星者的帝國深空船塢。平時保護船塢的阻絕者巡洋艦已被同盟的計策引開。</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m20xm.Text.8">
@@ -10240,7 +10240,7 @@ shipyard.</source>
     <unit id="Briefing.t4m20xm.Text.10">
       <segment state="translated">
         <source>  This mission is similar to the 1st one of this tour only harder.$  Head toward the FRG as soon as it appears.  T/Bs are the main threat again and you have to be quick.$  You will be attacked by T/As instead of T/Fs but you should evade them the same way.$  A CRV arrives at [[9:00]] minutes into the mission and a couple of TRNs arrive at [[10:30]], so save some torpedoes!</source>
-        <target>  本次任務與本戰役第 1 關類似，但難度更高。$  巡防艦一出現就立刻朝它飛去。鈦轟炸機（T/B）依舊是主要威脅，你必須迅速行動。$  攻擊你的將是進階型鈦戰機（T/A）而不是普通鈦戰機（T/F），但規避方式相同。$  一艘巡邏艦（CRV）在任務進行至[[9:00]]時抵達，幾艘運輸艦（TRN）在[[10:30]]抵達，務必保留一些魚雷！</target>
+        <target>  本次任務與本戰役第 1 關類似，但難度更高。$  巡防艦一出現就立刻朝它飛去。鈦式轟炸機（T/B）依舊是主要威脅，你必須迅速行動。$  攻擊你的將是進階型鈦戰機（T/A）而不是普通鈦戰機（T/F），但規避方式相同。$  一艘巡邏艦（CRV）在任務進行至[[9:00]]時抵達，幾艘運輸艦（TRN）在[[10:30]]抵達，務必保留一些魚雷！</target>
       </segment>
     </unit>
     <unit id="Briefing.t4m20xm.Text.11">

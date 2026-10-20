@@ -574,7 +574,7 @@ Imperial convoy!</source>
     <unit id="Briefing.t5h2mb.FG.7.Cargo">
       <segment state="translated">
         <source>TIE BOMBERS</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.t5h2mb.FG.8.Designation">
@@ -736,7 +736,7 @@ Imperial convoy!</source>
     <unit id="Mission.t5h2mb.FG.7.Cargo">
       <segment>
         <source>TIE BOMBERS</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Mission.t5h2mb.FG.8.Designation">
@@ -905,7 +905,7 @@ Imperial Frigate Priam.</source>
     <unit id="Briefing.t5h3mb.Text.11">
       <segment state="translated">
         <source>  Order your wingmen to wait, while you fire all of your torps at the FRG.  Then, assist your escort in destroying T/F Alpha and T/B Beta.  When the A-wing gets hull damage send it home.$  Clear the mines and order your wingmen to proceed.  Keep attacking the FRG with lasers until its shields go down, then switch to ions.$  Intercept GUN Mu, then head back.</source>
-        <target>  命令你的僚機待命，同時將你所有的魚雷射向巡防艦（FRG）。隨後協助護航機消滅鈦戰機阿爾法（T/F Alpha）與鈦轟炸機貝塔（T/B Beta）。當 A翼戰機艦體受損時，命令其返航。$清理太空雷並命令僚機推進。持續以雷射砲攻擊巡防艦直到護盾失效，隨後切換至離子砲。$攔截突擊砲艇繆（GUN Mu），隨後返航。</target>
+        <target>  命令你的僚機待命，同時將你所有的魚雷射向巡防艦（FRG）。隨後協助護航機消滅鈦戰機阿爾法（T/F Alpha）與鈦式轟炸機貝塔（T/B Beta）。當 A翼戰機艦體受損時，命令其返航。$清理太空雷並命令僚機推進。持續以雷射砲攻擊巡防艦直到護盾失效，隨後切換至離子砲。$攔截突擊砲艇繆（GUN Mu），隨後返航。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5h3mb.Tag.0">
@@ -1355,7 +1355,7 @@ destroy an Imperial Frigate!</source>
     <unit id="Briefing.t5h4wb.Tag.6">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.t5h4wb.FG.0.Designation">
@@ -1752,7 +1752,7 @@ X翼戰機的作戰表現。</target>
     <unit id="Briefing.t5h5wb.FG.14.Cargo">
       <segment>
         <source>T/B BETA</source>
-        <target>鈦轟炸機 貝塔</target>
+        <target>鈦式轟炸機 貝塔</target>
       </segment>
     </unit>
     <unit id="Briefing.t5h5wb.FG.15.Designation">
@@ -1776,7 +1776,7 @@ X翼戰機的作戰表現。</target>
     <unit id="Briefing.t5h5wb.FG.16.Cargo">
       <segment state="translated">
         <source>T/I DELTA</source>
-        <target>鈦截擊機 德爾塔</target>
+        <target>鈦式截擊機 德爾塔</target>
       </segment>
     </unit>
     <unit id="Mission.t5h5wb.FG.0.Designation">
@@ -1878,7 +1878,7 @@ X翼戰機的作戰表現。</target>
     <unit id="Mission.t5h5wb.FG.13.Cargo">
       <segment state="translated">
         <source>T/B BETA</source>
-        <target>鈦轟炸機 貝塔</target>
+        <target>鈦式轟炸機 貝塔</target>
       </segment>
     </unit>
     <unit id="Mission.t5h5wb.FG.14.Designation">
@@ -1902,7 +1902,7 @@ X翼戰機的作戰表現。</target>
     <unit id="Mission.t5h5wb.FG.15.Cargo">
       <segment state="translated">
         <source>T/I DELTA</source>
-        <target>鈦截擊機 德爾塔</target>
+        <target>鈦式截擊機 德爾塔</target>
       </segment>
     </unit>
     <unit id="Mission.t5h5wb.CompletionMessage.0">

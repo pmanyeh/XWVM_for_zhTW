@@ -149,7 +149,7 @@
     <unit id="a-ignor">
       <segment state="translated">
         <source>Ignoring target</source>
-        <target>忽略目標</target>
+        <target>不理會目標</target>
       </segment>
     </unit>
     <unit id="a-incom">

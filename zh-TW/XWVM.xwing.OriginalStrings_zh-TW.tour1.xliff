@@ -468,7 +468,7 @@ Star Destroyer.</source>
 你將前往德拉特周遭空域
 搜查帝國艦船。
 辨識接觸的所有敵艦，
-但一見到滅星艦蹤影
+但一見到滅星者蹤影
 必須立即撤離。</target>
       </segment>
     </unit>
@@ -885,7 +885,7 @@ planet in Shuttles.</source>
     <unit id="Briefing.wxrgard1.Text.5">
       <segment state="translated">
         <source>  Our analysis of data collected from your reconnaissance mission to Dellalt has confirmed that the Empire is beginning a major offensive code named [[Operation Strike Fear]].[[  ]]Its objective is to suppress Rebel opposition and spread fear of the Emperor's power.  The [[Star Destroyer]] [[Invincible]] is leading this campaign.$  We believe that their first goal is to destroy our secret base on [[Briggia]].</source>
-        <target>  根據你從德拉特偵察任務帶回的情資分析，證實帝國已正式展開代號為[[「散播恐懼行動（Operation Strike Fear）」]]的大規模進攻。其目標是鎮壓反抗軍勢力並彰顯皇帝的恐怖威權。[[滅星艦]][[無敵號]]正是這場戰役的旗艦。$  我們研判敵軍的首要目標便是摧毀我們在[[布里吉亞（Briggia）]]的祕密基地。</target>
+        <target>  根據你從德拉特偵察任務帶回的情資分析，證實帝國已正式展開代號為[[「散播恐懼行動（Operation Strike Fear）」]]的大規模進攻。其目標是鎮壓反抗軍勢力並彰顯皇帝的恐怖威權。[[滅星者]][[無敵號]]正是這場戰役的旗艦。$  我們研判敵軍的首要目標便是摧毀我們在[[布里吉亞（Briggia）]]的祕密基地。</target>
       </segment>
     </unit>
     <unit id="Briefing.wxrgard1.Text.6">
@@ -1520,7 +1520,7 @@ campaign back several weeks.</source>
     <unit id="Briefing.attackxy.Text.2">
       <segment state="translated">
         <source>Three supply [[Freighters]] are heading for their rendezvous point with the Imperial Star Destroyer[[ Invincible]].</source>
-        <target>三艘補給[[貨船]]正前往與帝國滅星艦[[無敵號]]的會合點。</target>
+        <target>三艘補給[[貨船]]正前往與帝國滅星者[[無敵號]]的會合點。</target>
       </segment>
     </unit>
     <unit id="Briefing.attackxy.Text.3">
@@ -1550,7 +1550,7 @@ campaign back several weeks.</source>
     <unit id="Briefing.attackxy.Text.7">
       <segment state="translated">
         <source>  Alliance Intelligence has discovered that [[Operation Strike Fear's ]]next target will be [[Rudrig]].  The Imperial forces led by the Star Destroyer [[Invincible]], depleted of supplies from their attacks on [[Briggia]], are awaiting resupply from a [[Freighter Convoy]].$  Also, the Empire realizes that Rebel forces are much stronger in this Sector than anticipated and has called for reinforcements before attacking [[Rudrig]].</source>
-        <target>  同盟情報部門獲悉，[[「散播恐懼行動」]]的下一個打擊目標將是[[魯德里格（Rudrig）]]。由滅星艦[[無敵號]]率領的帝國主力在歷經[[布里吉亞]]戰事後物資嚴重耗損，目前正等待[[貨船艦隊]]的前線補給。$  此外，帝國也意識到反抗軍在此星區的實力遠超預期，已在進攻魯德里格之前急調增援部隊。</target>
+        <target>  同盟情報部門獲悉，[[「散播恐懼行動」]]的下一個打擊目標將是[[魯德里格（Rudrig）]]。由滅星者[[無敵號]]率領的帝國主力在歷經[[布里吉亞]]戰事後物資嚴重耗損，目前正等待[[貨船艦隊]]的前線補給。$  此外，帝國也意識到反抗軍在此星區的實力遠超預期，已在進攻魯德里格之前急調增援部隊。</target>
       </segment>
     </unit>
     <unit id="Briefing.attackxy.Text.8">
@@ -3425,13 +3425,13 @@ technical staff.</source>
     <unit id="Briefing.cygnus.Tag.2">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.cygnus.Tag.3">
       <segment>
         <source>TIE Interceptors</source>
-        <target>鈦截擊機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.cygnus.Tag.4">
@@ -3503,7 +3503,7 @@ technical staff.</source>
     <unit id="Briefing.cygnus.FG.3.Cargo">
       <segment>
         <source>TIE-INT</source>
-        <target>鈦截擊機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.cygnus.FG.4.Designation">
@@ -3623,7 +3623,7 @@ technical staff.</source>
     <unit id="Mission.cygnus.FG.3.Cargo">
       <segment state="translated">
         <source>TIE-INT</source>
-        <target>鈦截擊機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Mission.cygnus.FG.4.Designation">
@@ -3728,7 +3728,7 @@ this effort.</source>
         <target>必須從帝國手中奪取
 一枚巨型高爆破壞彈頭。
 它將被裝入改裝太空梭中，
-用以炸毀滅星艦。
+用以炸毀滅星者。
 你將擔任此次奪取行動的先鋒。</target>
       </segment>
     </unit>
@@ -3753,7 +3753,7 @@ this effort.</source>
     <unit id="Briefing.max20.Text.4">
       <segment state="translated">
         <source>  The [[Cygnus Corp]]. engineers have been "convinced" to modify one of our shuttles so that it will deceive the Star Destroyer [[Invincible]] into considering it an Imperial vessel.$  General Madine's plan is to place an explosive device on board this shuttle large enough to destroy the Invincible.  The success of this mission requires the capture of an [[explosive device ]]from the Empire's own arsenal.</source>
-        <target>  [[天鵝座公司]]的工程師已被「說服」協助改裝我們的一艘太空梭，讓滅星艦[[無敵號]]誤認其為帝國自家艦船。$  麥汀將軍的作戰構想是將一枚威力足以徹底炸碎無敵號的重型炸彈送入艦內。這項計畫的成敗，取決於能否自帝國軍械庫中成功[[奪取高爆彈頭]]。</target>
+        <target>  [[天鵝座公司]]的工程師已被「說服」協助改裝我們的一艘太空梭，讓滅星者[[無敵號]]誤認其為帝國自家艦船。$  麥汀將軍的作戰構想是將一枚威力足以徹底炸碎無敵號的重型炸彈送入艦內。這項計畫的成敗，取決於能否自帝國軍械庫中成功[[奪取高爆彈頭]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.max20.Text.5">
@@ -3885,7 +3885,7 @@ this effort.</source>
     <unit id="Mission.max20.CompletionMessage.1">
       <segment>
         <source>The captured explosive warhead will be used against the Empire</source>
-        <target>繳獲的高爆彈頭即將成為摧毀帝國滅星艦的致命鐵拳！</target>
+        <target>繳獲的高爆彈頭即將成為摧毀帝國滅星者的致命鐵拳！</target>
       </segment>
     </unit>
   </file>

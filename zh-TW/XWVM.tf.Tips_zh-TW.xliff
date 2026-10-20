@@ -130,7 +130,7 @@
       <unit id="tip_starDestroyers">
       <segment state="translated">
         <source>Star Destroyers are formidable in battle, but have weak spots that can be exploited.</source>
-        <target>滅星艦在戰場上極具威脅，但仍有可供利用的弱點。</target>
+        <target>滅星者在戰場上極具威脅，但仍有可供利用的弱點。</target>
       </segment>
     </unit>
       <unit id="tip_anticipateMovement">

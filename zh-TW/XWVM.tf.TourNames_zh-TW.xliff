@@ -11,19 +11,19 @@
       <unit id="ship2">
         <segment state="translated">
           <source>TIE Interceptor (T/I)</source>
-          <target>鈦截擊機 (T/I)</target>
+          <target>鈦式截擊機 (T/I)</target>
         </segment>
       </unit>
       <unit id="ship3">
         <segment state="translated">
           <source>TIE Bomber (T/B)</source>
-          <target>鈦轟炸機 (T/B)</target>
+          <target>鈦式轟炸機 (T/B)</target>
         </segment>
       </unit>
       <unit id="ship4">
         <segment state="translated">
           <source>TIE Advanced (T/A)</source>
-          <target>鈦先進型戰機 (T/A)</target>
+          <target>鈦式先進型戰機 (T/A)</target>
         </segment>
       </unit>
       <unit id="ship5">
@@ -35,7 +35,7 @@
       <unit id="ship6">
         <segment state="translated">
           <source>TIE Defender (T/D)</source>
-          <target>鈦防衛者戰機 (T/D)</target>
+          <target>鈦式防衛者戰機 (T/D)</target>
         </segment>
       </unit>
       <unit id="ship7">

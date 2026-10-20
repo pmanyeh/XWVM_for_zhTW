@@ -542,7 +542,7 @@ may escape to safety.</source>
     <unit id="Briefing.t5m02wx.Text.8">
       <segment state="translated">
         <source>  Take out the first wave of T/F Alpha ASAP, but watch for T/B Beta.  Break off from Alpha and destroy Beta when the T/Bs are in range.  Order your wingmen to keep after Alpha.  Don't let anything slip by!$  Alpha, Beta and T/F Gamma all have seven follow up waves.$  Don't get too close to the STD.  If it is attacked (or hit by a stray shot) T/B Delta will launch.  Delta is a Top Ace group of 6 with 3 waves!</source>
-        <target>  儘快消滅第 1 波鈦戰機（T/F）阿爾法隊，但務必警戒鈦轟炸機（T/B）貝塔隊。一旦轟炸機進入射程，立即脫離阿爾法隊並消滅貝塔隊。命令僚機持續緊咬阿爾法隊。絕不能放漏任何敵機！$  阿爾法、貝塔與鈦戰機伽瑪隊各自都有 7 波增援。$  切勿過於接近滅星艦（STD）。若滅星艦遭到攻擊（或被流彈擊中），鈦轟炸機德爾塔隊將會出擊。德爾塔隊是由 6 架頂尖王牌組成的隊伍，共有 3 波！</target>
+        <target>  儘快消滅第 1 波鈦戰機（T/F）阿爾法隊，但務必警戒鈦式轟炸機（T/B）貝塔隊。一旦轟炸機進入射程，立即脫離阿爾法隊並消滅貝塔隊。命令僚機持續緊咬阿爾法隊。絕不能放漏任何敵機！$  阿爾法、貝塔與鈦戰機伽瑪隊各自都有 7 波增援。$  切勿過於接近滅星者（STD）。若滅星者遭到攻擊（或被流彈擊中），鈦式轟炸機德爾塔隊將會出擊。德爾塔隊是由 6 架頂尖王牌組成的隊伍，共有 3 波！</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m02wx.Text.9">
@@ -942,7 +942,7 @@ with their mother ship.</source>
     <unit id="Briefing.t5m03wa.Text.8">
       <segment state="translated">
         <source>  Intercept and destroy T/F Alpha 1-3 (and 3 follow up waves.)  Ignore Alpha 4-6.$  FRG Metternich arrives on the destruction of T/B Beta.  Intercept T/I Gamma (3 waves) and T/B Delta (3 waves).$  Gamma targets the B-Ws and you, Delta attacks the CRS Maria.$  GUN Tau (3 waves) arrives on the destruction of T/B Delta.</source>
-        <target>  攔截並摧毀鈦戰機（T/F）阿爾法 1-3 號（後續有 3 波增援）。忽略阿爾法 4-6 號。$  巡防艦梅特涅號將在鈦轟炸機（T/B）貝塔隊被摧毀時抵達。攔截鈦攔截機（T/I）伽瑪隊（3 波）與鈦轟炸機德爾塔隊（3 波）。$  伽瑪隊的目標是B翼戰機與你，德爾塔隊則攻擊巡洋艦瑪麗亞號。$  突擊砲艇陶隊（3 波）將在鈦轟炸機德爾塔隊被摧毀時進場。</target>
+        <target>  攔截並摧毀鈦戰機（T/F）阿爾法 1-3 號（後續有 3 波增援）。忽略阿爾法 4-6 號。$  巡防艦梅特涅號將在鈦式轟炸機（T/B）貝塔隊被摧毀時抵達。攔截鈦式截擊機（T/I）伽瑪隊（3 波）與鈦式轟炸機德爾塔隊（3 波）。$  伽瑪隊的目標是B翼戰機與你，德爾塔隊則攻擊巡洋艦瑪麗亞號。$  突擊砲艇陶隊（3 波）將在鈦式轟炸機德爾塔隊被摧毀時進場。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m03wa.Text.9">
@@ -1807,7 +1807,7 @@ shield technology.</source>
     <unit id="Briefing.t5m05mb.Text.12">
       <segment state="translated">
         <source>  Scroll through target list to 2nd CRV and fire 6 torps at it.  Target 1st CRV and fire 4 torps at it, then switch to ions and disable it.$  Switch back to lasers and destroy the CONs.  Engage the T/Bs if necessary, but avoid if you can.$  Two more CRVs and GUN Mu (3 ships) will enter 12 seconds after the destruction of the 1st CRV, so destroy it last.$  </source>
-        <target>  在目標清單中切換至第 2 艘巡邏艦（CRV），向其發射 6 枚魚雷。鎖定第 1 艘巡邏艦並發射 4 枚魚雷，然後切換至離子砲將其癱瘓。$  切換回雷射並摧毀貨櫃（CON）。若有必要可與鈦轟炸機（T/B）交火，但能避開就避開。$  在第 1 艘巡邏艦被摧毀 12 秒後，將有另外兩艘巡邏艦與突擊砲艇繆隊（3 架）進入，因此最後再摧毀它。$</target>
+        <target>  在目標清單中切換至第 2 艘巡邏艦（CRV），向其發射 6 枚魚雷。鎖定第 1 艘巡邏艦並發射 4 枚魚雷，然後切換至離子砲將其癱瘓。$  切換回雷射並摧毀貨櫃（CON）。若有必要可與鈦式轟炸機（T/B）交火，但能避開就避開。$  在第 1 艘巡邏艦被摧毀 12 秒後，將有另外兩艘巡邏艦與突擊砲艇繆隊（3 架）進入，因此最後再摧毀它。$</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m05mb.Tag.0">
@@ -2210,7 +2210,7 @@ convoy.</source>
     <unit id="Briefing.t5m06my.Text.11">
       <segment state="translated">
         <source>  Destroy all 3 SHUs first.  (The 'R' key won't help you.)$  ID all FRTs.  Destroy any trailing FRT(s) without prisoners before disabling the special FRT.  The prisoner FRT will be either the 1st or the 2nd.$  A FRG enters when the prisoner FRT is disabled, so fully charge shields and lasers before disabling.$  Intercept and destroy all fighters launched by FRG, especially the T/Bs.</source>
-        <target>  首先摧毀所有 3 架太空梭（SHU）。（『R』鍵幫不了你。）$  辨識所有貨船（FRT）。在癱瘓特殊貨船前，先摧毀任何沒有戰俘的尾隨貨船。載運戰俘的貨船通常是第 1 艘或第 2 艘。$  當戰俘貨船被癱瘓時巡防艦將會進場，因此在癱瘓前務必將護盾與雷射充滿能量。$  攔截並摧毀巡防艦放出的所有戰機，特別是鈦轟炸機（T/B）。</target>
+        <target>  首先摧毀所有 3 架太空梭（SHU）。（『R』鍵幫不了你。）$  辨識所有貨船（FRT）。在癱瘓特殊貨船前，先摧毀任何沒有戰俘的尾隨貨船。載運戰俘的貨船通常是第 1 艘或第 2 艘。$  當戰俘貨船被癱瘓時巡防艦將會進場，因此在癱瘓前務必將護盾與雷射充滿能量。$  攔截並摧毀巡防艦放出的所有戰機，特別是鈦式轟炸機（T/B）。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m06my.Tag.0">
@@ -2680,13 +2680,13 @@ to join the Alliance.</source>
     <unit id="Briefing.t5m07mx.Text.11">
       <segment state="translated">
         <source>  The [[Habassa]] are an isolationist culture.  Their home system is remote from Imperial concerns and their desire to remain neutral is strong.  There are some among the [[Habassa]] who recognize the threat of the Empire.  They realize it is only a matter of time before the Emperor's heavy hand is laid upon them.$  With the return of the captured [[Habassans]] the case for remaining neutral is further weakened.</source>
-        <target>  全速飛向船團。優先消滅鈦轟炸機（T/B）貝塔隊與伽瑪隊。$  命令僚機攻擊鈦戰機（T/F）阿爾法隊，避免他們干擾你的攔截。$  保留足夠魚雷以應對隨後進場的帝國突擊砲艇。只要船團艦船跳入超空間即可完成任務。</target>
+        <target>  全速飛向船團。優先消滅鈦式轟炸機（T/B）貝塔隊與伽瑪隊。$  命令僚機攻擊鈦戰機（T/F）阿爾法隊，避免他們干擾你的攔截。$  保留足夠魚雷以應對隨後進場的帝國突擊砲艇。只要船團艦船跳入超空間即可完成任務。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m07mx.Text.12">
       <segment state="translated">
         <source>  Get to the CRVs ASAP, but don't use your torps.  Save them for the FRG that enters when the CRVs die.$  Order your wingmen to attack the FRG, use all of your torpedoes.$  Attack T/A Eta, but break off as soon as T/B Alpha launches.$  Intercept T/B Alpha and all nine waves as quickly as you can.  Order your wingmen to assist.$  Destroy TRN Upsilon to trigger arrival of Habassan Y-wings for help.</source>
-        <target>儘快趕到巡邏艦（CRV）處，但先別用魚雷。把魚雷留給巡邏艦被摧毀後進場的巡防艦（FRG）。$  命令僚機攻擊巡防艦，將所有魚雷全數傾瀉在它身上。$  交戰進階型鈦戰機（T/A）艾塔隊，但一旦鈦轟炸機（T/B）阿爾法隊升空就立刻脫離轉向。$  儘快攔截鈦轟炸機阿爾法隊及其全部九波增援。命令僚機協助。$  摧毀運輸艦（TRN）宇普西隆隊可觸發哈巴薩Y翼戰機前來支援。</target>
+        <target>儘快趕到巡邏艦（CRV）處，但先別用魚雷。把魚雷留給巡邏艦被摧毀後進場的巡防艦（FRG）。$  命令僚機攻擊巡防艦，將所有魚雷全數傾瀉在它身上。$  交戰進階型鈦戰機（T/A）艾塔隊，但一旦鈦式轟炸機（T/B）阿爾法隊升空就立刻脫離轉向。$  儘快攔截鈦式轟炸機阿爾法隊及其全部九波增援。命令僚機協助。$  摧毀運輸艦（TRN）宇普西隆隊可觸發哈巴薩Y翼戰機前來支援。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m07mx.Tag.0">
@@ -3071,7 +3071,7 @@ the Rebellion.</source>
     <unit id="Briefing.t5m08wa.Text.10">
       <segment state="translated">
         <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
-        <target>  緊貼在特使運輸艦附近。消滅第一波逼近的突擊砲艇（GUN）。$  隨後進場的鈦攔截機速度極快，利用A翼的高速進行機頭對迎射擊。在特使安全登艦前切勿離開防禦圈。</target>
+        <target>  緊貼在特使運輸艦附近。消滅第一波逼近的突擊砲艇（GUN）。$  隨後進場的鈦式截擊機速度極快，利用A翼的高速進行機頭對迎射擊。在特使安全登艦前切勿離開防禦圈。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m08wa.Tag.0">
@@ -3377,7 +3377,7 @@ by the Habassa.</source>
     <unit id="Briefing.t5m09ma.Text.7">
       <segment state="translated">
         <source>  Watch for entry of FRG Anjisan.  Intercept and destroy all T/Bs, (there are 20).$  Attack T/As in passing, but concentrate on T/Bs.$$$$&gt;SPOILER!$$ [[ Destroy distant CON.  Many allied craft will arrive to destroy FRG.]]</source>
-        <target>  警戒帝國巡防艦安吉桑號（Anjisan）的進場。攔截並消滅所有鈦轟炸機（共 20 架）。$  在掠過時攻擊進階型鈦戰機，但首要精力放在鈦轟炸機上。$$$$>劇透提示！$$ [[ 摧毀遠處的貨櫃，將有大量盟軍艦艇抵達協助摧毀巡防艦。]]</target>
+        <target>  警戒帝國巡防艦安吉桑號（Anjisan）的進場。攔截並消滅所有鈦式轟炸機（共 20 架）。$  在掠過時攻擊進階型鈦戰機，但首要精力放在鈦式轟炸機上。$$$$>劇透提示！$$ [[ 摧毀遠處的貨櫃，將有大量盟軍艦艇抵達協助摧毀巡防艦。]]</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m09ma.Text.9">
@@ -3713,7 +3713,7 @@ surveillance probes.</source>
     <unit id="Briefing.t5m10wb.Text.8">
       <segment state="translated">
         <source>  Close study of the Imperial Navy's surveillance network has suggested a plan.  Intelligence has determined that the probe's data is being coordinated through the Imperial Star Destroyer [[Relentless]].  [[Darth Vader]] has charged the commander of the [[Relentless]] with fixing the location of the Alliance Fleet.  Once this is accomplished, the full weight of the Imperial Navy will be brought to bear.</source>
-        <target>  對帝國海軍偵察網絡的深入研究讓我們制定了一項大膽計策。情報顯示，探測器的數據正透過帝國滅星艦[[殘酷號（Relentless）]]進行統一協調。[[達斯維達]]親自命令[[殘酷號]]指揮官限期查明同盟艦隊的確切位置。一旦位置暴露，帝國海軍的主力艦隊將全力撲來。</target>
+        <target>  對帝國海軍偵察網絡的深入研究讓我們制定了一項大膽計策。情報顯示，探測器的數據正透過帝國滅星者[[殘酷號（Relentless）]]進行統一協調。[[達斯維達]]親自命令[[殘酷號]]指揮官限期查明同盟艦隊的確切位置。一旦位置暴露，帝國海軍的主力艦隊將全力撲來。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m10wb.Text.9">
@@ -3737,7 +3737,7 @@ surveillance probes.</source>
     <unit id="Briefing.t5m10wb.Text.12">
       <segment state="translated">
         <source>  Destroy GUN Rho and its 2 waves.$  Order your escorts to wait outside the range of the mines.  ID the FRTs. This will trigger the arrival of 2 CRVs (which must be destroyed), and 3.5 minutes later, the FRT Libom.$  Destroy the other FRTs (for points) and the minefield.$  ID and disable FRT Libom.  TRN Storm Unit, an enemy CRV and FRG will arrive.  Destroy CRV then intercept T/Bs coming from the FRG.</source>
-        <target>  摧毀突擊砲艇羅隊及其後續 2 波。$  命令護航僚機在雷區射程外待命。識別貨船（FRT），這將觸發 2 艘巡邏艦（CRV，必須摧毀）以及 3.5 分鐘後的貨船利博姆號。$  摧毀其他貨船（賺取積分）並清除雷區。$  識別並癱瘓貨船利博姆號。風暴小隊運輸艦、一艘敵方巡邏艦與巡防艦將會抵達。先摧毀巡邏艦，然後攔截來自巡防艦的鈦轟炸機。</target>
+        <target>  摧毀突擊砲艇羅隊及其後續 2 波。$  命令護航僚機在雷區射程外待命。識別貨船（FRT），這將觸發 2 艘巡邏艦（CRV，必須摧毀）以及 3.5 分鐘後的貨船利博姆號。$  摧毀其他貨船（賺取積分）並清除雷區。$  識別並癱瘓貨船利博姆號。風暴小隊運輸艦、一艘敵方巡邏艦與巡防艦將會抵達。先摧毀巡邏艦，然後攔截來自巡防艦的鈦式轟炸機。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m10wb.Tag.0">
@@ -4621,7 +4621,7 @@ reconnaissance.</source>
     <unit id="Briefing.t5m11mbb.Text.5">
       <segment>
         <source>You may expect interference from Gunboats and a few TIE Bombers.</source>
-        <target>預計會遭遇突擊砲艇與若干鈦轟炸機的強烈干擾。</target>
+        <target>預計會遭遇突擊砲艇與若干鈦式轟炸機的強烈干擾。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m11mbb.Text.6">
@@ -4711,7 +4711,7 @@ reconnaissance.</source>
     <unit id="Briefing.t5m11mbb.Tag.7">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m11mbb.Tag.8">
@@ -5593,13 +5593,13 @@ Cruiser Cathleen.</source>
     <unit id="Briefing.t5m13ma.Text.7">
       <segment state="translated">
         <source>  B-wings continue to be deployed as rapidly as possible.  The new fighters are proving themselves well suited to the roles they were designed for.  Nevertheless, some weaknesses have come to light.  They have proven to be especially vulnerable to TIE Interceptors.$  This requires that the B-wings have adequate escort when attacking a target defended by TIE Interceptors.</source>
-        <target>  B翼戰機正以最快速度持續部署到前線。這款新戰機充分證明非常契合其設計定位。然而，也暴露出若干弱點，特別是面對鈦攔截機時較為脆弱。$  這意味著當B翼戰機攻擊有鈦攔截機防守的目標時，必須配備充分的戰機護航。</target>
+        <target>  B翼戰機正以最快速度持續部署到前線。這款新戰機充分證明非常契合其設計定位。然而，也暴露出若干弱點，特別是面對鈦式截擊機時較為脆弱。$  這意味著當B翼戰機攻擊有鈦式截擊機防守的目標時，必須配備充分的戰機護航。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m13ma.Text.8">
       <segment state="translated">
         <source>  All enemy starfighters launch in one minute intervals.  You must kill them quickly to keep from being overwhelmed.  Remember to give your wingman specific attack orders.  (A Top Ace A-wing is very effective against T/Bs and T/Fs!)$  Use your missiles on any T/Bs (or other ships) that get by you.  Have your wingman attack the T/Is if they prove troublesome.</source>
-        <target>  所有敵方戰機每隔一分鐘發射一波。你必須迅速消滅它們，以防遭到火力淹沒。記住給僚機下達明確的攻擊指令。（王牌級A翼在對付鈦轟炸機與鈦戰機時非常高效！）$  對任何溜過防線的轟炸機（或其他艦船）使用飛彈。若攔截機難以對付，可命令僚機進行圍攻。</target>
+        <target>  所有敵方戰機每隔一分鐘發射一波。你必須迅速消滅它們，以防遭到火力淹沒。記住給僚機下達明確的攻擊指令。（王牌級A翼在對付鈦式轟炸機與鈦戰機時非常高效！）$  對任何溜過防線的轟炸機（或其他艦船）使用飛彈。若攔截機難以對付，可命令僚機進行圍攻。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m13ma.Text.9">
@@ -5953,7 +5953,7 @@ captured.</source>
     <unit id="Briefing.t5m14wxa.Text.8">
       <segment state="translated">
         <source>  The Star Destroyer [[Relentless's]] task force of Frigates and System Patrol Squadrons has suffered tremendous losses but remains strong and determined.  So far the Imperials' deployments have worked to our advantage allowing us to slowly defeat them in detail.$  What we need is a definitive picture of the current strength and disposition of the task force.  Our next operation will supply this.</source>
-        <target>  滅星艦[[殘酷號（Relentless）]]的巡防艦與巡邏中隊特遣艦隊遭受了沉重打擊，但依然強大且意志堅決。到目前為止，帝國的分散部署反而對我們有利，讓我們得以逐步各個擊破。$  我們現在需要的是一份關於該特遣隊目前兵力與部署的確切情報。我們接下來的行動將提供這一關鍵訊息。</target>
+        <target>  滅星者[[殘酷號（Relentless）]]的巡防艦與巡邏中隊特遣艦隊遭受了沉重打擊，但依然強大且意志堅決。到目前為止，帝國的分散部署反而對我們有利，讓我們得以逐步各個擊破。$  我們現在需要的是一份關於該特遣隊目前兵力與部署的確切情報。我們接下來的行動將提供這一關鍵訊息。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m14wxa.Text.9">
@@ -5977,13 +5977,13 @@ captured.</source>
     <unit id="Briefing.t5m14wxa.Text.12">
       <segment state="translated">
         <source>  [[Red]] Squadron will send two X-wings to the rendezvous to stop any attack on the Corvettes.  The Corvettes will leave soon after the [[Mayhem]] arrives.  Any TIE Interceptors must be destroyed so B-wing [[Blue]] can make their attack runs unimpeded.$  Once the B-wings have disabled the Frigate, Transports will deliver commando teams to board and capture it.  This ship must be recovered intact!</source>
-        <target>  [[紅隊]]中隊將派出兩架X翼戰機前往會合點阻截對巡邏艦的攻擊。巡邏艦將在[[混亂號]]抵達後不久脫離。任何鈦攔截機都必須消滅，以確保B翼[[藍隊]]的攻擊航路暢通無阻。$  一旦B翼戰機癱瘓巡防艦，運輸艦將送突擊隊登艦俘獲。這艘戰艦必須完整奪取！</target>
+        <target>  [[紅隊]]中隊將派出兩架X翼戰機前往會合點阻截對巡邏艦的攻擊。巡邏艦將在[[混亂號]]抵達後不久脫離。任何鈦式截擊機都必須消滅，以確保B翼[[藍隊]]的攻擊航路暢通無阻。$  一旦B翼戰機癱瘓巡防艦，運輸艦將送突擊隊登艦俘獲。這艘戰艦必須完整奪取！</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m14wxa.Text.13">
       <segment state="translated">
         <source>  Intercept and destroy T/Bs until the CRVs leave, then go after the T/Is.  Keep them away from the B-Ws.$  Stay close to the Mayhem to draw its fire away from the B-Ws.  (Watch for the FRG's shields to go down, then order the 1st B-Ws home.)$  GUN Mu (1 wave) enters when the FRG is disabled.  These target TRN Storm 1 and must be intercepted.  You may need to use torps.  GUN Tau (3 waves) enters when it is captured.</source>
-        <target>  攔截並摧毀鈦轟炸機直至巡邏艦撤離，然後全力追擊鈦攔截機。讓敵機遠離B翼戰機。$  貼近混亂號飛行以吸引其防空火力遠離B翼戰機。（注意當巡防艦護盾失效時，命令第 1 批B翼戰機返航。）$  突擊砲艇繆隊（1 波）將在巡防艦被癱瘓時進場。它們的目標是風暴 1 號運輸艦，必須予以攔截。你可能需要使用魚雷。突擊砲艇陶隊（3 波）將在巡防艦被俘獲時進場。</target>
+        <target>  攔截並摧毀鈦式轟炸機直至巡邏艦撤離，然後全力追擊鈦式截擊機。讓敵機遠離B翼戰機。$  貼近混亂號飛行以吸引其防空火力遠離B翼戰機。（注意當巡防艦護盾失效時，命令第 1 批B翼戰機返航。）$  突擊砲艇繆隊（1 波）將在巡防艦被癱瘓時進場。它們的目標是風暴 1 號運輸艦，必須予以攔截。你可能需要使用魚雷。突擊砲艇陶隊（3 波）將在巡防艦被俘獲時進場。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m14wxa.Tag.0">
@@ -6368,7 +6368,7 @@ so it may be captured.</source>
     <unit id="Briefing.t5m14mbb.Text.8">
       <segment state="translated">
         <source>  The Star Destroyer [[Relentless's]] task force of Frigates and System Patrol Squadrons has suffered tremendous losses.  We remain in great danger, however, as we still do not have a clear picture of exactly what we are facing.$  Our intelligence gathering operations just aren't giving us enough information.  It has been decided to attempt the capture of some Imperial officers for interrogation.</source>
-        <target>  滅星艦[[殘酷號（Relentless）]]的特遣艦隊遭受了慘重損失。然而我們依然處於巨大危險之中，因為我們對敵人的全貌仍然缺乏精確了解。$  我們的情報蒐集管道無法提供足夠的深層情報。因此決定俘獲若干帝國軍官以進行審訊。</target>
+        <target>  滅星者[[殘酷號（Relentless）]]的特遣艦隊遭受了慘重損失。然而我們依然處於巨大危險之中，因為我們對敵人的全貌仍然缺乏精確了解。$  我們的情報蒐集管道無法提供足夠的深層情報。因此決定俘獲若干帝國軍官以進行審訊。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m14mbb.Text.9">
@@ -6733,7 +6733,7 @@ the last Frigate in the
 Star Destroyer Relentless's
 task force.</source>
         <target>護航B翼戰機，
-摧毀滅星艦殘酷號
+摧毀滅星者殘酷號
 特遣隊中的
 最後一艘巡防艦。</target>
       </segment>
@@ -6771,7 +6771,7 @@ task force.</source>
     <unit id="Briefing.t5m15wa.Text.6">
       <segment state="translated">
         <source>  Interrogation of the captured Imperial officers has revealed that the Star Destroyer [[Relentless]] is even more vulnerable than we had hoped!  Our victories have resulted in the Frigate division of the task force being reduced to a single ship.$  It is the [[Juvaini]], currently being serviced near [[Sunaj IV]].  This was one of the Frigates that attacked the Alliance Cruiser [[Maria]] when she was receiving [[Blue]] Squadron's B-wings.$</source>
-        <target>  對俘獲的帝國軍官進行審訊後發現，滅星艦[[殘酷號（Relentless）]]比我們預想的還要脆弱！我們的連續勝利已讓其巡防艦編隊縮減至僅剩最後一艘。$  這就是巡防艦[[朱瓦尼號]]，目前正在[[蘇納吉四號（Sunaj IV）]]附近進行整修維護。這艘戰艦正是當初攻擊巡洋艦[[瑪麗亞號]]接收B翼戰機的元兇之一。$</target>
+        <target>  對俘獲的帝國軍官進行審訊後發現，滅星者[[殘酷號（Relentless）]]比我們預想的還要脆弱！我們的連續勝利已讓其巡防艦編隊縮減至僅剩最後一艘。$  這就是巡防艦[[朱瓦尼號]]，目前正在[[蘇納吉四號（Sunaj IV）]]附近進行整修維護。這艘戰艦正是當初攻擊巡洋艦[[瑪麗亞號]]接收B翼戰機的元兇之一。$</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m15wa.Text.7">
@@ -6783,7 +6783,7 @@ task force.</source>
     <unit id="Briefing.t5m15wa.Text.8">
       <segment state="translated">
         <source>  Target the nearest enemy and engage.  There are two squadrons to be defeated, one of T/Fs and one of T/Is.$  You only have 6 missiles, so save them for the GUNs that arrive 2.5 minutes after the attack on the Juvaini begins.$  Keep an eye on the FRG.  When its hull is damaged, switch to single fire mode and attack it.  (This is the best way to "get the kill!")</source>
-        <target>  鎖定最近的敵軍並交火。必須擊潰兩個中隊，一個鈦戰機（T/F）中隊與一個鈦攔截機（T/I）中隊。$  你只有 6 枚飛彈，把它們留給在對朱瓦尼號發起進攻 2.5 分鐘後進場的突擊砲艇。$  隨時注意巡防艦的狀況。當其艦體受損時，切換至單發模式對其射擊（這是搶下擊殺戰果的最佳方式！）。</target>
+        <target>  鎖定最近的敵軍並交火。必須擊潰兩個中隊，一個鈦戰機（T/F）中隊與一個鈦式截擊機（T/I）中隊。$  你只有 6 枚飛彈，把它們留給在對朱瓦尼號發起進攻 2.5 分鐘後進場的突擊砲艇。$  隨時注意巡防艦的狀況。當其艦體受損時，切換至單發模式對其射擊（這是搶下擊殺戰果的最佳方式！）。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m15wa.Text.9">
@@ -7153,7 +7153,7 @@ Calibration Site.</source>
     <unit id="Briefing.t5m16wb.Text.6">
       <segment state="translated">
         <source>  As you know, the [[Habassa]] have provided us with data on a number of moons and planets which may be suitable for building a new main base.  These are being carefully evaluated.$  Wherever we choose to go, we must first disentangle from the pursuing Imperial forces led by the Star Destroyer [[Relentless]].  The next series of missions will culminate in the destruction of the [[Relentless]].</source>
-        <target>  如你所知，[[哈巴薩人]]已向我們提供了許多可能適合建立新基地的衛星與行星數據。我們目前正在進行審慎評估。$  無論我們最終選擇何處，首先都必須徹底甩掉以滅星艦[[殘酷號]]為首的帝國追擊部隊。接下來的一系列任務將以徹底摧毀[[殘酷號]]作為高潮結尾。</target>
+        <target>  如你所知，[[哈巴薩人]]已向我們提供了許多可能適合建立新基地的衛星與行星數據。我們目前正在進行審慎評估。$  無論我們最終選擇何處，首先都必須徹底甩掉以滅星者[[殘酷號]]為首的帝國追擊部隊。接下來的一系列任務將以徹底摧毀[[殘酷號]]作為高潮結尾。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m16wb.Text.7">
@@ -7683,7 +7683,7 @@ Relentless.</source>
     <unit id="Briefing.t5m17maa.Text.3">
       <segment state="translated">
         <source>They are being escorted by TIE Bombers as well as some Corvettes.</source>
-        <target>他們由鈦轟炸機及數艘巡邏艦護航。</target>
+        <target>他們由鈦式轟炸機及數艘巡邏艦護航。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17maa.Text.4">
@@ -7707,7 +7707,7 @@ Relentless.</source>
     <unit id="Briefing.t5m17maa.Text.7">
       <segment state="translated">
         <source>  Following our successful raid on the Probe calibration site, we are preparing to attack the Star Destroyer [[Relentless]].  Before we can proceed we must ensure that it is as vulnerable as possible.$  Due to our earlier successes, the [[Relentless's]] starfighters have been all but wiped out.  A convoy is even now rushing replacements to the Star Destroyer.  Fortunately, we know the convoy's flight path!</source>
-        <target>在我們成功突襲探測器校準站後，我們正準備攻擊滅星艦[[殘酷號]]。在展開行動前，我們必須確保它處於最脆弱的狀態。$  由於我們先前的戰果，[[殘酷號]]的星際戰機幾乎被全殲。一支船隊正火速運送補充機隊前往該滅星艦。幸運的是，我們掌握了該船隊的航線！</target>
+        <target>在我們成功突襲探測器校準站後，我們正準備攻擊滅星者[[殘酷號]]。在展開行動前，我們必須確保它處於最脆弱的狀態。$  由於我們先前的戰果，[[殘酷號]]的星際戰機幾乎被全殲。一支船隊正火速運送補充機隊前往該滅星者。幸運的是，我們掌握了該船隊的航線！</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17maa.Text.8">
@@ -7731,7 +7731,7 @@ Relentless.</source>
     <unit id="Briefing.t5m17maa.Text.11">
       <segment state="translated">
         <source>  First power up shields and cannons. Then order wingmen to attack the T/Bs and (arriving) GUNs.  Use your missiles if needed against the T/Bs.$  If you're having problems with the CRVs, kill them while the Alliance CRVs are attacking.  This will draw off some fire from Alliance CRVs helping them to last longer. $  When the CRVs get to the mines and turn, time is running out.  If so, ignore everything but them. </source>
-        <target>首先為護盾和雷射砲充能。接著命令僚機攻擊鈦轟炸機與（隨後抵達的）突擊砲艇。對抗鈦轟炸機時必要時可使用飛彈。$  若你應對巡邏艦感到吃力，可以在同盟巡邏艦開火時協同擊毀敵艦。這能分擔同盟巡邏艦承受的火力，讓它們撐得更久。$  當巡邏艦抵達水雷區並轉向時，代表時間所剩無幾。若出現此情況，請無視其他目標，專心對付它們。</target>
+        <target>首先為護盾和雷射砲充能。接著命令僚機攻擊鈦式轟炸機與（隨後抵達的）突擊砲艇。對抗鈦式轟炸機時必要時可使用飛彈。$  若你應對巡邏艦感到吃力，可以在同盟巡邏艦開火時協同擊毀敵艦。這能分擔同盟巡邏艦承受的火力，讓它們撐得更久。$  當巡邏艦抵達水雷區並轉向時，代表時間所剩無幾。若出現此情況，請無視其他目標，專心對付它們。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17maa.Tag.0">
@@ -7767,7 +7767,7 @@ Relentless.</source>
     <unit id="Briefing.t5m17maa.Tag.5">
       <segment>
         <source>T/Bs</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17maa.Tag.6">
@@ -7947,7 +7947,7 @@ Relentless.</source>
     <unit id="Briefing.t5m17maa.FG.22.Cargo">
       <segment state="translated">
         <source>TIE/INTS</source>
-        <target>鈦攔截機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17maa.FG.23.Designation">
@@ -8079,13 +8079,13 @@ Relentless.</source>
     <unit id="Mission.t5m17maa.FG.13.Cargo">
       <segment state="translated">
         <source>TIE/INTS</source>
-        <target>鈦攔截機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Mission.t5m17maa.FG.13.SpecialCargo">
       <segment>
         <source>TIE BOMBERS</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Mission.t5m17maa.FG.14.Designation">
@@ -8250,9 +8250,9 @@ Relentless.</source>
 of replacement TIE
 Interceptors to the 
 Star Destroyer Relentess.</source>
-        <target>阻止向滅星艦殘酷號
+        <target>阻止向滅星者殘酷號
 交付補充用的
-鈦攔截機。</target>
+鈦式截擊機。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17wbb.Text.1">
@@ -8270,7 +8270,7 @@ Star Destroyer Relentess.</source>
     <unit id="Briefing.t5m17wbb.Text.3">
       <segment state="translated">
         <source>Freighters will be delivering Cargo Containers loaded with new TIE/Ints.</source>
-        <target>運輸船將運送裝滿全新鈦攔截機的貨櫃。</target>
+        <target>運輸船將運送裝滿全新鈦式截擊機的貨櫃。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17wbb.Text.4">
@@ -8282,13 +8282,13 @@ Star Destroyer Relentess.</source>
     <unit id="Briefing.t5m17wbb.Text.5">
       <segment state="translated">
         <source>The [[Relentless]] still has an unknown number of TIE Fighters and Bombers.</source>
-        <target>[[殘酷號]]仍擁有數量不明的鈦戰機與鈦轟炸機。</target>
+        <target>[[殘酷號]]仍擁有數量不明的鈦戰機與鈦式轟炸機。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17wbb.Text.6">
       <segment state="translated">
         <source>  The good news is that, thanks to our skilled pilots, the Star Destroyer [[Relentless]] has suffered horrendous losses to its starfighter complement.  The bad news is that they are being replaced with new TIE Interceptors.$  Fortunately, we have intercepted an Imperial transmission revealing where the [[Relentless]] is to rendezvous with the resupply ships.  A quick hit and fade interdiction strike will have to be made immediately!</source>
-        <target>好消息是，多虧我們優秀的飛行員，滅星艦[[殘酷號]]的星際戰機編制遭受了毀滅性打擊。壞消息是，他們正打算用全新的鈦攔截機進行補充。$  幸運的是，我們截獲了一則帝國通訊，揭示了[[殘酷號]]與補給船隊的會合地點。我們必須立即展開迅速的一擊脫離阻截突襲！</target>
+        <target>好消息是，多虧我們優秀的飛行員，滅星者[[殘酷號]]的星際戰機編制遭受了毀滅性打擊。壞消息是，他們正打算用全新的鈦式截擊機進行補充。$  幸運的是，我們截獲了一則帝國通訊，揭示了[[殘酷號]]與補給船隊的會合地點。我們必須立即展開迅速的一擊脫離阻截突襲！</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17wbb.Text.7">
@@ -8318,7 +8318,7 @@ Star Destroyer Relentess.</source>
     <unit id="Briefing.t5m17wbb.Tag.0">
       <segment state="translated">
         <source>STD Relentless</source>
-        <target>滅星艦 殘酷號</target>
+        <target>滅星者 殘酷號</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17wbb.Tag.1">
@@ -8354,7 +8354,7 @@ Star Destroyer Relentess.</source>
     <unit id="Briefing.t5m17wbb.Tag.6">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m17wbb.FG.0.Designation">
@@ -8667,7 +8667,7 @@ shield generators.</source>
     <unit id="Briefing.t5m18wb.Text.2">
       <segment state="translated">
         <source>The Star Destroyer [[Relentless]] will be finished off in this attack.</source>
-        <target>滅星艦[[殘酷號]]將在這次攻擊中被徹底解決。</target>
+        <target>滅星者[[殘酷號]]將在這次攻擊中被徹底解決。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m18wb.Text.3">
@@ -8691,19 +8691,19 @@ shield generators.</source>
     <unit id="Briefing.t5m18wb.Text.6">
       <segment state="translated">
         <source>  Thanks to the destruction of the TIE Interceptor replacements the [[Relentless]] is vulnerable to a follow up attack.  Our plan is to finish it off and then destroy the remaining Imperial surveillance probes.  This will allow the Alliance Fleet to escape to our new base unwatched.$  The Imperial Navy is depending on the constant flow of information from the [[Relentless]].  Without it they will lose contact with us.</source>
-        <target>多虧摧毀了其補充的鈦攔截機，[[殘酷號]]現在極易受到後續打擊。我們的計劃是徹底消滅它，然後摧毀剩餘的帝國偵察探測器。這將使同盟艦隊能在不受監視的情況下逃往新基地。$  帝國海軍全仰賴[[殘酷號]]持續傳送的情報。一旦失去它，他們將完全失去我們的行蹤。</target>
+        <target>多虧摧毀了其補充的鈦式截擊機，[[殘酷號]]現在極易受到後續打擊。我們的計劃是徹底消滅它，然後摧毀剩餘的帝國偵察探測器。這將使同盟艦隊能在不受監視的情況下逃往新基地。$  帝國海軍全仰賴[[殘酷號]]持續傳送的情報。一旦失去它，他們將完全失去我們的行蹤。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m18wb.Text.7">
       <segment state="translated">
         <source>  [[Red]] Squadron will send two B-wings to lead the assault.  [[Red One]] will be responsible for destroying the Star Destroyer's shield generators.  You will have two A-wings from [[Gold]] Squadron for escort.$  Two minutes after B-wing [[Red]] drops out of hyperspace, the first of two waves of B-wings from [[Blue]] Squadron will arrive.  If the [[Relentless's]] shields have been brought down this will be sufficient.</source>
-        <target>[[紅隊]]將派出兩架B翼領銜強襲。[[紅隊一號]]將負責摧毀滅星艦的護盾發生器。來自[[金隊]]的兩架A翼將為你護航。$  在B翼[[紅隊]]脫離超空間兩分鐘後，來自[[藍隊]]的第一波兩架B翼將會抵達。如果[[殘酷號]]的護盾已被癱瘓，這股兵力就足以將其摧毀。</target>
+        <target>[[紅隊]]將派出兩架B翼領銜強襲。[[紅隊一號]]將負責摧毀滅星者的護盾發生器。來自[[金隊]]的兩架A翼將為你護航。$  在B翼[[紅隊]]脫離超空間兩分鐘後，來自[[藍隊]]的第一波兩架B翼將會抵達。如果[[殘酷號]]的護盾已被癱瘓，這股兵力就足以將其摧毀。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m18wb.Text.8">
       <segment state="translated">
         <source>  Target the first CRV that arrives and fire 6 torps at it.  Weave in toward the STD and fire 3 torps at each Shield Generator.$  Engage enemy starfighters to keep them away from B-W Blue.$  Stay near the STD and watch for its hull to get damaged.  Break from whatever you're doing and attack the STD.  Use your lasers in single-fire mode to maximize your chance of getting the "kill shot."</source>
-        <target>鎖定抵達的第一艘巡邏艦並向其發射 6 枚魚雷。穿插逼近滅星艦，對每個護盾發生器各發射 3 枚魚雷。$  與敵方戰機交戰，使其遠離B翼藍隊。$  保持在滅星艦附近，觀察其艦體何時受損。放下手頭一切工作轉向攻擊滅星艦。將雷射設為單發模式，以最大化取得「擊殺一擊」的機會。</target>
+        <target>鎖定抵達的第一艘巡邏艦並向其發射 6 枚魚雷。穿插逼近滅星者，對每個護盾發生器各發射 3 枚魚雷。$  與敵方戰機交戰，使其遠離B翼藍隊。$  保持在滅星者附近，觀察其艦體何時受損。放下手頭一切工作轉向攻擊滅星者。將雷射設為單發模式，以最大化取得「擊殺一擊」的機會。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m18wb.Text.9">
@@ -8721,7 +8721,7 @@ shield generators.</source>
     <unit id="Briefing.t5m18wb.Tag.0">
       <segment state="translated">
         <source>STD Relentless</source>
-        <target>滅星艦 殘酷號</target>
+        <target>滅星者 殘酷號</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m18wb.Tag.1">
@@ -8733,7 +8733,7 @@ shield generators.</source>
     <unit id="Briefing.t5m18wb.Tag.2">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m18wb.Tag.3">
@@ -9052,7 +9052,7 @@ probe in this sector.</source>
     <unit id="Briefing.t5m19mb.Text.8">
       <segment state="translated">
         <source>  The Star Destroyer [[Relentless]] has been eliminated, depriving the Empire of the only task force to have remained in contact with our fleet.  We must now act quickly to make good our escape.$  All that remains between our fleet and [[Hoth]] are the Imperial Probes scattered throughout this sector.  Once these probes are eliminated our ships can safely jump to our new home.</source>
-        <target>滅星艦[[殘酷號]]已被消滅，使帝國失去了唯一與我軍艦隊保持接觸的特遣部隊。我們現在必須迅速採取行動以順利撤離。$  橫亙在我軍艦隊與[[霍斯]]之間的，只剩下散布在此星區的帝國探測器。一旦消滅這些探測器，我們的艦船便能安全跳躍前往新家園。</target>
+        <target>滅星者[[殘酷號]]已被消滅，使帝國失去了唯一與我軍艦隊保持接觸的特遣部隊。我們現在必須迅速採取行動以順利撤離。$  橫亙在我軍艦隊與[[霍斯]]之間的，只剩下散布在此星區的帝國探測器。一旦消滅這些探測器，我們的艦船便能安全跳躍前往新家園。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m19mb.Text.9">
@@ -9652,7 +9652,7 @@ unwatched by the Empire.</source>
     <unit id="Briefing.t5m20mba.Text.8">
       <segment state="translated">
         <source>  Don't worry about the FRG Dragon. Concentrate on the T/Bs, using your wingmen as often as possible.  You may even collide with a torpedo or two that is heading for the CRS!$  When the CRVs appear, order any remaining wingmen to attack.  Destroy the two middle CRVs first to weaken the other's field of fire.$  The TRNs that enter will launch torpedoes and also need to be stopped ASAP.</source>
-        <target>別擔心巨龍號巡防艦。集中精力對付鈦轟炸機，並盡可能多呼叫僚機協助。你甚至可以直接撞毀一兩枚飛向巡洋艦的魚雷！$  當巡邏艦出現時，命令剩餘的所有僚機發動攻擊。先摧毀中間的兩艘巡邏艦，以削弱對方的交火空域。$  進場的運輸船會發射魚雷，同樣需要盡速制止。</target>
+        <target>別擔心巨龍號巡防艦。集中精力對付鈦式轟炸機，並盡可能多呼叫僚機協助。你甚至可以直接撞毀一兩枚飛向巡洋艦的魚雷！$  當巡邏艦出現時，命令剩餘的所有僚機發動攻擊。先摧毀中間的兩艘巡邏艦，以削弱對方的交火空域。$  進場的運輸船會發射魚雷，同樣需要盡速制止。</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m20mba.Text.9">
@@ -9682,7 +9682,7 @@ unwatched by the Empire.</source>
     <unit id="Briefing.t5m20mba.Tag.2">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.t5m20mba.Tag.3">

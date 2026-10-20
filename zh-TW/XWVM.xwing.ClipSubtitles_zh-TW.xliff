@@ -4,13 +4,13 @@
     <unit id="acknowledged, ignoring target">
       <segment state="translated">
         <source>Acknowledged, ignoring target.</source>
-        <target>收到，忽略目標。</target>
+        <target>收到，不理會目標。</target>
       </segment>
     </unit>
     <unit id="acknowledged, ignoring target2">
       <segment state="translated">
         <source>Acknowledged, ignoring target.</source>
-        <target>收到，忽略目標。</target>
+        <target>收到，不理會目標。</target>
       </segment>
     </unit>
     <unit id="acknowledged, preparing for hyperspace jump">
@@ -70,7 +70,7 @@
     <unit id="coverme2">
       <segment state="translated">
         <source>Cover me!</source>
-        <target>掩護我！</target>
+        <target>快來幫我！</target>
       </segment>
     </unit>
     <unit id="docking">
@@ -118,7 +118,7 @@
     <unit id="helpme">
       <segment state="translated">
         <source>Help me!</source>
-        <target>救我！</target>
+        <target>快來幫我！</target>
       </segment>
     </unit>
     <unit id="I could do with a hand over here">
@@ -178,7 +178,7 @@
     <unit id="ignoring">
       <segment state="translated">
         <source>Ignoring target.</source>
-        <target>忽略目標。</target>
+        <target>不理會目標。</target>
       </segment>
     </unit>
     <unit id="I'm hit">

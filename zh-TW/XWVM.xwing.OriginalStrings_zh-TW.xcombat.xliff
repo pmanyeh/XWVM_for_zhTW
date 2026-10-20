@@ -97,7 +97,7 @@ and stationary Cargo ships.</source>
     <unit id="Briefing.waistem.Tag.1">
       <segment>
         <source>TIE Interceptors</source>
-        <target>鈦截擊機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.waistem.Tag.2">
@@ -109,7 +109,7 @@ and stationary Cargo ships.</source>
     <unit id="Briefing.waistem.Tag.3">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.waistem.Tag.4">
@@ -754,7 +754,7 @@ Halley Kadorto.</source>
     <unit id="Briefing.halley.Text.2">
       <segment state="translated">
         <source>Freighters bearing [[war materiel]] and [[slaves]] await a Star Destroyer.</source>
-        <target>載運[[軍用物資]]與[[奴隸]]的貨船正在等待滅星艦抵達。</target>
+        <target>載運[[軍用物資]]與[[奴隸]]的貨船正在等待滅星者抵達。</target>
       </segment>
     </unit>
     <unit id="Briefing.halley.Text.3">
@@ -766,19 +766,19 @@ Halley Kadorto.</source>
     <unit id="Briefing.halley.Text.4">
       <segment state="translated">
         <source>Beware, the [[Imperial Star Destroyer]] [[Warrior]] could arrive at any moment!</source>
-        <target>當心，[[帝國滅星艦]][[戰士號]]隨時可能出現！</target>
+        <target>當心，[[帝國滅星者]][[戰士號]]隨時可能出現！</target>
       </segment>
     </unit>
     <unit id="Briefing.halley.Text.5">
       <segment state="translated">
         <source>  This mission recreates an incredible rescue operation with you in the role of one of our most daring X-wing pilots, [[Halley Kadorto]].$  Rebel Intelligence had gathered information of a secret rendezvous location where the Empire would be transferring Mon Calamari slaves and various war materiel to an arriving Star Destroyer.  A combined force of X-wings, Y-wings and Freighters was assembled for the mission.</source>
-        <target>  本任務重現了一次不可思議的救援作戰，你將扮演我們最無畏的 X翼戰機飛行員之一[[哈利·卡多托]]。$反抗軍情報部門獲悉了一處祕密會合地點，帝國將在那裡把蒙卡拉馬里奴隸與各式軍用物資轉移至即將抵達的滅星艦。一支由 X翼戰機、Y翼戰機與貨船組成的聯合部隊已集結完畢，準備展開行動。</target>
+        <target>  本任務重現了一次不可思議的救援作戰，你將扮演我們最無畏的 X翼戰機飛行員之一[[哈利·卡多托]]。$反抗軍情報部門獲悉了一處祕密會合地點，帝國將在那裡把蒙卡拉馬里奴隸與各式軍用物資轉移至即將抵達的滅星者。一支由 X翼戰機、Y翼戰機與貨船組成的聯合部隊已集結完畢，準備展開行動。</target>
       </segment>
     </unit>
     <unit id="Briefing.halley.Text.6">
       <segment state="translated">
         <source>  [[Red Squadron's]] X-wings would first engage the TIE Fighter escorts, as [[Gold Squadron's]] Y-wings hypered in behind them to disable the Freighters.  Halley identified which craft were carrying slaves and the  Rebel Freighters were brought in to receive the liberated Calamarians.  The entire operation was planned to be safely concluded before the [[Star Destroyer Warrior]] could arrive.</source>
-        <target>  [[紅色中隊]]的 X翼戰機將首先迎戰護航的鈦戰機，隨後[[金色中隊]]的 Y翼戰機跳躍進場癱瘓貨船。哈利負責辨識載有奴隸的船艦，並引導反抗軍貨船進場接收獲釋的蒙卡拉馬里人。整場作戰原本計畫在[[滅星艦戰士號]]抵達前安全結束。</target>
+        <target>  [[紅色中隊]]的 X翼戰機將首先迎戰護航的鈦戰機，隨後[[金色中隊]]的 Y翼戰機跳躍進場癱瘓貨船。哈利負責辨識載有奴隸的船艦，並引導反抗軍貨船進場接收獲釋的蒙卡拉馬里人。整場作戰原本計畫在[[滅星者戰士號]]抵達前安全結束。</target>
       </segment>
     </unit>
     <unit id="Briefing.halley.Text.7">

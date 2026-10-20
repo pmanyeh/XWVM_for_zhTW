@@ -72,7 +72,7 @@ cargo.</source>
     <unit id="Briefing.defend2.Text.3">
       <segment state="translated">
         <source>[[Intercept]] Imperial TIE Fighter and TIE Bomber Squadrons.</source>
-        <target>[[攔截]]帝國鈦戰機與鈦轟炸機中隊。</target>
+        <target>[[攔截]]帝國鈦戰機與鈦式轟炸機中隊。</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Text.4">
@@ -114,7 +114,7 @@ cargo.</source>
     <unit id="Briefing.defend2.Tag.4">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.defend2.Tag.5">
@@ -358,7 +358,7 @@ and the surrounding ships.</source>
     <unit id="Briefing.yraid.Tag.2">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.yraid.Tag.3">
@@ -880,7 +880,7 @@ a surprise attack by
 the Imperial Star
 Destroyer Immortal.</source>
         <target>保衛蒙卡拉馬里巡洋艦挑釁號，
-抵禦帝國滅星艦不朽號的
+抵禦帝國滅星者不朽號的
 突襲。</target>
       </segment>
     </unit>
@@ -893,7 +893,7 @@ Destroyer Immortal.</source>
     <unit id="Briefing.max17.Text.2">
       <segment state="translated">
         <source>  The Star Destroyer [[Immortal ]]has just ended its hyperdrive jump next to the Cruiser[[ Defiance]].  Our cruiser is stationed above [[Bestine]], site of an important base.$  You will be one of the few starfighters that can scramble to defend the ship.  Hold off[[ ]]the [[TIE Bombers]] until the Defiance can hyperdrive to safety.  Its jump coordinates will be downloaded to your R2 for your return. </source>
-        <target>  滅星艦[[不朽號]]剛剛跳出超空間，逼近巡洋艦[[挑釁號（Defiance）]]身側。我方巡洋艦目前駐泊於重要基地所在的[[貝斯汀（Bestine）]]上空。$  你是目前少數能緊急升空保衛母艦的戰機之一。務必阻擊敵方[[鈦轟炸機]]，直到挑釁號能安全跳入超空間。其撤離座標將下載至你的 R2 單位以供返航。</target>
+        <target>  滅星者[[不朽號]]剛剛跳出超空間，逼近巡洋艦[[挑釁號（Defiance）]]身側。我方巡洋艦目前駐泊於重要基地所在的[[貝斯汀（Bestine）]]上空。$  你是目前少數能緊急升空保衛母艦的戰機之一。務必阻擊敵方[[鈦式轟炸機]]，直到挑釁號能安全跳入超空間。其撤離座標將下載至你的 R2 單位以供返航。</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Text.3">
@@ -905,7 +905,7 @@ Destroyer Immortal.</source>
     <unit id="Briefing.max17.Text.4">
       <segment state="translated">
         <source>The STD [[Immortal ]]has just entered our sector and is deploying [[TIEs]].</source>
-        <target>滅星艦[[不朽號]]剛剛進入我方星區，正全力出動[[鈦戰機群]]。</target>
+        <target>滅星者[[不朽號]]剛剛進入我方星區，正全力出動[[鈦戰機群]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Tag.0">
@@ -935,13 +935,13 @@ Destroyer Immortal.</source>
     <unit id="Briefing.max17.Tag.4">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Tag.5">
       <segment>
         <source>TIE Interceptors</source>
-        <target>鈦截擊機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.max17.Tag.6">
@@ -1173,7 +1173,7 @@ Death Star design team.</source>
     <unit id="Briefing.wyresc3.Text.2">
       <segment state="translated">
         <source>Part of the Death Star design team is on their way to a rendezvous with the Star Destroyer [[Immortal]].</source>
-        <target>死星設計團隊的部分成員正前往與滅星艦[[不朽號]]會合。</target>
+        <target>死星設計團隊的部分成員正前往與滅星者[[不朽號]]會合。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.3">
@@ -1209,7 +1209,7 @@ Death Star design team.</source>
     <unit id="Briefing.wyresc3.Text.8">
       <segment state="translated">
         <source>If you have time before the Immortal's[[ TIE interceptors]] arrive, you may attack the other craft.</source>
-        <target>若在不朽號的[[鈦截擊機]]抵達前尚有餘力，可順勢打擊其他敵機。</target>
+        <target>若在不朽號的[[鈦式截擊機]]抵達前尚有餘力，可順勢打擊其他敵機。</target>
       </segment>
     </unit>
     <unit id="Briefing.wyresc3.Text.9">
@@ -2968,7 +2968,7 @@ has escaped.</source>
     <unit id="Briefing.defend1.Tag.4">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.defend1.Tag.5">
@@ -3205,7 +3205,7 @@ possible.</source>
     <unit id="Briefing.dstar1.Tag.0">
       <segment state="translated">
         <source>TIE Interceptors</source>
-        <target>鈦截擊機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.1">
@@ -3217,7 +3217,7 @@ possible.</source>
     <unit id="Briefing.dstar1.Tag.2">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar1.Tag.3">
@@ -3476,7 +3476,7 @@ a Trench Run.</source>
     <unit id="Briefing.dstar2.Text.5">
       <segment state="translated">
         <source>  The Death Star surface is covered with [[Turbolaser Towers]].  These batteries provide defense against small spacecraft such as starfighters.  The Death Star also carries a large contingent of [[TIE Fighters]] and [[Bombers]].  Both of these forces must be countered before we can launch our assault on the [[Death Star's Trench]].$  Your mission is to rendezvous at the Nav Buoy near the surface and </source>
-        <target>  死星地表布滿了密集的高能[[渦輪雷射砲塔]]。這些防空砲台專門用以禦防小型戰機的突擊。此外，死星亦搭載了規模龐大的[[鈦戰機]]與[[鈦轟炸機]]大隊。在我們向[[死星壕溝]]發起總攻擊前，這兩股防禦火力必須被先行瓦解。$  你的任務是在地表附近的導航衛星會合，並</target>
+        <target>  死星地表布滿了密集的高能[[渦輪雷射砲塔]]。這些防空砲台專門用以禦防小型戰機的突擊。此外，死星亦搭載了規模龐大的[[鈦戰機]]與[[鈦式轟炸機]]大隊。在我們向[[死星壕溝]]發起總攻擊前，這兩股防禦火力必須被先行瓦解。$  你的任務是在地表附近的導航衛星會合，並</target>
       </segment>
     </unit>
     <unit id="Briefing.dstar2.Text.6">

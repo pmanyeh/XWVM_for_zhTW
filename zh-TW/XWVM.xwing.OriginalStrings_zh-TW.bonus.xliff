@@ -24,7 +24,7 @@ dogfighting the TIE Advanced.</source>
 突襲期間掩護貨物轉移。
 在與先進型鈦戰機
 近身纏鬥的同時，
-迅速消滅鈦轟炸機。</target>
+迅速消滅鈦式轟炸機。</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan1aw.Text.1">
@@ -102,7 +102,7 @@ dogfighting the TIE Advanced.</source>
     <unit id="Briefing.wotan1aw.Text.13">
       <segment state="translated">
         <source>  First is an independent group of four Assault Gunboats (whose primary targets are the containers and transports.)  They are joined by two Nebulon-B class Frigates, each with two TIE squadrons.  The TIEs are an even mix of TIE Bombers and TIE Advanced.  Upon the destruction of the first Frigate a third will arrive.$  The Bombers' primary target is the Cruiser.  The TIE Advanceds' primary targets are Alliance fighters.</source>
-        <target>  首先是一隊由四架突擊砲艇組成的獨立編隊（其首要目標為貨櫃與運輸船）。隨後兩艘各搭載兩個鈦戰機中隊的內布隆-B 級巡防艦將加入戰場。敵機由數量均等的鈦轟炸機與先進型鈦戰機組成。一旦第一艘巡防艦被擊沉，第三艘巡防艦隨即抵達。$轟炸機的首要目標為我方巡洋艦，而先進型鈦戰機的首要目標為同盟戰機。</target>
+        <target>  首先是一隊由四架突擊砲艇組成的獨立編隊（其首要目標為貨櫃與運輸船）。隨後兩艘各搭載兩個鈦戰機中隊的內布隆-B 級巡防艦將加入戰場。敵機由數量均等的鈦式轟炸機與先進型鈦戰機組成。一旦第一艘巡防艦被擊沉，第三艘巡防艦隨即抵達。$轟炸機的首要目標為我方巡洋艦，而先進型鈦戰機的首要目標為同盟戰機。</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan1aw.Text.14">
@@ -607,7 +607,7 @@ B-wings.</source>
     <unit id="Briefing.wotan2xw.Text.13">
       <segment state="translated">
         <source>  The troop transports in the convoy will fight back.  Additionally, a heavy squadron (20 ships) of Assault Gunboats are providing escort.  They will arrive in pairs.$  A Star Destroyer will arrive after about 20 minutes.  It has a full complement of TIEs.  There are three squadrons of TIE Fighters, two squadrons of TIE Interceptors and one squadron of TIE Bombers.</source>
-        <target>  船隊中的部隊運輸船具備防禦還擊火力。此外，一個由 20 架突擊砲艇組成的重型中隊正實施護航，他們將成對抵達戰場。$約 20 分鐘後，一艘滅星艦將會趕抵，該艦搭載完整編制的鈦戰機：包括三個鈦戰機中隊、兩個鈦截擊機中隊與一個鈦轟炸機中隊。</target>
+        <target>  船隊中的部隊運輸船具備防禦還擊火力。此外，一個由 20 架突擊砲艇組成的重型中隊正實施護航，他們將成對抵達戰場。$約 20 分鐘後，一艘滅星者將會趕抵，該艦搭載完整編制的鈦戰機：包括三個鈦戰機中隊、兩個鈦式截擊機中隊與一個鈦式轟炸機中隊。</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan2xw.Text.14">
@@ -631,7 +631,7 @@ B-wings.</source>
     <unit id="Briefing.wotan2xw.Text.17">
       <segment state="translated">
         <source>  Aggressively attack TRN [[Epsilon]].  A-W[[ Blue]] will keep the Gunboats occupied.  Help them out when the opportunity presents itself, but concentrate on the Transports.  Similarly, B-W[[ Gold]] will take care of the Freighters, but you can always speed things up when you see a Freighter with its shields down.$  Try to save your torpedoes for the Star Destroyer's shield generator towers!</source>
-        <target>  果斷猛攻運輸船[[艾普西隆]]。A翼[[藍隊]]會牽制住敵方突擊砲艇。伺機提供協助，但主要精力仍應放在運輸船上。同樣地，B翼[[金隊]]會對付貨船，但當你看到護盾已被擊破的貨船時，隨手補火能加快清場節奏。$盡量保留魚雷，留給稍後進場的滅星艦護盾產生器塔！</target>
+        <target>  果斷猛攻運輸船[[艾普西隆]]。A翼[[藍隊]]會牽制住敵方突擊砲艇。伺機提供協助，但主要精力仍應放在運輸船上。同樣地，B翼[[金隊]]會對付貨船，但當你看到護盾已被擊破的貨船時，隨手補火能加快清場節奏。$盡量保留魚雷，留給稍後進場的滅星者護盾產生器塔！</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan2xw.Text.18">
@@ -1033,7 +1033,7 @@ B-wings.</source>
     <unit id="Mission.wotan3bw.Title">
       <segment state="translated">
         <source>Attack Star Destroyer</source>
-        <target>突擊滅星艦</target>
+        <target>突擊滅星者</target>
       </segment>
     </unit>
     <unit id="Mission.wotan3bw.Description">
@@ -1046,7 +1046,7 @@ Cover the capture of
 enemy supplies.</source>
         <target>率隊突擊一艘在進行
 補給作業時露出破綻的
-帝國滅星艦。
+帝國滅星者。
 掩護繳獲敵軍物資的作戰。</target>
       </segment>
     </unit>
@@ -1065,7 +1065,7 @@ enemy supplies.</source>
     <unit id="Briefing.wotan3bw.Text.3">
       <segment>
         <source>An Imperial Star Destroyer will be vulnerable during a resupply stop.</source>
-        <target>一艘帝國滅星艦在補給停泊期間防備薄弱、露出致命破綻。</target>
+        <target>一艘帝國滅星者在補給停泊期間防備薄弱、露出致命破綻。</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan3bw.Text.4">
@@ -1077,7 +1077,7 @@ enemy supplies.</source>
     <unit id="Briefing.wotan3bw.Text.5">
       <segment state="translated">
         <source>Clear the TIE fighter defenses and knock out the Star Destroyer.</source>
-        <target>清除鈦戰機防禦力量，並重創摧毀該滅星艦。</target>
+        <target>清除鈦戰機防禦力量，並重創摧毀該滅星者。</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan3bw.Text.6">
@@ -1095,7 +1095,7 @@ enemy supplies.</source>
     <unit id="Briefing.wotan3bw.Text.8">
       <segment state="translated">
         <source>X-wing[[ Gold ]]and B-wing[[ Red]] will attack the Star Destroyer.</source>
-        <target>X翼[[金隊]]與 B翼[[紅隊]]將聯手向滅星艦發起突擊。</target>
+        <target>X翼[[金隊]]與 B翼[[紅隊]]將聯手向滅星者發起突擊。</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan3bw.Text.9">
@@ -1125,7 +1125,7 @@ enemy supplies.</source>
     <unit id="Briefing.wotan3bw.Text.13">
       <segment state="translated">
         <source>1) Imperial Star Destroyer[[ Kotiate]] must be destroyed.$$2) Shuttle group[[ Lambda]] must be destroyed.</source>
-        <target>1) 帝國滅星艦[[柯蒂亞特號]]必須被摧毀。$$2) 穿梭機編隊[[藍布達]]必須被摧毀。</target>
+        <target>1) 帝國滅星者[[柯蒂亞特號]]必須被摧毀。$$2) 穿梭機編隊[[藍布達]]必須被摧毀。</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan3bw.Text.14">
@@ -1137,13 +1137,13 @@ enemy supplies.</source>
     <unit id="Briefing.wotan3bw.Text.15">
       <segment state="translated">
         <source>  The Star Destroyer is at full alert. Its six TIE squadrons are at full strength.  The squadrons are divided by type in the standard three TIE Fighter, two TIE Interceptor and one TIE Bomber mix.$  A Nebulon-B class Frigate will arrive to reinforce.  It has two squadrons of TIE Advanced.  The escape Shuttles will launch shortly after it arrives.</source>
-        <target>  該滅星艦處於全級戒備狀態，其下轄六個鈦戰機中隊皆保持滿編。中隊按標準配比由三個鈦戰機中隊、兩個鈦截擊機中隊與一個鈦轟炸機中隊組成。$一艘內布隆-B 級巡防艦將會跳入戰場增援，配備有兩個先進型鈦戰機中隊。巡防艦抵達後不久，逃亡穿梭機便會起飛脫逃。</target>
+        <target>  該滅星者處於全級戒備狀態，其下轄六個鈦戰機中隊皆保持滿編。中隊按標準配比由三個鈦戰機中隊、兩個鈦式截擊機中隊與一個鈦式轟炸機中隊組成。$一艘內布隆-B 級巡防艦將會跳入戰場增援，配備有兩個先進型鈦戰機中隊。巡防艦抵達後不久，逃亡穿梭機便會起飛脫逃。</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan3bw.Text.16">
       <segment state="translated">
         <source>  This mission recreates the last time an Imperial class Star Destroyer was destroyed by taking advantage of its "Achilles' heel."  After this the remaining vessels in the class were all subjected to a time-consuming and expensive shield system upgrade.$  B-wing [[Red]] led the attack, with [[Red One]] taking down the shield generator towers.  An Imperial Frigate carrying Advanced TIEs was also destroyed.</source>
-        <target>  本任務重現了同盟最後一次利用「阿基里斯之踵」致命弱點擊沉帝國級滅星艦的經典戰役。在此役之後，該級艦的所有殘存船艦均被迫接受了耗時且極其昂貴的護盾系統升級改造。$B翼[[紅隊]]主導了這次進攻，由[[紅一號]]親手摧毀了其護盾產生器塔。一艘載有先進型鈦戰機的帝國巡防艦亦被一同葬送。</target>
+        <target>  本任務重現了同盟最後一次利用「阿基里斯之踵」致命弱點擊沉帝國級滅星者的經典戰役。在此役之後，該級艦的所有殘存船艦均被迫接受了耗時且極其昂貴的護盾系統升級改造。$B翼[[紅隊]]主導了這次進攻，由[[紅一號]]親手摧毀了其護盾產生器塔。一艘載有先進型鈦戰機的帝國巡防艦亦被一同葬送。</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan3bw.Text.17">
@@ -1155,7 +1155,7 @@ enemy supplies.</source>
     <unit id="Briefing.wotan3bw.Text.18">
       <segment state="translated">
         <source>  Waste no time taking down the shield generator towers on top of the STD's bridge superstructure.  The fastest way to do this is with torpedoes, [[3]] per tower.$  Order your wingmen to attack TRN [[Sigma 1]] while you make your first pass.  Build up your shields on the way in, then redirect all power to the engines for maximum speed.  When the STD's shields go down, switch to ion cannons and disable it!</source>
-        <target>  抓緊時間，第一時間摧毀滅星艦艦橋上層結構頂部的護盾產生器塔。最快的方式是發射魚雷，每座塔耗費[[3]]枚魚雷。$在進行第一次進攻航線時，命令你的僚機攻擊運輸船[[西格瑪 1 號]]。進場時將護盾充飽，隨後將所有動力轉至引擎以獲取最高航速。當滅星艦護盾崩潰時，切換至離子砲將其癱瘓！</target>
+        <target>  抓緊時間，第一時間摧毀滅星者艦橋上層結構頂部的護盾產生器塔。最快的方式是發射魚雷，每座塔耗費[[3]]枚魚雷。$在進行第一次進攻航線時，命令你的僚機攻擊運輸船[[西格瑪 1 號]]。進場時將護盾充飽，隨後將所有動力轉至引擎以獲取最高航速。當滅星者護盾崩潰時，切換至離子砲將其癱瘓！</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan3bw.Text.19">
@@ -1167,7 +1167,7 @@ enemy supplies.</source>
     <unit id="Briefing.wotan3bw.Text.20">
       <segment state="translated">
         <source>  As the leader of the B-wing group your primary responsibility will be the destruction of the shield towers.  They are located on top of the command bridge superstructure.  Once the shields are down, switch to ion cannons and disable the Star Destroyer as quickly as you can.$  Be sure to watch for any small craft attempting to escape the area. This is a "take no prisoners" attack!</source>
-        <target>  作為 B翼編隊的長官，你的第一職責便是摧毀護盾塔。它們坐落於指揮艦橋上層建築頂端。一旦護盾崩解，立即切換為離子砲並盡快癱瘓該滅星艦。$務必嚴密監視任何企圖逃離該空域的小型船艇。這是一場「不留活口、全面殲滅」的強襲！</target>
+        <target>  作為 B翼編隊的長官，你的第一職責便是摧毀護盾塔。它們坐落於指揮艦橋上層建築頂端。一旦護盾崩解，立即切換為離子砲並盡快癱瘓該滅星者。$務必嚴密監視任何企圖逃離該空域的小型船艇。這是一場「不留活口、全面殲滅」的強襲！</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan3bw.Tag.0">
@@ -1185,7 +1185,7 @@ enemy supplies.</source>
     <unit id="Briefing.wotan3bw.Tag.2">
       <segment>
         <source>STD Kotiate</source>
-        <target>滅星艦 柯蒂亞特號</target>
+        <target>滅星者 柯蒂亞特號</target>
       </segment>
     </unit>
     <unit id="Briefing.wotan3bw.Tag.3">
@@ -2434,7 +2434,7 @@ cruiser.
         <target>緊急升空！
 攔截正向我方巡洋艦實施
 魚雷俯衝攻擊的
-鈦轟炸機，
+鈦式轟炸機，
 全力保衛母艦！</target>
       </segment>
     </unit>
@@ -2477,7 +2477,7 @@ cruiser.
     <unit id="Briefing.max103a.Text.7">
       <segment state="translated">
         <source>  Break time is over. As usual we are on the run. An Imperial Frigate has hyper-jumped into the area and is launching TIE Bombers. We could stand our ground and defeat the Frigate, but since more Imperials are no doubt on the way here, the orders are to retreat. It will take about twenty minutes to reach our jump point which is in the direction of the Frigate.$  [[The primary objective is the survival of our Cruiser]].[[ ]] </source>
-        <target>  休整時間結束，正如往常，我們又處於撤退航線上。一艘帝國巡防艦已跳入該空域並正在出動鈦轟炸機。我們本可堅守陣地擊沉該艦，但鑑於後續帝國增援無疑正疾馳而來，最高命令是全面撤退。前往位於巡防艦方向的超空間跳躍點約需二十分鐘。$[[核心目標是力保我方巡洋艦存活。]][[ ]]</target>
+        <target>  休整時間結束，正如往常，我們又處於撤退航線上。一艘帝國巡防艦已跳入該空域並正在出動鈦式轟炸機。我們本可堅守陣地擊沉該艦，但鑑於後續帝國增援無疑正疾馳而來，最高命令是全面撤退。前往位於巡防艦方向的超空間跳躍點約需二十分鐘。$[[核心目標是力保我方巡洋艦存活。]][[ ]]</target>
       </segment>
     </unit>
     <unit id="Briefing.max103a.Text.8">
@@ -2495,7 +2495,7 @@ cruiser.
     <unit id="Briefing.max103a.Text.10">
       <segment state="translated">
         <source>  Stop all the [[TIE Bombers]] as quickly as possible, hopefully before they get a chance to launch too many of their torpedoes. You need to destroy the two [[Gunboats]] [[Mu]] behind the first wave of TIE Bombers. Use the [[Cruiser]] for cover and support fire if you get into trouble. Save at least 4 missiles to use on TIE Bombers [[Eta]] who want to eliminate you. You can safely fire on the [[Corvettes]] while they are attacking the Cruiser. </source>
-        <target>  以最快速度攔截所有[[鈦轟炸機]]，最好在他們來得及傾瀉魚雷前將其摧毀。你必須擊毀第一波鈦轟炸機後方的兩架[[突擊砲艇]][[繆（Mu）]]。若陷入困境，請利用[[巡洋艦]]作為掩體並獲取支援砲火。保留至少 4 枚飛彈對付誓要獵殺你的鈦轟炸機[[艾塔（Eta）]]。當敵方[[巡邏艦]]攻擊巡洋艦時，你可從容自其背後開火射擊。</target>
+        <target>  以最快速度攔截所有[[鈦式轟炸機]]，最好在他們來得及傾瀉魚雷前將其摧毀。你必須擊毀第一波鈦式轟炸機後方的兩架[[突擊砲艇]][[繆（Mu）]]。若陷入困境，請利用[[巡洋艦]]作為掩體並獲取支援砲火。保留至少 4 枚飛彈對付誓要獵殺你的鈦式轟炸機[[艾塔（Eta）]]。當敵方[[巡邏艦]]攻擊巡洋艦時，你可從容自其背後開火射擊。</target>
       </segment>
     </unit>
     <unit id="Briefing.max103a.Tag.0">
@@ -2513,7 +2513,7 @@ cruiser.
     <unit id="Briefing.max103a.Tag.2">
       <segment state="translated">
         <source>T/Bs</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.max103a.Tag.3">

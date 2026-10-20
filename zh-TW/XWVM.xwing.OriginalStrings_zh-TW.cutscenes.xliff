@@ -82,13 +82,13 @@
     <unit id="Cutscene.Text.os1">
       <segment state="translated">
         <source>Star Destroyer patrol near the planet Turkana</source>
-        <target>滅星艦於圖爾卡納星（Turkana）附近的巡邏隊</target>
+        <target>滅星者於圖爾卡納星（Turkana）附近的巡邏隊</target>
       </segment>
     </unit>
     <unit id="Cutscene.Text.os2a">
       <segment state="translated">
         <source>Sir, our TIE Interceptors have located a</source>
-        <target>長官，我們的鈦截擊機發現了一支</target>
+        <target>長官，我們的鈦式截擊機發現了一支</target>
       </segment>
     </unit>
     <unit id="Cutscene.Text.os2b">
@@ -106,7 +106,7 @@
     <unit id="Cutscene.Text.os4a">
       <segment state="translated">
         <source>Move our Star Destroyers within range</source>
-        <target>將我們的滅星艦移至射程範圍內，</target>
+        <target>將我們的滅星者移至射程範圍內，</target>
       </segment>
     </unit>
     <unit id="Cutscene.Text.os4b">
@@ -130,7 +130,7 @@
     <unit id="Cutscene.Text.os6a">
       <segment state="translated">
         <source>We are under attack by Imperial Star Destroyers!</source>
-        <target>我們遭到帝國滅星艦的攻擊！</target>
+        <target>我們遭到帝國滅星者的攻擊！</target>
       </segment>
     </unit>
     <unit id="Cutscene.Text.os6b">
@@ -184,7 +184,7 @@
     <unit id="Cutscene.Text.t1c1s1a">
       <segment state="translated">
         <source>Star Destroyer fleet orbiting a</source>
-        <target>滅星艦艦隊正環繞軌道，</target>
+        <target>滅星者艦隊正環繞軌道，</target>
       </segment>
     </unit>
     <unit id="Cutscene.Text.t1c1s1b">
@@ -208,7 +208,7 @@
     <unit id="Cutscene.Text.t1c2s1">
       <segment state="translated">
         <source>Rebel agents on approach to Star Destroyer Invincible.</source>
-        <target>反抗軍特工正接近滅星艦「無敵號」（Invincible）。</target>
+        <target>反抗軍特工正接近滅星者「無敵號」（Invincible）。</target>
       </segment>
     </unit>
     <unit id="Cutscene.Text.t1c2s2">
@@ -816,7 +816,7 @@ and Assault Gunboats.</source>
         <source>The Rebels sneak on board an
 Imperial Star Destroyer and
 plant a bomb.</source>
-        <target>反抗軍悄悄潛入一艘帝國滅星艦並安裝了炸彈。</target>
+        <target>反抗軍悄悄潛入一艘帝國滅星者並安裝了炸彈。</target>
       </segment>
     </unit>
     <unit id="Cutscene.Description.11">

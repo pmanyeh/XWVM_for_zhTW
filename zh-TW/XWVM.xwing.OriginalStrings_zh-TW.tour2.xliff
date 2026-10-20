@@ -107,7 +107,7 @@ Rebel Rescue Shuttle.</source>
     <unit id="Briefing.starsndb.Text.8">
       <segment state="translated">
         <source>Be prepared for a counter-attack from the nearby Star Destroyer[[ Intrepid]].</source>
-        <target>嚴加戒備附近帝國滅星艦[[無畏號（Intrepid）]]隨時可能發動的反擊。</target>
+        <target>嚴加戒備附近帝國滅星者[[無畏號（Intrepid）]]隨時可能發動的反擊。</target>
       </segment>
     </unit>
     <unit id="Briefing.starsndb.Tag.0">
@@ -143,7 +143,7 @@ Rebel Rescue Shuttle.</source>
     <unit id="Briefing.starsndb.Tag.5">
       <segment state="translated">
         <source>TIE Interceptors</source>
-        <target>鈦截擊機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.starsndb.Tag.6">
@@ -399,7 +399,7 @@ operational in this sector.</source>
     <unit id="Briefing.rescue1.Text.7">
       <segment state="translated">
         <source>Beware of reinforcements coming from the Star Destroyer[[ Intrepid]].</source>
-        <target>隨時戒備來自滅星艦[[無畏號]]的敵軍增援部隊。</target>
+        <target>隨時戒備來自滅星者[[無畏號]]的敵軍增援部隊。</target>
       </segment>
     </unit>
     <unit id="Briefing.rescue1.Text.8">
@@ -1039,7 +1039,7 @@ Intrepid is known to
 be in this area.</source>
         <target>掩護反抗軍太空梭俘獲
 一艘帝國貨船。
-已知滅星艦無畏號
+已知滅星者無畏號
 正在該空域巡弋。</target>
       </segment>
     </unit>
@@ -1076,13 +1076,13 @@ be in this area.</source>
     <unit id="Briefing.wycapt2.Text.6">
       <segment state="translated">
         <source>  Intelligence has discovered that a load of these new Comm Sats[[ ]]has been stolen from an Imperial base in the [[Orron III]] system.$[[  ]]Your mission is to protect the [[Shuttle Wilsey]] while it captures the Freighter.  This area is filled with Imperial craft on patrol so be prepared for heavy opposition.  The Star Destroyer [[Intrepid]] is patrolling this area as well.</source>
-        <target>  情報顯示，一批全新的新型通訊衛星已自[[奧隆三號星]]系統的帝國基地中被暗中劫走。$[[  ]]你的任務是掩護[[太空梭威爾西號]]俘獲該貨船。該空域充滿帝國巡邏機艦，請隨時準備迎戰強大敵軍。滅星艦[[無畏號]]亦在此空域巡弋。</target>
+        <target>  情報顯示，一批全新的新型通訊衛星已自[[奧隆三號星]]系統的帝國基地中被暗中劫走。$[[  ]]你的任務是掩護[[太空梭威爾西號]]俘獲該貨船。該空域充滿帝國巡邏機艦，請隨時準備迎戰強大敵軍。滅星者[[無畏號]]亦在此空域巡弋。</target>
       </segment>
     </unit>
     <unit id="Briefing.wycapt2.Text.7">
       <segment state="translated">
         <source>  Be aware that once your attack begins reinforcements will be called for.  The Imperial Star Destroyer [[Intrepid ]]is patrolling this sector and could arrive within [[ten minutes. ]] Move quickly to secure the area and ensure the capture of the stolen ship. If necessary, block any additional pursuit forces from the [[Intrepid]] long enough for our shuttle and the freighter to escape.</source>
-        <target>  務必注意，一旦交火，敵軍必將呼叫增援。帝國滅星艦[[無畏號]]正在此星區巡弋，可能在[[十分鐘]]內抵達戰場。務必迅速行動以確保俘獲該失竊船隻。如有必要，盡力阻擊來自[[無畏號]]的後續追兵，為我方太空梭與貨船爭取足夠的撤退時間。</target>
+        <target>  務必注意，一旦交火，敵軍必將呼叫增援。帝國滅星者[[無畏號]]正在此星區巡弋，可能在[[十分鐘]]內抵達戰場。務必迅速行動以確保俘獲該失竊船隻。如有必要，盡力阻擊來自[[無畏號]]的後續追兵，為我方太空梭與貨船爭取足夠的撤退時間。</target>
       </segment>
     </unit>
     <unit id="Briefing.wycapt2.Text.8">
@@ -2225,7 +2225,7 @@ and destroy the Freighters
 containing the hyperdrive
 replacement.</source>
         <target>數艘貨船正向受創的
-滅星艦無畏號卸載物資。
+滅星者無畏號卸載物資。
 你必須找出並摧毀
 裝載備用超空間引擎的
 目標貨船。</target>
@@ -2246,7 +2246,7 @@ replacement.</source>
     <unit id="Briefing.max1.Text.3">
       <segment state="translated">
         <source>  [[Circarpous]] Sector Command is working on a plan to get the [[Death Star]] plans to Alliance High Command. Meanwhile, the Imperial fleet continues to search for our forces. Luckily, the Star Destroyer [[Intrepid]] was damaged by a collision with a Frigate and is awaiting repairs. Several [[Freighters]] are unloading cargo onto the damaged Star Destroyer.$</source>
-        <target>  [[瑟卡波斯（Circarpous）]]星區司令部正研擬一套將[[死星]]藍圖安全送抵同盟最高統帥部的計畫。與此同時，帝國艦隊仍在四處搜捕我方蹤跡。幸運的是，滅星艦[[無畏號]]因先前與巡防艦相撞而嚴重受損，正停滯待修。數艘[[貨船]]正向該受損滅星艦卸載物資。$</target>
+        <target>  [[瑟卡波斯（Circarpous）]]星區司令部正研擬一套將[[死星]]藍圖安全送抵同盟最高統帥部的計畫。與此同時，帝國艦隊仍在四處搜捕我方蹤跡。幸運的是，滅星者[[無畏號]]因先前與巡防艦相撞而嚴重受損，正停滯待修。數艘[[貨船]]正向該受損滅星者卸載物資。$</target>
       </segment>
     </unit>
     <unit id="Briefing.max1.Text.4">
@@ -2258,7 +2258,7 @@ replacement.</source>
     <unit id="Briefing.max1.Text.5">
       <segment state="translated">
         <source>  Your mission is to identify the Freighters carrying the hyperdrive engine replacements.  Destroying this cargo will leave the Star Destroyer [[Intrepid]] stranded.</source>
-        <target>  你的任務是辨識出運送備用超空間發動機的目標貨船。摧毀這批貨物，將使滅星艦[[無畏號]]徹底動彈不得。</target>
+        <target>  你的任務是辨識出運送備用超空間發動機的目標貨船。摧毀這批貨物，將使滅星者[[無畏號]]徹底動彈不得。</target>
       </segment>
     </unit>
     <unit id="Briefing.max1.Tag.0">
@@ -2546,7 +2546,7 @@ replacement.</source>
     <unit id="Mission.max1.CompletionMessage.1">
       <segment state="translated">
         <source>The Star Destroyer Intrepid is now stranded in this sector</source>
-        <target>滅星艦無畏號已徹底癱瘓受困於該星區！</target>
+        <target>滅星者無畏號已徹底癱瘓受困於該星區！</target>
       </segment>
     </unit>
     <unit id="Mission.std1.Title">
@@ -2566,7 +2566,7 @@ Your mission is to
 destroy them!</source>
         <target>一支由巡邏艦與
 數架突擊砲艇組成的艦隊
-正前往護衛滅星艦無畏號。
+正前往護衛滅星者無畏號。
 你的任務是將它們全數殲滅！</target>
       </segment>
     </unit>
@@ -2591,7 +2591,7 @@ destroy them!</source>
     <unit id="Briefing.std1.Text.4">
       <segment state="translated">
         <source>  The Star Destroyer [[Intrepid]] is stranded in the [[Circarpous]] [[System]].  Its hyperdrive engines are damaged and replacement engines were destroyed by Alliance forces in our last operation.$  The Alliance has decided to undertake a bold plan to destroy the Intrepid and thereby erase any trace of the Alliance's success in stealing the [[Death Star ]]plans.$  </source>
-        <target>  滅星艦[[無畏號]]目前受困於[[瑟卡波斯星系]]。其超空間引擎損壞，而更換用的備用發動機已在上次行動中被同盟徹底摧毀。$  同盟決定採取大膽的作戰方案將無畏號徹底擊沉，從而抹去同盟成功竊取[[死星]]藍圖的所有痕跡。$  </target>
+        <target>  滅星者[[無畏號]]目前受困於[[瑟卡波斯星系]]。其超空間引擎損壞，而更換用的備用發動機已在上次行動中被同盟徹底摧毀。$  同盟決定採取大膽的作戰方案將無畏號徹底擊沉，從而抹去同盟成功竊取[[死星]]藍圖的所有痕跡。$  </target>
       </segment>
     </unit>
     <unit id="Briefing.std1.Text.5">
@@ -2819,7 +2819,7 @@ Once the shields are
 down, the Intrepid will
 be vulnerable to proton
 torpedo attack.</source>
-        <target>摧毀滅星艦無畏號的
+        <target>摧毀滅星者無畏號的
 護盾產生器塔。
 護盾一旦瓦解，
 無畏號將極易遭受
@@ -2835,7 +2835,7 @@ torpedo attack.</source>
     <unit id="Briefing.std2.Text.2">
       <segment state="translated">
         <source>Make your way through the STD [[Intrepid's]] TIE Fighter defenses.</source>
-        <target>突破滅星艦[[無畏號]]的鈦戰機防線。</target>
+        <target>突破滅星者[[無畏號]]的鈦戰機防線。</target>
       </segment>
     </unit>
     <unit id="Briefing.std2.Text.3">
@@ -2853,7 +2853,7 @@ torpedo attack.</source>
     <unit id="Briefing.std2.Text.5">
       <segment state="translated">
         <source>  The Star Destroyer [[Intrepid]] is stranded in the [[Circarpous System]].  Its defensive escort shield was destroyed during previous Alliance attacks.$  The High Command feels the time is perfect for our [[first direct]] [[starfighter assault]] on an Imperial capital ship.  Our technical staff has discovered a weak spot in the Intrepid's defenses...its [[shield generators]].</source>
-        <target>  滅星艦[[無畏號]]受困於[[瑟卡波斯星系]]。其外圍護航屏障已在同盟先前的攻擊中全軍覆沒。$  最高統帥部研判，展開同盟史上[[首次直接]][[戰機突襲帝國主力戰艦]]的時機已經成熟。我們的技術團隊已發現無畏號防禦體系的核心弱點……那便是其[[護盾產生器]]。</target>
+        <target>  滅星者[[無畏號]]受困於[[瑟卡波斯星系]]。其外圍護航屏障已在同盟先前的攻擊中全軍覆沒。$  最高統帥部研判，展開同盟史上[[首次直接]][[戰機突襲帝國主力戰艦]]的時機已經成熟。我們的技術團隊已發現無畏號防禦體系的核心弱點……那便是其[[護盾產生器]]。</target>
       </segment>
     </unit>
     <unit id="Briefing.std2.Text.6">
@@ -2871,7 +2871,7 @@ torpedo attack.</source>
     <unit id="Briefing.std2.Tag.1">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.std2.Tag.2">
@@ -3009,7 +3009,7 @@ torpedo attack.</source>
     <unit id="Mission.std2.CompletionMessage.0">
       <segment state="translated">
         <source>STD INTREPID HAS BEEN DESTROYED</source>
-        <target>滅星艦無畏號已被徹底擊沉！</target>
+        <target>滅星者無畏號已被徹底擊沉！</target>
       </segment>
     </unit>
     <unit id="Mission.std2.CompletionMessage.1">
@@ -3419,7 +3419,7 @@ Tantive IV.  Intercept
 the attacking TIE
 Squadrons and secure the
 hyperspace jump point.</source>
-        <target>滅星艦不朽號對坦特維四號
+        <target>滅星者不朽號對坦特維四號
 發起了全力圍攻。
 攔截來襲的鈦戰機中隊，
 確保超空間跳躍點安全。</target>
@@ -3428,7 +3428,7 @@ hyperspace jump point.</source>
     <unit id="Briefing.intcep1.Text.1">
       <segment state="translated">
         <source>  Princess Leia's Corvette, the [[Tantive IV]], is carrying technical data on the Death Star that is vital to the survival of the Rebel Alliance.$  The information is stored in her Corvette's computer system and must reach the Chief of State, [[Mon Mothma]], safely. $  Princess Leia had planned to transfer to the Cruiser[[ Liberty]], but the arrival of the Star Destroyer [[Immortal ]]has forced her to flee.</source>
-        <target>  莉亞公主的座艦[[坦特維四號]]正載運著關乎反抗軍同盟生死存亡的死星技術數據。$  該情資儲存在其巡邏艦的艦載主電腦中，必須毫髮無傷地送達同盟國家元首[[蒙瑪斯瑪（Mon Mothma）]]的手中。$  莉亞公主原定轉乘至巡洋艦[[自由號（Liberty）]]，但滅星艦[[不朽號（Immortal）]]的突襲迫使她必須立即脫離。</target>
+        <target>  莉亞公主的座艦[[坦特維四號]]正載運著關乎反抗軍同盟生死存亡的死星技術數據。$  該情資儲存在其巡邏艦的艦載主電腦中，必須毫髮無傷地送達同盟國家元首[[蒙瑪斯瑪（Mon Mothma）]]的手中。$  莉亞公主原定轉乘至巡洋艦[[自由號（Liberty）]]，但滅星者[[不朽號（Immortal）]]的突襲迫使她必須立即脫離。</target>
       </segment>
     </unit>
     <unit id="Briefing.intcep1.Text.2">
@@ -3464,7 +3464,7 @@ hyperspace jump point.</source>
     <unit id="Briefing.intcep1.Text.7">
       <segment state="translated">
         <source>The Star Destroyer[[ Immortal]] is out to capture Princess Leia's Corvette.</source>
-        <target>滅星艦[[不朽號]]正全力撲來，企圖生擒莉亞公主的巡邏艦。</target>
+        <target>滅星者[[不朽號]]正全力撲來，企圖生擒莉亞公主的巡邏艦。</target>
       </segment>
     </unit>
     <unit id="Briefing.intcep1.Tag.0">
@@ -3500,13 +3500,13 @@ hyperspace jump point.</source>
     <unit id="Briefing.intcep1.Tag.5">
       <segment>
         <source>TIE Interceptors</source>
-        <target>鈦截擊機</target>
+        <target>鈦式截擊機</target>
       </segment>
     </unit>
     <unit id="Briefing.intcep1.Tag.6">
       <segment>
         <source>TIE Bombers</source>
-        <target>鈦轟炸機</target>
+        <target>鈦式轟炸機</target>
       </segment>
     </unit>
     <unit id="Briefing.intcep1.Tag.7">

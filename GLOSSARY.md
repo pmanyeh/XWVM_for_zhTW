@@ -34,20 +34,20 @@
 | 英文代號 / 簡寫 | 英文全名 | 臺灣正體中文 (Target) | 說明 |
 | :--- | :--- | :--- | :--- |
 | **TIE Fighter (T/F)** | TIE/ln Space Superiority Starfighter | **鈦戰機** | 帝國標準量產主力戰機 |
-| **TIE Interceptor (T/I)** | TIE/IN Interceptor | **鈦截擊機** | 高速高機動截擊型 |
-| **TIE Bomber (T/B)** | TIE/sa Bomber | **鈦轟炸機** | 重裝甲精準打擊機 |
-| **TIE Advanced (T/A)** | TIE Advanced x1 / Avenger | **鈦先進型戰機** | 達斯維達座機及後續機型 |
-| **TIE Defender (T/D)** | TIE/d Defender | **鈦防衛者戰機** | 具備護盾與超光速的三翼主力戰機 |
+| **TIE Interceptor (T/I)** | TIE/IN Interceptor | **鈦式截擊機** | 高速高機動截擊型 |
+| **TIE Bomber (T/B)** | TIE/sa Bomber | **鈦式轟炸機** | 重裝甲精準打擊機 |
+| **TIE Advanced (T/A)** | TIE Advanced x1 / Avenger | **鈦式先進型戰機** | 達斯維達座機及後續機型 |
+| **TIE Defender (T/D)** | TIE/d Defender | **鈦式防衛者戰機** | 具備護盾與超光速的三翼主力戰機 |
 | **Assault Gunboat (GUN)** | Alpha-class Xg-1 Star Wing | **突擊砲艇** | 帝國星翼級武裝砲艇 |
 | **Missile Boat (MIS)** | Missile Boat | **飛彈艇** | 具備超推進器(SLAM)的重飛彈打擊艇 |
 
 ### 3. 主力艦與輔助艦艇 (Capital Ships & Transports)
 | 英文原名 (Source) | 臺灣正體中文 (Target) | 說明 |
 | :--- | :--- | :--- |
-| **Star Destroyer (ISD)** | 帝國滅星艦 | 或稱滅星者 |
-| **Victory-class Star Destroyer (VSD)** | 勝利級滅星艦 | |
-| **Mon Calamari Cruiser (CRS/MC80)** | 蒙卡拉馬里巡洋艦 | 反抗軍主力巡洋艦 |
-| **Nebulon-B Frigate (FRG)** | 星雲B型護衛艦 | 醫療艦或支援護衛艦 |
+| **Star Destroyer (ISD)** | 帝國滅星者 | 或稱滅星艦 |
+| **Victory-class Star Destroyer (VSD)** | 勝利級滅星者 | |
+| **Mon Calamari Cruiser (CRS/MC80)** | 蒙卡拉馬里巡洋艦 | 反抗軍主力巡洋艦，如：阿克巴上將的旗艦「Home One」 |
+| **Nebulon-B Frigate (FRG)** | 尼布隆B型護衛艦 | 醫療艦或支援護衛艦 |
 | **Corellian Corvette (CRV)** | 科雷利亞護衛艦 | 或稱布洛卡特輕型阻擊艦 |
 | **Corellian Gunship (GNS)** | 科雷利亞砲艇 | |
 | **Dreadnaught (DRD)** | 無畏艦 | 重型巡洋艦 |
@@ -136,12 +136,12 @@
 | 英文原名 (Source) | 臺灣正體中文 (Target) | 說明 |
 | :--- | :--- | :--- |
 | **Attack my target** | 攻擊我的目標 | |
-| **Cover me / Help me out** | 掩護我 / 前來支援 | |
-| **Engage at will** | 自由接戰 | |
-| **Ignore target** | 忽略目標 | |
+| **Cover me / Help me out** | 支援我 / 快來幫我 | |
+| **Engage at will** | 自由交戰 | |
+| **Ignore target** | 不理會目標 | |
 | **Return to base / Dock** | 返航 / 對接 | |
 | **Wait for orders** | 原地待命 / 等候指示 | |
-| **Hyper out / Abort** | 躍遷撤離 / 中止任務 | |
+| **Hyper out / Abort** | 脫離戰場 / 中止任務 | |
 
 ### 2. 任務目標判定狀態 (Mission Objective Statuses)
 | 英文原名 (Source) | 臺灣正體中文 (Target) | 備註 |
@@ -312,15 +312,15 @@
 | **Cathleen** | 凱絲琳號 | 反抗軍巡洋艦 |
 | **Falcon (Shuttle Falcon)** | 獵鷹號 | 阿克巴撤離座機（穿梭機） |
 | **Devastator** | 毀滅者號 | 達斯·維達旗艦（帝國級滅星艦） |
-| **Immortal** | 不朽號 | 帝國滅星艦 |
-| **Invincible** | 無敵號 | 帝國滅星艦 |
-| **Implacable** | 無情號 | 帝國滅星艦 |
-| **Relentless** | 殘酷號 | 帝國滅星艦 |
-| **Warrior** | 勇士號 | 帝國滅星艦 |
-| **Intrepid** | 無畏號 | 帝國滅星艦 |
-| **Predator** | 掠食者號 | 帝國滅星艦 |
-| **Maximus** | 麥西穆斯號 | 帝國滅星艦 |
-| **Priam** | 普里阿摩斯號 | 帝國星雲B型護衛艦 |
+| **Immortal** | 不朽號 | 帝國滅星者 |
+| **Invincible** | 無敵號 | 帝國滅星者 |
+| **Implacable** | 無情號 | 帝國滅星者 |
+| **Relentless** | 殘酷號 | 帝國滅星者 |
+| **Warrior** | 勇士號 | 帝國滅星者 |
+| **Intrepid** | 無畏號 | 帝國滅星者 |
+| **Predator** | 掠食者號 | 帝國滅星者 |
+| **Maximus** | 麥西穆斯號 | 帝國滅星者 |
+| **Priam** | 普里阿摩斯號 | 帝國尼布隆B型護衛艦 |
 | **Korolev** | 科羅廖夫號 | 反抗軍支援艦 |
 
 ### 2. 外星種族與代表組織 (Alien Species & Corps)
