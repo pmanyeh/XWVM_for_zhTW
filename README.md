@@ -54,11 +54,13 @@
 
 ```text
 .
-├── zh-TW/                  # 臺灣正體中文 XLIFF 2.0 翻譯檔案目錄 (共 36 個檔案)
-│   ├── XWVM.Common.*       # 戰鬥術語、機庫、勳章、軍階、HUD 系統介面
-│   ├── XWVM.UI.*           # 遊戲庫、ESC 設定選單
-│   ├── XWVM.tf.*           # TIE Fighter 關聯過場與小提示
-│   └── XWVM.xwing.*        # X-Wing 戰役 (Tour 1~5)、歷史任務、額外任務、影片字幕
+├── zh-TW/                  # 臺灣正體中文在地化目錄
+│   ├── CSV/                # 機體載具元數據 (Species) 設定檔 (X-Wing & TIE Fighter)
+│   └── XLIFF/              # XLIFF 2.0 格式語系翻譯檔目錄 (共 36 個檔案)
+│       ├── XWVM.Common.*   # 戰鬥術語、機庫、勳章、軍階、HUD 系統介面
+│       ├── XWVM.UI.*       # 遊戲庫、ESC 設定選單
+│       ├── XWVM.tf.*       # TIE Fighter 關聯過場與小提示
+│       └── XWVM.xwing.*    # X-Wing 戰役 (Tour 1~5)、歷史任務、額外任務、影片字幕
 ├── GLOSSARY.csv            # 翻譯名詞權威檔 (CSV 格式，方便試算表與社群協同檢視)
 ├── GLOSSARY.md             # 翻譯名詞權威檔 (Markdown 格式排版)
 ├── agent.md                # 翻譯技術規範與 Prompt 準則
